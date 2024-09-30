@@ -88,8 +88,8 @@ function App() {
               </Badge>
               <Badge
                 className="text-center mt-1 mb-2 ms-4"
-                bg="warning"
-                style={{ fontSize: "1em", color: "#000" }}
+                bg="success"
+                style={{ fontSize: "1em" }}
               >
                 Acceptance rate:{" "}
                 {qd.acRate ? `${parseFloat(qd.acRate).toFixed(2)}%` : "No data"}
