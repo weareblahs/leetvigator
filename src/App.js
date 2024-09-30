@@ -90,7 +90,7 @@ function App() {
               className="btn btn-lg btn-primary"
               onClick={() => randomQuestion()}
             >
-              🎉 Suprise me!
+              🎉 Surprise me!
             </Button>
           </div>
         </div>
