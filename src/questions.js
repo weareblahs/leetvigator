@@ -1,6 +1,7 @@
 export const Questions = {
   questions: [
     {
+      acRate: 53.847996762966844,
       frontendQuestionId: "1",
       paidOnly: false,
       title: "Two Sum",
@@ -8,6 +9,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.19536395031854,
       frontendQuestionId: "2",
       paidOnly: false,
       title: "Add Two Numbers",
@@ -15,6 +17,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.49925068598777,
       frontendQuestionId: "3",
       paidOnly: false,
       title: "Longest Substring Without Repeating Characters",
@@ -22,6 +25,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.55718051963197,
       frontendQuestionId: "4",
       paidOnly: false,
       title: "Median of Two Sorted Arrays",
@@ -29,6 +33,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 34.49940037984557,
       frontendQuestionId: "5",
       paidOnly: false,
       title: "Longest Palindromic Substring",
@@ -36,6 +41,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.37998935604045,
       frontendQuestionId: "6",
       paidOnly: false,
       title: "Zigzag Conversion",
@@ -43,6 +49,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.1974520037493,
       frontendQuestionId: "7",
       paidOnly: false,
       title: "Reverse Integer",
@@ -50,6 +57,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 17.964753751400348,
       frontendQuestionId: "8",
       paidOnly: false,
       title: "String to Integer (atoi)",
@@ -57,6 +65,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.59892830785663,
       frontendQuestionId: "9",
       paidOnly: false,
       title: "Palindrome Number",
@@ -64,6 +73,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 28.41435991406231,
       frontendQuestionId: "10",
       paidOnly: false,
       title: "Regular Expression Matching",
@@ -71,6 +81,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.248080701072126,
       frontendQuestionId: "11",
       paidOnly: false,
       title: "Container With Most Water",
@@ -78,6 +89,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.39189308909015,
       frontendQuestionId: "12",
       paidOnly: false,
       title: "Integer to Roman",
@@ -85,6 +97,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.77608723947804,
       frontendQuestionId: "13",
       paidOnly: false,
       title: "Roman to Integer",
@@ -92,6 +105,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.883131068102635,
       frontendQuestionId: "14",
       paidOnly: false,
       title: "Longest Common Prefix",
@@ -99,6 +113,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 35.42386736574815,
       frontendQuestionId: "15",
       paidOnly: false,
       title: "3Sum",
@@ -106,6 +121,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.10894702391848,
       frontendQuestionId: "16",
       paidOnly: false,
       title: "3Sum Closest",
@@ -113,6 +129,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.81858952672316,
       frontendQuestionId: "17",
       paidOnly: false,
       title: "Letter Combinations of a Phone Number",
@@ -120,6 +137,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.780179555562285,
       frontendQuestionId: "18",
       paidOnly: false,
       title: "4Sum",
@@ -127,6 +145,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.822003627485785,
       frontendQuestionId: "19",
       paidOnly: false,
       title: "Remove Nth Node From End of List",
@@ -134,6 +153,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.102392686592474,
       frontendQuestionId: "20",
       paidOnly: false,
       title: "Valid Parentheses",
@@ -141,6 +161,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.33988753682307,
       frontendQuestionId: "21",
       paidOnly: false,
       title: "Merge Two Sorted Lists",
@@ -148,6 +169,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 75.56688552553355,
       frontendQuestionId: "22",
       paidOnly: false,
       title: "Generate Parentheses",
@@ -155,6 +177,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.23563824397252,
       frontendQuestionId: "23",
       paidOnly: false,
       title: "Merge k Sorted Lists",
@@ -162,6 +185,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.40066759293471,
       frontendQuestionId: "24",
       paidOnly: false,
       title: "Swap Nodes in Pairs",
@@ -169,6 +193,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.54279324356402,
       frontendQuestionId: "25",
       paidOnly: false,
       title: "Reverse Nodes in k-Group",
@@ -176,6 +201,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.77351705055417,
       frontendQuestionId: "26",
       paidOnly: false,
       title: "Remove Duplicates from Sorted Array",
@@ -183,6 +209,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.30311854958069,
       frontendQuestionId: "27",
       paidOnly: false,
       title: "Remove Element",
@@ -190,6 +217,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.51903562676496,
       frontendQuestionId: "28",
       paidOnly: false,
       title: "Find the Index of the First Occurrence in a String",
@@ -197,6 +225,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 17.79038712453258,
       frontendQuestionId: "29",
       paidOnly: false,
       title: "Divide Two Integers",
@@ -204,6 +233,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.54378805040818,
       frontendQuestionId: "30",
       paidOnly: false,
       title: "Substring with Concatenation of All Words",
@@ -211,6 +241,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 41.17317333659857,
       frontendQuestionId: "31",
       paidOnly: false,
       title: "Next Permutation",
@@ -218,6 +249,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.823873833403816,
       frontendQuestionId: "32",
       paidOnly: false,
       title: "Longest Valid Parentheses",
@@ -225,6 +257,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 41.57778148649163,
       frontendQuestionId: "33",
       paidOnly: false,
       title: "Search in Rotated Sorted Array",
@@ -232,6 +265,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.260963001428486,
       frontendQuestionId: "34",
       paidOnly: false,
       title: "Find First and Last Position of Element in Sorted Array",
@@ -239,6 +273,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.25304178361232,
       frontendQuestionId: "35",
       paidOnly: false,
       title: "Search Insert Position",
@@ -246,6 +281,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.66963704652388,
       frontendQuestionId: "36",
       paidOnly: false,
       title: "Valid Sudoku",
@@ -253,6 +289,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.94014321868391,
       frontendQuestionId: "37",
       paidOnly: false,
       title: "Sudoku Solver",
@@ -260,6 +297,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.51988939728773,
       frontendQuestionId: "38",
       paidOnly: false,
       title: "Count and Say",
@@ -267,6 +305,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.81140298479255,
       frontendQuestionId: "39",
       paidOnly: false,
       title: "Combination Sum",
@@ -274,6 +313,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.48512456491118,
       frontendQuestionId: "40",
       paidOnly: false,
       title: "Combination Sum II",
@@ -281,6 +321,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.00233162757448,
       frontendQuestionId: "41",
       paidOnly: false,
       title: "First Missing Positive",
@@ -288,6 +329,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.19289848321795,
       frontendQuestionId: "42",
       paidOnly: false,
       title: "Trapping Rain Water",
@@ -295,6 +337,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 41.0190345157624,
       frontendQuestionId: "43",
       paidOnly: false,
       title: "Multiply Strings",
@@ -302,6 +345,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.658385161468274,
       frontendQuestionId: "44",
       paidOnly: false,
       title: "Wildcard Matching",
@@ -309,6 +353,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.74334322180458,
       frontendQuestionId: "45",
       paidOnly: false,
       title: "Jump Game II",
@@ -316,6 +361,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.2991284190032,
       frontendQuestionId: "46",
       paidOnly: false,
       title: "Permutations",
@@ -323,6 +369,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.10144743732656,
       frontendQuestionId: "47",
       paidOnly: false,
       title: "Permutations II",
@@ -330,6 +377,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.98475576596347,
       frontendQuestionId: "48",
       paidOnly: false,
       title: "Rotate Image",
@@ -337,6 +385,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.47830784207125,
       frontendQuestionId: "49",
       paidOnly: false,
       title: "Group Anagrams",
@@ -344,6 +393,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.62844136686065,
       frontendQuestionId: "50",
       paidOnly: false,
       title: "Pow(x, n)",
@@ -351,6 +401,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.10157726804945,
       frontendQuestionId: "51",
       paidOnly: false,
       title: "N-Queens",
@@ -358,6 +409,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.01419406873644,
       frontendQuestionId: "52",
       paidOnly: false,
       title: "N-Queens II",
@@ -365,6 +417,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.22400698847832,
       frontendQuestionId: "53",
       paidOnly: false,
       title: "Maximum Subarray",
@@ -372,6 +425,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.418873239346496,
       frontendQuestionId: "54",
       paidOnly: false,
       title: "Spiral Matrix",
@@ -379,6 +433,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.80088368381886,
       frontendQuestionId: "55",
       paidOnly: false,
       title: "Jump Game",
@@ -386,6 +441,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.004204184250305,
       frontendQuestionId: "56",
       paidOnly: false,
       title: "Merge Intervals",
@@ -393,6 +449,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.23331258169034,
       frontendQuestionId: "57",
       paidOnly: false,
       title: "Insert Interval",
@@ -400,6 +457,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.81547339024703,
       frontendQuestionId: "58",
       paidOnly: false,
       title: "Length of Last Word",
@@ -407,6 +465,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.19371414329405,
       frontendQuestionId: "59",
       paidOnly: false,
       title: "Spiral Matrix II",
@@ -414,6 +473,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.18782625947005,
       frontendQuestionId: "60",
       paidOnly: false,
       title: "Permutation Sequence",
@@ -421,6 +481,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 38.70730072242605,
       frontendQuestionId: "61",
       paidOnly: false,
       title: "Rotate List",
@@ -428,6 +489,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.85518042034907,
       frontendQuestionId: "62",
       paidOnly: false,
       title: "Unique Paths",
@@ -435,6 +497,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.2300124189376,
       frontendQuestionId: "63",
       paidOnly: false,
       title: "Unique Paths II",
@@ -442,6 +505,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.02693673042376,
       frontendQuestionId: "64",
       paidOnly: false,
       title: "Minimum Path Sum",
@@ -449,6 +513,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 20.393456614806087,
       frontendQuestionId: "65",
       paidOnly: false,
       title: "Valid Number",
@@ -456,6 +521,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.22202792021103,
       frontendQuestionId: "66",
       paidOnly: false,
       title: "Plus One",
@@ -463,6 +529,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.385615882152784,
       frontendQuestionId: "67",
       paidOnly: false,
       title: "Add Binary",
@@ -470,6 +537,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.273514860008284,
       frontendQuestionId: "68",
       paidOnly: false,
       title: "Text Justification",
@@ -477,6 +545,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 39.404530527021116,
       frontendQuestionId: "69",
       paidOnly: false,
       title: "Sqrt(x)",
@@ -484,6 +553,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.13510702688621,
       frontendQuestionId: "70",
       paidOnly: false,
       title: "Climbing Stairs",
@@ -491,6 +561,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.33579475028661,
       frontendQuestionId: "71",
       paidOnly: false,
       title: "Simplify Path",
@@ -498,6 +569,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.39114023950863,
       frontendQuestionId: "72",
       paidOnly: false,
       title: "Edit Distance",
@@ -505,6 +577,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.53711960957675,
       frontendQuestionId: "73",
       paidOnly: false,
       title: "Set Matrix Zeroes",
@@ -512,6 +585,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.08368174325212,
       frontendQuestionId: "74",
       paidOnly: false,
       title: "Search a 2D Matrix",
@@ -519,6 +593,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.0981835777522,
       frontendQuestionId: "75",
       paidOnly: false,
       title: "Sort Colors",
@@ -526,6 +601,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.75746984590575,
       frontendQuestionId: "76",
       paidOnly: false,
       title: "Minimum Window Substring",
@@ -533,6 +609,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.3567494820092,
       frontendQuestionId: "77",
       paidOnly: false,
       title: "Combinations",
@@ -540,6 +617,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.30485707652701,
       frontendQuestionId: "78",
       paidOnly: false,
       title: "Subsets",
@@ -547,6 +625,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.67754039037722,
       frontendQuestionId: "79",
       paidOnly: false,
       title: "Word Search",
@@ -554,6 +633,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.30660818100982,
       frontendQuestionId: "80",
       paidOnly: false,
       title: "Remove Duplicates from Sorted Array II",
@@ -561,6 +641,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.18888879502364,
       frontendQuestionId: "81",
       paidOnly: false,
       title: "Search in Rotated Sorted Array II",
@@ -568,6 +649,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.38438251510485,
       frontendQuestionId: "82",
       paidOnly: false,
       title: "Remove Duplicates from Sorted List II",
@@ -575,6 +657,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.49638810340846,
       frontendQuestionId: "83",
       paidOnly: false,
       title: "Remove Duplicates from Sorted List",
@@ -582,6 +665,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.563223221884556,
       frontendQuestionId: "84",
       paidOnly: false,
       title: "Largest Rectangle in Histogram",
@@ -589,6 +673,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.76952952165577,
       frontendQuestionId: "85",
       paidOnly: false,
       title: "Maximal Rectangle",
@@ -596,6 +681,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.2965205301193,
       frontendQuestionId: "86",
       paidOnly: false,
       title: "Partition List",
@@ -603,6 +689,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.815523686352115,
       frontendQuestionId: "87",
       paidOnly: false,
       title: "Scramble String",
@@ -610,6 +697,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.113541776346786,
       frontendQuestionId: "88",
       paidOnly: false,
       title: "Merge Sorted Array",
@@ -617,6 +705,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.148575357115575,
       frontendQuestionId: "89",
       paidOnly: false,
       title: "Gray Code",
@@ -624,6 +713,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.140107921394154,
       frontendQuestionId: "90",
       paidOnly: false,
       title: "Subsets II",
@@ -631,6 +721,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.49871881819744,
       frontendQuestionId: "91",
       paidOnly: false,
       title: "Decode Ways",
@@ -638,6 +729,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.37989386304388,
       frontendQuestionId: "92",
       paidOnly: false,
       title: "Reverse Linked List II",
@@ -645,6 +737,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.138336068343314,
       frontendQuestionId: "93",
       paidOnly: false,
       title: "Restore IP Addresses",
@@ -652,6 +745,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 77.13335337714338,
       frontendQuestionId: "94",
       paidOnly: false,
       title: "Binary Tree Inorder Traversal",
@@ -659,6 +753,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.75680439757696,
       frontendQuestionId: "95",
       paidOnly: false,
       title: "Unique Binary Search Trees II",
@@ -666,6 +761,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.61273578576423,
       frontendQuestionId: "96",
       paidOnly: false,
       title: "Unique Binary Search Trees",
@@ -673,6 +769,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.64273418447855,
       frontendQuestionId: "97",
       paidOnly: false,
       title: "Interleaving String",
@@ -680,6 +777,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.456192022392244,
       frontendQuestionId: "98",
       paidOnly: false,
       title: "Validate Binary Search Tree",
@@ -687,6 +785,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.35732745515354,
       frontendQuestionId: "99",
       paidOnly: false,
       title: "Recover Binary Search Tree",
@@ -694,6 +793,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.39430780991013,
       frontendQuestionId: "100",
       paidOnly: false,
       title: "Same Tree",
@@ -701,6 +801,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.61852727169436,
       frontendQuestionId: "101",
       paidOnly: false,
       title: "Symmetric Tree",
@@ -708,6 +809,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.59119053623152,
       frontendQuestionId: "102",
       paidOnly: false,
       title: "Binary Tree Level Order Traversal",
@@ -715,6 +817,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.0656059897052,
       frontendQuestionId: "103",
       paidOnly: false,
       title: "Binary Tree Zigzag Level Order Traversal",
@@ -722,6 +825,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.14215129273049,
       frontendQuestionId: "104",
       paidOnly: false,
       title: "Maximum Depth of Binary Tree",
@@ -729,6 +833,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.06889235557419,
       frontendQuestionId: "105",
       paidOnly: false,
       title: "Construct Binary Tree from Preorder and Inorder Traversal",
@@ -736,6 +841,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.36089879786245,
       frontendQuestionId: "106",
       paidOnly: false,
       title: "Construct Binary Tree from Inorder and Postorder Traversal",
@@ -743,6 +849,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.38125040968772,
       frontendQuestionId: "107",
       paidOnly: false,
       title: "Binary Tree Level Order Traversal II",
@@ -750,6 +857,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.68427879921241,
       frontendQuestionId: "108",
       paidOnly: false,
       title: "Convert Sorted Array to Binary Search Tree",
@@ -757,6 +865,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.80067740322689,
       frontendQuestionId: "109",
       paidOnly: false,
       title: "Convert Sorted List to Binary Search Tree",
@@ -764,6 +873,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.477097282204376,
       frontendQuestionId: "110",
       paidOnly: false,
       title: "Balanced Binary Tree",
@@ -771,6 +881,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.00065409228439,
       frontendQuestionId: "111",
       paidOnly: false,
       title: "Minimum Depth of Binary Tree",
@@ -778,6 +889,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.425765971052314,
       frontendQuestionId: "112",
       paidOnly: false,
       title: "Path Sum",
@@ -785,6 +897,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 59.23319949720555,
       frontendQuestionId: "113",
       paidOnly: false,
       title: "Path Sum II",
@@ -792,6 +905,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.45155055132706,
       frontendQuestionId: "114",
       paidOnly: false,
       title: "Flatten Binary Tree to Linked List",
@@ -799,6 +913,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.38697353787641,
       frontendQuestionId: "115",
       paidOnly: false,
       title: "Distinct Subsequences",
@@ -806,6 +921,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.70121868361728,
       frontendQuestionId: "116",
       paidOnly: false,
       title: "Populating Next Right Pointers in Each Node",
@@ -813,6 +929,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.644786689181366,
       frontendQuestionId: "117",
       paidOnly: false,
       title: "Populating Next Right Pointers in Each Node II",
@@ -820,6 +937,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.46295554418771,
       frontendQuestionId: "118",
       paidOnly: false,
       title: "Pascal's Triangle",
@@ -827,6 +945,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.74388983233506,
       frontendQuestionId: "119",
       paidOnly: false,
       title: "Pascal's Triangle II",
@@ -834,6 +953,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.74442066562781,
       frontendQuestionId: "120",
       paidOnly: false,
       title: "Triangle",
@@ -841,6 +961,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.19407910755518,
       frontendQuestionId: "121",
       paidOnly: false,
       title: "Best Time to Buy and Sell Stock",
@@ -848,6 +969,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.74250235044985,
       frontendQuestionId: "122",
       paidOnly: false,
       title: "Best Time to Buy and Sell Stock II",
@@ -855,6 +977,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.25840236395482,
       frontendQuestionId: "123",
       paidOnly: false,
       title: "Best Time to Buy and Sell Stock III",
@@ -862,6 +985,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.44281900159765,
       frontendQuestionId: "124",
       paidOnly: false,
       title: "Binary Tree Maximum Path Sum",
@@ -869,6 +993,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.818168574018586,
       frontendQuestionId: "125",
       paidOnly: false,
       title: "Valid Palindrome",
@@ -876,6 +1001,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 27.14471592556463,
       frontendQuestionId: "126",
       paidOnly: false,
       title: "Word Ladder II",
@@ -883,6 +1009,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.483993003266605,
       frontendQuestionId: "127",
       paidOnly: false,
       title: "Word Ladder",
@@ -890,6 +1017,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 47.47611097296721,
       frontendQuestionId: "128",
       paidOnly: false,
       title: "Longest Consecutive Sequence",
@@ -897,6 +1025,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.76650090812653,
       frontendQuestionId: "129",
       paidOnly: false,
       title: "Sum Root to Leaf Numbers",
@@ -904,6 +1033,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.84118049209942,
       frontendQuestionId: "130",
       paidOnly: false,
       title: "Surrounded Regions",
@@ -911,6 +1041,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.35168781612825,
       frontendQuestionId: "131",
       paidOnly: false,
       title: "Palindrome Partitioning",
@@ -918,6 +1049,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.367961711711715,
       frontendQuestionId: "132",
       paidOnly: false,
       title: "Palindrome Partitioning II",
@@ -925,6 +1057,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.19856606311473,
       frontendQuestionId: "133",
       paidOnly: false,
       title: "Clone Graph",
@@ -932,6 +1065,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.62100031719354,
       frontendQuestionId: "134",
       paidOnly: false,
       title: "Gas Station",
@@ -939,6 +1073,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.873224958250226,
       frontendQuestionId: "135",
       paidOnly: false,
       title: "Candy",
@@ -946,6 +1081,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.19925258495323,
       frontendQuestionId: "136",
       paidOnly: false,
       title: "Single Number",
@@ -953,6 +1089,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.82941963382187,
       frontendQuestionId: "137",
       paidOnly: false,
       title: "Single Number II",
@@ -960,6 +1097,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.75656576711646,
       frontendQuestionId: "138",
       paidOnly: false,
       title: "Copy List with Random Pointer",
@@ -967,6 +1105,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.27466895047214,
       frontendQuestionId: "139",
       paidOnly: false,
       title: "Word Break",
@@ -974,6 +1113,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.831264603739015,
       frontendQuestionId: "140",
       paidOnly: false,
       title: "Word Break II",
@@ -981,6 +1121,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.16459456877101,
       frontendQuestionId: "141",
       paidOnly: false,
       title: "Linked List Cycle",
@@ -988,6 +1129,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.7202007118199,
       frontendQuestionId: "142",
       paidOnly: false,
       title: "Linked List Cycle II",
@@ -995,6 +1137,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.20598551714838,
       frontendQuestionId: "143",
       paidOnly: false,
       title: "Reorder List",
@@ -1002,6 +1145,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.93759996408308,
       frontendQuestionId: "144",
       paidOnly: false,
       title: "Binary Tree Preorder Traversal",
@@ -1009,6 +1153,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.55366336223416,
       frontendQuestionId: "145",
       paidOnly: false,
       title: "Binary Tree Postorder Traversal",
@@ -1016,6 +1161,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.33462500200557,
       frontendQuestionId: "146",
       paidOnly: false,
       title: "LRU Cache",
@@ -1023,6 +1169,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.6672060311777,
       frontendQuestionId: "147",
       paidOnly: false,
       title: "Insertion Sort List",
@@ -1030,6 +1177,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.61020487636025,
       frontendQuestionId: "148",
       paidOnly: false,
       title: "Sort List",
@@ -1037,6 +1185,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.58804146358207,
       frontendQuestionId: "149",
       paidOnly: false,
       title: "Max Points on a Line",
@@ -1044,6 +1193,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.80434530709449,
       frontendQuestionId: "150",
       paidOnly: false,
       title: "Evaluate Reverse Polish Notation",
@@ -1051,6 +1201,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.541991242403526,
       frontendQuestionId: "151",
       paidOnly: false,
       title: "Reverse Words in a String",
@@ -1058,6 +1209,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.96116112788866,
       frontendQuestionId: "152",
       paidOnly: false,
       title: "Maximum Product Subarray",
@@ -1065,6 +1217,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.3982128983108,
       frontendQuestionId: "153",
       paidOnly: false,
       title: "Find Minimum in Rotated Sorted Array",
@@ -1072,6 +1225,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.76927782784213,
       frontendQuestionId: "154",
       paidOnly: false,
       title: "Find Minimum in Rotated Sorted Array II",
@@ -1079,6 +1233,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.05007143748338,
       frontendQuestionId: "155",
       paidOnly: false,
       title: "Min Stack",
@@ -1086,6 +1241,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.26297326720697,
       frontendQuestionId: "156",
       paidOnly: true,
       title: "Binary Tree Upside Down",
@@ -1093,6 +1249,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.79862339542474,
       frontendQuestionId: "157",
       paidOnly: true,
       title: "Read N Characters Given Read4",
@@ -1100,6 +1257,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 42.54582243408041,
       frontendQuestionId: "158",
       paidOnly: true,
       title: "Read N Characters Given read4 II - Call Multiple Times",
@@ -1107,6 +1265,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.714815169547634,
       frontendQuestionId: "159",
       paidOnly: true,
       title: "Longest Substring with At Most Two Distinct Characters",
@@ -1114,6 +1273,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.94505280362513,
       frontendQuestionId: "160",
       paidOnly: false,
       title: "Intersection of Two Linked Lists",
@@ -1121,6 +1281,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 34.398548387096774,
       frontendQuestionId: "161",
       paidOnly: true,
       title: "One Edit Distance",
@@ -1128,6 +1289,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.02854978973704,
       frontendQuestionId: "162",
       paidOnly: false,
       title: "Find Peak Element",
@@ -1135,6 +1297,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.171805319431044,
       frontendQuestionId: "163",
       paidOnly: true,
       title: "Missing Ranges",
@@ -1142,6 +1305,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.33321038220911,
       frontendQuestionId: "164",
       paidOnly: false,
       title: "Maximum Gap",
@@ -1149,6 +1313,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.400304414003045,
       frontendQuestionId: "165",
       paidOnly: false,
       title: "Compare Version Numbers",
@@ -1156,6 +1321,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.415335257157356,
       frontendQuestionId: "166",
       paidOnly: false,
       title: "Fraction to Recurring Decimal",
@@ -1163,6 +1329,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.145579940217566,
       frontendQuestionId: "167",
       paidOnly: false,
       title: "Two Sum II - Input Array Is Sorted",
@@ -1170,6 +1337,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.723075458903864,
       frontendQuestionId: "168",
       paidOnly: false,
       title: "Excel Sheet Column Title",
@@ -1177,6 +1345,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.2393141457676,
       frontendQuestionId: "169",
       paidOnly: false,
       title: "Majority Element",
@@ -1184,6 +1353,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 38.32740264653905,
       frontendQuestionId: "170",
       paidOnly: true,
       title: "Two Sum III - Data structure design",
@@ -1191,6 +1361,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.56732469286123,
       frontendQuestionId: "171",
       paidOnly: false,
       title: "Excel Sheet Column Number",
@@ -1198,6 +1369,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.85590752273848,
       frontendQuestionId: "172",
       paidOnly: false,
       title: "Factorial Trailing Zeroes",
@@ -1205,6 +1377,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.1588471576985,
       frontendQuestionId: "173",
       paidOnly: false,
       title: "Binary Search Tree Iterator",
@@ -1212,6 +1385,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.542064892916116,
       frontendQuestionId: "174",
       paidOnly: false,
       title: "Dungeon Game",
@@ -1219,6 +1393,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.80020869565217,
       frontendQuestionId: "175",
       paidOnly: false,
       title: "Combine Two Tables",
@@ -1226,6 +1401,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.71931625445839,
       frontendQuestionId: "176",
       paidOnly: false,
       title: "Second Highest Salary",
@@ -1233,6 +1409,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.95779257259139,
       frontendQuestionId: "177",
       paidOnly: false,
       title: "Nth Highest Salary",
@@ -1240,6 +1417,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.470287569531706,
       frontendQuestionId: "178",
       paidOnly: false,
       title: "Rank Scores",
@@ -1247,6 +1425,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.003318711042574,
       frontendQuestionId: "179",
       paidOnly: false,
       title: "Largest Number",
@@ -1254,6 +1433,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.103278483344035,
       frontendQuestionId: "180",
       paidOnly: false,
       title: "Consecutive Numbers",
@@ -1261,6 +1441,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.29762335916814,
       frontendQuestionId: "181",
       paidOnly: false,
       title: "Employees Earning More Than Their Managers",
@@ -1268,6 +1449,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.58613155383074,
       frontendQuestionId: "182",
       paidOnly: false,
       title: "Duplicate Emails",
@@ -1275,6 +1457,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 69.67754486339268,
       frontendQuestionId: "183",
       paidOnly: false,
       title: "Customers Who Never Order",
@@ -1282,6 +1465,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.77851474728372,
       frontendQuestionId: "184",
       paidOnly: false,
       title: "Department Highest Salary",
@@ -1289,6 +1473,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.13230707895958,
       frontendQuestionId: "185",
       paidOnly: false,
       title: "Department Top Three Salaries",
@@ -1296,6 +1481,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.20467022960417,
       frontendQuestionId: "186",
       paidOnly: true,
       title: "Reverse Words in a String II",
@@ -1303,6 +1489,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.720181687026646,
       frontendQuestionId: "187",
       paidOnly: false,
       title: "Repeated DNA Sequences",
@@ -1310,6 +1497,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.638083388037195,
       frontendQuestionId: "188",
       paidOnly: false,
       title: "Best Time to Buy and Sell Stock IV",
@@ -1317,6 +1505,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 41.62862146524497,
       frontendQuestionId: "189",
       paidOnly: false,
       title: "Rotate Array",
@@ -1324,6 +1513,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.34567268595363,
       frontendQuestionId: "190",
       paidOnly: false,
       title: "Reverse Bits",
@@ -1331,6 +1521,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.5306772734465,
       frontendQuestionId: "191",
       paidOnly: false,
       title: "Number of 1 Bits",
@@ -1338,6 +1529,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 26.060263581334763,
       frontendQuestionId: "192",
       paidOnly: false,
       title: "Word Frequency",
@@ -1345,6 +1537,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.373273936851028,
       frontendQuestionId: "193",
       paidOnly: false,
       title: "Valid Phone Numbers",
@@ -1352,6 +1545,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 26.84405916538708,
       frontendQuestionId: "194",
       paidOnly: false,
       title: "Transpose File",
@@ -1359,6 +1553,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.670097196713535,
       frontendQuestionId: "195",
       paidOnly: false,
       title: "Tenth Line",
@@ -1366,6 +1561,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.97140934156932,
       frontendQuestionId: "196",
       paidOnly: false,
       title: "Delete Duplicate Emails",
@@ -1373,6 +1569,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.942561217760534,
       frontendQuestionId: "197",
       paidOnly: false,
       title: "Rising Temperature",
@@ -1380,6 +1577,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.52211367963287,
       frontendQuestionId: "198",
       paidOnly: false,
       title: "House Robber",
@@ -1387,6 +1585,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.910525178858165,
       frontendQuestionId: "199",
       paidOnly: false,
       title: "Binary Tree Right Side View",
@@ -1394,6 +1593,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.4657060664434,
       frontendQuestionId: "200",
       paidOnly: false,
       title: "Number of Islands",
@@ -1401,6 +1601,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.243686071903646,
       frontendQuestionId: "201",
       paidOnly: false,
       title: "Bitwise AND of Numbers Range",
@@ -1408,6 +1609,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.853352164893856,
       frontendQuestionId: "202",
       paidOnly: false,
       title: "Happy Number",
@@ -1415,6 +1617,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.99917778574412,
       frontendQuestionId: "203",
       paidOnly: false,
       title: "Remove Linked List Elements",
@@ -1422,6 +1625,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 34.00589858326597,
       frontendQuestionId: "204",
       paidOnly: false,
       title: "Count Primes",
@@ -1429,6 +1633,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.77324086681872,
       frontendQuestionId: "205",
       paidOnly: false,
       title: "Isomorphic Strings",
@@ -1436,6 +1641,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 77.72088509488432,
       frontendQuestionId: "206",
       paidOnly: false,
       title: "Reverse Linked List",
@@ -1443,6 +1649,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.56404050807198,
       frontendQuestionId: "207",
       paidOnly: false,
       title: "Course Schedule",
@@ -1450,6 +1657,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.41121619140367,
       frontendQuestionId: "208",
       paidOnly: false,
       title: "Implement Trie (Prefix Tree)",
@@ -1457,6 +1665,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.90128449865726,
       frontendQuestionId: "209",
       paidOnly: false,
       title: "Minimum Size Subarray Sum",
@@ -1464,6 +1673,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.55773231156796,
       frontendQuestionId: "210",
       paidOnly: false,
       title: "Course Schedule II",
@@ -1471,6 +1681,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.954840957751436,
       frontendQuestionId: "211",
       paidOnly: false,
       title: "Design Add and Search Words Data Structure",
@@ -1478,6 +1689,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.61563978182469,
       frontendQuestionId: "212",
       paidOnly: false,
       title: "Word Search II",
@@ -1485,6 +1697,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 42.57632033706162,
       frontendQuestionId: "213",
       paidOnly: false,
       title: "House Robber II",
@@ -1492,6 +1705,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.759361769566894,
       frontendQuestionId: "214",
       paidOnly: false,
       title: "Shortest Palindrome",
@@ -1499,6 +1713,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.1445124979308,
       frontendQuestionId: "215",
       paidOnly: false,
       title: "Kth Largest Element in an Array",
@@ -1506,6 +1721,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.59812241216743,
       frontendQuestionId: "216",
       paidOnly: false,
       title: "Combination Sum III",
@@ -1513,6 +1729,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.26961983486085,
       frontendQuestionId: "217",
       paidOnly: false,
       title: "Contains Duplicate",
@@ -1520,6 +1737,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.100294327185324,
       frontendQuestionId: "218",
       paidOnly: false,
       title: "The Skyline Problem",
@@ -1527,6 +1745,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.55312412336879,
       frontendQuestionId: "219",
       paidOnly: false,
       title: "Contains Duplicate II",
@@ -1534,6 +1753,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 23.01508860937267,
       frontendQuestionId: "220",
       paidOnly: false,
       title: "Contains Duplicate III",
@@ -1541,6 +1761,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 47.36565028188991,
       frontendQuestionId: "221",
       paidOnly: false,
       title: "Maximal Square",
@@ -1548,6 +1769,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.34891076647926,
       frontendQuestionId: "222",
       paidOnly: false,
       title: "Count Complete Tree Nodes",
@@ -1555,6 +1777,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.66784614271124,
       frontendQuestionId: "223",
       paidOnly: false,
       title: "Rectangle Area",
@@ -1562,6 +1785,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.97834380904033,
       frontendQuestionId: "224",
       paidOnly: false,
       title: "Basic Calculator",
@@ -1569,6 +1793,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.3293779278038,
       frontendQuestionId: "225",
       paidOnly: false,
       title: "Implement Stack using Queues",
@@ -1576,6 +1801,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 77.88076659027506,
       frontendQuestionId: "226",
       paidOnly: false,
       title: "Invert Binary Tree",
@@ -1583,6 +1809,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.25433101943815,
       frontendQuestionId: "227",
       paidOnly: false,
       title: "Basic Calculator II",
@@ -1590,6 +1817,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.66529303919284,
       frontendQuestionId: "228",
       paidOnly: false,
       title: "Summary Ranges",
@@ -1597,6 +1825,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.720748212444626,
       frontendQuestionId: "229",
       paidOnly: false,
       title: "Majority Element II",
@@ -1604,6 +1833,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.73708390469523,
       frontendQuestionId: "230",
       paidOnly: false,
       title: "Kth Smallest Element in a BST",
@@ -1611,6 +1841,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.98728914783318,
       frontendQuestionId: "231",
       paidOnly: false,
       title: "Power of Two",
@@ -1618,6 +1849,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.04798206044443,
       frontendQuestionId: "232",
       paidOnly: false,
       title: "Implement Queue using Stacks",
@@ -1625,6 +1857,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 34.9522257018425,
       frontendQuestionId: "233",
       paidOnly: false,
       title: "Number of Digit One",
@@ -1632,6 +1865,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.21812696443236,
       frontendQuestionId: "234",
       paidOnly: false,
       title: "Palindrome Linked List",
@@ -1639,6 +1873,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.15027998059114,
       frontendQuestionId: "235",
       paidOnly: false,
       title: "Lowest Common Ancestor of a Binary Search Tree",
@@ -1646,6 +1881,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.959331640886944,
       frontendQuestionId: "236",
       paidOnly: false,
       title: "Lowest Common Ancestor of a Binary Tree",
@@ -1653,6 +1889,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 80.85385878489326,
       frontendQuestionId: "237",
       paidOnly: false,
       title: "Delete Node in a Linked List",
@@ -1660,6 +1897,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.75650489470495,
       frontendQuestionId: "238",
       paidOnly: false,
       title: "Product of Array Except Self",
@@ -1667,6 +1905,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.861055064008724,
       frontendQuestionId: "239",
       paidOnly: false,
       title: "Sliding Window Maximum",
@@ -1674,6 +1913,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.58120862183592,
       frontendQuestionId: "240",
       paidOnly: false,
       title: "Search a 2D Matrix II",
@@ -1681,6 +1921,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.60678708845214,
       frontendQuestionId: "241",
       paidOnly: false,
       title: "Different Ways to Add Parentheses",
@@ -1688,6 +1929,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.38077122044311,
       frontendQuestionId: "242",
       paidOnly: false,
       title: "Valid Anagram",
@@ -1695,6 +1937,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.50457510093891,
       frontendQuestionId: "243",
       paidOnly: true,
       title: "Shortest Word Distance",
@@ -1702,6 +1945,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.43314805180581,
       frontendQuestionId: "244",
       paidOnly: true,
       title: "Shortest Word Distance II",
@@ -1709,6 +1953,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.65094022834116,
       frontendQuestionId: "245",
       paidOnly: true,
       title: "Shortest Word Distance III",
@@ -1716,6 +1961,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.67659901361152,
       frontendQuestionId: "246",
       paidOnly: true,
       title: "Strobogrammatic Number",
@@ -1723,6 +1969,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.64176869613768,
       frontendQuestionId: "247",
       paidOnly: true,
       title: "Strobogrammatic Number II",
@@ -1730,6 +1977,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.22288472784396,
       frontendQuestionId: "248",
       paidOnly: true,
       title: "Strobogrammatic Number III",
@@ -1737,6 +1985,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.09146948434493,
       frontendQuestionId: "249",
       paidOnly: true,
       title: "Group Shifted Strings",
@@ -1744,6 +1993,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.67681238622257,
       frontendQuestionId: "250",
       paidOnly: true,
       title: "Count Univalue Subtrees",
@@ -1751,6 +2001,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.696078169837996,
       frontendQuestionId: "251",
       paidOnly: true,
       title: "Flatten 2D Vector",
@@ -1758,6 +2009,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.416676824876156,
       frontendQuestionId: "252",
       paidOnly: true,
       title: "Meeting Rooms",
@@ -1765,6 +2017,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.52080959140193,
       frontendQuestionId: "253",
       paidOnly: true,
       title: "Meeting Rooms II",
@@ -1772,6 +2025,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.77020775056157,
       frontendQuestionId: "254",
       paidOnly: true,
       title: "Factor Combinations",
@@ -1779,6 +2033,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.255075796544524,
       frontendQuestionId: "255",
       paidOnly: true,
       title: "Verify Preorder Sequence in Binary Search Tree",
@@ -1786,6 +2041,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.94173522921568,
       frontendQuestionId: "256",
       paidOnly: true,
       title: "Paint House",
@@ -1793,6 +2049,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.78397363078766,
       frontendQuestionId: "257",
       paidOnly: false,
       title: "Binary Tree Paths",
@@ -1800,6 +2057,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.15498264562669,
       frontendQuestionId: "258",
       paidOnly: false,
       title: "Add Digits",
@@ -1807,6 +2065,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.868137178080765,
       frontendQuestionId: "259",
       paidOnly: true,
       title: "3Sum Smaller",
@@ -1814,6 +2073,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.78083271567901,
       frontendQuestionId: "260",
       paidOnly: false,
       title: "Single Number III",
@@ -1821,6 +2081,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.55608507814435,
       frontendQuestionId: "261",
       paidOnly: true,
       title: "Graph Valid Tree",
@@ -1828,6 +2089,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.62073203815767,
       frontendQuestionId: "262",
       paidOnly: false,
       title: "Trips and Users",
@@ -1835,6 +2097,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 42.1725959866051,
       frontendQuestionId: "263",
       paidOnly: false,
       title: "Ugly Number",
@@ -1842,6 +2105,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.13743746555647,
       frontendQuestionId: "264",
       paidOnly: false,
       title: "Ugly Number II",
@@ -1849,6 +2113,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.17750900691436,
       frontendQuestionId: "265",
       paidOnly: true,
       title: "Paint House II",
@@ -1856,6 +2121,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.7233123526555,
       frontendQuestionId: "266",
       paidOnly: true,
       title: "Palindrome Permutation",
@@ -1863,6 +2129,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.87761845754411,
       frontendQuestionId: "267",
       paidOnly: true,
       title: "Palindrome Permutation II",
@@ -1870,6 +2137,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.18648696587012,
       frontendQuestionId: "268",
       paidOnly: false,
       title: "Missing Number",
@@ -1877,6 +2145,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 36.0198228515535,
       frontendQuestionId: "269",
       paidOnly: true,
       title: "Alien Dictionary",
@@ -1884,6 +2153,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.99699301739895,
       frontendQuestionId: "270",
       paidOnly: true,
       title: "Closest Binary Search Tree Value",
@@ -1891,6 +2161,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.75915051571485,
       frontendQuestionId: "271",
       paidOnly: true,
       title: "Encode and Decode Strings",
@@ -1898,6 +2169,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.509558583212595,
       frontendQuestionId: "272",
       paidOnly: true,
       title: "Closest Binary Search Tree Value II",
@@ -1905,6 +2177,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 34.04006687840818,
       frontendQuestionId: "273",
       paidOnly: false,
       title: "Integer to English Words",
@@ -1912,6 +2185,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 39.39514814594119,
       frontendQuestionId: "274",
       paidOnly: false,
       title: "H-Index",
@@ -1919,6 +2193,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.46270920381765,
       frontendQuestionId: "275",
       paidOnly: false,
       title: "H-Index II",
@@ -1926,6 +2201,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.09206024237197,
       frontendQuestionId: "276",
       paidOnly: true,
       title: "Paint Fence",
@@ -1933,6 +2209,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.59283246977547,
       frontendQuestionId: "277",
       paidOnly: true,
       title: "Find the Celebrity",
@@ -1940,6 +2217,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.92502119743835,
       frontendQuestionId: "278",
       paidOnly: false,
       title: "First Bad Version",
@@ -1947,6 +2225,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.127369064601595,
       frontendQuestionId: "279",
       paidOnly: false,
       title: "Perfect Squares",
@@ -1954,6 +2233,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.87309827134675,
       frontendQuestionId: "280",
       paidOnly: true,
       title: "Wiggle Sort",
@@ -1961,6 +2241,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.44113880143017,
       frontendQuestionId: "281",
       paidOnly: true,
       title: "Zigzag Iterator",
@@ -1968,6 +2249,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.315406593851954,
       frontendQuestionId: "282",
       paidOnly: false,
       title: "Expression Add Operators",
@@ -1975,6 +2257,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.130101098186444,
       frontendQuestionId: "283",
       paidOnly: false,
       title: "Move Zeroes",
@@ -1982,6 +2265,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 59.928954867784476,
       frontendQuestionId: "284",
       paidOnly: false,
       title: "Peeking Iterator",
@@ -1989,6 +2273,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.144535243797485,
       frontendQuestionId: "285",
       paidOnly: true,
       title: "Inorder Successor in BST",
@@ -1996,6 +2281,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.929078066124966,
       frontendQuestionId: "286",
       paidOnly: true,
       title: "Walls and Gates",
@@ -2003,6 +2289,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.625584697139544,
       frontendQuestionId: "287",
       paidOnly: false,
       title: "Find the Duplicate Number",
@@ -2010,6 +2297,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.558029914742278,
       frontendQuestionId: "288",
       paidOnly: true,
       title: "Unique Word Abbreviation",
@@ -2017,6 +2305,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.1262485703921,
       frontendQuestionId: "289",
       paidOnly: false,
       title: "Game of Life",
@@ -2024,6 +2313,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.46162334510208,
       frontendQuestionId: "290",
       paidOnly: false,
       title: "Word Pattern",
@@ -2031,6 +2321,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.402235880439754,
       frontendQuestionId: "291",
       paidOnly: true,
       title: "Word Pattern II",
@@ -2038,6 +2329,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.298323252343685,
       frontendQuestionId: "292",
       paidOnly: false,
       title: "Nim Game",
@@ -2045,6 +2337,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.71941997888945,
       frontendQuestionId: "293",
       paidOnly: true,
       title: "Flip Game",
@@ -2052,6 +2345,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.1478804241329,
       frontendQuestionId: "294",
       paidOnly: true,
       title: "Flip Game II",
@@ -2059,6 +2353,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.37766780287557,
       frontendQuestionId: "295",
       paidOnly: false,
       title: "Find Median from Data Stream",
@@ -2066,6 +2361,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.98458106238175,
       frontendQuestionId: "296",
       paidOnly: true,
       title: "Best Meeting Point",
@@ -2073,6 +2369,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.56739120456235,
       frontendQuestionId: "297",
       paidOnly: false,
       title: "Serialize and Deserialize Binary Tree",
@@ -2080,6 +2377,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.75169367658512,
       frontendQuestionId: "298",
       paidOnly: true,
       title: "Binary Tree Longest Consecutive Sequence",
@@ -2087,6 +2385,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.664051342122704,
       frontendQuestionId: "299",
       paidOnly: false,
       title: "Bulls and Cows",
@@ -2094,6 +2393,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.33445935705097,
       frontendQuestionId: "300",
       paidOnly: false,
       title: "Longest Increasing Subsequence",
@@ -2101,6 +2401,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.567847117748,
       frontendQuestionId: "301",
       paidOnly: false,
       title: "Remove Invalid Parentheses",
@@ -2108,6 +2409,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.15724060885351,
       frontendQuestionId: "302",
       paidOnly: true,
       title: "Smallest Rectangle Enclosing Black Pixels",
@@ -2115,6 +2417,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.19211231746576,
       frontendQuestionId: "303",
       paidOnly: false,
       title: "Range Sum Query - Immutable",
@@ -2122,6 +2425,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.30295383958773,
       frontendQuestionId: "304",
       paidOnly: false,
       title: "Range Sum Query 2D - Immutable",
@@ -2129,6 +2433,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.91218650822058,
       frontendQuestionId: "305",
       paidOnly: true,
       title: "Number of Islands II",
@@ -2136,6 +2441,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 31.998164701311836,
       frontendQuestionId: "306",
       paidOnly: false,
       title: "Additive Number",
@@ -2143,6 +2449,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.2834365336394,
       frontendQuestionId: "307",
       paidOnly: false,
       title: "Range Sum Query - Mutable",
@@ -2150,6 +2457,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.32291107861019,
       frontendQuestionId: "308",
       paidOnly: true,
       title: "Range Sum Query 2D - Mutable",
@@ -2157,6 +2465,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.178937192357374,
       frontendQuestionId: "309",
       paidOnly: false,
       title: "Best Time to Buy and Sell Stock with Cooldown",
@@ -2164,6 +2473,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.883465164734154,
       frontendQuestionId: "310",
       paidOnly: false,
       title: "Minimum Height Trees",
@@ -2171,6 +2481,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.29783525638791,
       frontendQuestionId: "311",
       paidOnly: true,
       title: "Sparse Matrix Multiplication",
@@ -2178,6 +2489,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.89522723170221,
       frontendQuestionId: "312",
       paidOnly: false,
       title: "Burst Balloons",
@@ -2185,6 +2497,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 45.36550236500536,
       frontendQuestionId: "313",
       paidOnly: false,
       title: "Super Ugly Number",
@@ -2192,6 +2505,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.2536316993262,
       frontendQuestionId: "314",
       paidOnly: true,
       title: "Binary Tree Vertical Order Traversal",
@@ -2199,6 +2513,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.60403616510513,
       frontendQuestionId: "315",
       paidOnly: false,
       title: "Count of Smaller Numbers After Self",
@@ -2206,6 +2521,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.20922667348995,
       frontendQuestionId: "316",
       paidOnly: false,
       title: "Remove Duplicate Letters",
@@ -2213,6 +2529,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.48172002273158,
       frontendQuestionId: "317",
       paidOnly: true,
       title: "Shortest Distance from All Buildings",
@@ -2220,6 +2537,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.222551489906394,
       frontendQuestionId: "318",
       paidOnly: false,
       title: "Maximum Product of Word Lengths",
@@ -2227,6 +2545,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.16452226039915,
       frontendQuestionId: "319",
       paidOnly: false,
       title: "Bulb Switcher",
@@ -2234,6 +2553,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.76090048757226,
       frontendQuestionId: "320",
       paidOnly: true,
       title: "Generalized Abbreviation",
@@ -2241,6 +2561,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.83912681091342,
       frontendQuestionId: "321",
       paidOnly: false,
       title: "Create Maximum Number",
@@ -2248,6 +2569,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.881952532804426,
       frontendQuestionId: "322",
       paidOnly: false,
       title: "Coin Change",
@@ -2255,6 +2577,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.26828913955174,
       frontendQuestionId: "323",
       paidOnly: true,
       title: "Number of Connected Components in an Undirected Graph",
@@ -2262,6 +2585,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.825489679182205,
       frontendQuestionId: "324",
       paidOnly: false,
       title: "Wiggle Sort II",
@@ -2269,6 +2593,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.65076654335675,
       frontendQuestionId: "325",
       paidOnly: true,
       title: "Maximum Size Subarray Sum Equals k",
@@ -2276,6 +2601,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.092274897332345,
       frontendQuestionId: "326",
       paidOnly: false,
       title: "Power of Three",
@@ -2283,6 +2609,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 36.18927834497823,
       frontendQuestionId: "327",
       paidOnly: false,
       title: "Count of Range Sum",
@@ -2290,6 +2617,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.64093555999748,
       frontendQuestionId: "328",
       paidOnly: false,
       title: "Odd Even Linked List",
@@ -2297,6 +2625,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.1609367553952,
       frontendQuestionId: "329",
       paidOnly: false,
       title: "Longest Increasing Path in a Matrix",
@@ -2304,6 +2633,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.19359362802821,
       frontendQuestionId: "330",
       paidOnly: false,
       title: "Patching Array",
@@ -2311,6 +2641,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 45.560161823832125,
       frontendQuestionId: "331",
       paidOnly: false,
       title: "Verify Preorder Serialization of a Binary Tree",
@@ -2318,6 +2649,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.302430574591256,
       frontendQuestionId: "332",
       paidOnly: false,
       title: "Reconstruct Itinerary",
@@ -2325,6 +2657,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.47991142416283,
       frontendQuestionId: "333",
       paidOnly: true,
       title: "Largest BST Subtree",
@@ -2332,6 +2665,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.42188986227487,
       frontendQuestionId: "334",
       paidOnly: false,
       title: "Increasing Triplet Subsequence",
@@ -2339,6 +2673,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.004765111541115,
       frontendQuestionId: "335",
       paidOnly: false,
       title: "Self Crossing",
@@ -2346,6 +2681,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 35.643301974294424,
       frontendQuestionId: "336",
       paidOnly: false,
       title: "Palindrome Pairs",
@@ -2353,6 +2689,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.46457353723277,
       frontendQuestionId: "337",
       paidOnly: false,
       title: "House Robber III",
@@ -2360,6 +2697,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 78.89073823323739,
       frontendQuestionId: "338",
       paidOnly: false,
       title: "Counting Bits",
@@ -2367,6 +2705,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 84.31816862915238,
       frontendQuestionId: "339",
       paidOnly: true,
       title: "Nested List Weight Sum",
@@ -2374,6 +2713,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.037804286470276,
       frontendQuestionId: "340",
       paidOnly: true,
       title: "Longest Substring with At Most K Distinct Characters",
@@ -2381,6 +2721,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.80135223451737,
       frontendQuestionId: "341",
       paidOnly: false,
       title: "Flatten Nested List Iterator",
@@ -2388,6 +2729,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.47862054351281,
       frontendQuestionId: "342",
       paidOnly: false,
       title: "Power of Four",
@@ -2395,6 +2737,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.65170546603249,
       frontendQuestionId: "343",
       paidOnly: false,
       title: "Integer Break",
@@ -2402,6 +2745,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.05716914173294,
       frontendQuestionId: "344",
       paidOnly: false,
       title: "Reverse String",
@@ -2409,6 +2753,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.55308233806386,
       frontendQuestionId: "345",
       paidOnly: false,
       title: "Reverse Vowels of a String",
@@ -2416,6 +2761,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 78.85165981650884,
       frontendQuestionId: "346",
       paidOnly: true,
       title: "Moving Average from Data Stream",
@@ -2423,6 +2769,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.346035461168526,
       frontendQuestionId: "347",
       paidOnly: false,
       title: "Top K Frequent Elements",
@@ -2430,6 +2777,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.180965989242516,
       frontendQuestionId: "348",
       paidOnly: true,
       title: "Design Tic-Tac-Toe",
@@ -2437,6 +2785,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.30542020866798,
       frontendQuestionId: "349",
       paidOnly: false,
       title: "Intersection of Two Arrays",
@@ -2444,6 +2793,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.68451498999876,
       frontendQuestionId: "350",
       paidOnly: false,
       title: "Intersection of Two Arrays II",
@@ -2451,6 +2801,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.98793072812017,
       frontendQuestionId: "351",
       paidOnly: true,
       title: "Android Unlock Patterns",
@@ -2458,6 +2809,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.1754122777879,
       frontendQuestionId: "352",
       paidOnly: false,
       title: "Data Stream as Disjoint Intervals",
@@ -2465,6 +2817,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 38.88839511878627,
       frontendQuestionId: "353",
       paidOnly: true,
       title: "Design Snake Game",
@@ -2472,6 +2825,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.086787852989836,
       frontendQuestionId: "354",
       paidOnly: false,
       title: "Russian Doll Envelopes",
@@ -2479,6 +2833,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.69500624991278,
       frontendQuestionId: "355",
       paidOnly: false,
       title: "Design Twitter",
@@ -2486,6 +2841,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.737319934993664,
       frontendQuestionId: "356",
       paidOnly: true,
       title: "Line Reflection",
@@ -2493,6 +2849,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.39830520792454,
       frontendQuestionId: "357",
       paidOnly: false,
       title: "Count Numbers with Unique Digits",
@@ -2500,6 +2857,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.0054944733439,
       frontendQuestionId: "358",
       paidOnly: true,
       title: "Rearrange String k Distance Apart",
@@ -2507,6 +2865,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.11623540935433,
       frontendQuestionId: "359",
       paidOnly: true,
       title: "Logger Rate Limiter",
@@ -2514,6 +2873,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.08644183059215,
       frontendQuestionId: "360",
       paidOnly: true,
       title: "Sort Transformed Array",
@@ -2521,6 +2881,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.8924433051712,
       frontendQuestionId: "361",
       paidOnly: true,
       title: "Bomb Enemy",
@@ -2528,6 +2889,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.84818594288248,
       frontendQuestionId: "362",
       paidOnly: true,
       title: "Design Hit Counter",
@@ -2535,6 +2897,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.30219262033157,
       frontendQuestionId: "363",
       paidOnly: false,
       title: "Max Sum of Rectangle No Larger Than K",
@@ -2542,6 +2905,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.66364410485374,
       frontendQuestionId: "364",
       paidOnly: true,
       title: "Nested List Weight Sum II",
@@ -2549,6 +2913,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.639104523980016,
       frontendQuestionId: "365",
       paidOnly: false,
       title: "Water and Jug Problem",
@@ -2556,6 +2921,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 80.75262525790657,
       frontendQuestionId: "366",
       paidOnly: true,
       title: "Find Leaves of Binary Tree",
@@ -2563,6 +2929,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.85623639174933,
       frontendQuestionId: "367",
       paidOnly: false,
       title: "Valid Perfect Square",
@@ -2570,6 +2937,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.668763877539824,
       frontendQuestionId: "368",
       paidOnly: false,
       title: "Largest Divisible Subset",
@@ -2577,6 +2945,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.1326516864025,
       frontendQuestionId: "369",
       paidOnly: true,
       title: "Plus One Linked List",
@@ -2584,6 +2953,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.83026891058275,
       frontendQuestionId: "370",
       paidOnly: true,
       title: "Range Addition",
@@ -2591,6 +2961,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.56438598988318,
       frontendQuestionId: "371",
       paidOnly: false,
       title: "Sum of Two Integers",
@@ -2598,6 +2969,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.04775933896472,
       frontendQuestionId: "372",
       paidOnly: false,
       title: "Super Pow",
@@ -2605,6 +2977,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.1458025651232,
       frontendQuestionId: "373",
       paidOnly: false,
       title: "Find K Pairs with Smallest Sums",
@@ -2612,6 +2985,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.2784941300524,
       frontendQuestionId: "374",
       paidOnly: false,
       title: "Guess Number Higher or Lower",
@@ -2619,6 +2993,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.93669878476828,
       frontendQuestionId: "375",
       paidOnly: false,
       title: "Guess Number Higher or Lower II",
@@ -2626,6 +3001,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.60856622613354,
       frontendQuestionId: "376",
       paidOnly: false,
       title: "Wiggle Subsequence",
@@ -2633,6 +3009,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.300818663384874,
       frontendQuestionId: "377",
       paidOnly: false,
       title: "Combination Sum IV",
@@ -2640,6 +3017,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.79663284015754,
       frontendQuestionId: "378",
       paidOnly: false,
       title: "Kth Smallest Element in a Sorted Matrix",
@@ -2647,6 +3025,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.96954244657276,
       frontendQuestionId: "379",
       paidOnly: true,
       title: "Design Phone Directory",
@@ -2654,6 +3033,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.64671456674483,
       frontendQuestionId: "380",
       paidOnly: false,
       title: "Insert Delete GetRandom O(1)",
@@ -2661,6 +3041,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.613818821694856,
       frontendQuestionId: "381",
       paidOnly: false,
       title: "Insert Delete GetRandom O(1) - Duplicates allowed",
@@ -2668,6 +3049,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.44024122111851,
       frontendQuestionId: "382",
       paidOnly: false,
       title: "Linked List Random Node",
@@ -2675,6 +3057,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.71350903911753,
       frontendQuestionId: "383",
       paidOnly: false,
       title: "Ransom Note",
@@ -2682,6 +3065,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.560947746985406,
       frontendQuestionId: "384",
       paidOnly: false,
       title: "Shuffle an Array",
@@ -2689,6 +3073,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.84385373393245,
       frontendQuestionId: "385",
       paidOnly: false,
       title: "Mini Parser",
@@ -2696,6 +3081,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.60634366963257,
       frontendQuestionId: "386",
       paidOnly: false,
       title: "Lexicographical Numbers",
@@ -2703,6 +3089,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.59465824783389,
       frontendQuestionId: "387",
       paidOnly: false,
       title: "First Unique Character in a String",
@@ -2710,6 +3097,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.83735969672192,
       frontendQuestionId: "388",
       paidOnly: false,
       title: "Longest Absolute File Path",
@@ -2717,6 +3105,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.566952647010595,
       frontendQuestionId: "389",
       paidOnly: false,
       title: "Find the Difference",
@@ -2724,6 +3113,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.7322205077851,
       frontendQuestionId: "390",
       paidOnly: false,
       title: "Elimination Game",
@@ -2731,6 +3121,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.133386375523976,
       frontendQuestionId: "391",
       paidOnly: false,
       title: "Perfect Rectangle",
@@ -2738,6 +3129,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.098189579473704,
       frontendQuestionId: "392",
       paidOnly: false,
       title: "Is Subsequence",
@@ -2745,6 +3137,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.24758192062029,
       frontendQuestionId: "393",
       paidOnly: false,
       title: "UTF-8 Validation",
@@ -2752,6 +3145,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.91908568050543,
       frontendQuestionId: "394",
       paidOnly: false,
       title: "Decode String",
@@ -2759,6 +3153,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.11094292430259,
       frontendQuestionId: "395",
       paidOnly: false,
       title: "Longest Substring with At Least K Repeating Characters",
@@ -2766,6 +3161,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.01166155697545,
       frontendQuestionId: "396",
       paidOnly: false,
       title: "Rotate Function",
@@ -2773,6 +3169,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.128494781107925,
       frontendQuestionId: "397",
       paidOnly: false,
       title: "Integer Replacement",
@@ -2780,6 +3177,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.79163696777152,
       frontendQuestionId: "398",
       paidOnly: false,
       title: "Random Pick Index",
@@ -2787,6 +3185,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.24619005404857,
       frontendQuestionId: "399",
       paidOnly: false,
       title: "Evaluate Division",
@@ -2794,6 +3193,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.130609511051574,
       frontendQuestionId: "400",
       paidOnly: false,
       title: "Nth Digit",
@@ -2801,6 +3201,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.194327501565986,
       frontendQuestionId: "401",
       paidOnly: false,
       title: "Binary Watch",
@@ -2808,6 +3209,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.964129690967894,
       frontendQuestionId: "402",
       paidOnly: false,
       title: "Remove K Digits",
@@ -2815,6 +3217,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.21455831518373,
       frontendQuestionId: "403",
       paidOnly: false,
       title: "Frog Jump",
@@ -2822,6 +3225,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.01637356654111,
       frontendQuestionId: "404",
       paidOnly: false,
       title: "Sum of Left Leaves",
@@ -2829,6 +3233,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.37502562663025,
       frontendQuestionId: "405",
       paidOnly: false,
       title: "Convert a Number to Hexadecimal",
@@ -2836,6 +3241,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.74130849661383,
       frontendQuestionId: "406",
       paidOnly: false,
       title: "Queue Reconstruction by Height",
@@ -2843,6 +3249,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.333411711838814,
       frontendQuestionId: "407",
       paidOnly: false,
       title: "Trapping Rain Water II",
@@ -2850,6 +3257,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 36.1428834978323,
       frontendQuestionId: "408",
       paidOnly: true,
       title: "Valid Word Abbreviation",
@@ -2857,6 +3265,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.3742965724623,
       frontendQuestionId: "409",
       paidOnly: false,
       title: "Longest Palindrome",
@@ -2864,6 +3273,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.4764429494444,
       frontendQuestionId: "410",
       paidOnly: false,
       title: "Split Array Largest Sum",
@@ -2871,6 +3281,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 39.86096256684492,
       frontendQuestionId: "411",
       paidOnly: true,
       title: "Minimum Unique Word Abbreviation",
@@ -2878,6 +3289,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.05324954378165,
       frontendQuestionId: "412",
       paidOnly: false,
       title: "Fizz Buzz",
@@ -2885,6 +3297,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.01149871387814,
       frontendQuestionId: "413",
       paidOnly: false,
       title: "Arithmetic Slices",
@@ -2892,6 +3305,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.71064364437017,
       frontendQuestionId: "414",
       paidOnly: false,
       title: "Third Maximum Number",
@@ -2899,6 +3313,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.60030831230766,
       frontendQuestionId: "415",
       paidOnly: false,
       title: "Add Strings",
@@ -2906,6 +3321,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.76167965934098,
       frontendQuestionId: "416",
       paidOnly: false,
       title: "Partition Equal Subset Sum",
@@ -2913,6 +3329,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.06503222322271,
       frontendQuestionId: "417",
       paidOnly: false,
       title: "Pacific Atlantic Water Flow",
@@ -2920,6 +3337,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.24987232363932,
       frontendQuestionId: "418",
       paidOnly: true,
       title: "Sentence Screen Fitting",
@@ -2927,6 +3345,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.75837127204647,
       frontendQuestionId: "419",
       paidOnly: false,
       title: "Battleships in a Board",
@@ -2934,6 +3353,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 14.060098540861569,
       frontendQuestionId: "420",
       paidOnly: false,
       title: "Strong Password Checker",
@@ -2941,6 +3361,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.321078582055605,
       frontendQuestionId: "421",
       paidOnly: false,
       title: "Maximum XOR of Two Numbers in an Array",
@@ -2948,6 +3369,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.46921536600534,
       frontendQuestionId: "422",
       paidOnly: true,
       title: "Valid Word Square",
@@ -2955,6 +3377,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.26334902902163,
       frontendQuestionId: "423",
       paidOnly: false,
       title: "Reconstruct Original Digits from English",
@@ -2962,6 +3385,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.35767259957102,
       frontendQuestionId: "424",
       paidOnly: false,
       title: "Longest Repeating Character Replacement",
@@ -2969,6 +3393,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.567927096778746,
       frontendQuestionId: "425",
       paidOnly: true,
       title: "Word Squares",
@@ -2976,6 +3401,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.96590511465952,
       frontendQuestionId: "426",
       paidOnly: true,
       title: "Convert Binary Search Tree to Sorted Doubly Linked List",
@@ -2983,6 +3409,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.98560499801621,
       frontendQuestionId: "427",
       paidOnly: false,
       title: "Construct Quad Tree",
@@ -2990,6 +3417,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.57149998880773,
       frontendQuestionId: "428",
       paidOnly: true,
       title: "Serialize and Deserialize N-ary Tree",
@@ -2997,6 +3425,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.99827403819387,
       frontendQuestionId: "429",
       paidOnly: false,
       title: "N-ary Tree Level Order Traversal",
@@ -3004,6 +3433,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.46511627906976,
       frontendQuestionId: "430",
       paidOnly: false,
       title: "Flatten a Multilevel Doubly Linked List",
@@ -3011,6 +3441,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.71190187549027,
       frontendQuestionId: "431",
       paidOnly: true,
       title: "Encode N-ary Tree to Binary Tree",
@@ -3018,6 +3449,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 45.17912221045177,
       frontendQuestionId: "432",
       paidOnly: false,
       title: "All O`one Data Structure",
@@ -3025,6 +3457,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.48773265529353,
       frontendQuestionId: "433",
       paidOnly: false,
       title: "Minimum Genetic Mutation",
@@ -3032,6 +3465,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.334052239719064,
       frontendQuestionId: "434",
       paidOnly: false,
       title: "Number of Segments in a String",
@@ -3039,6 +3473,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.127606858725784,
       frontendQuestionId: "435",
       paidOnly: false,
       title: "Non-overlapping Intervals",
@@ -3046,6 +3481,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.705289323482795,
       frontendQuestionId: "436",
       paidOnly: false,
       title: "Find Right Interval",
@@ -3053,6 +3489,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.088432287223426,
       frontendQuestionId: "437",
       paidOnly: false,
       title: "Path Sum III",
@@ -3060,6 +3497,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.31075144920915,
       frontendQuestionId: "438",
       paidOnly: false,
       title: "Find All Anagrams in a String",
@@ -3067,6 +3505,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.26452310186436,
       frontendQuestionId: "439",
       paidOnly: true,
       title: "Ternary Expression Parser",
@@ -3074,6 +3513,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.009379670816514,
       frontendQuestionId: "440",
       paidOnly: false,
       title: "K-th Smallest in Lexicographical Order",
@@ -3081,6 +3521,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.87826235377708,
       frontendQuestionId: "441",
       paidOnly: false,
       title: "Arranging Coins",
@@ -3088,6 +3529,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 75.96007740957539,
       frontendQuestionId: "442",
       paidOnly: false,
       title: "Find All Duplicates in an Array",
@@ -3095,6 +3537,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.83422691210666,
       frontendQuestionId: "443",
       paidOnly: false,
       title: "String Compression",
@@ -3102,6 +3545,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.607635676067105,
       frontendQuestionId: "444",
       paidOnly: true,
       title: "Sequence Reconstruction",
@@ -3109,6 +3553,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.419624528609205,
       frontendQuestionId: "445",
       paidOnly: false,
       title: "Add Two Numbers II",
@@ -3116,6 +3561,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.59525759260783,
       frontendQuestionId: "446",
       paidOnly: false,
       title: "Arithmetic Slices II - Subsequence",
@@ -3123,6 +3569,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.76451879857854,
       frontendQuestionId: "447",
       paidOnly: false,
       title: "Number of Boomerangs",
@@ -3130,6 +3577,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.41113853428877,
       frontendQuestionId: "448",
       paidOnly: false,
       title: "Find All Numbers Disappeared in an Array",
@@ -3137,6 +3585,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.96806029068724,
       frontendQuestionId: "449",
       paidOnly: false,
       title: "Serialize and Deserialize BST",
@@ -3144,6 +3593,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.02364545651497,
       frontendQuestionId: "450",
       paidOnly: false,
       title: "Delete Node in a BST",
@@ -3151,6 +3601,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.09274558288082,
       frontendQuestionId: "451",
       paidOnly: false,
       title: "Sort Characters By Frequency",
@@ -3158,6 +3609,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.3808738147947,
       frontendQuestionId: "452",
       paidOnly: false,
       title: "Minimum Number of Arrows to Burst Balloons",
@@ -3165,6 +3617,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.00116704667233,
       frontendQuestionId: "453",
       paidOnly: false,
       title: "Minimum Moves to Equal Array Elements",
@@ -3172,6 +3625,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.375734355044706,
       frontendQuestionId: "454",
       paidOnly: false,
       title: "4Sum II",
@@ -3179,6 +3633,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.1714297992179,
       frontendQuestionId: "455",
       paidOnly: false,
       title: "Assign Cookies",
@@ -3186,6 +3641,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.78089151778468,
       frontendQuestionId: "456",
       paidOnly: false,
       title: "132 Pattern",
@@ -3193,6 +3649,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.616040263008365,
       frontendQuestionId: "457",
       paidOnly: false,
       title: "Circular Array Loop",
@@ -3200,6 +3657,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.496145873659145,
       frontendQuestionId: "458",
       paidOnly: false,
       title: "Poor Pigs",
@@ -3207,6 +3665,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.31184709462881,
       frontendQuestionId: "459",
       paidOnly: false,
       title: "Repeated Substring Pattern",
@@ -3214,6 +3673,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.97490215526485,
       frontendQuestionId: "460",
       paidOnly: false,
       title: "LFU Cache",
@@ -3221,6 +3681,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.6356501742249,
       frontendQuestionId: "461",
       paidOnly: false,
       title: "Hamming Distance",
@@ -3228,6 +3689,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.3594665608408,
       frontendQuestionId: "462",
       paidOnly: false,
       title: "Minimum Moves to Equal Array Elements II",
@@ -3235,6 +3697,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.09977002817594,
       frontendQuestionId: "463",
       paidOnly: false,
       title: "Island Perimeter",
@@ -3242,6 +3705,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 29.83366986824209,
       frontendQuestionId: "464",
       paidOnly: false,
       title: "Can I Win",
@@ -3249,6 +3713,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.67668588889518,
       frontendQuestionId: "465",
       paidOnly: true,
       title: "Optimal Account Balancing",
@@ -3256,6 +3721,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 30.717406581319317,
       frontendQuestionId: "466",
       paidOnly: false,
       title: "Count The Repetitions",
@@ -3263,6 +3729,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.25923626203042,
       frontendQuestionId: "467",
       paidOnly: false,
       title: "Unique Substrings in Wraparound String",
@@ -3270,6 +3737,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.445435267163653,
       frontendQuestionId: "468",
       paidOnly: false,
       title: "Validate IP Address",
@@ -3277,6 +3745,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.6768923579597,
       frontendQuestionId: "469",
       paidOnly: true,
       title: "Convex Polygon",
@@ -3284,6 +3753,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.812859492702756,
       frontendQuestionId: "470",
       paidOnly: false,
       title: "Implement Rand10() Using Rand7()",
@@ -3291,6 +3761,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.47226459800708,
       frontendQuestionId: "471",
       paidOnly: true,
       title: "Encode String with Shortest Length",
@@ -3298,6 +3769,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.34967271802911,
       frontendQuestionId: "472",
       paidOnly: false,
       title: "Concatenated Words",
@@ -3305,6 +3777,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.48434556887294,
       frontendQuestionId: "473",
       paidOnly: false,
       title: "Matchsticks to Square",
@@ -3312,6 +3785,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.02106019543223,
       frontendQuestionId: "474",
       paidOnly: false,
       title: "Ones and Zeroes",
@@ -3319,6 +3793,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.6029232345908,
       frontendQuestionId: "475",
       paidOnly: false,
       title: "Heaters",
@@ -3326,6 +3801,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.30804772470776,
       frontendQuestionId: "476",
       paidOnly: false,
       title: "Number Complement",
@@ -3333,6 +3809,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.093775270246404,
       frontendQuestionId: "477",
       paidOnly: false,
       title: "Total Hamming Distance",
@@ -3340,6 +3817,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.170385624418174,
       frontendQuestionId: "478",
       paidOnly: false,
       title: "Generate Random Point in a Circle",
@@ -3347,6 +3825,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.840695358560744,
       frontendQuestionId: "479",
       paidOnly: false,
       title: "Largest Palindrome Product",
@@ -3354,6 +3833,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 38.85265284004138,
       frontendQuestionId: "480",
       paidOnly: false,
       title: "Sliding Window Median",
@@ -3361,6 +3841,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.72303595206391,
       frontendQuestionId: "481",
       paidOnly: false,
       title: "Magical String",
@@ -3368,6 +3849,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.10889429122307,
       frontendQuestionId: "482",
       paidOnly: false,
       title: "License Key Formatting",
@@ -3375,6 +3857,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.69126093487673,
       frontendQuestionId: "483",
       paidOnly: false,
       title: "Smallest Good Base",
@@ -3382,6 +3865,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.97238493723849,
       frontendQuestionId: "484",
       paidOnly: true,
       title: "Find Permutation",
@@ -3389,6 +3873,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.65875795592179,
       frontendQuestionId: "485",
       paidOnly: false,
       title: "Max Consecutive Ones",
@@ -3396,6 +3881,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.441170482769856,
       frontendQuestionId: "486",
       paidOnly: false,
       title: "Predict the Winner",
@@ -3403,6 +3889,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.5784855162892,
       frontendQuestionId: "487",
       paidOnly: true,
       title: "Max Consecutive Ones II",
@@ -3410,6 +3897,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.391048292108366,
       frontendQuestionId: "488",
       paidOnly: false,
       title: "Zuma Game",
@@ -3417,6 +3905,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.86765365634814,
       frontendQuestionId: "489",
       paidOnly: true,
       title: "Robot Room Cleaner",
@@ -3424,6 +3913,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.47778663148407,
       frontendQuestionId: "490",
       paidOnly: true,
       title: "The Maze",
@@ -3431,6 +3921,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.08956865584362,
       frontendQuestionId: "491",
       paidOnly: false,
       title: "Non-decreasing Subsequences",
@@ -3438,6 +3929,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.81890459774928,
       frontendQuestionId: "492",
       paidOnly: false,
       title: "Construct the Rectangle",
@@ -3445,6 +3937,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 31.070022872496523,
       frontendQuestionId: "493",
       paidOnly: false,
       title: "Reverse Pairs",
@@ -3452,6 +3945,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 47.58054259522568,
       frontendQuestionId: "494",
       paidOnly: false,
       title: "Target Sum",
@@ -3459,6 +3953,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.724166806230116,
       frontendQuestionId: "495",
       paidOnly: false,
       title: "Teemo Attacking",
@@ -3466,6 +3961,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.14184842192837,
       frontendQuestionId: "496",
       paidOnly: false,
       title: "Next Greater Element I",
@@ -3473,6 +3969,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.28674578412058,
       frontendQuestionId: "497",
       paidOnly: false,
       title: "Random Point in Non-overlapping Rectangles",
@@ -3480,6 +3977,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.08127045625289,
       frontendQuestionId: "498",
       paidOnly: false,
       title: "Diagonal Traverse",
@@ -3487,6 +3985,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.402079201971034,
       frontendQuestionId: "499",
       paidOnly: true,
       title: "The Maze III",
@@ -3494,6 +3993,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.31908506655694,
       frontendQuestionId: "500",
       paidOnly: false,
       title: "Keyboard Row",
@@ -3501,6 +4001,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.657806256271236,
       frontendQuestionId: "501",
       paidOnly: false,
       title: "Find Mode in Binary Search Tree",
@@ -3508,6 +4009,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.11969118837331,
       frontendQuestionId: "502",
       paidOnly: false,
       title: "IPO",
@@ -3515,6 +4017,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.77780383668787,
       frontendQuestionId: "503",
       paidOnly: false,
       title: "Next Greater Element II",
@@ -3522,6 +4025,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.791052726265775,
       frontendQuestionId: "504",
       paidOnly: false,
       title: "Base 7",
@@ -3529,6 +4033,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.6523965983765,
       frontendQuestionId: "505",
       paidOnly: true,
       title: "The Maze II",
@@ -3536,6 +4041,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.21698431654643,
       frontendQuestionId: "506",
       paidOnly: false,
       title: "Relative Ranks",
@@ -3543,6 +4049,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 42.252850510244734,
       frontendQuestionId: "507",
       paidOnly: false,
       title: "Perfect Number",
@@ -3550,6 +4057,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.11811492531254,
       frontendQuestionId: "508",
       paidOnly: false,
       title: "Most Frequent Subtree Sum",
@@ -3557,6 +4065,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.83391228243006,
       frontendQuestionId: "509",
       paidOnly: false,
       title: "Fibonacci Number",
@@ -3564,6 +4073,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.89671853001697,
       frontendQuestionId: "510",
       paidOnly: true,
       title: "Inorder Successor in BST II",
@@ -3571,6 +4081,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.99883864500434,
       frontendQuestionId: "511",
       paidOnly: false,
       title: "Game Play Analysis I",
@@ -3578,6 +4089,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.203722049249926,
       frontendQuestionId: "512",
       paidOnly: true,
       title: "Game Play Analysis II",
@@ -3585,6 +4097,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.38361668772166,
       frontendQuestionId: "513",
       paidOnly: false,
       title: "Find Bottom Left Tree Value",
@@ -3592,6 +4105,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.049149719402095,
       frontendQuestionId: "514",
       paidOnly: false,
       title: "Freedom Trail",
@@ -3599,6 +4113,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.71940772969153,
       frontendQuestionId: "515",
       paidOnly: false,
       title: "Find Largest Value in Each Tree Row",
@@ -3606,6 +4121,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.190908385330545,
       frontendQuestionId: "516",
       paidOnly: false,
       title: "Longest Palindromic Subsequence",
@@ -3613,6 +4129,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.62516733601071,
       frontendQuestionId: "517",
       paidOnly: false,
       title: "Super Washing Machines",
@@ -3620,6 +4137,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.59314305960895,
       frontendQuestionId: "518",
       paidOnly: false,
       title: "Coin Change II",
@@ -3627,6 +4145,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.51470259807936,
       frontendQuestionId: "519",
       paidOnly: false,
       title: "Random Flip Matrix",
@@ -3634,6 +4153,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.371249563177074,
       frontendQuestionId: "520",
       paidOnly: false,
       title: "Detect Capital",
@@ -3641,6 +4161,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.97273389741306,
       frontendQuestionId: "521",
       paidOnly: false,
       title: "Longest Uncommon Subsequence I",
@@ -3648,6 +4169,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 42.14474306731987,
       frontendQuestionId: "522",
       paidOnly: false,
       title: "Longest Uncommon Subsequence II",
@@ -3655,6 +4177,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.38362879666044,
       frontendQuestionId: "523",
       paidOnly: false,
       title: "Continuous Subarray Sum",
@@ -3662,6 +4185,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.366985345091656,
       frontendQuestionId: "524",
       paidOnly: false,
       title: "Longest Word in Dictionary through Deleting",
@@ -3669,6 +4193,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.949689885591575,
       frontendQuestionId: "525",
       paidOnly: false,
       title: "Contiguous Array",
@@ -3676,6 +4201,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.333111324897,
       frontendQuestionId: "526",
       paidOnly: false,
       title: "Beautiful Arrangement",
@@ -3683,6 +4209,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.290533330429675,
       frontendQuestionId: "527",
       paidOnly: true,
       title: "Word Abbreviation",
@@ -3690,6 +4217,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 47.25118659116338,
       frontendQuestionId: "528",
       paidOnly: false,
       title: "Random Pick with Weight",
@@ -3697,6 +4225,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.09841516708991,
       frontendQuestionId: "529",
       paidOnly: false,
       title: "Minesweeper",
@@ -3704,6 +4233,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.551809381817385,
       frontendQuestionId: "530",
       paidOnly: false,
       title: "Minimum Absolute Difference in BST",
@@ -3711,6 +4241,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.40088355233348,
       frontendQuestionId: "531",
       paidOnly: true,
       title: "Lonely Pixel I",
@@ -3718,6 +4249,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.50121060656992,
       frontendQuestionId: "532",
       paidOnly: false,
       title: "K-diff Pairs in an Array",
@@ -3725,6 +4257,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.725253326601994,
       frontendQuestionId: "533",
       paidOnly: true,
       title: "Lonely Pixel II",
@@ -3732,6 +4265,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 80.87881908685203,
       frontendQuestionId: "534",
       paidOnly: true,
       title: "Game Play Analysis III",
@@ -3739,6 +4273,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.5070750020875,
       frontendQuestionId: "535",
       paidOnly: false,
       title: "Encode and Decode TinyURL",
@@ -3746,6 +4281,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.25682886881175,
       frontendQuestionId: "536",
       paidOnly: true,
       title: "Construct Binary Tree from String",
@@ -3753,6 +4289,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.07522621953893,
       frontendQuestionId: "537",
       paidOnly: false,
       title: "Complex Number Multiplication",
@@ -3760,6 +4297,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.80216557281845,
       frontendQuestionId: "538",
       paidOnly: false,
       title: "Convert BST to Greater Tree",
@@ -3767,6 +4305,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.954727808247,
       frontendQuestionId: "539",
       paidOnly: false,
       title: "Minimum Time Difference",
@@ -3774,6 +4313,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.305550242894846,
       frontendQuestionId: "540",
       paidOnly: false,
       title: "Single Element in a Sorted Array",
@@ -3781,6 +4321,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.18028614044417,
       frontendQuestionId: "541",
       paidOnly: false,
       title: "Reverse String II",
@@ -3788,6 +4329,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.559108003028896,
       frontendQuestionId: "542",
       paidOnly: false,
       title: "01 Matrix",
@@ -3795,6 +4337,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.54346622319081,
       frontendQuestionId: "543",
       paidOnly: false,
       title: "Diameter of Binary Tree",
@@ -3802,6 +4345,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 77.20699938108366,
       frontendQuestionId: "544",
       paidOnly: true,
       title: "Output Contest Matches",
@@ -3809,6 +4353,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.90671391124518,
       frontendQuestionId: "545",
       paidOnly: true,
       title: "Boundary of Binary Tree",
@@ -3816,6 +4361,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.08513582980743,
       frontendQuestionId: "546",
       paidOnly: false,
       title: "Remove Boxes",
@@ -3823,6 +4369,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.2155990500149,
       frontendQuestionId: "547",
       paidOnly: false,
       title: "Number of Provinces",
@@ -3830,6 +4377,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.1548051948052,
       frontendQuestionId: "548",
       paidOnly: true,
       title: "Split Array with Equal Sum",
@@ -3837,6 +4385,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.53988143963586,
       frontendQuestionId: "549",
       paidOnly: true,
       title: "Binary Tree Longest Consecutive Sequence II",
@@ -3844,6 +4393,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.89044490041565,
       frontendQuestionId: "550",
       paidOnly: false,
       title: "Game Play Analysis IV",
@@ -3851,6 +4401,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.32618159665988,
       frontendQuestionId: "551",
       paidOnly: false,
       title: "Student Attendance Record I",
@@ -3858,6 +4409,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.32104299266266,
       frontendQuestionId: "552",
       paidOnly: false,
       title: "Student Attendance Record II",
@@ -3865,6 +4417,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.23995141981378,
       frontendQuestionId: "553",
       paidOnly: false,
       title: "Optimal Division",
@@ -3872,6 +4425,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.397228480788506,
       frontendQuestionId: "554",
       paidOnly: false,
       title: "Brick Wall",
@@ -3879,6 +4433,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.46897764380809,
       frontendQuestionId: "555",
       paidOnly: true,
       title: "Split Concatenated Strings",
@@ -3886,6 +4441,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.236303057125916,
       frontendQuestionId: "556",
       paidOnly: false,
       title: "Next Greater Element III",
@@ -3893,6 +4449,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.30625425271005,
       frontendQuestionId: "557",
       paidOnly: false,
       title: "Reverse Words in a String III",
@@ -3900,6 +4457,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.1748478176402,
       frontendQuestionId: "558",
       paidOnly: false,
       title: "Logical OR of Two Binary Grids Represented as Quad-Trees",
@@ -3907,6 +4465,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.4329811173075,
       frontendQuestionId: "559",
       paidOnly: false,
       title: "Maximum Depth of N-ary Tree",
@@ -3914,6 +4473,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.1299051570743,
       frontendQuestionId: "560",
       paidOnly: false,
       title: "Subarray Sum Equals K",
@@ -3921,6 +4481,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.42105361514456,
       frontendQuestionId: "561",
       paidOnly: false,
       title: "Array Partition",
@@ -3928,6 +4489,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.457265513204106,
       frontendQuestionId: "562",
       paidOnly: true,
       title: "Longest Line of Consecutive One in Matrix",
@@ -3935,6 +4497,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.67536934701703,
       frontendQuestionId: "563",
       paidOnly: false,
       title: "Binary Tree Tilt",
@@ -3942,6 +4505,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 31.7565581698578,
       frontendQuestionId: "564",
       paidOnly: false,
       title: "Find the Closest Palindrome",
@@ -3949,6 +4513,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.36582451061252,
       frontendQuestionId: "565",
       paidOnly: false,
       title: "Array Nesting",
@@ -3956,6 +4521,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.38543227298942,
       frontendQuestionId: "566",
       paidOnly: false,
       title: "Reshape the Matrix",
@@ -3963,6 +4529,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.84431593481196,
       frontendQuestionId: "567",
       paidOnly: false,
       title: "Permutation in String",
@@ -3970,6 +4537,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.88923084235417,
       frontendQuestionId: "568",
       paidOnly: true,
       title: "Maximum Vacation Days",
@@ -3977,6 +4545,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.8696802714735,
       frontendQuestionId: "569",
       paidOnly: true,
       title: "Median Employee Salary",
@@ -3984,6 +4553,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.54330336015144,
       frontendQuestionId: "570",
       paidOnly: false,
       title: "Managers with at Least 5 Direct Reports",
@@ -3991,6 +4561,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.32249965127633,
       frontendQuestionId: "571",
       paidOnly: true,
       title: "Find Median Given Frequency of Numbers",
@@ -3998,6 +4569,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.723391656889596,
       frontendQuestionId: "572",
       paidOnly: false,
       title: "Subtree of Another Tree",
@@ -4005,6 +4577,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.17383630036815,
       frontendQuestionId: "573",
       paidOnly: true,
       title: "Squirrel Simulation",
@@ -4012,6 +4585,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.13466881122971,
       frontendQuestionId: "574",
       paidOnly: true,
       title: "Winning Candidate",
@@ -4019,6 +4593,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.36214106809928,
       frontendQuestionId: "575",
       paidOnly: false,
       title: "Distribute Candies",
@@ -4026,6 +4601,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.11030923861413,
       frontendQuestionId: "576",
       paidOnly: false,
       title: "Out of Boundary Paths",
@@ -4033,6 +4609,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.4156716810029,
       frontendQuestionId: "577",
       paidOnly: false,
       title: "Employee Bonus",
@@ -4040,6 +4617,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.18520046196997,
       frontendQuestionId: "578",
       paidOnly: true,
       title: "Get Highest Answer Rate Question",
@@ -4047,6 +4625,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.562303882160734,
       frontendQuestionId: "579",
       paidOnly: true,
       title: "Find Cumulative Salary of an Employee",
@@ -4054,6 +4633,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.22927985943483,
       frontendQuestionId: "580",
       paidOnly: true,
       title: "Count Student Number in Departments",
@@ -4061,6 +4641,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.07598828809191,
       frontendQuestionId: "581",
       paidOnly: false,
       title: "Shortest Unsorted Continuous Subarray",
@@ -4068,6 +4649,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.6907640365928,
       frontendQuestionId: "582",
       paidOnly: true,
       title: "Kill Process",
@@ -4075,6 +4657,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.69929266096149,
       frontendQuestionId: "583",
       paidOnly: false,
       title: "Delete Operation for Two Strings",
@@ -4082,6 +4665,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.92784559711714,
       frontendQuestionId: "584",
       paidOnly: false,
       title: "Find Customer Referee",
@@ -4089,6 +4673,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.93992872494183,
       frontendQuestionId: "585",
       paidOnly: false,
       title: "Investments in 2016",
@@ -4096,6 +4681,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.64706636065073,
       frontendQuestionId: "586",
       paidOnly: false,
       title: "Customer Placing the Largest Number of Orders",
@@ -4103,6 +4689,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.994984040127676,
       frontendQuestionId: "587",
       paidOnly: false,
       title: "Erect the Fence",
@@ -4110,6 +4697,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.06573285248872,
       frontendQuestionId: "588",
       paidOnly: true,
       title: "Design In-Memory File System",
@@ -4117,6 +4705,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.8119134941986,
       frontendQuestionId: "589",
       paidOnly: false,
       title: "N-ary Tree Preorder Traversal",
@@ -4124,6 +4713,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 80.39022769671105,
       frontendQuestionId: "590",
       paidOnly: false,
       title: "N-ary Tree Postorder Traversal",
@@ -4131,6 +4721,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.06039623004424,
       frontendQuestionId: "591",
       paidOnly: false,
       title: "Tag Validator",
@@ -4138,6 +4729,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.09897338678766,
       frontendQuestionId: "592",
       paidOnly: false,
       title: "Fraction Addition and Subtraction",
@@ -4145,6 +4737,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.16256815574865,
       frontendQuestionId: "593",
       paidOnly: false,
       title: "Valid Square",
@@ -4152,6 +4745,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.47474016704239,
       frontendQuestionId: "594",
       paidOnly: false,
       title: "Longest Harmonious Subsequence",
@@ -4159,6 +4753,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.13257611452902,
       frontendQuestionId: "595",
       paidOnly: false,
       title: "Big Countries",
@@ -4166,6 +4761,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.506323253433166,
       frontendQuestionId: "596",
       paidOnly: false,
       title: "Classes More Than 5 Students",
@@ -4173,6 +4769,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.710075984243495,
       frontendQuestionId: "597",
       paidOnly: true,
       title: "Friend Requests I: Overall Acceptance Rate",
@@ -4180,6 +4777,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.51303344381156,
       frontendQuestionId: "598",
       paidOnly: false,
       title: "Range Addition II",
@@ -4187,6 +4785,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.3608415617169,
       frontendQuestionId: "599",
       paidOnly: false,
       title: "Minimum Index Sum of Two Lists",
@@ -4194,6 +4793,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.161068858397684,
       frontendQuestionId: "600",
       paidOnly: false,
       title: "Non-negative Integers without Consecutive Ones",
@@ -4201,6 +4801,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.92236057709267,
       frontendQuestionId: "601",
       paidOnly: false,
       title: "Human Traffic of Stadium",
@@ -4208,6 +4809,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.478555194748694,
       frontendQuestionId: "602",
       paidOnly: false,
       title: "Friend Requests II: Who Has the Most Friends",
@@ -4215,6 +4817,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.85242587601078,
       frontendQuestionId: "603",
       paidOnly: true,
       title: "Consecutive Available Seats",
@@ -4222,6 +4825,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.975897192254656,
       frontendQuestionId: "604",
       paidOnly: true,
       title: "Design Compressed String Iterator",
@@ -4229,6 +4833,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 28.8984716569859,
       frontendQuestionId: "605",
       paidOnly: false,
       title: "Can Place Flowers",
@@ -4236,6 +4841,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 69.55559633653986,
       frontendQuestionId: "606",
       paidOnly: false,
       title: "Construct String from Binary Tree",
@@ -4243,6 +4849,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.74806336799497,
       frontendQuestionId: "607",
       paidOnly: false,
       title: "Sales Person",
@@ -4250,6 +4857,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.83232554269206,
       frontendQuestionId: "608",
       paidOnly: false,
       title: "Tree Node",
@@ -4257,6 +4865,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.6723382631247,
       frontendQuestionId: "609",
       paidOnly: false,
       title: "Find Duplicate File in System",
@@ -4264,6 +4873,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.50361204872897,
       frontendQuestionId: "610",
       paidOnly: false,
       title: "Triangle Judgement",
@@ -4271,6 +4881,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.48684520852464,
       frontendQuestionId: "611",
       paidOnly: false,
       title: "Valid Triangle Number",
@@ -4278,6 +4889,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.273710782545976,
       frontendQuestionId: "612",
       paidOnly: true,
       title: "Shortest Distance in a Plane",
@@ -4285,6 +4897,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 80.10155880963627,
       frontendQuestionId: "613",
       paidOnly: true,
       title: "Shortest Distance in a Line",
@@ -4292,6 +4905,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.05967835966272,
       frontendQuestionId: "614",
       paidOnly: true,
       title: "Second Degree Follower",
@@ -4299,6 +4913,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.26022061665626,
       frontendQuestionId: "615",
       paidOnly: true,
       title: "Average Salary: Departments VS Company",
@@ -4306,6 +4921,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.02263418840267,
       frontendQuestionId: "616",
       paidOnly: true,
       title: "Add Bold Tag in String",
@@ -4313,6 +4929,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.12263950563857,
       frontendQuestionId: "617",
       paidOnly: false,
       title: "Merge Two Binary Trees",
@@ -4320,6 +4937,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.409469066707004,
       frontendQuestionId: "618",
       paidOnly: true,
       title: "Students Report By Geography",
@@ -4327,6 +4945,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.29880108347648,
       frontendQuestionId: "619",
       paidOnly: false,
       title: "Biggest Single Number",
@@ -4334,6 +4953,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 74.32517192294547,
       frontendQuestionId: "620",
       paidOnly: false,
       title: "Not Boring Movies",
@@ -4341,6 +4961,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.39022030194712,
       frontendQuestionId: "621",
       paidOnly: false,
       title: "Task Scheduler",
@@ -4348,6 +4969,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.846638442622194,
       frontendQuestionId: "622",
       paidOnly: false,
       title: "Design Circular Queue",
@@ -4355,6 +4977,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.07050849936361,
       frontendQuestionId: "623",
       paidOnly: false,
       title: "Add One Row to Tree",
@@ -4362,6 +4985,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.83293392851129,
       frontendQuestionId: "624",
       paidOnly: false,
       title: "Maximum Distance in Arrays",
@@ -4369,6 +4993,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.72968223751647,
       frontendQuestionId: "625",
       paidOnly: true,
       title: "Minimum Factorization",
@@ -4376,6 +5001,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.03621295033386,
       frontendQuestionId: "626",
       paidOnly: false,
       title: "Exchange Seats",
@@ -4383,6 +5009,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.50902473791943,
       frontendQuestionId: "627",
       paidOnly: false,
       title: "Swap Salary",
@@ -4390,6 +5017,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.15240660846096,
       frontendQuestionId: "628",
       paidOnly: false,
       title: "Maximum Product of Three Numbers",
@@ -4397,6 +5025,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.32687149978807,
       frontendQuestionId: "629",
       paidOnly: false,
       title: "K Inverse Pairs Array",
@@ -4404,6 +5033,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.308003557911995,
       frontendQuestionId: "630",
       paidOnly: false,
       title: "Course Schedule III",
@@ -4411,6 +5041,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.12328329607154,
       frontendQuestionId: "631",
       paidOnly: true,
       title: "Design Excel Sum Formula",
@@ -4418,6 +5049,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.37765797158621,
       frontendQuestionId: "632",
       paidOnly: false,
       title: "Smallest Range Covering Elements from K Lists",
@@ -4425,6 +5057,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 36.55659758855319,
       frontendQuestionId: "633",
       paidOnly: false,
       title: "Sum of Square Numbers",
@@ -4432,6 +5065,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.89431340281587,
       frontendQuestionId: "634",
       paidOnly: true,
       title: "Find the Derangement of An Array",
@@ -4439,6 +5073,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.048577259770276,
       frontendQuestionId: "635",
       paidOnly: true,
       title: "Design Log Storage System",
@@ -4446,6 +5081,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.61958905768532,
       frontendQuestionId: "636",
       paidOnly: false,
       title: "Exclusive Time of Functions",
@@ -4453,6 +5089,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.2545318277598,
       frontendQuestionId: "637",
       paidOnly: false,
       title: "Average of Levels in Binary Tree",
@@ -4460,6 +5097,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.80183844464329,
       frontendQuestionId: "638",
       paidOnly: false,
       title: "Shopping Offers",
@@ -4467,6 +5105,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.88414548855203,
       frontendQuestionId: "639",
       paidOnly: false,
       title: "Decode Ways II",
@@ -4474,6 +5113,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.30337066812775,
       frontendQuestionId: "640",
       paidOnly: false,
       title: "Solve the Equation",
@@ -4481,6 +5121,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.69507640753376,
       frontendQuestionId: "641",
       paidOnly: false,
       title: "Design Circular Deque",
@@ -4488,6 +5129,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.120516168676545,
       frontendQuestionId: "642",
       paidOnly: true,
       title: "Design Search Autocomplete System",
@@ -4495,6 +5137,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.93005101736493,
       frontendQuestionId: "643",
       paidOnly: false,
       title: "Maximum Average Subarray I",
@@ -4502,6 +5145,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 36.99615615192016,
       frontendQuestionId: "644",
       paidOnly: true,
       title: "Maximum Average Subarray II",
@@ -4509,6 +5153,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.59592919793311,
       frontendQuestionId: "645",
       paidOnly: false,
       title: "Set Mismatch",
@@ -4516,6 +5161,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.22705766517259,
       frontendQuestionId: "646",
       paidOnly: false,
       title: "Maximum Length of Pair Chain",
@@ -4523,6 +5169,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.68867176674551,
       frontendQuestionId: "647",
       paidOnly: false,
       title: "Palindromic Substrings",
@@ -4530,6 +5177,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.08142138073893,
       frontendQuestionId: "648",
       paidOnly: false,
       title: "Replace Words",
@@ -4537,6 +5185,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.08017413485619,
       frontendQuestionId: "649",
       paidOnly: false,
       title: "Dota2 Senate",
@@ -4544,6 +5193,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.599245584957416,
       frontendQuestionId: "650",
       paidOnly: false,
       title: "2 Keys Keyboard",
@@ -4551,6 +5201,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.81361511739993,
       frontendQuestionId: "651",
       paidOnly: true,
       title: "4 Keys Keyboard",
@@ -4558,6 +5209,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.66973060986056,
       frontendQuestionId: "652",
       paidOnly: false,
       title: "Find Duplicate Subtrees",
@@ -4565,6 +5217,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.587075450797826,
       frontendQuestionId: "653",
       paidOnly: false,
       title: "Two Sum IV - Input is a BST",
@@ -4572,6 +5225,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.61206826867061,
       frontendQuestionId: "654",
       paidOnly: false,
       title: "Maximum Binary Tree",
@@ -4579,6 +5233,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.63965960464499,
       frontendQuestionId: "655",
       paidOnly: false,
       title: "Print Binary Tree",
@@ -4586,6 +5241,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.198765542535114,
       frontendQuestionId: "656",
       paidOnly: true,
       title: "Coin Path",
@@ -4593,6 +5249,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.92351049273528,
       frontendQuestionId: "657",
       paidOnly: false,
       title: "Robot Return to Origin",
@@ -4600,6 +5257,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.85086364455427,
       frontendQuestionId: "658",
       paidOnly: false,
       title: "Find K Closest Elements",
@@ -4607,6 +5265,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.19692011549567,
       frontendQuestionId: "659",
       paidOnly: false,
       title: "Split Array into Consecutive Subsequences",
@@ -4614,6 +5273,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.33136282064816,
       frontendQuestionId: "660",
       paidOnly: true,
       title: "Remove 9",
@@ -4621,6 +5281,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.60522782910843,
       frontendQuestionId: "661",
       paidOnly: false,
       title: "Image Smoother",
@@ -4628,6 +5289,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.257400262733675,
       frontendQuestionId: "662",
       paidOnly: false,
       title: "Maximum Width of Binary Tree",
@@ -4635,6 +5297,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.59208171001369,
       frontendQuestionId: "663",
       paidOnly: true,
       title: "Equal Tree Partition",
@@ -4642,6 +5305,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.14400139300017,
       frontendQuestionId: "664",
       paidOnly: false,
       title: "Strange Printer",
@@ -4649,6 +5313,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 24.859590578945088,
       frontendQuestionId: "665",
       paidOnly: false,
       title: "Non-decreasing Array",
@@ -4656,6 +5321,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.486284128316015,
       frontendQuestionId: "666",
       paidOnly: true,
       title: "Path Sum IV",
@@ -4663,6 +5329,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.251704247509174,
       frontendQuestionId: "667",
       paidOnly: false,
       title: "Beautiful Arrangement II",
@@ -4670,6 +5337,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.18418758316891,
       frontendQuestionId: "668",
       paidOnly: false,
       title: "Kth Smallest Number in Multiplication Table",
@@ -4677,6 +5345,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.30890663270091,
       frontendQuestionId: "669",
       paidOnly: false,
       title: "Trim a Binary Search Tree",
@@ -4684,6 +5353,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.06770360485509,
       frontendQuestionId: "670",
       paidOnly: false,
       title: "Maximum Swap",
@@ -4691,6 +5361,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.7853265339694,
       frontendQuestionId: "671",
       paidOnly: false,
       title: "Second Minimum Node In a Binary Tree",
@@ -4698,6 +5369,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.11669454943512,
       frontendQuestionId: "672",
       paidOnly: false,
       title: "Bulb Switcher II",
@@ -4705,6 +5377,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.812248564621335,
       frontendQuestionId: "673",
       paidOnly: false,
       title: "Number of Longest Increasing Subsequence",
@@ -4712,6 +5385,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.54722085587802,
       frontendQuestionId: "674",
       paidOnly: false,
       title: "Longest Continuous Increasing Subsequence",
@@ -4719,6 +5393,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 34.637734496818496,
       frontendQuestionId: "675",
       paidOnly: false,
       title: "Cut Off Trees for Golf Event",
@@ -4726,6 +5401,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.73449831262919,
       frontendQuestionId: "676",
       paidOnly: false,
       title: "Implement Magic Dictionary",
@@ -4733,6 +5409,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.862754225650434,
       frontendQuestionId: "677",
       paidOnly: false,
       title: "Map Sum Pairs",
@@ -4740,6 +5417,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.25413897133914,
       frontendQuestionId: "678",
       paidOnly: false,
       title: "Valid Parenthesis String",
@@ -4747,6 +5425,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.52548585530494,
       frontendQuestionId: "679",
       paidOnly: false,
       title: "24 Game",
@@ -4754,6 +5433,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 41.40788362747546,
       frontendQuestionId: "680",
       paidOnly: false,
       title: "Valid Palindrome II",
@@ -4761,6 +5441,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.805759153481944,
       frontendQuestionId: "681",
       paidOnly: true,
       title: "Next Closest Time",
@@ -4768,6 +5449,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 77.34949729960788,
       frontendQuestionId: "682",
       paidOnly: false,
       title: "Baseball Game",
@@ -4775,6 +5457,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 37.17831130294038,
       frontendQuestionId: "683",
       paidOnly: true,
       title: "K Empty Slots",
@@ -4782,6 +5465,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.4874268930513,
       frontendQuestionId: "684",
       paidOnly: false,
       title: "Redundant Connection",
@@ -4789,6 +5473,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.64393320098097,
       frontendQuestionId: "685",
       paidOnly: false,
       title: "Redundant Connection II",
@@ -4796,6 +5481,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 35.662070843725694,
       frontendQuestionId: "686",
       paidOnly: false,
       title: "Repeated String Match",
@@ -4803,6 +5489,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.93424278066637,
       frontendQuestionId: "687",
       paidOnly: false,
       title: "Longest Univalue Path",
@@ -4810,6 +5497,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.338886702218446,
       frontendQuestionId: "688",
       paidOnly: false,
       title: "Knight Probability in Chessboard",
@@ -4817,6 +5505,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.366971894083335,
       frontendQuestionId: "689",
       paidOnly: false,
       title: "Maximum Sum of 3 Non-Overlapping Subarrays",
@@ -4824,6 +5513,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.49734709256725,
       frontendQuestionId: "690",
       paidOnly: false,
       title: "Employee Importance",
@@ -4831,6 +5521,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.24040218804364,
       frontendQuestionId: "691",
       paidOnly: false,
       title: "Stickers to Spell Word",
@@ -4838,6 +5529,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.47632862169002,
       frontendQuestionId: "692",
       paidOnly: false,
       title: "Top K Frequent Words",
@@ -4845,6 +5537,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.95984161382668,
       frontendQuestionId: "693",
       paidOnly: false,
       title: "Binary Number with Alternating Bits",
@@ -4852,6 +5545,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.65327613790193,
       frontendQuestionId: "694",
       paidOnly: true,
       title: "Number of Distinct Islands",
@@ -4859,6 +5553,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.53457113213683,
       frontendQuestionId: "695",
       paidOnly: false,
       title: "Max Area of Island",
@@ -4866,6 +5561,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.70179383097154,
       frontendQuestionId: "696",
       paidOnly: false,
       title: "Count Binary Substrings",
@@ -4873,6 +5569,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.79569049455622,
       frontendQuestionId: "697",
       paidOnly: false,
       title: "Degree of an Array",
@@ -4880,6 +5577,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 38.147058503342116,
       frontendQuestionId: "698",
       paidOnly: false,
       title: "Partition to K Equal Sum Subsets",
@@ -4887,6 +5585,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.591015412220834,
       frontendQuestionId: "699",
       paidOnly: false,
       title: "Falling Squares",
@@ -4894,6 +5593,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 80.6636544721372,
       frontendQuestionId: "700",
       paidOnly: false,
       title: "Search in a Binary Search Tree",
@@ -4901,6 +5601,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.66075840423123,
       frontendQuestionId: "701",
       paidOnly: false,
       title: "Insert into a Binary Search Tree",
@@ -4908,6 +5609,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.3640933572711,
       frontendQuestionId: "702",
       paidOnly: true,
       title: "Search in a Sorted Array of Unknown Size",
@@ -4915,6 +5617,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.29935297987326,
       frontendQuestionId: "703",
       paidOnly: false,
       title: "Kth Largest Element in a Stream",
@@ -4922,6 +5625,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.465476664237826,
       frontendQuestionId: "704",
       paidOnly: false,
       title: "Binary Search",
@@ -4929,6 +5633,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.14381773354253,
       frontendQuestionId: "705",
       paidOnly: false,
       title: "Design HashSet",
@@ -4936,6 +5641,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.60236849079818,
       frontendQuestionId: "706",
       paidOnly: false,
       title: "Design HashMap",
@@ -4943,6 +5649,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 28.50449657003409,
       frontendQuestionId: "707",
       paidOnly: false,
       title: "Design Linked List",
@@ -4950,6 +5657,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.62033885522741,
       frontendQuestionId: "708",
       paidOnly: true,
       title: "Insert into a Sorted Circular Linked List",
@@ -4957,6 +5665,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.68970706169637,
       frontendQuestionId: "709",
       paidOnly: false,
       title: "To Lower Case",
@@ -4964,6 +5673,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.618384657938414,
       frontendQuestionId: "710",
       paidOnly: false,
       title: "Random Pick with Blacklist",
@@ -4971,6 +5681,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.1491561084938,
       frontendQuestionId: "711",
       paidOnly: true,
       title: "Number of Distinct Islands II",
@@ -4978,6 +5689,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.26968291096436,
       frontendQuestionId: "712",
       paidOnly: false,
       title: "Minimum ASCII Delete Sum for Two Strings",
@@ -4985,6 +5697,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.832982095843064,
       frontendQuestionId: "713",
       paidOnly: false,
       title: "Subarray Product Less Than K",
@@ -4992,6 +5705,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.36328099118796,
       frontendQuestionId: "714",
       paidOnly: false,
       title: "Best Time to Buy and Sell Stock with Transaction Fee",
@@ -4999,6 +5713,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.91302116887781,
       frontendQuestionId: "715",
       paidOnly: false,
       title: "Range Module",
@@ -5006,6 +5721,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 45.0818846854207,
       frontendQuestionId: "716",
       paidOnly: true,
       title: "Max Stack",
@@ -5013,6 +5729,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 45.2232437567424,
       frontendQuestionId: "717",
       paidOnly: false,
       title: "1-bit and 2-bit Characters",
@@ -5020,6 +5737,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.97050920980221,
       frontendQuestionId: "718",
       paidOnly: false,
       title: "Maximum Length of Repeated Subarray",
@@ -5027,6 +5745,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.35924328563027,
       frontendQuestionId: "719",
       paidOnly: false,
       title: "Find K-th Smallest Pair Distance",
@@ -5034,6 +5753,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.83248213138319,
       frontendQuestionId: "720",
       paidOnly: false,
       title: "Longest Word in Dictionary",
@@ -5041,6 +5761,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.99057609183712,
       frontendQuestionId: "721",
       paidOnly: false,
       title: "Accounts Merge",
@@ -5048,6 +5769,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.963826989151734,
       frontendQuestionId: "722",
       paidOnly: false,
       title: "Remove Comments",
@@ -5055,6 +5777,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.94948759298757,
       frontendQuestionId: "723",
       paidOnly: true,
       title: "Candy Crush",
@@ -5062,6 +5785,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.756552281313404,
       frontendQuestionId: "724",
       paidOnly: false,
       title: "Find Pivot Index",
@@ -5069,6 +5793,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 69.96582930670867,
       frontendQuestionId: "725",
       paidOnly: false,
       title: "Split Linked List in Parts",
@@ -5076,6 +5801,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.16768026283597,
       frontendQuestionId: "726",
       paidOnly: false,
       title: "Number of Atoms",
@@ -5083,6 +5809,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.53620053975697,
       frontendQuestionId: "727",
       paidOnly: true,
       title: "Minimum Window Subsequence",
@@ -5090,6 +5817,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 79.04987671888225,
       frontendQuestionId: "728",
       paidOnly: false,
       title: "Self Dividing Numbers",
@@ -5097,6 +5825,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.39053404350592,
       frontendQuestionId: "729",
       paidOnly: false,
       title: "My Calendar I",
@@ -5104,6 +5833,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.06979329802623,
       frontendQuestionId: "730",
       paidOnly: false,
       title: "Count Different Palindromic Subsequences",
@@ -5111,6 +5841,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.58378889020095,
       frontendQuestionId: "731",
       paidOnly: false,
       title: "My Calendar II",
@@ -5118,6 +5849,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.83231241005703,
       frontendQuestionId: "732",
       paidOnly: false,
       title: "My Calendar III",
@@ -5125,6 +5857,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.93547221610618,
       frontendQuestionId: "733",
       paidOnly: false,
       title: "Flood Fill",
@@ -5132,6 +5865,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.42724055376288,
       frontendQuestionId: "734",
       paidOnly: true,
       title: "Sentence Similarity",
@@ -5139,6 +5873,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.746240364145784,
       frontendQuestionId: "735",
       paidOnly: false,
       title: "Asteroid Collision",
@@ -5146,6 +5881,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.965272296764006,
       frontendQuestionId: "736",
       paidOnly: false,
       title: "Parse Lisp Expression",
@@ -5153,6 +5889,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.223994793073125,
       frontendQuestionId: "737",
       paidOnly: true,
       title: "Sentence Similarity II",
@@ -5160,6 +5897,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.44631073785243,
       frontendQuestionId: "738",
       paidOnly: false,
       title: "Monotone Increasing Digits",
@@ -5167,6 +5905,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.40450996300896,
       frontendQuestionId: "739",
       paidOnly: false,
       title: "Daily Temperatures",
@@ -5174,6 +5913,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.54702341429048,
       frontendQuestionId: "740",
       paidOnly: false,
       title: "Delete and Earn",
@@ -5181,6 +5921,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.27649424586939,
       frontendQuestionId: "741",
       paidOnly: false,
       title: "Cherry Pickup",
@@ -5188,6 +5929,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.52033896656062,
       frontendQuestionId: "742",
       paidOnly: true,
       title: "Closest Leaf in a Binary Tree",
@@ -5195,6 +5937,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.19201924381078,
       frontendQuestionId: "743",
       paidOnly: false,
       title: "Network Delay Time",
@@ -5202,6 +5945,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.8574718495085,
       frontendQuestionId: "744",
       paidOnly: false,
       title: "Find Smallest Letter Greater Than Target",
@@ -5209,6 +5953,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.137770417141084,
       frontendQuestionId: "745",
       paidOnly: false,
       title: "Prefix and Suffix Search",
@@ -5216,6 +5961,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.31117757672045,
       frontendQuestionId: "746",
       paidOnly: false,
       title: "Min Cost Climbing Stairs",
@@ -5223,6 +5969,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.5501853179731,
       frontendQuestionId: "747",
       paidOnly: false,
       title: "Largest Number At Least Twice of Others",
@@ -5230,6 +5977,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.57423850819441,
       frontendQuestionId: "748",
       paidOnly: false,
       title: "Shortest Completing Word",
@@ -5237,6 +5985,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.52401945880207,
       frontendQuestionId: "749",
       paidOnly: false,
       title: "Contain Virus",
@@ -5244,6 +5993,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.83565918349657,
       frontendQuestionId: "750",
       paidOnly: true,
       title: "Number Of Corner Rectangles",
@@ -5251,6 +6001,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.56999025657681,
       frontendQuestionId: "751",
       paidOnly: true,
       title: "IP to CIDR",
@@ -5258,6 +6009,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.40321801446393,
       frontendQuestionId: "752",
       paidOnly: false,
       title: "Open the Lock",
@@ -5265,6 +6017,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.25197976757015,
       frontendQuestionId: "753",
       paidOnly: false,
       title: "Cracking the Safe",
@@ -5272,6 +6025,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.46502731829762,
       frontendQuestionId: "754",
       paidOnly: false,
       title: "Reach a Number",
@@ -5279,6 +6033,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.199027841278244,
       frontendQuestionId: "755",
       paidOnly: true,
       title: "Pour Water",
@@ -5286,6 +6041,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.93412810362349,
       frontendQuestionId: "756",
       paidOnly: false,
       title: "Pyramid Transition Matrix",
@@ -5293,6 +6049,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.76538942413767,
       frontendQuestionId: "757",
       paidOnly: false,
       title: "Set Intersection Size At Least Two",
@@ -5300,6 +6057,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.64441114292595,
       frontendQuestionId: "758",
       paidOnly: true,
       title: "Bold Words in String",
@@ -5307,6 +6065,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.29660192358071,
       frontendQuestionId: "759",
       paidOnly: true,
       title: "Employee Free Time",
@@ -5314,6 +6073,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.72451532712392,
       frontendQuestionId: "760",
       paidOnly: true,
       title: "Find Anagram Mappings",
@@ -5321,6 +6081,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.92707474014188,
       frontendQuestionId: "761",
       paidOnly: false,
       title: "Special Binary String",
@@ -5328,6 +6089,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.07257011296164,
       frontendQuestionId: "762",
       paidOnly: false,
       title: "Prime Number of Set Bits in Binary Representation",
@@ -5335,6 +6097,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 80.03316212816823,
       frontendQuestionId: "763",
       paidOnly: false,
       title: "Partition Labels",
@@ -5342,6 +6105,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.4886069105885,
       frontendQuestionId: "764",
       paidOnly: false,
       title: "Largest Plus Sign",
@@ -5349,6 +6113,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.697735130177094,
       frontendQuestionId: "765",
       paidOnly: false,
       title: "Couples Holding Hands",
@@ -5356,6 +6121,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.13926345029871,
       frontendQuestionId: "766",
       paidOnly: false,
       title: "Toeplitz Matrix",
@@ -5363,6 +6129,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.065537833351286,
       frontendQuestionId: "767",
       paidOnly: false,
       title: "Reorganize String",
@@ -5370,6 +6137,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.43629035476276,
       frontendQuestionId: "768",
       paidOnly: false,
       title: "Max Chunks To Make Sorted II",
@@ -5377,6 +6145,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.62417990444674,
       frontendQuestionId: "769",
       paidOnly: false,
       title: "Max Chunks To Make Sorted",
@@ -5384,6 +6153,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.587551783368696,
       frontendQuestionId: "770",
       paidOnly: false,
       title: "Basic Calculator IV",
@@ -5391,6 +6161,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 88.9003971273946,
       frontendQuestionId: "771",
       paidOnly: false,
       title: "Jewels and Stones",
@@ -5398,6 +6169,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.14750787467326,
       frontendQuestionId: "772",
       paidOnly: true,
       title: "Basic Calculator III",
@@ -5405,6 +6177,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.20184022976278,
       frontendQuestionId: "773",
       paidOnly: false,
       title: "Sliding Puzzle",
@@ -5412,6 +6185,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.437223042836045,
       frontendQuestionId: "774",
       paidOnly: true,
       title: "Minimize Max Distance to Gas Station",
@@ -5419,6 +6193,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 42.41937591185245,
       frontendQuestionId: "775",
       paidOnly: false,
       title: "Global and Local Inversions",
@@ -5426,6 +6201,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.58788603971342,
       frontendQuestionId: "776",
       paidOnly: true,
       title: "Split BST",
@@ -5433,6 +6209,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.91688995462288,
       frontendQuestionId: "777",
       paidOnly: false,
       title: "Swap Adjacent in LR String",
@@ -5440,6 +6217,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.58961389310404,
       frontendQuestionId: "778",
       paidOnly: false,
       title: "Swim in Rising Water",
@@ -5447,6 +6225,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.82240090156519,
       frontendQuestionId: "779",
       paidOnly: false,
       title: "K-th Symbol in Grammar",
@@ -5454,6 +6233,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.41714943483102,
       frontendQuestionId: "780",
       paidOnly: false,
       title: "Reaching Points",
@@ -5461,6 +6241,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.95622008963614,
       frontendQuestionId: "781",
       paidOnly: false,
       title: "Rabbits in Forest",
@@ -5468,6 +6249,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.735253468959044,
       frontendQuestionId: "782",
       paidOnly: false,
       title: "Transform to Chessboard",
@@ -5475,6 +6257,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.82663603752447,
       frontendQuestionId: "783",
       paidOnly: false,
       title: "Minimum Distance Between BST Nodes",
@@ -5482,6 +6265,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 74.48442513194102,
       frontendQuestionId: "784",
       paidOnly: false,
       title: "Letter Case Permutation",
@@ -5489,6 +6273,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.46886312605967,
       frontendQuestionId: "785",
       paidOnly: false,
       title: "Is Graph Bipartite?",
@@ -5496,6 +6281,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.23188353927507,
       frontendQuestionId: "786",
       paidOnly: false,
       title: "K-th Smallest Prime Fraction",
@@ -5503,6 +6289,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.6577383806342,
       frontendQuestionId: "787",
       paidOnly: false,
       title: "Cheapest Flights Within K Stops",
@@ -5510,6 +6297,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.462868557080924,
       frontendQuestionId: "788",
       paidOnly: false,
       title: "Rotated Digits",
@@ -5517,6 +6305,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.40106063004591,
       frontendQuestionId: "789",
       paidOnly: false,
       title: "Escape The Ghosts",
@@ -5524,6 +6313,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.700734727122814,
       frontendQuestionId: "790",
       paidOnly: false,
       title: "Domino and Tromino Tiling",
@@ -5531,6 +6321,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.07632118123692,
       frontendQuestionId: "791",
       paidOnly: false,
       title: "Custom Sort String",
@@ -5538,6 +6329,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.817772387584625,
       frontendQuestionId: "792",
       paidOnly: false,
       title: "Number of Matching Subsequences",
@@ -5545,6 +6337,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.16048315552422,
       frontendQuestionId: "793",
       paidOnly: false,
       title: "Preimage Size of Factorial Zeroes Function",
@@ -5552,6 +6345,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 34.69715156271641,
       frontendQuestionId: "794",
       paidOnly: false,
       title: "Valid Tic-Tac-Toe State",
@@ -5559,6 +6353,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.355967424469696,
       frontendQuestionId: "795",
       paidOnly: false,
       title: "Number of Subarrays with Bounded Maximum",
@@ -5566,6 +6361,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.439582738831284,
       frontendQuestionId: "796",
       paidOnly: false,
       title: "Rotate String",
@@ -5573,6 +6369,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 82.6967026770879,
       frontendQuestionId: "797",
       paidOnly: false,
       title: "All Paths From Source to Target",
@@ -5580,6 +6377,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.484763956075,
       frontendQuestionId: "798",
       paidOnly: false,
       title: "Smallest Rotation with Highest Score",
@@ -5587,6 +6385,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.26743083940524,
       frontendQuestionId: "799",
       paidOnly: false,
       title: "Champagne Tower",
@@ -5594,6 +6393,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.60530871321409,
       frontendQuestionId: "800",
       paidOnly: true,
       title: "Similar RGB Color",
@@ -5601,6 +6401,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.326988775012204,
       frontendQuestionId: "801",
       paidOnly: false,
       title: "Minimum Swaps To Make Sequences Increasing",
@@ -5608,6 +6409,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.23901129199612,
       frontendQuestionId: "802",
       paidOnly: false,
       title: "Find Eventual Safe States",
@@ -5615,6 +6417,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.00821421786117,
       frontendQuestionId: "803",
       paidOnly: false,
       title: "Bricks Falling When Hit",
@@ -5622,6 +6425,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.00176915290406,
       frontendQuestionId: "804",
       paidOnly: false,
       title: "Unique Morse Code Words",
@@ -5629,6 +6433,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 25.571470250978745,
       frontendQuestionId: "805",
       paidOnly: false,
       title: "Split Array With Same Average",
@@ -5636,6 +6441,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.24883951054296,
       frontendQuestionId: "806",
       paidOnly: false,
       title: "Number of Lines To Write String",
@@ -5643,6 +6449,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 86.24133599800659,
       frontendQuestionId: "807",
       paidOnly: false,
       title: "Max Increase to Keep City Skyline",
@@ -5650,6 +6457,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.75262448685406,
       frontendQuestionId: "808",
       paidOnly: false,
       title: "Soup Servings",
@@ -5657,6 +6465,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.239745720745795,
       frontendQuestionId: "809",
       paidOnly: false,
       title: "Expressive Words",
@@ -5664,6 +6473,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.15014050582096,
       frontendQuestionId: "810",
       paidOnly: false,
       title: "Chalkboard XOR Game",
@@ -5671,6 +6481,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.48284282059895,
       frontendQuestionId: "811",
       paidOnly: false,
       title: "Subdomain Visit Count",
@@ -5678,6 +6489,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.19962717254236,
       frontendQuestionId: "812",
       paidOnly: false,
       title: "Largest Triangle Area",
@@ -5685,6 +6497,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.796335501751415,
       frontendQuestionId: "813",
       paidOnly: false,
       title: "Largest Sum of Averages",
@@ -5692,6 +6505,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.2669140433158,
       frontendQuestionId: "814",
       paidOnly: false,
       title: "Binary Tree Pruning",
@@ -5699,6 +6513,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.44206982070438,
       frontendQuestionId: "815",
       paidOnly: false,
       title: "Bus Routes",
@@ -5706,6 +6521,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.94287983157583,
       frontendQuestionId: "816",
       paidOnly: false,
       title: "Ambiguous Coordinates",
@@ -5713,6 +6529,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.97875759667726,
       frontendQuestionId: "817",
       paidOnly: false,
       title: "Linked List Components",
@@ -5720,6 +6537,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.84833001356774,
       frontendQuestionId: "818",
       paidOnly: false,
       title: "Race Car",
@@ -5727,6 +6545,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.35599196332466,
       frontendQuestionId: "819",
       paidOnly: false,
       title: "Most Common Word",
@@ -5734,6 +6553,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.477353764913445,
       frontendQuestionId: "820",
       paidOnly: false,
       title: "Short Encoding of Words",
@@ -5741,6 +6561,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.83605567864792,
       frontendQuestionId: "821",
       paidOnly: false,
       title: "Shortest Distance to a Character",
@@ -5748,6 +6569,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.17611551662919,
       frontendQuestionId: "822",
       paidOnly: false,
       title: "Card Flipping Game",
@@ -5755,6 +6577,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.90993071593534,
       frontendQuestionId: "823",
       paidOnly: false,
       title: "Binary Trees With Factors",
@@ -5762,6 +6585,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.62392810417023,
       frontendQuestionId: "824",
       paidOnly: false,
       title: "Goat Latin",
@@ -5769,6 +6593,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.04261185612232,
       frontendQuestionId: "825",
       paidOnly: false,
       title: "Friends Of Appropriate Ages",
@@ -5776,6 +6601,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.88340552289628,
       frontendQuestionId: "826",
       paidOnly: false,
       title: "Most Profit Assigning Work",
@@ -5783,6 +6609,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.678402885335544,
       frontendQuestionId: "827",
       paidOnly: false,
       title: "Making A Large Island",
@@ -5790,6 +6617,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.665257263259114,
       frontendQuestionId: "828",
       paidOnly: false,
       title: "Count Unique Characters of All Substrings of a Given String",
@@ -5797,6 +6625,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 41.93206542126191,
       frontendQuestionId: "829",
       paidOnly: false,
       title: "Consecutive Numbers Sum",
@@ -5804,6 +6633,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.543031882474104,
       frontendQuestionId: "830",
       paidOnly: false,
       title: "Positions of Large Groups",
@@ -5811,6 +6641,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.7223082973804,
       frontendQuestionId: "831",
       paidOnly: false,
       title: "Masking Personal Information",
@@ -5818,6 +6649,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.42426211282806,
       frontendQuestionId: "832",
       paidOnly: false,
       title: "Flipping an Image",
@@ -5825,6 +6657,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.04794660491725,
       frontendQuestionId: "833",
       paidOnly: false,
       title: "Find And Replace in String",
@@ -5832,6 +6665,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.29462475260749,
       frontendQuestionId: "834",
       paidOnly: false,
       title: "Sum of Distances in Tree",
@@ -5839,6 +6673,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.66595152537644,
       frontendQuestionId: "835",
       paidOnly: false,
       title: "Image Overlap",
@@ -5846,6 +6681,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.12279785674869,
       frontendQuestionId: "836",
       paidOnly: false,
       title: "Rectangle Overlap",
@@ -5853,6 +6689,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.95682390154926,
       frontendQuestionId: "837",
       paidOnly: false,
       title: "New 21 Game",
@@ -5860,6 +6697,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.24816388248848,
       frontendQuestionId: "838",
       paidOnly: false,
       title: "Push Dominoes",
@@ -5867,6 +6705,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.146356912810354,
       frontendQuestionId: "839",
       paidOnly: false,
       title: "Similar String Groups",
@@ -5874,6 +6713,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.699110392672885,
       frontendQuestionId: "840",
       paidOnly: false,
       title: "Magic Squares In Grid",
@@ -5881,6 +6721,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.66169921901437,
       frontendQuestionId: "841",
       paidOnly: false,
       title: "Keys and Rooms",
@@ -5888,6 +6729,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.18143249313701,
       frontendQuestionId: "842",
       paidOnly: false,
       title: "Split Array into Fibonacci Sequence",
@@ -5895,6 +6737,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.56541614327709,
       frontendQuestionId: "843",
       paidOnly: false,
       title: "Guess the Word",
@@ -5902,6 +6745,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.278433126797374,
       frontendQuestionId: "844",
       paidOnly: false,
       title: "Backspace String Compare",
@@ -5909,6 +6753,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.622217707480594,
       frontendQuestionId: "845",
       paidOnly: false,
       title: "Longest Mountain in Array",
@@ -5916,6 +6761,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.78402165368461,
       frontendQuestionId: "846",
       paidOnly: false,
       title: "Hand of Straights",
@@ -5923,6 +6769,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.43032807953692,
       frontendQuestionId: "847",
       paidOnly: false,
       title: "Shortest Path Visiting All Nodes",
@@ -5930,6 +6777,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.85832579165738,
       frontendQuestionId: "848",
       paidOnly: false,
       title: "Shifting Letters",
@@ -5937,6 +6785,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.369112621685815,
       frontendQuestionId: "849",
       paidOnly: false,
       title: "Maximize Distance to Closest Person",
@@ -5944,6 +6793,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.28549928512303,
       frontendQuestionId: "850",
       paidOnly: false,
       title: "Rectangle Area II",
@@ -5951,6 +6801,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.23456516928524,
       frontendQuestionId: "851",
       paidOnly: false,
       title: "Loud and Rich",
@@ -5958,6 +6809,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.18221274273951,
       frontendQuestionId: "852",
       paidOnly: false,
       title: "Peak Index in a Mountain Array",
@@ -5965,6 +6817,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.00222777243512,
       frontendQuestionId: "853",
       paidOnly: false,
       title: "Car Fleet",
@@ -5972,6 +6825,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.04730194407635,
       frontendQuestionId: "854",
       paidOnly: false,
       title: "K-Similar Strings",
@@ -5979,6 +6833,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.56084424638434,
       frontendQuestionId: "855",
       paidOnly: false,
       title: "Exam Room",
@@ -5986,6 +6841,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.00863779465065,
       frontendQuestionId: "856",
       paidOnly: false,
       title: "Score of Parentheses",
@@ -5993,6 +6849,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.53640759439665,
       frontendQuestionId: "857",
       paidOnly: false,
       title: "Minimum Cost to Hire K Workers",
@@ -6000,6 +6857,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.39587891629624,
       frontendQuestionId: "858",
       paidOnly: false,
       title: "Mirror Reflection",
@@ -6007,6 +6865,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.242886341934344,
       frontendQuestionId: "859",
       paidOnly: false,
       title: "Buddy Strings",
@@ -6014,6 +6873,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.33358041606651,
       frontendQuestionId: "860",
       paidOnly: false,
       title: "Lemonade Change",
@@ -6021,6 +6881,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 80.3944777420292,
       frontendQuestionId: "861",
       paidOnly: false,
       title: "Score After Flipping Matrix",
@@ -6028,6 +6889,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.181532038382404,
       frontendQuestionId: "862",
       paidOnly: false,
       title: "Shortest Subarray with Sum at Least K",
@@ -6035,6 +6897,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.06665036076801,
       frontendQuestionId: "863",
       paidOnly: false,
       title: "All Nodes Distance K in Binary Tree",
@@ -6042,6 +6905,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.54853541773726,
       frontendQuestionId: "864",
       paidOnly: false,
       title: "Shortest Path to Get All Keys",
@@ -6049,6 +6913,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.05044516221012,
       frontendQuestionId: "865",
       paidOnly: false,
       title: "Smallest Subtree with all the Deepest Nodes",
@@ -6056,6 +6921,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.17726498737596,
       frontendQuestionId: "866",
       paidOnly: false,
       title: "Prime Palindrome",
@@ -6063,6 +6929,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.6183314037651,
       frontendQuestionId: "867",
       paidOnly: false,
       title: "Transpose Matrix",
@@ -6070,6 +6937,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.00310375406444,
       frontendQuestionId: "868",
       paidOnly: false,
       title: "Binary Gap",
@@ -6077,6 +6945,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.56254680834898,
       frontendQuestionId: "869",
       paidOnly: false,
       title: "Reordered Power of 2",
@@ -6084,6 +6953,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.79862651554286,
       frontendQuestionId: "870",
       paidOnly: false,
       title: "Advantage Shuffle",
@@ -6091,6 +6961,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.21132105394323,
       frontendQuestionId: "871",
       paidOnly: false,
       title: "Minimum Number of Refueling Stops",
@@ -6098,6 +6969,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.06504502083052,
       frontendQuestionId: "872",
       paidOnly: false,
       title: "Leaf-Similar Trees",
@@ -6105,6 +6977,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.476250754781496,
       frontendQuestionId: "873",
       paidOnly: false,
       title: "Length of Longest Fibonacci Subsequence",
@@ -6112,6 +6985,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.89265730186982,
       frontendQuestionId: "874",
       paidOnly: false,
       title: "Walking Robot Simulation",
@@ -6119,6 +6993,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.40609998941809,
       frontendQuestionId: "875",
       paidOnly: false,
       title: "Koko Eating Bananas",
@@ -6126,6 +7001,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.4035432835464,
       frontendQuestionId: "876",
       paidOnly: false,
       title: "Middle of the Linked List",
@@ -6133,6 +7009,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.15547657090684,
       frontendQuestionId: "877",
       paidOnly: false,
       title: "Stone Game",
@@ -6140,6 +7017,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.678985348786355,
       frontendQuestionId: "878",
       paidOnly: false,
       title: "Nth Magical Number",
@@ -6147,6 +7025,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.152885796152276,
       frontendQuestionId: "879",
       paidOnly: false,
       title: "Profitable Schemes",
@@ -6154,6 +7033,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 36.52045996674495,
       frontendQuestionId: "880",
       paidOnly: false,
       title: "Decoded String at Index",
@@ -6161,6 +7041,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.63216983281945,
       frontendQuestionId: "881",
       paidOnly: false,
       title: "Boats to Save People",
@@ -6168,6 +7049,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.556697499143546,
       frontendQuestionId: "882",
       paidOnly: false,
       title: "Reachable Nodes In Subdivided Graph",
@@ -6175,6 +7057,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.30801019524387,
       frontendQuestionId: "883",
       paidOnly: false,
       title: "Projection Area of 3D Shapes",
@@ -6182,6 +7065,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 75.17192347135803,
       frontendQuestionId: "884",
       paidOnly: false,
       title: "Uncommon Words from Two Sentences",
@@ -6189,6 +7073,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 84.63956085353712,
       frontendQuestionId: "885",
       paidOnly: false,
       title: "Spiral Matrix III",
@@ -6196,6 +7081,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.81832239826656,
       frontendQuestionId: "886",
       paidOnly: false,
       title: "Possible Bipartition",
@@ -6203,6 +7089,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.06919926974914,
       frontendQuestionId: "887",
       paidOnly: false,
       title: "Super Egg Drop",
@@ -6210,6 +7097,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.282195978417064,
       frontendQuestionId: "888",
       paidOnly: false,
       title: "Fair Candy Swap",
@@ -6217,6 +7105,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.73444653918665,
       frontendQuestionId: "889",
       paidOnly: false,
       title: "Construct Binary Tree from Preorder and Postorder Traversal",
@@ -6224,6 +7113,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.8024016074504,
       frontendQuestionId: "890",
       paidOnly: false,
       title: "Find and Replace Pattern",
@@ -6231,6 +7121,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.222736936718924,
       frontendQuestionId: "891",
       paidOnly: false,
       title: "Sum of Subsequence Widths",
@@ -6238,6 +7129,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.80406231388898,
       frontendQuestionId: "892",
       paidOnly: false,
       title: "Surface Area of 3D Shapes",
@@ -6245,6 +7137,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.17207255193294,
       frontendQuestionId: "893",
       paidOnly: false,
       title: "Groups of Special-Equivalent Strings",
@@ -6252,6 +7145,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.7990301724138,
       frontendQuestionId: "894",
       paidOnly: false,
       title: "All Possible Full Binary Trees",
@@ -6259,6 +7153,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.51403514551237,
       frontendQuestionId: "895",
       paidOnly: false,
       title: "Maximum Frequency Stack",
@@ -6266,6 +7161,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.39855485960864,
       frontendQuestionId: "896",
       paidOnly: false,
       title: "Monotonic Array",
@@ -6273,6 +7169,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 78.44511044864947,
       frontendQuestionId: "897",
       paidOnly: false,
       title: "Increasing Order Search Tree",
@@ -6280,6 +7177,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.68668140144073,
       frontendQuestionId: "898",
       paidOnly: false,
       title: "Bitwise ORs of Subarrays",
@@ -6287,6 +7185,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.04946712979424,
       frontendQuestionId: "899",
       paidOnly: false,
       title: "Orderly Queue",
@@ -6294,6 +7193,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.66343662148792,
       frontendQuestionId: "900",
       paidOnly: false,
       title: "RLE Iterator",
@@ -6301,6 +7201,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.58896945466884,
       frontendQuestionId: "901",
       paidOnly: false,
       title: "Online Stock Span",
@@ -6308,6 +7209,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.748105796495146,
       frontendQuestionId: "902",
       paidOnly: false,
       title: "Numbers At Most N Given Digit Set",
@@ -6315,6 +7217,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.21590139509685,
       frontendQuestionId: "903",
       paidOnly: false,
       title: "Valid Permutations for DI Sequence",
@@ -6322,6 +7225,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.94348089579284,
       frontendQuestionId: "904",
       paidOnly: false,
       title: "Fruit Into Baskets",
@@ -6329,6 +7233,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.24871176411091,
       frontendQuestionId: "905",
       paidOnly: false,
       title: "Sort Array By Parity",
@@ -6336,6 +7241,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.037441473392754,
       frontendQuestionId: "906",
       paidOnly: false,
       title: "Super Palindromes",
@@ -6343,6 +7249,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 37.254226764858565,
       frontendQuestionId: "907",
       paidOnly: false,
       title: "Sum of Subarray Minimums",
@@ -6350,6 +7257,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.72066101095793,
       frontendQuestionId: "908",
       paidOnly: false,
       title: "Smallest Range I",
@@ -6357,6 +7265,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.86073293792946,
       frontendQuestionId: "909",
       paidOnly: false,
       title: "Snakes and Ladders",
@@ -6364,6 +7273,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.55031984171197,
       frontendQuestionId: "910",
       paidOnly: false,
       title: "Smallest Range II",
@@ -6371,6 +7281,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.18710302868222,
       frontendQuestionId: "911",
       paidOnly: false,
       title: "Online Election",
@@ -6378,6 +7289,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.728153587990114,
       frontendQuestionId: "912",
       paidOnly: false,
       title: "Sort an Array",
@@ -6385,6 +7297,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.76578925922908,
       frontendQuestionId: "913",
       paidOnly: false,
       title: "Cat and Mouse",
@@ -6392,6 +7305,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 29.880626132193782,
       frontendQuestionId: "914",
       paidOnly: false,
       title: "X of a Kind in a Deck of Cards",
@@ -6399,6 +7313,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.781368581549714,
       frontendQuestionId: "915",
       paidOnly: false,
       title: "Partition Array into Disjoint Intervals",
@@ -6406,6 +7321,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.79932825078637,
       frontendQuestionId: "916",
       paidOnly: false,
       title: "Word Subsets",
@@ -6413,6 +7329,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.57441004031287,
       frontendQuestionId: "917",
       paidOnly: false,
       title: "Reverse Only Letters",
@@ -6420,6 +7337,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.79725032739895,
       frontendQuestionId: "918",
       paidOnly: false,
       title: "Maximum Sum Circular Subarray",
@@ -6427,6 +7345,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.00013742870885,
       frontendQuestionId: "919",
       paidOnly: false,
       title: "Complete Binary Tree Inserter",
@@ -6434,6 +7353,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.358369116815844,
       frontendQuestionId: "920",
       paidOnly: false,
       title: "Number of Music Playlists",
@@ -6441,6 +7361,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.81752179155833,
       frontendQuestionId: "921",
       paidOnly: false,
       title: "Minimum Add to Make Parentheses Valid",
@@ -6448,6 +7369,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.86774291645182,
       frontendQuestionId: "922",
       paidOnly: false,
       title: "Sort Array By Parity II",
@@ -6455,6 +7377,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.559726303597095,
       frontendQuestionId: "923",
       paidOnly: false,
       title: "3Sum With Multiplicity",
@@ -6462,6 +7385,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.06131260148305,
       frontendQuestionId: "924",
       paidOnly: false,
       title: "Minimize Malware Spread",
@@ -6469,6 +7393,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 32.30122315974728,
       frontendQuestionId: "925",
       paidOnly: false,
       title: "Long Pressed Name",
@@ -6476,6 +7401,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.531425050766686,
       frontendQuestionId: "926",
       paidOnly: false,
       title: "Flip String to Monotone Increasing",
@@ -6483,6 +7409,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.05283981467021,
       frontendQuestionId: "927",
       paidOnly: false,
       title: "Three Equal Parts",
@@ -6490,6 +7417,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.08271647600167,
       frontendQuestionId: "928",
       paidOnly: false,
       title: "Minimize Malware Spread II",
@@ -6497,6 +7425,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.32235729555535,
       frontendQuestionId: "929",
       paidOnly: false,
       title: "Unique Email Addresses",
@@ -6504,6 +7433,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.94468373497367,
       frontendQuestionId: "930",
       paidOnly: false,
       title: "Binary Subarrays With Sum",
@@ -6511,6 +7441,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.709637176964314,
       frontendQuestionId: "931",
       paidOnly: false,
       title: "Minimum Falling Path Sum",
@@ -6518,6 +7449,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.0467450530542,
       frontendQuestionId: "932",
       paidOnly: false,
       title: "Beautiful Array",
@@ -6525,6 +7457,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.31598452393305,
       frontendQuestionId: "933",
       paidOnly: false,
       title: "Number of Recent Calls",
@@ -6532,6 +7465,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.96192014336956,
       frontendQuestionId: "934",
       paidOnly: false,
       title: "Shortest Bridge",
@@ -6539,6 +7473,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.613944506282934,
       frontendQuestionId: "935",
       paidOnly: false,
       title: "Knight Dialer",
@@ -6546,6 +7481,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.51538841949095,
       frontendQuestionId: "936",
       paidOnly: false,
       title: "Stamping The Sequence",
@@ -6553,6 +7489,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.54151172325316,
       frontendQuestionId: "937",
       paidOnly: false,
       title: "Reorder Data in Log Files",
@@ -6560,6 +7497,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 87.07484109147522,
       frontendQuestionId: "938",
       paidOnly: false,
       title: "Range Sum of BST",
@@ -6567,6 +7505,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.28131143291256,
       frontendQuestionId: "939",
       paidOnly: false,
       title: "Minimum Area Rectangle",
@@ -6574,6 +7513,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.28150167265519,
       frontendQuestionId: "940",
       paidOnly: false,
       title: "Distinct Subsequences II",
@@ -6581,6 +7521,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 33.57990061905731,
       frontendQuestionId: "941",
       paidOnly: false,
       title: "Valid Mountain Array",
@@ -6588,6 +7529,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 79.2757793764988,
       frontendQuestionId: "942",
       paidOnly: false,
       title: "DI String Match",
@@ -6595,6 +7537,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.23065684899486,
       frontendQuestionId: "943",
       paidOnly: false,
       title: "Find the Shortest Superstring",
@@ -6602,6 +7545,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.67866569391022,
       frontendQuestionId: "944",
       paidOnly: false,
       title: "Delete Columns to Make Sorted",
@@ -6609,6 +7553,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.07851067626242,
       frontendQuestionId: "945",
       paidOnly: false,
       title: "Minimum Increment to Make Array Unique",
@@ -6616,6 +7561,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.60815135994271,
       frontendQuestionId: "946",
       paidOnly: false,
       title: "Validate Stack Sequences",
@@ -6623,6 +7569,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.12207586785552,
       frontendQuestionId: "947",
       paidOnly: false,
       title: "Most Stones Removed with Same Row or Column",
@@ -6630,6 +7577,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.02864601566329,
       frontendQuestionId: "948",
       paidOnly: false,
       title: "Bag of Tokens",
@@ -6637,6 +7585,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.446816946741144,
       frontendQuestionId: "949",
       paidOnly: false,
       title: "Largest Time for Given Digits",
@@ -6644,6 +7593,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.05018391798318,
       frontendQuestionId: "950",
       paidOnly: false,
       title: "Reveal Cards In Increasing Order",
@@ -6651,6 +7601,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.10511917007726,
       frontendQuestionId: "951",
       paidOnly: false,
       title: "Flip Equivalent Binary Trees",
@@ -6658,6 +7609,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.96653672412142,
       frontendQuestionId: "952",
       paidOnly: false,
       title: "Largest Component Size by Common Factor",
@@ -6665,6 +7617,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.231241752308826,
       frontendQuestionId: "953",
       paidOnly: false,
       title: "Verifying an Alien Dictionary",
@@ -6672,6 +7625,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.20242397191488,
       frontendQuestionId: "954",
       paidOnly: false,
       title: "Array of Doubled Pairs",
@@ -6679,6 +7633,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.290574120245644,
       frontendQuestionId: "955",
       paidOnly: false,
       title: "Delete Columns to Make Sorted II",
@@ -6686,6 +7641,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.11413238536343,
       frontendQuestionId: "956",
       paidOnly: false,
       title: "Tallest Billboard",
@@ -6693,6 +7649,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 39.01324958475725,
       frontendQuestionId: "957",
       paidOnly: false,
       title: "Prison Cells After N Days",
@@ -6700,6 +7657,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.309649942869015,
       frontendQuestionId: "958",
       paidOnly: false,
       title: "Check Completeness of a Binary Tree",
@@ -6707,6 +7665,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 77.96458614542576,
       frontendQuestionId: "959",
       paidOnly: false,
       title: "Regions Cut By Slashes",
@@ -6714,6 +7673,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.3853280393269,
       frontendQuestionId: "960",
       paidOnly: false,
       title: "Delete Columns to Make Sorted III",
@@ -6721,6 +7681,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 77.0166423229818,
       frontendQuestionId: "961",
       paidOnly: false,
       title: "N-Repeated Element in Size 2N Array",
@@ -6728,6 +7689,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.78618706759711,
       frontendQuestionId: "962",
       paidOnly: false,
       title: "Maximum Width Ramp",
@@ -6735,6 +7697,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.21059009290199,
       frontendQuestionId: "963",
       paidOnly: false,
       title: "Minimum Area Rectangle II",
@@ -6742,6 +7705,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.60559630027561,
       frontendQuestionId: "964",
       paidOnly: false,
       title: "Least Operators to Express Number",
@@ -6749,6 +7713,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.39941645954583,
       frontendQuestionId: "965",
       paidOnly: false,
       title: "Univalued Binary Tree",
@@ -6756,6 +7721,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.44311578542957,
       frontendQuestionId: "966",
       paidOnly: false,
       title: "Vowel Spellchecker",
@@ -6763,6 +7729,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.32472001395145,
       frontendQuestionId: "967",
       paidOnly: false,
       title: "Numbers With Same Consecutive Differences",
@@ -6770,6 +7737,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.847288614426766,
       frontendQuestionId: "968",
       paidOnly: false,
       title: "Binary Tree Cameras",
@@ -6777,6 +7745,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.99919058769115,
       frontendQuestionId: "969",
       paidOnly: false,
       title: "Pancake Sorting",
@@ -6784,6 +7753,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.90415840356966,
       frontendQuestionId: "970",
       paidOnly: false,
       title: "Powerful Integers",
@@ -6791,6 +7761,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.792800139803106,
       frontendQuestionId: "971",
       paidOnly: false,
       title: "Flip Binary Tree To Match Preorder Traversal",
@@ -6798,6 +7769,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.53865893116144,
       frontendQuestionId: "972",
       paidOnly: false,
       title: "Equal Rational Numbers",
@@ -6805,6 +7777,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.92900843985169,
       frontendQuestionId: "973",
       paidOnly: false,
       title: "K Closest Points to Origin",
@@ -6812,6 +7785,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.46906500434397,
       frontendQuestionId: "974",
       paidOnly: false,
       title: "Subarray Sums Divisible by K",
@@ -6819,6 +7793,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.325039912461655,
       frontendQuestionId: "975",
       paidOnly: false,
       title: "Odd Even Jump",
@@ -6826,6 +7801,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.44272086047077,
       frontendQuestionId: "976",
       paidOnly: false,
       title: "Largest Perimeter Triangle",
@@ -6833,6 +7809,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.97238058354802,
       frontendQuestionId: "977",
       paidOnly: false,
       title: "Squares of a Sorted Array",
@@ -6840,6 +7817,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.61348598022933,
       frontendQuestionId: "978",
       paidOnly: false,
       title: "Longest Turbulent Subarray",
@@ -6847,6 +7825,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 77.13880609530199,
       frontendQuestionId: "979",
       paidOnly: false,
       title: "Distribute Coins in Binary Tree",
@@ -6854,6 +7833,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.01446678508545,
       frontendQuestionId: "980",
       paidOnly: false,
       title: "Unique Paths III",
@@ -6861,6 +7841,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.27648705929362,
       frontendQuestionId: "981",
       paidOnly: false,
       title: "Time Based Key-Value Store",
@@ -6868,6 +7849,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.56455565977791,
       frontendQuestionId: "982",
       paidOnly: false,
       title: "Triples with Bitwise AND Equal To Zero",
@@ -6875,6 +7857,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.24275777678939,
       frontendQuestionId: "983",
       paidOnly: false,
       title: "Minimum Cost For Tickets",
@@ -6882,6 +7865,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.11229415229872,
       frontendQuestionId: "984",
       paidOnly: false,
       title: "String Without AAA or BBB",
@@ -6889,6 +7873,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.26576241228427,
       frontendQuestionId: "985",
       paidOnly: false,
       title: "Sum of Even Numbers After Queries",
@@ -6896,6 +7881,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.90949763939128,
       frontendQuestionId: "986",
       paidOnly: false,
       title: "Interval List Intersections",
@@ -6903,6 +7889,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.92628370462,
       frontendQuestionId: "987",
       paidOnly: false,
       title: "Vertical Order Traversal of a Binary Tree",
@@ -6910,6 +7897,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.55413588564171,
       frontendQuestionId: "988",
       paidOnly: false,
       title: "Smallest String Starting From Leaf",
@@ -6917,6 +7905,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.08619327310559,
       frontendQuestionId: "989",
       paidOnly: false,
       title: "Add to Array-Form of Integer",
@@ -6924,6 +7913,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.7005518355515,
       frontendQuestionId: "990",
       paidOnly: false,
       title: "Satisfiability of Equality Equations",
@@ -6931,6 +7921,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.75332435001514,
       frontendQuestionId: "991",
       paidOnly: false,
       title: "Broken Calculator",
@@ -6938,6 +7929,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.22841275908937,
       frontendQuestionId: "992",
       paidOnly: false,
       title: "Subarrays with K Different Integers",
@@ -6945,6 +7937,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.74947127212515,
       frontendQuestionId: "993",
       paidOnly: false,
       title: "Cousins in Binary Tree",
@@ -6952,6 +7945,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.05822291988798,
       frontendQuestionId: "994",
       paidOnly: false,
       title: "Rotting Oranges",
@@ -6959,6 +7953,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.71663046710039,
       frontendQuestionId: "995",
       paidOnly: false,
       title: "Minimum Number of K Consecutive Bit Flips",
@@ -6966,6 +7961,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.317760636491535,
       frontendQuestionId: "996",
       paidOnly: false,
       title: "Number of Squareful Arrays",
@@ -6973,6 +7969,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.755626869678146,
       frontendQuestionId: "997",
       paidOnly: false,
       title: "Find the Town Judge",
@@ -6980,6 +7977,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 69.95882504319694,
       frontendQuestionId: "998",
       paidOnly: false,
       title: "Maximum Binary Tree II",
@@ -6987,6 +7985,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.5251157890552,
       frontendQuestionId: "999",
       paidOnly: false,
       title: "Available Captures for Rook",
@@ -6994,6 +7993,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.570906050789006,
       frontendQuestionId: "1000",
       paidOnly: false,
       title: "Minimum Cost to Merge Stones",
@@ -7001,6 +8001,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 37.406008699463875,
       frontendQuestionId: "1001",
       paidOnly: false,
       title: "Grid Illumination",
@@ -7008,6 +8009,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.62989083648914,
       frontendQuestionId: "1002",
       paidOnly: false,
       title: "Find Common Characters",
@@ -7015,6 +8017,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.17805797153215,
       frontendQuestionId: "1003",
       paidOnly: false,
       title: "Check If Word Is Valid After Substitutions",
@@ -7022,6 +8025,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.14859320046892,
       frontendQuestionId: "1004",
       paidOnly: false,
       title: "Max Consecutive Ones III",
@@ -7029,6 +8033,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.51456361586661,
       frontendQuestionId: "1005",
       paidOnly: false,
       title: "Maximize Sum Of Array After K Negations",
@@ -7036,6 +8041,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.842682738371195,
       frontendQuestionId: "1006",
       paidOnly: false,
       title: "Clumsy Factorial",
@@ -7043,6 +8049,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.26258795600063,
       frontendQuestionId: "1007",
       paidOnly: false,
       title: "Minimum Domino Rotations For Equal Row",
@@ -7050,6 +8057,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.59514330302648,
       frontendQuestionId: "1008",
       paidOnly: false,
       title: "Construct Binary Search Tree from Preorder Traversal",
@@ -7057,6 +8065,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.78788798286274,
       frontendQuestionId: "1009",
       paidOnly: false,
       title: "Complement of Base 10 Integer",
@@ -7064,6 +8073,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.0362176799732,
       frontendQuestionId: "1010",
       paidOnly: false,
       title: "Pairs of Songs With Total Durations Divisible by 60",
@@ -7071,6 +8081,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.480847414206,
       frontendQuestionId: "1011",
       paidOnly: false,
       title: "Capacity To Ship Packages Within D Days",
@@ -7078,6 +8089,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.69144249695379,
       frontendQuestionId: "1012",
       paidOnly: false,
       title: "Numbers With Repeated Digits",
@@ -7085,6 +8097,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 42.04199519332125,
       frontendQuestionId: "1013",
       paidOnly: false,
       title: "Partition Array Into Three Parts With Equal Sum",
@@ -7092,6 +8105,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 59.444474031468765,
       frontendQuestionId: "1014",
       paidOnly: false,
       title: "Best Sightseeing Pair",
@@ -7099,6 +8113,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.598283897382295,
       frontendQuestionId: "1015",
       paidOnly: false,
       title: "Smallest Integer Divisible by K",
@@ -7106,6 +8121,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.54279315309551,
       frontendQuestionId: "1016",
       paidOnly: false,
       title: "Binary String With Substrings Representing 1 To N",
@@ -7113,6 +8129,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.194884519946555,
       frontendQuestionId: "1017",
       paidOnly: false,
       title: "Convert to Base -2",
@@ -7120,6 +8137,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.8361310951239,
       frontendQuestionId: "1018",
       paidOnly: false,
       title: "Binary Prefix Divisible By 5",
@@ -7127,6 +8145,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.33467876089047,
       frontendQuestionId: "1019",
       paidOnly: false,
       title: "Next Greater Node In Linked List",
@@ -7134,6 +8153,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.44940974177733,
       frontendQuestionId: "1020",
       paidOnly: false,
       title: "Number of Enclaves",
@@ -7141,6 +8161,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.9850410702758,
       frontendQuestionId: "1021",
       paidOnly: false,
       title: "Remove Outermost Parentheses",
@@ -7148,6 +8169,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.18314462472277,
       frontendQuestionId: "1022",
       paidOnly: false,
       title: "Sum of Root To Leaf Binary Numbers",
@@ -7155,6 +8177,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.82926471845348,
       frontendQuestionId: "1023",
       paidOnly: false,
       title: "Camelcase Matching",
@@ -7162,6 +8185,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.565533198186266,
       frontendQuestionId: "1024",
       paidOnly: false,
       title: "Video Stitching",
@@ -7169,6 +8193,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.31658064179442,
       frontendQuestionId: "1025",
       paidOnly: false,
       title: "Divisor Game",
@@ -7176,6 +8201,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 78.0806493177845,
       frontendQuestionId: "1026",
       paidOnly: false,
       title: "Maximum Difference Between Node and Ancestor",
@@ -7183,6 +8209,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.189508760614856,
       frontendQuestionId: "1027",
       paidOnly: false,
       title: "Longest Arithmetic Subsequence",
@@ -7190,6 +8217,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.19266962482656,
       frontendQuestionId: "1028",
       paidOnly: false,
       title: "Recover a Tree From Preorder Traversal",
@@ -7197,6 +8225,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.02397245626791,
       frontendQuestionId: "1029",
       paidOnly: false,
       title: "Two City Scheduling",
@@ -7204,6 +8233,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.78307144162251,
       frontendQuestionId: "1030",
       paidOnly: false,
       title: "Matrix Cells in Distance Order",
@@ -7211,6 +8241,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 59.92211241557426,
       frontendQuestionId: "1031",
       paidOnly: false,
       title: "Maximum Sum of Two Non-Overlapping Subarrays",
@@ -7218,6 +8249,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.19325587985265,
       frontendQuestionId: "1032",
       paidOnly: false,
       title: "Stream of Characters",
@@ -7225,6 +8257,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.989703634119834,
       frontendQuestionId: "1033",
       paidOnly: false,
       title: "Moving Stones Until Consecutive",
@@ -7232,6 +8265,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.302958177490645,
       frontendQuestionId: "1034",
       paidOnly: false,
       title: "Coloring A Border",
@@ -7239,6 +8273,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.54158663818933,
       frontendQuestionId: "1035",
       paidOnly: false,
       title: "Uncrossed Lines",
@@ -7246,6 +8281,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.851497262410916,
       frontendQuestionId: "1036",
       paidOnly: false,
       title: "Escape a Large Maze",
@@ -7253,6 +8289,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 37.32423163171086,
       frontendQuestionId: "1037",
       paidOnly: false,
       title: "Valid Boomerang",
@@ -7260,6 +8297,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 88.26130225475562,
       frontendQuestionId: "1038",
       paidOnly: false,
       title: "Binary Search Tree to Greater Sum Tree",
@@ -7267,6 +8305,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.750043546420486,
       frontendQuestionId: "1039",
       paidOnly: false,
       title: "Minimum Score Triangulation of Polygon",
@@ -7274,6 +8313,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.22510666735208,
       frontendQuestionId: "1040",
       paidOnly: false,
       title: "Moving Stones Until Consecutive II",
@@ -7281,6 +8321,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.95227715957325,
       frontendQuestionId: "1041",
       paidOnly: false,
       title: "Robot Bounded In Circle",
@@ -7288,6 +8329,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.655616851792296,
       frontendQuestionId: "1042",
       paidOnly: false,
       title: "Flower Planting With No Adjacent",
@@ -7295,6 +8337,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.71178180542651,
       frontendQuestionId: "1043",
       paidOnly: false,
       title: "Partition Array for Maximum Sum",
@@ -7302,6 +8345,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.576337472488184,
       frontendQuestionId: "1044",
       paidOnly: false,
       title: "Longest Duplicate Substring",
@@ -7309,6 +8353,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.37090961192977,
       frontendQuestionId: "1045",
       paidOnly: false,
       title: "Customers Who Bought All Products",
@@ -7316,6 +8361,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.62217402708235,
       frontendQuestionId: "1046",
       paidOnly: false,
       title: "Last Stone Weight",
@@ -7323,6 +8369,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 70.15635244181588,
       frontendQuestionId: "1047",
       paidOnly: false,
       title: "Remove All Adjacent Duplicates In String",
@@ -7330,6 +8377,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.394255837374914,
       frontendQuestionId: "1048",
       paidOnly: false,
       title: "Longest String Chain",
@@ -7337,6 +8385,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.189948480954456,
       frontendQuestionId: "1049",
       paidOnly: false,
       title: "Last Stone Weight II",
@@ -7344,6 +8393,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.24249151493159,
       frontendQuestionId: "1050",
       paidOnly: false,
       title: "Actors and Directors Who Cooperated At Least Three Times",
@@ -7351,6 +8401,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 80.8788107647792,
       frontendQuestionId: "1051",
       paidOnly: false,
       title: "Height Checker",
@@ -7358,6 +8409,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.2504240337171,
       frontendQuestionId: "1052",
       paidOnly: false,
       title: "Grumpy Bookstore Owner",
@@ -7365,6 +8417,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.6684365781711,
       frontendQuestionId: "1053",
       paidOnly: false,
       title: "Previous Permutation With One Swap",
@@ -7372,6 +8425,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.84902118530437,
       frontendQuestionId: "1054",
       paidOnly: false,
       title: "Distant Barcodes",
@@ -7379,6 +8433,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.45630322084998,
       frontendQuestionId: "1055",
       paidOnly: true,
       title: "Shortest Way to Form String",
@@ -7386,6 +8441,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.93525489352549,
       frontendQuestionId: "1056",
       paidOnly: true,
       title: "Confusing Number",
@@ -7393,6 +8449,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.74416066010627,
       frontendQuestionId: "1057",
       paidOnly: true,
       title: "Campus Bikes",
@@ -7400,6 +8457,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.23943661971831,
       frontendQuestionId: "1058",
       paidOnly: true,
       title: "Minimize Rounding Error to Meet Target",
@@ -7407,6 +8465,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.40793209459261,
       frontendQuestionId: "1059",
       paidOnly: true,
       title: "All Paths from Source Lead to Destination",
@@ -7414,6 +8473,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.508049171652374,
       frontendQuestionId: "1060",
       paidOnly: true,
       title: "Missing Element in Sorted Array",
@@ -7421,6 +8481,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.70383339476594,
       frontendQuestionId: "1061",
       paidOnly: false,
       title: "Lexicographically Smallest Equivalent String",
@@ -7428,6 +8489,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.451630735212824,
       frontendQuestionId: "1062",
       paidOnly: true,
       title: "Longest Repeating Substring",
@@ -7435,6 +8497,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.14657160830363,
       frontendQuestionId: "1063",
       paidOnly: true,
       title: "Number of Valid Subarrays",
@@ -7442,6 +8505,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.12543356692858,
       frontendQuestionId: "1064",
       paidOnly: true,
       title: "Fixed Point",
@@ -7449,6 +8513,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.69884206529993,
       frontendQuestionId: "1065",
       paidOnly: true,
       title: "Index Pairs of a String",
@@ -7456,6 +8521,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.218337815341265,
       frontendQuestionId: "1066",
       paidOnly: true,
       title: "Campus Bikes II",
@@ -7463,6 +8529,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.33985491316773,
       frontendQuestionId: "1067",
       paidOnly: true,
       title: "Digit Count in Range",
@@ -7470,6 +8537,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 84.70161376948916,
       frontendQuestionId: "1068",
       paidOnly: false,
       title: "Product Sales Analysis I",
@@ -7477,6 +8545,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 82.02122791219499,
       frontendQuestionId: "1069",
       paidOnly: true,
       title: "Product Sales Analysis II",
@@ -7484,6 +8553,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.81258600842991,
       frontendQuestionId: "1070",
       paidOnly: false,
       title: "Product Sales Analysis III",
@@ -7491,6 +8561,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.8763186173424,
       frontendQuestionId: "1071",
       paidOnly: false,
       title: "Greatest Common Divisor of Strings",
@@ -7498,6 +8569,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.96934701642507,
       frontendQuestionId: "1072",
       paidOnly: false,
       title: "Flip Columns For Maximum Number of Equal Rows",
@@ -7505,6 +8577,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.13671470658492,
       frontendQuestionId: "1073",
       paidOnly: false,
       title: "Adding Two Negabinary Numbers",
@@ -7512,6 +8585,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.42310879602225,
       frontendQuestionId: "1074",
       paidOnly: false,
       title: "Number of Submatrices That Sum to Target",
@@ -7519,6 +8593,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.51312339115164,
       frontendQuestionId: "1075",
       paidOnly: false,
       title: "Project Employees I",
@@ -7526,6 +8601,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.0590030175829,
       frontendQuestionId: "1076",
       paidOnly: true,
       title: "Project Employees II",
@@ -7533,6 +8609,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 76.7101184123596,
       frontendQuestionId: "1077",
       paidOnly: true,
       title: "Project Employees III",
@@ -7540,6 +8617,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.54616155508991,
       frontendQuestionId: "1078",
       paidOnly: false,
       title: "Occurrences After Bigram",
@@ -7547,6 +8625,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 76.43150170451263,
       frontendQuestionId: "1079",
       paidOnly: false,
       title: "Letter Tile Possibilities",
@@ -7554,6 +8633,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.144524047461545,
       frontendQuestionId: "1080",
       paidOnly: false,
       title: "Insufficient Nodes in Root to Leaf Paths",
@@ -7561,6 +8641,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.331470671389845,
       frontendQuestionId: "1081",
       paidOnly: false,
       title: "Smallest Subsequence of Distinct Characters",
@@ -7568,6 +8649,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.51370224463999,
       frontendQuestionId: "1082",
       paidOnly: true,
       title: "Sales Analysis I",
@@ -7575,6 +8657,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.77225946714502,
       frontendQuestionId: "1083",
       paidOnly: true,
       title: "Sales Analysis II",
@@ -7582,6 +8665,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.69661078369667,
       frontendQuestionId: "1084",
       paidOnly: false,
       title: "Sales Analysis III",
@@ -7589,6 +8673,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 76.5369395195214,
       frontendQuestionId: "1085",
       paidOnly: true,
       title: "Sum of Digits in the Minimum Number",
@@ -7596,6 +8681,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 74.52841356163525,
       frontendQuestionId: "1086",
       paidOnly: true,
       title: "High Five",
@@ -7603,6 +8689,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.47693672383205,
       frontendQuestionId: "1087",
       paidOnly: true,
       title: "Brace Expansion",
@@ -7610,6 +8697,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.13749530839485,
       frontendQuestionId: "1088",
       paidOnly: true,
       title: "Confusing Number II",
@@ -7617,6 +8705,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.18998715701255,
       frontendQuestionId: "1089",
       paidOnly: false,
       title: "Duplicate Zeros",
@@ -7624,6 +8713,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.53485112216762,
       frontendQuestionId: "1090",
       paidOnly: false,
       title: "Largest Values From Labels",
@@ -7631,6 +8721,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.18254812376336,
       frontendQuestionId: "1091",
       paidOnly: false,
       title: "Shortest Path in Binary Matrix",
@@ -7638,6 +8729,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.59720153776885,
       frontendQuestionId: "1092",
       paidOnly: false,
       title: "Shortest Common Supersequence ",
@@ -7645,6 +8737,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 42.07168588621224,
       frontendQuestionId: "1093",
       paidOnly: false,
       title: "Statistics from a Large Sample",
@@ -7652,6 +8745,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.97891337980217,
       frontendQuestionId: "1094",
       paidOnly: false,
       title: "Car Pooling",
@@ -7659,6 +8753,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.23146895018742,
       frontendQuestionId: "1095",
       paidOnly: false,
       title: "Find in Mountain Array",
@@ -7666,6 +8761,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.80940532470763,
       frontendQuestionId: "1096",
       paidOnly: false,
       title: "Brace Expansion II",
@@ -7673,6 +8769,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.99597438625034,
       frontendQuestionId: "1097",
       paidOnly: true,
       title: "Game Play Analysis V",
@@ -7680,6 +8777,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.230386493041465,
       frontendQuestionId: "1098",
       paidOnly: true,
       title: "Unpopular Books",
@@ -7687,6 +8785,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.88130857966835,
       frontendQuestionId: "1099",
       paidOnly: true,
       title: "Two Sum Less Than K",
@@ -7694,6 +8793,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 74.85392177081185,
       frontendQuestionId: "1100",
       paidOnly: true,
       title: "Find K-Length Substrings With No Repeated Characters",
@@ -7701,6 +8801,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.37923260570828,
       frontendQuestionId: "1101",
       paidOnly: true,
       title: "The Earliest Moment When Everyone Become Friends",
@@ -7708,6 +8809,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.78495457380282,
       frontendQuestionId: "1102",
       paidOnly: true,
       title: "Path With Maximum Minimum Value",
@@ -7715,6 +8817,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.63520125718776,
       frontendQuestionId: "1103",
       paidOnly: false,
       title: "Distribute Candies to People",
@@ -7722,6 +8825,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 75.47396208303336,
       frontendQuestionId: "1104",
       paidOnly: false,
       title: "Path In Zigzag Labelled Binary Tree",
@@ -7729,6 +8833,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.81859170448121,
       frontendQuestionId: "1105",
       paidOnly: false,
       title: "Filling Bookcase Shelves",
@@ -7736,6 +8841,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.87403946535229,
       frontendQuestionId: "1106",
       paidOnly: false,
       title: "Parsing A Boolean Expression",
@@ -7743,6 +8849,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.607369788872596,
       frontendQuestionId: "1107",
       paidOnly: true,
       title: "New Users Daily Count",
@@ -7750,6 +8857,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 89.35247537500804,
       frontendQuestionId: "1108",
       paidOnly: false,
       title: "Defanging an IP Address",
@@ -7757,6 +8865,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.71887420775594,
       frontendQuestionId: "1109",
       paidOnly: false,
       title: "Corporate Flight Bookings",
@@ -7764,6 +8873,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.42865341472321,
       frontendQuestionId: "1110",
       paidOnly: false,
       title: "Delete Nodes And Return Forest",
@@ -7771,6 +8881,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.07699377106096,
       frontendQuestionId: "1111",
       paidOnly: false,
       title: "Maximum Nesting Depth of Two Valid Parentheses Strings",
@@ -7778,6 +8889,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.82189373805706,
       frontendQuestionId: "1112",
       paidOnly: true,
       title: "Highest Grade For Each Student",
@@ -7785,6 +8897,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.88820728065218,
       frontendQuestionId: "1113",
       paidOnly: true,
       title: "Reported Posts",
@@ -7792,6 +8905,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 70.00045729109073,
       frontendQuestionId: "1114",
       paidOnly: false,
       title: "Print in Order",
@@ -7799,6 +8913,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.09986522711453,
       frontendQuestionId: "1115",
       paidOnly: false,
       title: "Print FooBar Alternately",
@@ -7806,6 +8921,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.69379347605862,
       frontendQuestionId: "1116",
       paidOnly: false,
       title: "Print Zero Even Odd",
@@ -7813,6 +8929,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.87269603092938,
       frontendQuestionId: "1117",
       paidOnly: false,
       title: "Building H2O",
@@ -7820,6 +8937,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.59868377318354,
       frontendQuestionId: "1118",
       paidOnly: true,
       title: "Number of Days in a Month",
@@ -7827,6 +8945,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 91.18496757025089,
       frontendQuestionId: "1119",
       paidOnly: true,
       title: "Remove Vowels from a String",
@@ -7834,6 +8953,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.68728941006263,
       frontendQuestionId: "1120",
       paidOnly: true,
       title: "Maximum Average Subtree",
@@ -7841,6 +8961,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.88655513493711,
       frontendQuestionId: "1121",
       paidOnly: true,
       title: "Divide Array Into Increasing Sequences",
@@ -7848,6 +8969,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.81226485506694,
       frontendQuestionId: "1122",
       paidOnly: false,
       title: "Relative Sort Array",
@@ -7855,6 +8977,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.70336508485249,
       frontendQuestionId: "1123",
       paidOnly: false,
       title: "Lowest Common Ancestor of Deepest Leaves",
@@ -7862,6 +8985,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.41594647904508,
       frontendQuestionId: "1124",
       paidOnly: false,
       title: "Longest Well-Performing Interval",
@@ -7869,6 +8993,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.50010237510238,
       frontendQuestionId: "1125",
       paidOnly: false,
       title: "Smallest Sufficient Team",
@@ -7876,6 +9001,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.71485031123406,
       frontendQuestionId: "1126",
       paidOnly: true,
       title: "Active Businesses",
@@ -7883,6 +9009,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.935437589670016,
       frontendQuestionId: "1127",
       paidOnly: true,
       title: "User Purchase Platform",
@@ -7890,6 +9017,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.6566023569791,
       frontendQuestionId: "1128",
       paidOnly: false,
       title: "Number of Equivalent Domino Pairs",
@@ -7897,6 +9025,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.07596942150031,
       frontendQuestionId: "1129",
       paidOnly: false,
       title: "Shortest Path with Alternating Colors",
@@ -7904,6 +9033,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.76108388733888,
       frontendQuestionId: "1130",
       paidOnly: false,
       title: "Minimum Cost Tree From Leaf Values",
@@ -7911,6 +9041,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.489569479803926,
       frontendQuestionId: "1131",
       paidOnly: false,
       title: "Maximum of Absolute Value Expression",
@@ -7918,6 +9049,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.27493060446617,
       frontendQuestionId: "1132",
       paidOnly: true,
       title: "Reported Posts II",
@@ -7925,6 +9057,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.32293117860128,
       frontendQuestionId: "1133",
       paidOnly: true,
       title: "Largest Unique Number",
@@ -7932,6 +9065,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 77.80328339242894,
       frontendQuestionId: "1134",
       paidOnly: true,
       title: "Armstrong Number",
@@ -7939,6 +9073,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.180323749462985,
       frontendQuestionId: "1135",
       paidOnly: true,
       title: "Connecting Cities With Minimum Cost",
@@ -7946,6 +9081,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.54144469618109,
       frontendQuestionId: "1136",
       paidOnly: true,
       title: "Parallel Courses",
@@ -7953,6 +9089,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.75823358812397,
       frontendQuestionId: "1137",
       paidOnly: false,
       title: "N-th Tribonacci Number",
@@ -7960,6 +9097,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.61746629465592,
       frontendQuestionId: "1138",
       paidOnly: false,
       title: "Alphabet Board Path",
@@ -7967,6 +9105,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.433881124251265,
       frontendQuestionId: "1139",
       paidOnly: false,
       title: "Largest 1-Bordered Square",
@@ -7974,6 +9113,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.26974010925343,
       frontendQuestionId: "1140",
       paidOnly: false,
       title: "Stone Game II",
@@ -7981,6 +9121,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.997951115954145,
       frontendQuestionId: "1141",
       paidOnly: false,
       title: "User Activity for the Past 30 Days I",
@@ -7988,6 +9129,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 35.72360268701493,
       frontendQuestionId: "1142",
       paidOnly: true,
       title: "User Activity for the Past 30 Days II",
@@ -7995,6 +9137,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.754874341286076,
       frontendQuestionId: "1143",
       paidOnly: false,
       title: "Longest Common Subsequence",
@@ -8002,6 +9145,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.19889403810419,
       frontendQuestionId: "1144",
       paidOnly: false,
       title: "Decrease Elements To Make Array Zigzag",
@@ -8009,6 +9153,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.271882448122795,
       frontendQuestionId: "1145",
       paidOnly: false,
       title: "Binary Tree Coloring Game",
@@ -8016,6 +9161,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.849457241888004,
       frontendQuestionId: "1146",
       paidOnly: false,
       title: "Snapshot Array",
@@ -8023,6 +9169,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.7672493100276,
       frontendQuestionId: "1147",
       paidOnly: false,
       title: "Longest Chunked Palindrome Decomposition",
@@ -8030,6 +9177,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.56292510305671,
       frontendQuestionId: "1148",
       paidOnly: false,
       title: "Article Views I",
@@ -8037,6 +9185,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.02285985701933,
       frontendQuestionId: "1149",
       paidOnly: true,
       title: "Article Views II",
@@ -8044,6 +9193,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.009050292129686,
       frontendQuestionId: "1150",
       paidOnly: true,
       title: "Check If a Number Is Majority Element in a Sorted Array",
@@ -8051,6 +9201,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.34303404542164,
       frontendQuestionId: "1151",
       paidOnly: true,
       title: "Minimum Swaps to Group All 1's Together",
@@ -8058,6 +9209,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.789673193448195,
       frontendQuestionId: "1152",
       paidOnly: true,
       title: "Analyze User Website Visit Pattern",
@@ -8065,6 +9217,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.91945345313414,
       frontendQuestionId: "1153",
       paidOnly: true,
       title: "String Transforms Into Another String",
@@ -8072,6 +9225,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.95054533035363,
       frontendQuestionId: "1154",
       paidOnly: false,
       title: "Day of the Year",
@@ -8079,6 +9233,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.20373386971117,
       frontendQuestionId: "1155",
       paidOnly: false,
       title: "Number of Dice Rolls With Target Sum",
@@ -8086,6 +9241,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.94060000260984,
       frontendQuestionId: "1156",
       paidOnly: false,
       title: "Swap For Longest Repeated Character Substring",
@@ -8093,6 +9249,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.9411243383075,
       frontendQuestionId: "1157",
       paidOnly: false,
       title: "Online Majority Element In Subarray",
@@ -8100,6 +9257,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.14554257756733,
       frontendQuestionId: "1158",
       paidOnly: false,
       title: "Market Analysis I",
@@ -8107,6 +9265,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.34591668355383,
       frontendQuestionId: "1159",
       paidOnly: true,
       title: "Market Analysis II",
@@ -8114,6 +9273,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.71078463171169,
       frontendQuestionId: "1160",
       paidOnly: false,
       title: "Find Words That Can Be Formed by Characters",
@@ -8121,6 +9281,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.15783434737317,
       frontendQuestionId: "1161",
       paidOnly: false,
       title: "Maximum Level Sum of a Binary Tree",
@@ -8128,6 +9289,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.663306778331645,
       frontendQuestionId: "1162",
       paidOnly: false,
       title: "As Far from Land as Possible",
@@ -8135,6 +9297,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.538603849245945,
       frontendQuestionId: "1163",
       paidOnly: false,
       title: "Last Substring in Lexicographical Order",
@@ -8142,6 +9305,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.6850473269951,
       frontendQuestionId: "1164",
       paidOnly: false,
       title: "Product Price at a Given Date",
@@ -8149,6 +9313,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 87.58087454680208,
       frontendQuestionId: "1165",
       paidOnly: true,
       title: "Single-Row Keyboard",
@@ -8156,6 +9321,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.29986022581956,
       frontendQuestionId: "1166",
       paidOnly: true,
       title: "Design File System",
@@ -8163,6 +9329,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.34063824152543,
       frontendQuestionId: "1167",
       paidOnly: true,
       title: "Minimum Cost to Connect Sticks",
@@ -8170,6 +9337,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.91302831906404,
       frontendQuestionId: "1168",
       paidOnly: true,
       title: "Optimize Water Distribution in a Village",
@@ -8177,6 +9345,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 31.062749081816047,
       frontendQuestionId: "1169",
       paidOnly: false,
       title: "Invalid Transactions",
@@ -8184,6 +9353,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.5195441698238,
       frontendQuestionId: "1170",
       paidOnly: false,
       title: "Compare Strings by Frequency of the Smallest Character",
@@ -8191,6 +9361,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.72859469883729,
       frontendQuestionId: "1171",
       paidOnly: false,
       title: "Remove Zero Sum Consecutive Nodes from Linked List",
@@ -8198,6 +9369,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.62443900448797,
       frontendQuestionId: "1172",
       paidOnly: false,
       title: "Dinner Plate Stacks",
@@ -8205,6 +9377,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 80.86961028192371,
       frontendQuestionId: "1173",
       paidOnly: true,
       title: "Immediate Food Delivery I",
@@ -8212,6 +9385,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.4834829572979,
       frontendQuestionId: "1174",
       paidOnly: false,
       title: "Immediate Food Delivery II",
@@ -8219,6 +9393,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.161429494681315,
       frontendQuestionId: "1175",
       paidOnly: false,
       title: "Prime Arrangements",
@@ -8226,6 +9401,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.6039266306513,
       frontendQuestionId: "1176",
       paidOnly: true,
       title: "Diet Plan Performance",
@@ -8233,6 +9409,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.49771996610215,
       frontendQuestionId: "1177",
       paidOnly: false,
       title: "Can Make Palindrome from Substring",
@@ -8240,6 +9417,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.80283537439026,
       frontendQuestionId: "1178",
       paidOnly: false,
       title: "Number of Valid Words for Each Puzzle",
@@ -8247,6 +9425,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.9216640646524,
       frontendQuestionId: "1179",
       paidOnly: false,
       title: "Reformat Department Table",
@@ -8254,6 +9433,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 80.1140716778752,
       frontendQuestionId: "1180",
       paidOnly: true,
       title: "Count Substrings with Only One Distinct Letter",
@@ -8261,6 +9441,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.076259603148415,
       frontendQuestionId: "1181",
       paidOnly: true,
       title: "Before and After Puzzle",
@@ -8268,6 +9449,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.406911928651056,
       frontendQuestionId: "1182",
       paidOnly: true,
       title: "Shortest Distance to Target Color",
@@ -8275,6 +9457,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.34456335050866,
       frontendQuestionId: "1183",
       paidOnly: true,
       title: "Maximum Number of Ones",
@@ -8282,6 +9465,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.22546579101637,
       frontendQuestionId: "1184",
       paidOnly: false,
       title: "Distance Between Bus Stops",
@@ -8289,6 +9473,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.85036794766967,
       frontendQuestionId: "1185",
       paidOnly: false,
       title: "Day of the Week",
@@ -8296,6 +9481,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.31321224502825,
       frontendQuestionId: "1186",
       paidOnly: false,
       title: "Maximum Subarray Sum with One Deletion",
@@ -8303,6 +9489,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.09773158007855,
       frontendQuestionId: "1187",
       paidOnly: false,
       title: "Make Array Strictly Increasing",
@@ -8310,6 +9497,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.48958879174826,
       frontendQuestionId: "1188",
       paidOnly: true,
       title: "Design Bounded Blocking Queue",
@@ -8317,6 +9505,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.70098166017366,
       frontendQuestionId: "1189",
       paidOnly: false,
       title: "Maximum Number of Balloons",
@@ -8324,6 +9513,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.77180585597127,
       frontendQuestionId: "1190",
       paidOnly: false,
       title: "Reverse Substrings Between Each Pair of Parentheses",
@@ -8331,6 +9521,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 23.9523187459177,
       frontendQuestionId: "1191",
       paidOnly: false,
       title: "K-Concatenation Maximum Sum",
@@ -8338,6 +9529,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.59590027194405,
       frontendQuestionId: "1192",
       paidOnly: false,
       title: "Critical Connections in a Network",
@@ -8345,6 +9537,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.176156475410835,
       frontendQuestionId: "1193",
       paidOnly: false,
       title: "Monthly Transactions I",
@@ -8352,6 +9545,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.272415762421474,
       frontendQuestionId: "1194",
       paidOnly: true,
       title: "Tournament Winners",
@@ -8359,6 +9553,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.01629116117851,
       frontendQuestionId: "1195",
       paidOnly: false,
       title: "Fizz Buzz Multithreaded",
@@ -8366,6 +9561,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.99795587509692,
       frontendQuestionId: "1196",
       paidOnly: true,
       title: "How Many Apples Can You Put into the Basket",
@@ -8373,6 +9569,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.73421949505407,
       frontendQuestionId: "1197",
       paidOnly: true,
       title: "Minimum Knight Moves",
@@ -8380,6 +9577,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.44521854524343,
       frontendQuestionId: "1198",
       paidOnly: true,
       title: "Find Smallest Common Element in All Rows",
@@ -8387,6 +9585,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.88824821526634,
       frontendQuestionId: "1199",
       paidOnly: true,
       title: "Minimum Time to Build Blocks",
@@ -8394,6 +9593,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.8093827227456,
       frontendQuestionId: "1200",
       paidOnly: false,
       title: "Minimum Absolute Difference",
@@ -8401,6 +9601,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 29.915093275977206,
       frontendQuestionId: "1201",
       paidOnly: false,
       title: "Ugly Number III",
@@ -8408,6 +9609,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.696836717814996,
       frontendQuestionId: "1202",
       paidOnly: false,
       title: "Smallest String With Swaps",
@@ -8415,6 +9617,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.1122857581592,
       frontendQuestionId: "1203",
       paidOnly: false,
       title: "Sort Items by Groups Respecting Dependencies",
@@ -8422,6 +9625,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.70491248264888,
       frontendQuestionId: "1204",
       paidOnly: false,
       title: "Last Person to Fit in the Bus",
@@ -8429,6 +9633,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.686738636954374,
       frontendQuestionId: "1205",
       paidOnly: true,
       title: "Monthly Transactions II",
@@ -8436,6 +9641,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.643161288734646,
       frontendQuestionId: "1206",
       paidOnly: false,
       title: "Design Skiplist",
@@ -8443,6 +9649,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 77.5551972623474,
       frontendQuestionId: "1207",
       paidOnly: false,
       title: "Unique Number of Occurrences",
@@ -8450,6 +9657,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.40489233395066,
       frontendQuestionId: "1208",
       paidOnly: false,
       title: "Get Equal Substrings Within Budget",
@@ -8457,6 +9665,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.3334498085148,
       frontendQuestionId: "1209",
       paidOnly: false,
       title: "Remove All Adjacent Duplicates in String II",
@@ -8464,6 +9673,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.09348553434363,
       frontendQuestionId: "1210",
       paidOnly: false,
       title: "Minimum Moves to Reach Target with Rotations",
@@ -8471,6 +9681,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.30861745846638,
       frontendQuestionId: "1211",
       paidOnly: false,
       title: "Queries Quality and Percentage",
@@ -8478,6 +9689,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.40999321004912,
       frontendQuestionId: "1212",
       paidOnly: true,
       title: "Team Scores in Football Tournament",
@@ -8485,6 +9697,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.81937864835614,
       frontendQuestionId: "1213",
       paidOnly: true,
       title: "Intersection of Three Sorted Arrays",
@@ -8492,6 +9705,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.23899270617048,
       frontendQuestionId: "1214",
       paidOnly: true,
       title: "Two Sum BSTs",
@@ -8499,6 +9713,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.34989148782252,
       frontendQuestionId: "1215",
       paidOnly: true,
       title: "Stepping Numbers",
@@ -8506,6 +9721,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.23228763711515,
       frontendQuestionId: "1216",
       paidOnly: true,
       title: "Valid Palindrome III",
@@ -8513,6 +9729,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.83694656165088,
       frontendQuestionId: "1217",
       paidOnly: false,
       title: "Minimum Cost to Move Chips to The Same Position",
@@ -8520,6 +9737,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.588397022477665,
       frontendQuestionId: "1218",
       paidOnly: false,
       title: "Longest Arithmetic Subsequence of Given Difference",
@@ -8527,6 +9745,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.05682047395219,
       frontendQuestionId: "1219",
       paidOnly: false,
       title: "Path with Maximum Gold",
@@ -8534,6 +9753,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.760824846624665,
       frontendQuestionId: "1220",
       paidOnly: false,
       title: "Count Vowels Permutation",
@@ -8541,6 +9761,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.4167180504544,
       frontendQuestionId: "1221",
       paidOnly: false,
       title: "Split a String in Balanced Strings",
@@ -8548,6 +9769,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.01439898817921,
       frontendQuestionId: "1222",
       paidOnly: false,
       title: "Queens That Can Attack the King",
@@ -8555,6 +9777,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.557298653745995,
       frontendQuestionId: "1223",
       paidOnly: false,
       title: "Dice Roll Simulation",
@@ -8562,6 +9785,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 37.3576789095925,
       frontendQuestionId: "1224",
       paidOnly: false,
       title: "Maximum Equal Frequency",
@@ -8569,6 +9793,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.355855648246305,
       frontendQuestionId: "1225",
       paidOnly: true,
       title: "Report Contiguous Dates",
@@ -8576,6 +9801,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.28181912481662,
       frontendQuestionId: "1226",
       paidOnly: false,
       title: "The Dining Philosophers",
@@ -8583,6 +9809,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.59771107109371,
       frontendQuestionId: "1227",
       paidOnly: false,
       title: "Airplane Seat Assignment Probability",
@@ -8590,6 +9817,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.007003317360855,
       frontendQuestionId: "1228",
       paidOnly: true,
       title: "Missing Number In Arithmetic Progression",
@@ -8597,6 +9825,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.287963538429665,
       frontendQuestionId: "1229",
       paidOnly: true,
       title: "Meeting Scheduler",
@@ -8604,6 +9833,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.22137612183845,
       frontendQuestionId: "1230",
       paidOnly: true,
       title: "Toss Strange Coins",
@@ -8611,6 +9841,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.994823123382226,
       frontendQuestionId: "1231",
       paidOnly: true,
       title: "Divide Chocolate",
@@ -8618,6 +9849,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 39.526150484774,
       frontendQuestionId: "1232",
       paidOnly: false,
       title: "Check If It Is a Straight Line",
@@ -8625,6 +9857,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.11731944161036,
       frontendQuestionId: "1233",
       paidOnly: false,
       title: "Remove Sub-Folders from the Filesystem",
@@ -8632,6 +9865,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.61952396645016,
       frontendQuestionId: "1234",
       paidOnly: false,
       title: "Replace the Substring for Balanced String",
@@ -8639,6 +9873,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.31715245023048,
       frontendQuestionId: "1235",
       paidOnly: false,
       title: "Maximum Profit in Job Scheduling",
@@ -8646,6 +9881,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.05077931187873,
       frontendQuestionId: "1236",
       paidOnly: true,
       title: "Web Crawler",
@@ -8653,6 +9889,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.70008501215872,
       frontendQuestionId: "1237",
       paidOnly: false,
       title: "Find Positive Integer Solution for a Given Equation",
@@ -8660,6 +9897,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.73708178779977,
       frontendQuestionId: "1238",
       paidOnly: false,
       title: "Circular Permutation in Binary Representation",
@@ -8667,6 +9905,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.1369209708995,
       frontendQuestionId: "1239",
       paidOnly: false,
       title: "Maximum Length of a Concatenated String with Unique Characters",
@@ -8675,6 +9914,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.34811559461979,
       frontendQuestionId: "1240",
       paidOnly: false,
       title: "Tiling a Rectangle with the Fewest Squares",
@@ -8682,6 +9922,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.9576385759351,
       frontendQuestionId: "1241",
       paidOnly: true,
       title: "Number of Comments per Post",
@@ -8689,6 +9930,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.507707442329654,
       frontendQuestionId: "1242",
       paidOnly: true,
       title: "Web Crawler Multithreaded",
@@ -8696,6 +9938,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.56555153707052,
       frontendQuestionId: "1243",
       paidOnly: true,
       title: "Array Transformation",
@@ -8703,6 +9946,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.90210288278342,
       frontendQuestionId: "1244",
       paidOnly: true,
       title: "Design A Leaderboard",
@@ -8710,6 +9954,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.140197789412454,
       frontendQuestionId: "1245",
       paidOnly: true,
       title: "Tree Diameter",
@@ -8717,6 +9962,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.2701655364138,
       frontendQuestionId: "1246",
       paidOnly: true,
       title: "Palindrome Removal",
@@ -8724,6 +9970,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.53563649103566,
       frontendQuestionId: "1247",
       paidOnly: false,
       title: "Minimum Swaps to Make Strings Equal",
@@ -8731,6 +9978,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.56650803229725,
       frontendQuestionId: "1248",
       paidOnly: false,
       title: "Count Number of Nice Subarrays",
@@ -8738,6 +9986,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.36252289629907,
       frontendQuestionId: "1249",
       paidOnly: false,
       title: "Minimum Remove to Make Valid Parentheses",
@@ -8745,6 +9994,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.02516678933498,
       frontendQuestionId: "1250",
       paidOnly: false,
       title: "Check If It Is a Good Array",
@@ -8752,6 +10002,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 37.243482447893975,
       frontendQuestionId: "1251",
       paidOnly: false,
       title: "Average Selling Price",
@@ -8759,6 +10010,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 78.89153425234137,
       frontendQuestionId: "1252",
       paidOnly: false,
       title: "Cells with Odd Values in a Matrix",
@@ -8766,6 +10018,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.99367601751256,
       frontendQuestionId: "1253",
       paidOnly: false,
       title: "Reconstruct a 2-Row Binary Matrix",
@@ -8773,6 +10026,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.46619137512843,
       frontendQuestionId: "1254",
       paidOnly: false,
       title: "Number of Closed Islands",
@@ -8780,6 +10034,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 81.9644580865145,
       frontendQuestionId: "1255",
       paidOnly: false,
       title: "Maximum Score Words Formed by Letters",
@@ -8787,6 +10042,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.95412844036697,
       frontendQuestionId: "1256",
       paidOnly: true,
       title: "Encode Number",
@@ -8794,6 +10050,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.88137106132285,
       frontendQuestionId: "1257",
       paidOnly: true,
       title: "Smallest Common Region",
@@ -8801,6 +10058,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.49944989349002,
       frontendQuestionId: "1258",
       paidOnly: true,
       title: "Synonymous Sentences",
@@ -8808,6 +10066,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.68700475435816,
       frontendQuestionId: "1259",
       paidOnly: true,
       title: "Handshakes That Don't Cross",
@@ -8815,6 +10074,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.47051629516277,
       frontendQuestionId: "1260",
       paidOnly: false,
       title: "Shift 2D Grid",
@@ -8822,6 +10082,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 77.60034974286997,
       frontendQuestionId: "1261",
       paidOnly: false,
       title: "Find Elements in a Contaminated Binary Tree",
@@ -8829,6 +10090,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.600381745618606,
       frontendQuestionId: "1262",
       paidOnly: false,
       title: "Greatest Sum Divisible by Three",
@@ -8836,6 +10098,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.12895560152497,
       frontendQuestionId: "1263",
       paidOnly: false,
       title: "Minimum Moves to Move a Box to Their Target Location",
@@ -8843,6 +10106,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.21936770485073,
       frontendQuestionId: "1264",
       paidOnly: true,
       title: "Page Recommendations",
@@ -8850,6 +10114,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 94.04737610473603,
       frontendQuestionId: "1265",
       paidOnly: true,
       title: "Print Immutable Linked List in Reverse",
@@ -8857,6 +10122,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.45835917657372,
       frontendQuestionId: "1266",
       paidOnly: false,
       title: "Minimum Time Visiting All Points",
@@ -8864,6 +10130,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.74864731923266,
       frontendQuestionId: "1267",
       paidOnly: false,
       title: "Count Servers that Communicate",
@@ -8871,6 +10138,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.08227407705049,
       frontendQuestionId: "1268",
       paidOnly: false,
       title: "Search Suggestions System",
@@ -8878,6 +10146,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.27249197528548,
       frontendQuestionId: "1269",
       paidOnly: false,
       title: "Number of Ways to Stay in the Same Place After Some Steps",
@@ -8885,6 +10154,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 84.67214563449981,
       frontendQuestionId: "1270",
       paidOnly: true,
       title: "All People Report to the Given Manager",
@@ -8892,6 +10162,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.24747474747475,
       frontendQuestionId: "1271",
       paidOnly: true,
       title: "Hexspeak",
@@ -8899,6 +10170,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.34859261098597,
       frontendQuestionId: "1272",
       paidOnly: true,
       title: "Remove Interval",
@@ -8906,6 +10178,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.24513166308202,
       frontendQuestionId: "1273",
       paidOnly: true,
       title: "Delete Tree Nodes",
@@ -8913,6 +10186,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.6777263314642,
       frontendQuestionId: "1274",
       paidOnly: true,
       title: "Number of Ships in a Rectangle",
@@ -8920,6 +10194,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.97547045854846,
       frontendQuestionId: "1275",
       paidOnly: false,
       title: "Find Winner on a Tic Tac Toe Game",
@@ -8927,6 +10202,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.281571562207674,
       frontendQuestionId: "1276",
       paidOnly: false,
       title: "Number of Burgers with No Waste of Ingredients",
@@ -8934,6 +10210,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.5828185384,
       frontendQuestionId: "1277",
       paidOnly: false,
       title: "Count Square Submatrices with All Ones",
@@ -8941,6 +10218,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.20195413436692,
       frontendQuestionId: "1278",
       paidOnly: false,
       title: "Palindrome Partitioning III",
@@ -8948,6 +10226,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.76385320211374,
       frontendQuestionId: "1279",
       paidOnly: true,
       title: "Traffic Light Controlled Intersection",
@@ -8955,6 +10234,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 59.03441288804988,
       frontendQuestionId: "1280",
       paidOnly: false,
       title: "Students and Examinations",
@@ -8962,6 +10242,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 86.61309072697333,
       frontendQuestionId: "1281",
       paidOnly: false,
       title: "Subtract the Product and Sum of Digits of an Integer",
@@ -8969,6 +10250,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 87.43987022031149,
       frontendQuestionId: "1282",
       paidOnly: false,
       title: "Group the People Given the Group Size They Belong To",
@@ -8976,6 +10258,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.463833229484365,
       frontendQuestionId: "1283",
       paidOnly: false,
       title: "Find the Smallest Divisor Given a Threshold",
@@ -8983,6 +10266,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.28558825382821,
       frontendQuestionId: "1284",
       paidOnly: false,
       title: "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
@@ -8991,6 +10275,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 81.98246770103236,
       frontendQuestionId: "1285",
       paidOnly: true,
       title: "Find the Start and End Number of Continuous Ranges",
@@ -8998,6 +10283,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.34058013592652,
       frontendQuestionId: "1286",
       paidOnly: false,
       title: "Iterator for Combination",
@@ -9005,6 +10291,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.01780361771265,
       frontendQuestionId: "1287",
       paidOnly: false,
       title: "Element Appearing More Than 25% In Sorted Array",
@@ -9012,6 +10299,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.24767857951715,
       frontendQuestionId: "1288",
       paidOnly: false,
       title: "Remove Covered Intervals",
@@ -9019,6 +10307,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.30328048834043,
       frontendQuestionId: "1289",
       paidOnly: false,
       title: "Minimum Falling Path Sum II",
@@ -9026,6 +10315,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 81.15420081636864,
       frontendQuestionId: "1290",
       paidOnly: false,
       title: "Convert Binary Number in a Linked List to Integer",
@@ -9033,6 +10323,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.29584421248681,
       frontendQuestionId: "1291",
       paidOnly: false,
       title: "Sequential Digits",
@@ -9040,6 +10331,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.800088605081044,
       frontendQuestionId: "1292",
       paidOnly: false,
       title:
@@ -9049,6 +10341,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.32201376169497,
       frontendQuestionId: "1293",
       paidOnly: false,
       title: "Shortest Path in a Grid with Obstacles Elimination",
@@ -9056,6 +10349,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.71950581775396,
       frontendQuestionId: "1294",
       paidOnly: true,
       title: "Weather Type in Each Country",
@@ -9063,6 +10357,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 77.49124047010555,
       frontendQuestionId: "1295",
       paidOnly: false,
       title: "Find Numbers with Even Number of Digits",
@@ -9070,6 +10365,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.48968240660973,
       frontendQuestionId: "1296",
       paidOnly: false,
       title: "Divide Array in Sets of K Consecutive Numbers",
@@ -9077,6 +10373,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.29099099099099,
       frontendQuestionId: "1297",
       paidOnly: false,
       title: "Maximum Number of Occurrences of a Substring",
@@ -9084,6 +10381,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.77946335450839,
       frontendQuestionId: "1298",
       paidOnly: false,
       title: "Maximum Candies You Can Get from Boxes",
@@ -9091,6 +10389,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.317852063931,
       frontendQuestionId: "1299",
       paidOnly: false,
       title: "Replace Elements with Greatest Element on Right Side",
@@ -9098,6 +10397,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.82413846734952,
       frontendQuestionId: "1300",
       paidOnly: false,
       title: "Sum of Mutated Array Closest to Target",
@@ -9105,6 +10405,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.959021991531216,
       frontendQuestionId: "1301",
       paidOnly: false,
       title: "Number of Paths with Max Score",
@@ -9112,6 +10413,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.3314723448455,
       frontendQuestionId: "1302",
       paidOnly: false,
       title: "Deepest Leaves Sum",
@@ -9119,6 +10421,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 89.555616004748,
       frontendQuestionId: "1303",
       paidOnly: true,
       title: "Find the Team Size",
@@ -9126,6 +10429,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 76.1615507591257,
       frontendQuestionId: "1304",
       paidOnly: false,
       title: "Find N Unique Integers Sum up to Zero",
@@ -9133,6 +10437,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 79.86558367132581,
       frontendQuestionId: "1305",
       paidOnly: false,
       title: "All Elements in Two Binary Search Trees",
@@ -9140,6 +10445,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.31505227539976,
       frontendQuestionId: "1306",
       paidOnly: false,
       title: "Jump Game III",
@@ -9147,6 +10453,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.68203986931199,
       frontendQuestionId: "1307",
       paidOnly: false,
       title: "Verbal Arithmetic Puzzle",
@@ -9154,6 +10461,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.27994334626517,
       frontendQuestionId: "1308",
       paidOnly: true,
       title: "Running Total for Different Genders",
@@ -9161,6 +10469,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.89949748743719,
       frontendQuestionId: "1309",
       paidOnly: false,
       title: "Decrypt String from Alphabet to Integer Mapping",
@@ -9168,6 +10477,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 78.79128249468691,
       frontendQuestionId: "1310",
       paidOnly: false,
       title: "XOR Queries of a Subarray",
@@ -9175,6 +10485,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.000511284785624,
       frontendQuestionId: "1311",
       paidOnly: false,
       title: "Get Watched Videos by Your Friends",
@@ -9182,6 +10493,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.38700538225676,
       frontendQuestionId: "1312",
       paidOnly: false,
       title: "Minimum Insertion Steps to Make a String Palindrome",
@@ -9189,6 +10501,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 85.8474515646432,
       frontendQuestionId: "1313",
       paidOnly: false,
       title: "Decompress Run-Length Encoded List",
@@ -9196,6 +10509,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 75.67358874942498,
       frontendQuestionId: "1314",
       paidOnly: false,
       title: "Matrix Block Sum",
@@ -9203,6 +10517,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 85.61770717996764,
       frontendQuestionId: "1315",
       paidOnly: false,
       title: "Sum of Nodes with Even-Valued Grandparent",
@@ -9210,6 +10525,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.04624128132266,
       frontendQuestionId: "1316",
       paidOnly: false,
       title: "Distinct Echo Substrings",
@@ -9217,6 +10533,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.02610775617029,
       frontendQuestionId: "1317",
       paidOnly: false,
       title: "Convert Integer to the Sum of Two No-Zero Integers",
@@ -9224,6 +10541,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.15917050644933,
       frontendQuestionId: "1318",
       paidOnly: false,
       title: "Minimum Flips to Make a OR b Equal to c",
@@ -9231,6 +10549,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.46640405236222,
       frontendQuestionId: "1319",
       paidOnly: false,
       title: "Number of Operations to Make Network Connected",
@@ -9238,6 +10557,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.0767457358477,
       frontendQuestionId: "1320",
       paidOnly: false,
       title: "Minimum Distance to Type a Word Using Two Fingers",
@@ -9245,6 +10565,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.376805679509545,
       frontendQuestionId: "1321",
       paidOnly: false,
       title: "Restaurant Growth",
@@ -9252,6 +10573,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.37108761087877,
       frontendQuestionId: "1322",
       paidOnly: true,
       title: "Ads Performance",
@@ -9259,6 +10581,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 82.48113973397881,
       frontendQuestionId: "1323",
       paidOnly: false,
       title: "Maximum 69 Number",
@@ -9266,6 +10589,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.84912175349046,
       frontendQuestionId: "1324",
       paidOnly: false,
       title: "Print Words Vertically",
@@ -9273,6 +10597,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 77.40230097556812,
       frontendQuestionId: "1325",
       paidOnly: false,
       title: "Delete Leaves With a Given Value",
@@ -9280,6 +10605,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.73404031026103,
       frontendQuestionId: "1326",
       paidOnly: false,
       title: "Minimum Number of Taps to Open to Water a Garden",
@@ -9287,6 +10613,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.29536494558351,
       frontendQuestionId: "1327",
       paidOnly: false,
       title: "List the Products Ordered in a Period",
@@ -9294,6 +10621,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.69564458745279,
       frontendQuestionId: "1328",
       paidOnly: false,
       title: "Break a Palindrome",
@@ -9301,6 +10629,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.89470453328882,
       frontendQuestionId: "1329",
       paidOnly: false,
       title: "Sort the Matrix Diagonally",
@@ -9308,6 +10637,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.734860883797054,
       frontendQuestionId: "1330",
       paidOnly: false,
       title: "Reverse Subarray To Maximize Array Value",
@@ -9315,6 +10645,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.75625050245196,
       frontendQuestionId: "1331",
       paidOnly: false,
       title: "Rank Transform of an Array",
@@ -9322,6 +10653,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 76.54356591038916,
       frontendQuestionId: "1332",
       paidOnly: false,
       title: "Remove Palindromic Subsequences",
@@ -9329,6 +10661,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.821728336682824,
       frontendQuestionId: "1333",
       paidOnly: false,
       title: "Filter Restaurants by Vegan-Friendly, Price and Distance",
@@ -9336,6 +10669,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.52466240674872,
       frontendQuestionId: "1334",
       paidOnly: false,
       title:
@@ -9345,6 +10679,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.59784515529732,
       frontendQuestionId: "1335",
       paidOnly: false,
       title: "Minimum Difficulty of a Job Schedule",
@@ -9352,6 +10687,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 47.67365661861075,
       frontendQuestionId: "1336",
       paidOnly: true,
       title: "Number of Transactions per Visit",
@@ -9359,6 +10695,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.69488517109968,
       frontendQuestionId: "1337",
       paidOnly: false,
       title: "The K Weakest Rows in a Matrix",
@@ -9366,6 +10703,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.98432361324271,
       frontendQuestionId: "1338",
       paidOnly: false,
       title: "Reduce Array Size to The Half",
@@ -9373,6 +10711,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.73948912978379,
       frontendQuestionId: "1339",
       paidOnly: false,
       title: "Maximum Product of Splitted Binary Tree",
@@ -9380,6 +10719,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.62150920974451,
       frontendQuestionId: "1340",
       paidOnly: false,
       title: "Jump Game V",
@@ -9387,6 +10727,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.44609479514396,
       frontendQuestionId: "1341",
       paidOnly: false,
       title: "Movie Rating",
@@ -9394,6 +10735,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 85.3449343867039,
       frontendQuestionId: "1342",
       paidOnly: false,
       title: "Number of Steps to Reduce a Number to Zero",
@@ -9401,6 +10743,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 69.0476923740245,
       frontendQuestionId: "1343",
       paidOnly: false,
       title:
@@ -9410,6 +10753,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.98042085078468,
       frontendQuestionId: "1344",
       paidOnly: false,
       title: "Angle Between Hands of a Clock",
@@ -9417,6 +10761,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.165942672084945,
       frontendQuestionId: "1345",
       paidOnly: false,
       title: "Jump Game IV",
@@ -9424,6 +10769,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 37.478956755820256,
       frontendQuestionId: "1346",
       paidOnly: false,
       title: "Check If N and Its Double Exist",
@@ -9431,6 +10777,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 82.05340626666818,
       frontendQuestionId: "1347",
       paidOnly: false,
       title: "Minimum Number of Steps to Make Two Strings Anagram",
@@ -9438,6 +10785,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.738963252685686,
       frontendQuestionId: "1348",
       paidOnly: false,
       title: "Tweet Counts Per Frequency",
@@ -9445,6 +10793,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.15721344159033,
       frontendQuestionId: "1349",
       paidOnly: false,
       title: "Maximum Students Taking Exam",
@@ -9452,6 +10801,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 89.74548364263072,
       frontendQuestionId: "1350",
       paidOnly: true,
       title: "Students With Invalid Departments",
@@ -9459,6 +10809,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 77.47364038984936,
       frontendQuestionId: "1351",
       paidOnly: false,
       title: "Count Negative Numbers in a Sorted Matrix",
@@ -9466,6 +10817,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.9132438051357,
       frontendQuestionId: "1352",
       paidOnly: false,
       title: "Product of the Last K Numbers",
@@ -9473,6 +10825,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.47902432970927,
       frontendQuestionId: "1353",
       paidOnly: false,
       title: "Maximum Number of Events That Can Be Attended",
@@ -9480,6 +10833,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.2438618617007,
       frontendQuestionId: "1354",
       paidOnly: false,
       title: "Construct Target Array With Multiple Sums",
@@ -9487,6 +10841,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.28429033705743,
       frontendQuestionId: "1355",
       paidOnly: true,
       title: "Activity Participants",
@@ -9494,6 +10849,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 78.34932408825821,
       frontendQuestionId: "1356",
       paidOnly: false,
       title: "Sort Integers by The Number of 1 Bits",
@@ -9501,6 +10857,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.44688207940861,
       frontendQuestionId: "1357",
       paidOnly: false,
       title: "Apply Discount Every n Orders",
@@ -9508,6 +10865,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.88259752965635,
       frontendQuestionId: "1358",
       paidOnly: false,
       title: "Number of Substrings Containing All Three Characters",
@@ -9515,6 +10873,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.95855818637197,
       frontendQuestionId: "1359",
       paidOnly: false,
       title: "Count All Valid Pickup and Delivery Options",
@@ -9522,6 +10881,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.60275596917051,
       frontendQuestionId: "1360",
       paidOnly: false,
       title: "Number of Days Between Two Dates",
@@ -9529,6 +10889,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.82296025781912,
       frontendQuestionId: "1361",
       paidOnly: false,
       title: "Validate Binary Tree Nodes",
@@ -9536,6 +10897,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.14118582753931,
       frontendQuestionId: "1362",
       paidOnly: false,
       title: "Closest Divisors",
@@ -9543,6 +10905,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.7009485771343,
       frontendQuestionId: "1363",
       paidOnly: false,
       title: "Largest Multiple of Three",
@@ -9550,6 +10913,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.97134670487105,
       frontendQuestionId: "1364",
       paidOnly: true,
       title: "Number of Trusted Contacts of a Customer",
@@ -9557,6 +10921,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.97894116471592,
       frontendQuestionId: "1365",
       paidOnly: false,
       title: "How Many Numbers Are Smaller Than the Current Number",
@@ -9564,6 +10929,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.66400677971186,
       frontendQuestionId: "1366",
       paidOnly: false,
       title: "Rank Teams by Votes",
@@ -9571,6 +10937,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.119877909409226,
       frontendQuestionId: "1367",
       paidOnly: false,
       title: "Linked List in Binary Tree",
@@ -9578,6 +10945,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.47246627892588,
       frontendQuestionId: "1368",
       paidOnly: false,
       title: "Minimum Cost to Make at Least One Valid Path in a Grid",
@@ -9585,6 +10953,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.63010985053124,
       frontendQuestionId: "1369",
       paidOnly: true,
       title: "Get the Second Most Recent Activity",
@@ -9592,6 +10961,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.67698370651274,
       frontendQuestionId: "1370",
       paidOnly: false,
       title: "Increasing Decreasing String",
@@ -9599,6 +10969,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 76.3185647615007,
       frontendQuestionId: "1371",
       paidOnly: false,
       title: "Find the Longest Substring Containing Vowels in Even Counts",
@@ -9606,6 +10977,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.95926886432663,
       frontendQuestionId: "1372",
       paidOnly: false,
       title: "Longest ZigZag Path in a Binary Tree",
@@ -9613,6 +10985,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.127565590779284,
       frontendQuestionId: "1373",
       paidOnly: false,
       title: "Maximum Sum BST in Binary Tree",
@@ -9620,6 +10993,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.0741910023678,
       frontendQuestionId: "1374",
       paidOnly: false,
       title: "Generate a String With Characters That Have Odd Counts",
@@ -9627,6 +11001,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.78906051859276,
       frontendQuestionId: "1375",
       paidOnly: false,
       title: "Number of Times Binary String Is Prefix-Aligned",
@@ -9634,6 +11009,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.06667891598829,
       frontendQuestionId: "1376",
       paidOnly: false,
       title: "Time Needed to Inform All Employees",
@@ -9641,6 +11017,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.62209774946827,
       frontendQuestionId: "1377",
       paidOnly: false,
       title: "Frog Position After T Seconds",
@@ -9648,6 +11025,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.5143937746328,
       frontendQuestionId: "1378",
       paidOnly: false,
       title: "Replace Employee ID With The Unique Identifier",
@@ -9655,6 +11033,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.90559714078614,
       frontendQuestionId: "1379",
       paidOnly: false,
       title:
@@ -9664,6 +11043,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 79.90457241463852,
       frontendQuestionId: "1380",
       paidOnly: false,
       title: "Lucky Numbers in a Matrix",
@@ -9671,6 +11051,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 80.41494041942799,
       frontendQuestionId: "1381",
       paidOnly: false,
       title: "Design a Stack With Increment Operation",
@@ -9678,6 +11059,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 84.7145428307363,
       frontendQuestionId: "1382",
       paidOnly: false,
       title: "Balance a Binary Search Tree",
@@ -9685,6 +11067,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.67024564590078,
       frontendQuestionId: "1383",
       paidOnly: false,
       title: "Maximum Performance of a Team",
@@ -9692,6 +11075,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.94452773613194,
       frontendQuestionId: "1384",
       paidOnly: true,
       title: "Total Sales Amount by Year",
@@ -9699,6 +11083,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.0716825753322,
       frontendQuestionId: "1385",
       paidOnly: false,
       title: "Find the Distance Value Between Two Arrays",
@@ -9706,6 +11091,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 42.31022881900675,
       frontendQuestionId: "1386",
       paidOnly: false,
       title: "Cinema Seat Allocation",
@@ -9713,6 +11099,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.23665534878977,
       frontendQuestionId: "1387",
       paidOnly: false,
       title: "Sort Integers by The Power Value",
@@ -9720,6 +11107,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.23424665188966,
       frontendQuestionId: "1388",
       paidOnly: false,
       title: "Pizza With 3n Slices",
@@ -9727,6 +11115,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.02920779962471,
       frontendQuestionId: "1389",
       paidOnly: false,
       title: "Create Target Array in the Given Order",
@@ -9734,6 +11123,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.421982434690925,
       frontendQuestionId: "1390",
       paidOnly: false,
       title: "Four Divisors",
@@ -9741,6 +11131,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.306128248034604,
       frontendQuestionId: "1391",
       paidOnly: false,
       title: "Check if There is a Valid Path in a Grid",
@@ -9748,6 +11139,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.88129698296882,
       frontendQuestionId: "1392",
       paidOnly: false,
       title: "Longest Happy Prefix",
@@ -9755,6 +11147,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 85.38249228186487,
       frontendQuestionId: "1393",
       paidOnly: false,
       title: "Capital Gain/Loss",
@@ -9762,6 +11155,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.91987487969202,
       frontendQuestionId: "1394",
       paidOnly: false,
       title: "Find Lucky Integer in an Array",
@@ -9769,6 +11163,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 70.13745790822738,
       frontendQuestionId: "1395",
       paidOnly: false,
       title: "Count Number of Teams",
@@ -9776,6 +11171,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.73054612695678,
       frontendQuestionId: "1396",
       paidOnly: false,
       title: "Design Underground System",
@@ -9783,6 +11179,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.734161867232494,
       frontendQuestionId: "1397",
       paidOnly: false,
       title: "Find All Good Strings",
@@ -9790,6 +11187,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.43932214069126,
       frontendQuestionId: "1398",
       paidOnly: true,
       title: "Customers Who Bought Products A and B but Not C",
@@ -9797,6 +11195,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.48439403372947,
       frontendQuestionId: "1399",
       paidOnly: false,
       title: "Count Largest Group",
@@ -9804,6 +11203,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.15585206573352,
       frontendQuestionId: "1400",
       paidOnly: false,
       title: "Construct K Palindrome Strings",
@@ -9811,6 +11211,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.914132379248656,
       frontendQuestionId: "1401",
       paidOnly: false,
       title: "Circle and Rectangle Overlapping",
@@ -9818,6 +11219,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.2445932919746,
       frontendQuestionId: "1402",
       paidOnly: false,
       title: "Reducing Dishes",
@@ -9825,6 +11227,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.81419727296897,
       frontendQuestionId: "1403",
       paidOnly: false,
       title: "Minimum Subsequence in Non-Increasing Order",
@@ -9832,6 +11235,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.492267364569486,
       frontendQuestionId: "1404",
       paidOnly: false,
       title:
@@ -9841,6 +11245,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.522100679415544,
       frontendQuestionId: "1405",
       paidOnly: false,
       title: "Longest Happy String",
@@ -9848,6 +11253,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.614503532408065,
       frontendQuestionId: "1406",
       paidOnly: false,
       title: "Stone Game III",
@@ -9855,6 +11261,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.45960694035895,
       frontendQuestionId: "1407",
       paidOnly: false,
       title: "Top Travellers",
@@ -9862,6 +11269,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.15089257456079,
       frontendQuestionId: "1408",
       paidOnly: false,
       title: "String Matching in an Array",
@@ -9869,6 +11277,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 84.41707664422579,
       frontendQuestionId: "1409",
       paidOnly: false,
       title: "Queries on a Permutation With Key",
@@ -9876,6 +11285,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.811041824504144,
       frontendQuestionId: "1410",
       paidOnly: false,
       title: "HTML Entity Parser",
@@ -9883,6 +11293,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.913469210125484,
       frontendQuestionId: "1411",
       paidOnly: false,
       title: "Number of Ways to Paint N × 3 Grid",
@@ -9890,6 +11301,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.96076129789554,
       frontendQuestionId: "1412",
       paidOnly: true,
       title: "Find the Quiet Students in All Exams",
@@ -9897,6 +11309,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.25817681515916,
       frontendQuestionId: "1413",
       paidOnly: false,
       title: "Minimum Value to Get Positive Step by Step Sum",
@@ -9904,6 +11317,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.44839354208293,
       frontendQuestionId: "1414",
       paidOnly: false,
       title: "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
@@ -9911,6 +11325,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.10475676647783,
       frontendQuestionId: "1415",
       paidOnly: false,
       title: "The k-th Lexicographical String of All Happy Strings of Length n",
@@ -9919,6 +11334,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.30148786217698,
       frontendQuestionId: "1416",
       paidOnly: false,
       title: "Restore The Array",
@@ -9926,6 +11342,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.562044803424115,
       frontendQuestionId: "1417",
       paidOnly: false,
       title: "Reformat The String",
@@ -9933,6 +11350,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 75.29947115975895,
       frontendQuestionId: "1418",
       paidOnly: false,
       title: "Display Table of Food Orders in a Restaurant",
@@ -9940,6 +11358,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.417097619208725,
       frontendQuestionId: "1419",
       paidOnly: false,
       title: "Minimum Number of Frogs Croaking",
@@ -9947,6 +11366,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.94359212769254,
       frontendQuestionId: "1420",
       paidOnly: false,
       title: "Build Array Where You Can Find The Maximum Exactly K Comparisons",
@@ -9955,6 +11375,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 82.84962788056312,
       frontendQuestionId: "1421",
       paidOnly: true,
       title: "NPV Queries",
@@ -9962,6 +11383,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.2554698864751,
       frontendQuestionId: "1422",
       paidOnly: false,
       title: "Maximum Score After Splitting a String",
@@ -9969,6 +11391,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.00457233548095,
       frontendQuestionId: "1423",
       paidOnly: false,
       title: "Maximum Points You Can Obtain from Cards",
@@ -9976,6 +11399,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.114753302056734,
       frontendQuestionId: "1424",
       paidOnly: false,
       title: "Diagonal Traverse II",
@@ -9983,6 +11407,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.51974255900867,
       frontendQuestionId: "1425",
       paidOnly: false,
       title: "Constrained Subsequence Sum",
@@ -9990,6 +11415,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.313714853991506,
       frontendQuestionId: "1426",
       paidOnly: true,
       title: "Counting Elements",
@@ -9997,6 +11423,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.839807542158546,
       frontendQuestionId: "1427",
       paidOnly: true,
       title: "Perform String Shifts",
@@ -10004,6 +11431,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.69582808056524,
       frontendQuestionId: "1428",
       paidOnly: true,
       title: "Leftmost Column with at Least a One",
@@ -10011,6 +11439,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.00559912490498,
       frontendQuestionId: "1429",
       paidOnly: true,
       title: "First Unique Number",
@@ -10018,6 +11447,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.03512949345976,
       frontendQuestionId: "1430",
       paidOnly: true,
       title:
@@ -10027,6 +11457,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 87.75114539819431,
       frontendQuestionId: "1431",
       paidOnly: false,
       title: "Kids With the Greatest Number of Candies",
@@ -10034,6 +11465,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.06830496181578,
       frontendQuestionId: "1432",
       paidOnly: false,
       title: "Max Difference You Can Get From Changing an Integer",
@@ -10041,6 +11473,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.94228597069427,
       frontendQuestionId: "1433",
       paidOnly: false,
       title: "Check If a String Can Break Another String",
@@ -10048,6 +11481,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.388092613009924,
       frontendQuestionId: "1434",
       paidOnly: false,
       title: "Number of Ways to Wear Different Hats to Each Other",
@@ -10055,6 +11489,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.88773747841105,
       frontendQuestionId: "1435",
       paidOnly: true,
       title: "Create a Session Bar Chart",
@@ -10062,6 +11497,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 79.51653656358282,
       frontendQuestionId: "1436",
       paidOnly: false,
       title: "Destination City",
@@ -10069,6 +11505,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.14551472834077,
       frontendQuestionId: "1437",
       paidOnly: false,
       title: "Check If All 1's Are at Least Length K Places Away",
@@ -10076,6 +11513,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.64322879706718,
       frontendQuestionId: "1438",
       paidOnly: false,
       title:
@@ -10085,6 +11523,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.00924182782816,
       frontendQuestionId: "1439",
       paidOnly: false,
       title: "Find the Kth Smallest Sum of a Matrix With Sorted Rows",
@@ -10092,6 +11531,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.61641320212816,
       frontendQuestionId: "1440",
       paidOnly: true,
       title: "Evaluate Boolean Expression",
@@ -10099,6 +11539,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 80.06312344864132,
       frontendQuestionId: "1441",
       paidOnly: false,
       title: "Build an Array With Stack Operations",
@@ -10106,6 +11547,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 84.91280617678382,
       frontendQuestionId: "1442",
       paidOnly: false,
       title: "Count Triplets That Can Form Two Arrays of Equal XOR",
@@ -10113,6 +11555,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.52551286444289,
       frontendQuestionId: "1443",
       paidOnly: false,
       title: "Minimum Time to Collect All Apples in a Tree",
@@ -10120,6 +11563,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.897554369473426,
       frontendQuestionId: "1444",
       paidOnly: false,
       title: "Number of Ways of Cutting a Pizza",
@@ -10127,6 +11571,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.0744129592456,
       frontendQuestionId: "1445",
       paidOnly: true,
       title: "Apples & Oranges",
@@ -10134,6 +11579,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.270878043270656,
       frontendQuestionId: "1446",
       paidOnly: false,
       title: "Consecutive Characters",
@@ -10141,6 +11587,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.3886173914697,
       frontendQuestionId: "1447",
       paidOnly: false,
       title: "Simplified Fractions",
@@ -10148,6 +11595,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.07729054431917,
       frontendQuestionId: "1448",
       paidOnly: false,
       title: "Count Good Nodes in Binary Tree",
@@ -10155,6 +11603,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.45528043186253,
       frontendQuestionId: "1449",
       paidOnly: false,
       title: "Form Largest Integer With Digits That Add up to Target",
@@ -10162,6 +11611,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.74435228190039,
       frontendQuestionId: "1450",
       paidOnly: false,
       title: "Number of Students Doing Homework at a Given Time",
@@ -10169,6 +11619,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.02232490214152,
       frontendQuestionId: "1451",
       paidOnly: false,
       title: "Rearrange Words in a Sentence",
@@ -10176,6 +11627,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.38123245555407,
       frontendQuestionId: "1452",
       paidOnly: false,
       title:
@@ -10185,6 +11637,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.52906976744186,
       frontendQuestionId: "1453",
       paidOnly: false,
       title: "Maximum Number of Darts Inside of a Circular Dartboard",
@@ -10192,6 +11645,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 36.644629440891826,
       frontendQuestionId: "1454",
       paidOnly: true,
       title: "Active Users",
@@ -10199,6 +11653,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.55828462400436,
       frontendQuestionId: "1455",
       paidOnly: false,
       title: "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
@@ -10206,6 +11661,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 59.10594843845701,
       frontendQuestionId: "1456",
       paidOnly: false,
       title: "Maximum Number of Vowels in a Substring of Given Length",
@@ -10213,6 +11669,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.33356377993886,
       frontendQuestionId: "1457",
       paidOnly: false,
       title: "Pseudo-Palindromic Paths in a Binary Tree",
@@ -10220,6 +11677,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.44963359174345,
       frontendQuestionId: "1458",
       paidOnly: false,
       title: "Max Dot Product of Two Subsequences",
@@ -10227,6 +11685,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.55964222376436,
       frontendQuestionId: "1459",
       paidOnly: true,
       title: "Rectangles Area",
@@ -10234,6 +11693,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.96709850301211,
       frontendQuestionId: "1460",
       paidOnly: false,
       title: "Make Two Arrays Equal by Reversing Subarrays",
@@ -10241,6 +11701,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.55866710083578,
       frontendQuestionId: "1461",
       paidOnly: false,
       title: "Check If a String Contains All Binary Codes of Size K",
@@ -10248,6 +11709,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.260549011279075,
       frontendQuestionId: "1462",
       paidOnly: false,
       title: "Course Schedule IV",
@@ -10255,6 +11717,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.84719875003985,
       frontendQuestionId: "1463",
       paidOnly: false,
       title: "Cherry Pickup II",
@@ -10262,6 +11725,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 82.9195890081634,
       frontendQuestionId: "1464",
       paidOnly: false,
       title: "Maximum Product of Two Elements in an Array",
@@ -10269,6 +11733,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.10982771408075,
       frontendQuestionId: "1465",
       paidOnly: false,
       title:
@@ -10278,6 +11743,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.53421090698683,
       frontendQuestionId: "1466",
       paidOnly: false,
       title: "Reorder Routes to Make All Paths Lead to the City Zero",
@@ -10285,6 +11751,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.38319327731092,
       frontendQuestionId: "1467",
       paidOnly: false,
       title:
@@ -10294,6 +11761,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.40986132511556,
       frontendQuestionId: "1468",
       paidOnly: true,
       title: "Calculate Salaries",
@@ -10301,6 +11769,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.75687829122536,
       frontendQuestionId: "1469",
       paidOnly: true,
       title: "Find All The Lonely Nodes",
@@ -10308,6 +11777,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 88.64312582724135,
       frontendQuestionId: "1470",
       paidOnly: false,
       title: "Shuffle the Array",
@@ -10315,6 +11785,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.454096787460585,
       frontendQuestionId: "1471",
       paidOnly: false,
       title: "The k Strongest Values in an Array",
@@ -10322,6 +11793,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 77.67862609441009,
       frontendQuestionId: "1472",
       paidOnly: false,
       title: "Design Browser History",
@@ -10329,6 +11801,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.99564915220351,
       frontendQuestionId: "1473",
       paidOnly: false,
       title: "Paint House III",
@@ -10336,6 +11809,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.34606586866241,
       frontendQuestionId: "1474",
       paidOnly: true,
       title: "Delete N Nodes After M Nodes of a Linked List",
@@ -10343,6 +11817,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 78.58355865471277,
       frontendQuestionId: "1475",
       paidOnly: false,
       title: "Final Prices With a Special Discount in a Shop",
@@ -10350,6 +11825,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 88.20441130785959,
       frontendQuestionId: "1476",
       paidOnly: false,
       title: "Subrectangle Queries",
@@ -10357,6 +11833,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.54758093933551,
       frontendQuestionId: "1477",
       paidOnly: false,
       title: "Find Two Non-overlapping Sub-arrays Each With Target Sum",
@@ -10364,6 +11841,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.55765199161426,
       frontendQuestionId: "1478",
       paidOnly: false,
       title: "Allocate Mailboxes",
@@ -10371,6 +11849,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 77.50314729332773,
       frontendQuestionId: "1479",
       paidOnly: true,
       title: "Sales by Day of the Week",
@@ -10378,6 +11857,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.87674581875983,
       frontendQuestionId: "1480",
       paidOnly: false,
       title: "Running Sum of 1d Array",
@@ -10385,6 +11865,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.13951571406447,
       frontendQuestionId: "1481",
       paidOnly: false,
       title: "Least Number of Unique Integers after K Removals",
@@ -10392,6 +11873,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.55728251609844,
       frontendQuestionId: "1482",
       paidOnly: false,
       title: "Minimum Number of Days to Make m Bouquets",
@@ -10399,6 +11881,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.04721170052739,
       frontendQuestionId: "1483",
       paidOnly: false,
       title: "Kth Ancestor of a Tree Node",
@@ -10406,6 +11889,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 77.25710230422924,
       frontendQuestionId: "1484",
       paidOnly: false,
       title: "Group Sold Products By The Date",
@@ -10413,6 +11897,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 80.7322033898305,
       frontendQuestionId: "1485",
       paidOnly: true,
       title: "Clone Binary Tree With Random Pointer",
@@ -10420,6 +11905,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.23934272457747,
       frontendQuestionId: "1486",
       paidOnly: false,
       title: "XOR Operation in an Array",
@@ -10427,6 +11913,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 37.37358539232861,
       frontendQuestionId: "1487",
       paidOnly: false,
       title: "Making File Names Unique",
@@ -10434,6 +11921,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.057681242807824,
       frontendQuestionId: "1488",
       paidOnly: false,
       title: "Avoid Flood in The City",
@@ -10441,6 +11929,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.35454997513675,
       frontendQuestionId: "1489",
       paidOnly: false,
       title: "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
@@ -10449,6 +11938,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.11177166762998,
       frontendQuestionId: "1490",
       paidOnly: true,
       title: "Clone N-ary Tree",
@@ -10456,6 +11946,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.47115895824223,
       frontendQuestionId: "1491",
       paidOnly: false,
       title: "Average Salary Excluding the Minimum and Maximum Salary",
@@ -10463,6 +11954,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.51394071310116,
       frontendQuestionId: "1492",
       paidOnly: false,
       title: "The kth Factor of n",
@@ -10470,6 +11962,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.9479143583737,
       frontendQuestionId: "1493",
       paidOnly: false,
       title: "Longest Subarray of 1's After Deleting One Element",
@@ -10477,6 +11970,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.562729142448358,
       frontendQuestionId: "1494",
       paidOnly: false,
       title: "Parallel Courses II",
@@ -10484,6 +11978,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.064169144953915,
       frontendQuestionId: "1495",
       paidOnly: true,
       title: "Friendly Movies Streamed Last Month",
@@ -10491,6 +11986,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.50691682357179,
       frontendQuestionId: "1496",
       paidOnly: false,
       title: "Path Crossing",
@@ -10498,6 +11994,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 38.56369756970584,
       frontendQuestionId: "1497",
       paidOnly: false,
       title: "Check If Array Pairs Are Divisible by k",
@@ -10505,6 +12002,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.595289263302675,
       frontendQuestionId: "1498",
       paidOnly: false,
       title: "Number of Subsequences That Satisfy the Given Sum Condition",
@@ -10512,6 +12010,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.13183124674473,
       frontendQuestionId: "1499",
       paidOnly: false,
       title: "Max Value of Equation",
@@ -10519,6 +12018,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 42.720785840051896,
       frontendQuestionId: "1500",
       paidOnly: true,
       title: "Design a File Sharing System",
@@ -10526,6 +12026,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.20616532495582,
       frontendQuestionId: "1501",
       paidOnly: true,
       title: "Countries You Can Safely Invest In",
@@ -10533,6 +12034,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.5545290001891,
       frontendQuestionId: "1502",
       paidOnly: false,
       title: "Can Make Arithmetic Progression From Sequence",
@@ -10540,6 +12042,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.51642810914947,
       frontendQuestionId: "1503",
       paidOnly: false,
       title: "Last Moment Before All Ants Fall Out of a Plank",
@@ -10547,6 +12050,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.24046168305226,
       frontendQuestionId: "1504",
       paidOnly: false,
       title: "Count Submatrices With All Ones",
@@ -10554,6 +12058,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.905199229743744,
       frontendQuestionId: "1505",
       paidOnly: false,
       title:
@@ -10563,6 +12068,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.41527071002686,
       frontendQuestionId: "1506",
       paidOnly: true,
       title: "Find Root of N-Ary Tree",
@@ -10570,6 +12076,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.72599956339944,
       frontendQuestionId: "1507",
       paidOnly: false,
       title: "Reformat Date",
@@ -10577,6 +12084,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.180624452874234,
       frontendQuestionId: "1508",
       paidOnly: false,
       title: "Range Sum of Sorted Subarray Sums",
@@ -10584,6 +12092,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.26037516037591,
       frontendQuestionId: "1509",
       paidOnly: false,
       title:
@@ -10593,6 +12102,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.63785553670756,
       frontendQuestionId: "1510",
       paidOnly: false,
       title: "Stone Game IV",
@@ -10600,6 +12110,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.53968856817319,
       frontendQuestionId: "1511",
       paidOnly: true,
       title: "Customer Order Frequency",
@@ -10607,6 +12118,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 89.28501633507942,
       frontendQuestionId: "1512",
       paidOnly: false,
       title: "Number of Good Pairs",
@@ -10614,6 +12126,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.12492318497059,
       frontendQuestionId: "1513",
       paidOnly: false,
       title: "Number of Substrings With Only 1s",
@@ -10621,6 +12134,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.49230137548759,
       frontendQuestionId: "1514",
       paidOnly: false,
       title: "Path with Maximum Probability",
@@ -10628,6 +12142,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.80528200537153,
       frontendQuestionId: "1515",
       paidOnly: false,
       title: "Best Position for a Service Centre",
@@ -10635,6 +12150,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.607378129117265,
       frontendQuestionId: "1516",
       paidOnly: true,
       title: "Move Sub-Tree of N-Ary Tree",
@@ -10642,6 +12158,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.03574857818155,
       frontendQuestionId: "1517",
       paidOnly: false,
       title: "Find Users With Valid E-Mails",
@@ -10649,6 +12166,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.00748495034648,
       frontendQuestionId: "1518",
       paidOnly: false,
       title: "Water Bottles",
@@ -10656,6 +12174,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.99887838487422,
       frontendQuestionId: "1519",
       paidOnly: false,
       title: "Number of Nodes in the Sub-Tree With the Same Label",
@@ -10663,6 +12182,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.71952296819788,
       frontendQuestionId: "1520",
       paidOnly: false,
       title: "Maximum Number of Non-Overlapping Substrings",
@@ -10670,6 +12190,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 45.42108421684337,
       frontendQuestionId: "1521",
       paidOnly: false,
       title: "Find a Value of a Mysterious Function Closest to Target",
@@ -10677,6 +12198,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.50012342631449,
       frontendQuestionId: "1522",
       paidOnly: true,
       title: "Diameter of N-Ary Tree",
@@ -10684,6 +12206,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.01398096008328,
       frontendQuestionId: "1523",
       paidOnly: false,
       title: "Count Odd Numbers in an Interval Range",
@@ -10691,6 +12214,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.8135755869746,
       frontendQuestionId: "1524",
       paidOnly: false,
       title: "Number of Sub-arrays With Odd Sum",
@@ -10698,6 +12222,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.27654101432246,
       frontendQuestionId: "1525",
       paidOnly: false,
       title: "Number of Good Ways to Split a String",
@@ -10705,6 +12230,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.40520896426408,
       frontendQuestionId: "1526",
       paidOnly: false,
       title: "Minimum Number of Increments on Subarrays to Form a Target Array",
@@ -10713,6 +12239,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.41482303500523,
       frontendQuestionId: "1527",
       paidOnly: false,
       title: "Patients With a Condition",
@@ -10720,6 +12247,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 84.89033659966742,
       frontendQuestionId: "1528",
       paidOnly: false,
       title: "Shuffle String",
@@ -10727,6 +12255,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.48668593250078,
       frontendQuestionId: "1529",
       paidOnly: false,
       title: "Minimum Suffix Flips",
@@ -10734,6 +12263,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.90557127543482,
       frontendQuestionId: "1530",
       paidOnly: false,
       title: "Number of Good Leaf Nodes Pairs",
@@ -10741,6 +12271,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.47567363305237,
       frontendQuestionId: "1531",
       paidOnly: false,
       title: "String Compression II",
@@ -10748,6 +12279,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.36090625207628,
       frontendQuestionId: "1532",
       paidOnly: true,
       title: "The Most Recent Three Orders",
@@ -10755,6 +12287,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.12300506033476,
       frontendQuestionId: "1533",
       paidOnly: true,
       title: "Find the Index of the Large Integer",
@@ -10762,6 +12295,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 81.48525184231924,
       frontendQuestionId: "1534",
       paidOnly: false,
       title: "Count Good Triplets",
@@ -10769,6 +12303,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.90429877455748,
       frontendQuestionId: "1535",
       paidOnly: false,
       title: "Find the Winner of an Array Game",
@@ -10776,6 +12311,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.754562920268974,
       frontendQuestionId: "1536",
       paidOnly: false,
       title: "Minimum Swaps to Arrange a Binary Grid",
@@ -10783,6 +12319,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.64931338959918,
       frontendQuestionId: "1537",
       paidOnly: false,
       title: "Get the Maximum Score",
@@ -10790,6 +12327,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.11123649846849,
       frontendQuestionId: "1538",
       paidOnly: true,
       title: "Guess the Majority in a Hidden Array",
@@ -10797,6 +12335,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.80870551345053,
       frontendQuestionId: "1539",
       paidOnly: false,
       title: "Kth Missing Positive Number",
@@ -10804,6 +12343,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 35.53852154594943,
       frontendQuestionId: "1540",
       paidOnly: false,
       title: "Can Convert String in K Moves",
@@ -10811,6 +12351,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.735122094453565,
       frontendQuestionId: "1541",
       paidOnly: false,
       title: "Minimum Insertions to Balance a Parentheses String",
@@ -10818,6 +12359,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.2612323129827,
       frontendQuestionId: "1542",
       paidOnly: false,
       title: "Find Longest Awesome Substring",
@@ -10825,6 +12367,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.27165354330709,
       frontendQuestionId: "1543",
       paidOnly: true,
       title: "Fix Product Name Format",
@@ -10832,6 +12375,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.32247269982979,
       frontendQuestionId: "1544",
       paidOnly: false,
       title: "Make The String Great",
@@ -10839,6 +12383,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 59.1634792371056,
       frontendQuestionId: "1545",
       paidOnly: false,
       title: "Find Kth Bit in Nth Binary String",
@@ -10846,6 +12391,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.967044551484776,
       frontendQuestionId: "1546",
       paidOnly: false,
       title:
@@ -10855,6 +12401,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.71930709428318,
       frontendQuestionId: "1547",
       paidOnly: false,
       title: "Minimum Cost to Cut a Stick",
@@ -10862,6 +12409,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.244451973572765,
       frontendQuestionId: "1548",
       paidOnly: true,
       title: "The Most Similar Path in a Graph",
@@ -10869,6 +12417,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.8004048839122,
       frontendQuestionId: "1549",
       paidOnly: true,
       title: "The Most Recent Orders for Each Product",
@@ -10876,6 +12425,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.29299681662445,
       frontendQuestionId: "1550",
       paidOnly: false,
       title: "Three Consecutive Odds",
@@ -10883,6 +12433,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 82.44794361096741,
       frontendQuestionId: "1551",
       paidOnly: false,
       title: "Minimum Operations to Make Array Equal",
@@ -10890,6 +12441,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.0684194727601,
       frontendQuestionId: "1552",
       paidOnly: false,
       title: "Magnetic Force Between Two Balls",
@@ -10897,6 +12449,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.516081761478915,
       frontendQuestionId: "1553",
       paidOnly: false,
       title: "Minimum Number of Days to Eat N Oranges",
@@ -10904,6 +12457,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 41.568679407770524,
       frontendQuestionId: "1554",
       paidOnly: true,
       title: "Strings Differ by One Character",
@@ -10911,6 +12465,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.33988870279323,
       frontendQuestionId: "1555",
       paidOnly: true,
       title: "Bank Account Summary",
@@ -10918,6 +12473,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.77819021933513,
       frontendQuestionId: "1556",
       paidOnly: false,
       title: "Thousand Separator",
@@ -10925,6 +12481,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.03091730705405,
       frontendQuestionId: "1557",
       paidOnly: false,
       title: "Minimum Number of Vertices to Reach All Nodes",
@@ -10932,6 +12489,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.519531029817934,
       frontendQuestionId: "1558",
       paidOnly: false,
       title: "Minimum Numbers of Function Calls to Make Target Array",
@@ -10939,6 +12497,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.965621327928766,
       frontendQuestionId: "1559",
       paidOnly: false,
       title: "Detect Cycles in 2D Grid",
@@ -10946,6 +12505,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.97642625536763,
       frontendQuestionId: "1560",
       paidOnly: false,
       title: "Most Visited Sector in  a Circular Track",
@@ -10953,6 +12513,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 84.50604823784306,
       frontendQuestionId: "1561",
       paidOnly: false,
       title: "Maximum Number of Coins You Can Get",
@@ -10960,6 +12521,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.01009552265834,
       frontendQuestionId: "1562",
       paidOnly: false,
       title: "Find Latest Group of Size M",
@@ -10967,6 +12529,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.16614850559805,
       frontendQuestionId: "1563",
       paidOnly: false,
       title: "Stone Game V",
@@ -10974,6 +12537,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.43744955609363,
       frontendQuestionId: "1564",
       paidOnly: true,
       title: "Put Boxes Into the Warehouse I",
@@ -10981,6 +12545,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.10667731745399,
       frontendQuestionId: "1565",
       paidOnly: true,
       title: "Unique Orders and Customers Per Month",
@@ -10988,6 +12553,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.394535441799036,
       frontendQuestionId: "1566",
       paidOnly: false,
       title: "Detect Pattern of Length M Repeated K or More Times",
@@ -10995,6 +12561,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.290286712373785,
       frontendQuestionId: "1567",
       paidOnly: false,
       title: "Maximum Length of Subarray With Positive Product",
@@ -11002,6 +12569,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.761146080915196,
       frontendQuestionId: "1568",
       paidOnly: false,
       title: "Minimum Number of Days to Disconnect Island",
@@ -11009,6 +12577,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.55934758642784,
       frontendQuestionId: "1569",
       paidOnly: false,
       title: "Number of Ways to Reorder Array to Get Same BST",
@@ -11016,6 +12585,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 89.8549758822036,
       frontendQuestionId: "1570",
       paidOnly: true,
       title: "Dot Product of Two Sparse Vectors",
@@ -11023,6 +12593,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 87.57411755342433,
       frontendQuestionId: "1571",
       paidOnly: true,
       title: "Warehouse Manager",
@@ -11030,6 +12601,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 83.26420330701933,
       frontendQuestionId: "1572",
       paidOnly: false,
       title: "Matrix Diagonal Sum",
@@ -11037,6 +12609,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.576939999785374,
       frontendQuestionId: "1573",
       paidOnly: false,
       title: "Number of Ways to Split a String",
@@ -11044,6 +12617,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.14950022743442,
       frontendQuestionId: "1574",
       paidOnly: false,
       title: "Shortest Subarray to be Removed to Make Array Sorted",
@@ -11051,6 +12625,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.1990508832059,
       frontendQuestionId: "1575",
       paidOnly: false,
       title: "Count All Possible Routes",
@@ -11058,6 +12633,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.10412350074415,
       frontendQuestionId: "1576",
       paidOnly: false,
       title: "Replace All ?'s to Avoid Consecutive Repeating Characters",
@@ -11065,6 +12641,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.558171614293,
       frontendQuestionId: "1577",
       paidOnly: false,
       title:
@@ -11074,6 +12651,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.69007065734198,
       frontendQuestionId: "1578",
       paidOnly: false,
       title: "Minimum Time to Make Rope Colorful",
@@ -11081,6 +12659,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.77855332339534,
       frontendQuestionId: "1579",
       paidOnly: false,
       title: "Remove Max Number of Edges to Keep Graph Fully Traversable",
@@ -11088,6 +12667,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.02592758158248,
       frontendQuestionId: "1580",
       paidOnly: true,
       title: "Put Boxes Into the Warehouse II",
@@ -11095,6 +12675,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.93104277656849,
       frontendQuestionId: "1581",
       paidOnly: false,
       title: "Customer Who Visited but Did Not Make Any Transactions",
@@ -11102,6 +12683,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.66607802141998,
       frontendQuestionId: "1582",
       paidOnly: false,
       title: "Special Positions in a Binary Matrix",
@@ -11109,6 +12691,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.7102944877926,
       frontendQuestionId: "1583",
       paidOnly: false,
       title: "Count Unhappy Friends",
@@ -11116,6 +12699,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.58908874936365,
       frontendQuestionId: "1584",
       paidOnly: false,
       title: "Min Cost to Connect All Points",
@@ -11123,6 +12707,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.717673570125555,
       frontendQuestionId: "1585",
       paidOnly: false,
       title: "Check If String Is Transformable With Substring Sort Operations",
@@ -11131,6 +12716,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.42043658421974,
       frontendQuestionId: "1586",
       paidOnly: true,
       title: "Binary Search Tree Iterator II",
@@ -11138,6 +12724,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.37090148740232,
       frontendQuestionId: "1587",
       paidOnly: false,
       title: "Bank Account Summary II",
@@ -11145,6 +12732,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 83.26484009181941,
       frontendQuestionId: "1588",
       paidOnly: false,
       title: "Sum of All Odd Length Subarrays",
@@ -11152,6 +12740,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 38.57086670480549,
       frontendQuestionId: "1589",
       paidOnly: false,
       title: "Maximum Sum Obtained of Any Permutation",
@@ -11159,6 +12748,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.291804678004475,
       frontendQuestionId: "1590",
       paidOnly: false,
       title: "Make Sum Divisible by P",
@@ -11166,6 +12756,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.50977502701641,
       frontendQuestionId: "1591",
       paidOnly: false,
       title: "Strange Printer II",
@@ -11173,6 +12764,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.34655660239769,
       frontendQuestionId: "1592",
       paidOnly: false,
       title: "Rearrange Spaces Between Words",
@@ -11180,6 +12772,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.999672227301744,
       frontendQuestionId: "1593",
       paidOnly: false,
       title: "Split a String Into the Max Number of Unique Substrings",
@@ -11187,6 +12780,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.079512175552615,
       frontendQuestionId: "1594",
       paidOnly: false,
       title: "Maximum Non Negative Product in a Matrix",
@@ -11194,6 +12788,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.512218375232074,
       frontendQuestionId: "1595",
       paidOnly: false,
       title: "Minimum Cost to Connect Two Groups of Points",
@@ -11201,6 +12796,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.41050479914682,
       frontendQuestionId: "1596",
       paidOnly: true,
       title: "The Most Frequently Ordered Products for Each Customer",
@@ -11208,6 +12804,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.45283897712981,
       frontendQuestionId: "1597",
       paidOnly: true,
       title: "Build Binary Expression Tree From Infix Expression",
@@ -11215,6 +12812,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.76379758748264,
       frontendQuestionId: "1598",
       paidOnly: false,
       title: "Crawler Log Folder",
@@ -11222,6 +12820,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.308383936659176,
       frontendQuestionId: "1599",
       paidOnly: false,
       title: "Maximum Profit of Operating a Centennial Wheel",
@@ -11229,6 +12828,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.43107038733861,
       frontendQuestionId: "1600",
       paidOnly: false,
       title: "Throne Inheritance",
@@ -11236,6 +12836,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.55407756636919,
       frontendQuestionId: "1601",
       paidOnly: false,
       title: "Maximum Number of Achievable Transfer Requests",
@@ -11243,6 +12844,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.202639925672,
       frontendQuestionId: "1602",
       paidOnly: true,
       title: "Find Nearest Right Node in Binary Tree",
@@ -11250,6 +12852,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 88.00514322194681,
       frontendQuestionId: "1603",
       paidOnly: false,
       title: "Design Parking System",
@@ -11257,6 +12860,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.98418393673575,
       frontendQuestionId: "1604",
       paidOnly: false,
       title:
@@ -11266,6 +12870,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.0828118015199,
       frontendQuestionId: "1605",
       paidOnly: false,
       title: "Find Valid Matrix Given Row and Column Sums",
@@ -11273,6 +12878,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.63538821693328,
       frontendQuestionId: "1606",
       paidOnly: false,
       title: "Find Servers That Handled Most Number of Requests",
@@ -11280,6 +12886,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.30208585981082,
       frontendQuestionId: "1607",
       paidOnly: true,
       title: "Sellers With No Sales",
@@ -11287,6 +12894,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.86828953307175,
       frontendQuestionId: "1608",
       paidOnly: false,
       title: "Special Array With X Elements Greater Than or Equal X",
@@ -11294,6 +12902,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.05893915919017,
       frontendQuestionId: "1609",
       paidOnly: false,
       title: "Even Odd Tree",
@@ -11301,6 +12910,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.416775284461195,
       frontendQuestionId: "1610",
       paidOnly: false,
       title: "Maximum Number of Visible Points",
@@ -11308,6 +12918,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.00629215683874,
       frontendQuestionId: "1611",
       paidOnly: false,
       title: "Minimum One Bit Operations to Make Integers Zero",
@@ -11315,6 +12926,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.72126570497906,
       frontendQuestionId: "1612",
       paidOnly: true,
       title: "Check If Two Expression Trees are Equivalent",
@@ -11322,6 +12934,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.98267693218833,
       frontendQuestionId: "1613",
       paidOnly: true,
       title: "Find the Missing IDs",
@@ -11329,6 +12942,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.97910919726066,
       frontendQuestionId: "1614",
       paidOnly: false,
       title: "Maximum Nesting Depth of the Parentheses",
@@ -11336,6 +12950,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.21789006004826,
       frontendQuestionId: "1615",
       paidOnly: false,
       title: "Maximal Network Rank",
@@ -11343,6 +12958,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.137370753323484,
       frontendQuestionId: "1616",
       paidOnly: false,
       title: "Split Two Strings to Make Palindrome",
@@ -11350,6 +12966,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.37003431629151,
       frontendQuestionId: "1617",
       paidOnly: false,
       title: "Count Subtrees With Max Distance Between Cities",
@@ -11357,6 +12974,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.09845830413455,
       frontendQuestionId: "1618",
       paidOnly: true,
       title: "Maximum Font to Fit a Sentence in a Screen",
@@ -11364,6 +12982,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.2023271673344,
       frontendQuestionId: "1619",
       paidOnly: false,
       title: "Mean of Array After Removing Some Elements",
@@ -11371,6 +12990,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 38.274877650897224,
       frontendQuestionId: "1620",
       paidOnly: false,
       title: "Coordinate With Maximum Network Quality",
@@ -11378,6 +12998,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.882416352253415,
       frontendQuestionId: "1621",
       paidOnly: false,
       title: "Number of Sets of K Non-Overlapping Line Segments",
@@ -11385,6 +13006,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 17.651724953727545,
       frontendQuestionId: "1622",
       paidOnly: false,
       title: "Fancy Sequence",
@@ -11392,6 +13014,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 81.86540920716112,
       frontendQuestionId: "1623",
       paidOnly: true,
       title: "All Valid Triplets That Can Represent a Country",
@@ -11399,6 +13022,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.55483494612587,
       frontendQuestionId: "1624",
       paidOnly: false,
       title: "Largest Substring Between Two Equal Characters",
@@ -11406,6 +13030,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.89695126961954,
       frontendQuestionId: "1625",
       paidOnly: false,
       title: "Lexicographically Smallest String After Applying Operations",
@@ -11413,6 +13038,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.41829010027262,
       frontendQuestionId: "1626",
       paidOnly: false,
       title: "Best Team With No Conflicts",
@@ -11420,6 +13046,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.48217922606925,
       frontendQuestionId: "1627",
       paidOnly: false,
       title: "Graph Connectivity With Threshold",
@@ -11427,6 +13054,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 82.53595806923451,
       frontendQuestionId: "1628",
       paidOnly: true,
       title: "Design an Expression Tree With Evaluate Function",
@@ -11434,6 +13062,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.1953365445122,
       frontendQuestionId: "1629",
       paidOnly: false,
       title: "Slowest Key",
@@ -11441,6 +13070,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 83.73963501010569,
       frontendQuestionId: "1630",
       paidOnly: false,
       title: "Arithmetic Subarrays",
@@ -11448,6 +13078,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.332149624182804,
       frontendQuestionId: "1631",
       paidOnly: false,
       title: "Path With Minimum Effort",
@@ -11455,6 +13086,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.02628645402567,
       frontendQuestionId: "1632",
       paidOnly: false,
       title: "Rank Transform of a Matrix",
@@ -11462,6 +13094,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.822033357820615,
       frontendQuestionId: "1633",
       paidOnly: false,
       title: "Percentage of Users Attended a Contest",
@@ -11469,6 +13102,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.4793270375367,
       frontendQuestionId: "1634",
       paidOnly: true,
       title: "Add Two Polynomials Represented as Linked Lists",
@@ -11476,6 +13110,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.77610657498926,
       frontendQuestionId: "1635",
       paidOnly: true,
       title: "Hopper Company Queries I",
@@ -11483,6 +13118,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 79.88168370565269,
       frontendQuestionId: "1636",
       paidOnly: false,
       title: "Sort Array by Increasing Frequency",
@@ -11490,6 +13126,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 87.35346254419383,
       frontendQuestionId: "1637",
       paidOnly: false,
       title: "Widest Vertical Area Between Two Points Containing No Points",
@@ -11497,6 +13134,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.35358498994863,
       frontendQuestionId: "1638",
       paidOnly: false,
       title: "Count Substrings That Differ by One Character",
@@ -11504,6 +13142,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.776957011531806,
       frontendQuestionId: "1639",
       paidOnly: false,
       title: "Number of Ways to Form a Target String Given a Dictionary",
@@ -11511,6 +13150,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.7049602025562,
       frontendQuestionId: "1640",
       paidOnly: false,
       title: "Check Array Formation Through Concatenation",
@@ -11518,6 +13158,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 78.64423573124162,
       frontendQuestionId: "1641",
       paidOnly: false,
       title: "Count Sorted Vowel Strings",
@@ -11525,6 +13166,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.930598724379,
       frontendQuestionId: "1642",
       paidOnly: false,
       title: "Furthest Building You Can Reach",
@@ -11532,6 +13174,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.49449810706577,
       frontendQuestionId: "1643",
       paidOnly: false,
       title: "Kth Smallest Instructions",
@@ -11539,6 +13182,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.1881945820693,
       frontendQuestionId: "1644",
       paidOnly: true,
       title: "Lowest Common Ancestor of a Binary Tree II",
@@ -11546,6 +13190,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.24310748330384,
       frontendQuestionId: "1645",
       paidOnly: true,
       title: "Hopper Company Queries II",
@@ -11553,6 +13198,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.61681989040352,
       frontendQuestionId: "1646",
       paidOnly: false,
       title: "Get Maximum in Generated Array",
@@ -11560,6 +13206,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.26805087834071,
       frontendQuestionId: "1647",
       paidOnly: false,
       title: "Minimum Deletions to Make Character Frequencies Unique",
@@ -11567,6 +13214,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.989164581433236,
       frontendQuestionId: "1648",
       paidOnly: false,
       title: "Sell Diminishing-Valued Colored Balls",
@@ -11574,6 +13222,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.365968181751896,
       frontendQuestionId: "1649",
       paidOnly: false,
       title: "Create Sorted Array through Instructions",
@@ -11581,6 +13230,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 80.48118344130674,
       frontendQuestionId: "1650",
       paidOnly: true,
       title: "Lowest Common Ancestor of a Binary Tree III",
@@ -11588,6 +13238,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.40915395284327,
       frontendQuestionId: "1651",
       paidOnly: true,
       title: "Hopper Company Queries III",
@@ -11595,6 +13246,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.98107259498379,
       frontendQuestionId: "1652",
       paidOnly: false,
       title: "Defuse the Bomb",
@@ -11602,6 +13254,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.78801175476028,
       frontendQuestionId: "1653",
       paidOnly: false,
       title: "Minimum Deletions to Make String Balanced",
@@ -11609,6 +13262,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.669750213200878,
       frontendQuestionId: "1654",
       paidOnly: false,
       title: "Minimum Jumps to Reach Home",
@@ -11616,6 +13270,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.79784301397688,
       frontendQuestionId: "1655",
       paidOnly: false,
       title: "Distribute Repeating Integers",
@@ -11623,6 +13278,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 84.37891687634044,
       frontendQuestionId: "1656",
       paidOnly: false,
       title: "Design an Ordered Stream",
@@ -11630,6 +13286,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.38253774708534,
       frontendQuestionId: "1657",
       paidOnly: false,
       title: "Determine if Two Strings Are Close",
@@ -11637,6 +13294,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.79641814773033,
       frontendQuestionId: "1658",
       paidOnly: false,
       title: "Minimum Operations to Reduce X to Zero",
@@ -11644,6 +13302,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.99065482945064,
       frontendQuestionId: "1659",
       paidOnly: false,
       title: "Maximize Grid Happiness",
@@ -11651,6 +13310,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.42418426103646,
       frontendQuestionId: "1660",
       paidOnly: true,
       title: "Correct a Binary Tree",
@@ -11658,6 +13318,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.42304493705372,
       frontendQuestionId: "1661",
       paidOnly: false,
       title: "Average Time of Process per Machine",
@@ -11665,6 +13326,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.5912185862254,
       frontendQuestionId: "1662",
       paidOnly: false,
       title: "Check If Two String Arrays are Equivalent",
@@ -11672,6 +13334,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.93294936936688,
       frontendQuestionId: "1663",
       paidOnly: false,
       title: "Smallest String With A Given Numeric Value",
@@ -11679,6 +13342,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.80763587550339,
       frontendQuestionId: "1664",
       paidOnly: false,
       title: "Ways to Make a Fair Array",
@@ -11686,6 +13350,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.460719208119286,
       frontendQuestionId: "1665",
       paidOnly: false,
       title: "Minimum Initial Energy to Finish Tasks",
@@ -11693,6 +13358,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.26438296003514,
       frontendQuestionId: "1666",
       paidOnly: true,
       title: "Change the Root of a Binary Tree",
@@ -11700,6 +13366,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.405254730679324,
       frontendQuestionId: "1667",
       paidOnly: false,
       title: "Fix Names in a Table",
@@ -11707,6 +13374,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 38.93594897221623,
       frontendQuestionId: "1668",
       paidOnly: false,
       title: "Maximum Repeating Substring",
@@ -11714,6 +13382,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.8267112965861,
       frontendQuestionId: "1669",
       paidOnly: false,
       title: "Merge In Between Linked Lists",
@@ -11721,6 +13390,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.80023834351259,
       frontendQuestionId: "1670",
       paidOnly: false,
       title: "Design Front Middle Back Queue",
@@ -11728,6 +13398,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.16339720770532,
       frontendQuestionId: "1671",
       paidOnly: false,
       title: "Minimum Number of Removals to Make Mountain Array",
@@ -11735,6 +13406,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 88.26331027677183,
       frontendQuestionId: "1672",
       paidOnly: false,
       title: "Richest Customer Wealth",
@@ -11742,6 +13414,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.91147511161307,
       frontendQuestionId: "1673",
       paidOnly: false,
       title: "Find the Most Competitive Subsequence",
@@ -11749,6 +13422,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.49723056107564,
       frontendQuestionId: "1674",
       paidOnly: false,
       title: "Minimum Moves to Make Array Complementary",
@@ -11756,6 +13430,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.9888672293148,
       frontendQuestionId: "1675",
       paidOnly: false,
       title: "Minimize Deviation in Array",
@@ -11763,6 +13438,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.50831687807491,
       frontendQuestionId: "1676",
       paidOnly: true,
       title: "Lowest Common Ancestor of a Binary Tree IV",
@@ -11770,6 +13446,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.271497919556175,
       frontendQuestionId: "1677",
       paidOnly: true,
       title: "Product's Worth Over Invoices",
@@ -11777,6 +13454,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 87.4257480348169,
       frontendQuestionId: "1678",
       paidOnly: false,
       title: "Goal Parser Interpretation",
@@ -11784,6 +13462,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.27227753655737,
       frontendQuestionId: "1679",
       paidOnly: false,
       title: "Max Number of K-Sum Pairs",
@@ -11791,6 +13470,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.19748327074833,
       frontendQuestionId: "1680",
       paidOnly: false,
       title: "Concatenation of Consecutive Binary Numbers",
@@ -11798,6 +13478,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.23234435585762,
       frontendQuestionId: "1681",
       paidOnly: false,
       title: "Minimum Incompatibility",
@@ -11805,6 +13486,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.1826280623608,
       frontendQuestionId: "1682",
       paidOnly: true,
       title: "Longest Palindromic Subsequence II",
@@ -11812,6 +13494,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 85.50403509405261,
       frontendQuestionId: "1683",
       paidOnly: false,
       title: "Invalid Tweets",
@@ -11819,6 +13502,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 88.09967661224127,
       frontendQuestionId: "1684",
       paidOnly: false,
       title: "Count the Number of Consistent Strings",
@@ -11826,6 +13510,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.29620586706635,
       frontendQuestionId: "1685",
       paidOnly: false,
       title: "Sum of Absolute Differences in a Sorted Array",
@@ -11833,6 +13518,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.81863525416534,
       frontendQuestionId: "1686",
       paidOnly: false,
       title: "Stone Game VI",
@@ -11840,6 +13526,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.23316986179224,
       frontendQuestionId: "1687",
       paidOnly: false,
       title: "Delivering Boxes from Storage to Ports",
@@ -11847,6 +13534,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 85.73330412362448,
       frontendQuestionId: "1688",
       paidOnly: false,
       title: "Count of Matches in Tournament",
@@ -11854,6 +13542,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 88.74843398619574,
       frontendQuestionId: "1689",
       paidOnly: false,
       title: "Partitioning Into Minimum Number Of Deci-Binary Numbers",
@@ -11861,6 +13550,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.215955150404554,
       frontendQuestionId: "1690",
       paidOnly: false,
       title: "Stone Game VII",
@@ -11868,6 +13558,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.5592077305397,
       frontendQuestionId: "1691",
       paidOnly: false,
       title: "Maximum Height by Stacking Cuboids ",
@@ -11875,6 +13566,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.5087760355722,
       frontendQuestionId: "1692",
       paidOnly: true,
       title: "Count Ways to Distribute Candies",
@@ -11882,6 +13574,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.54836249976368,
       frontendQuestionId: "1693",
       paidOnly: false,
       title: "Daily Leads and Partners",
@@ -11889,6 +13582,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.34024949906276,
       frontendQuestionId: "1694",
       paidOnly: false,
       title: "Reformat Phone Number",
@@ -11896,6 +13590,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.56120612452506,
       frontendQuestionId: "1695",
       paidOnly: false,
       title: "Maximum Erasure Value",
@@ -11903,6 +13598,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.68833596651585,
       frontendQuestionId: "1696",
       paidOnly: false,
       title: "Jump Game VI",
@@ -11910,6 +13606,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.61409751395352,
       frontendQuestionId: "1697",
       paidOnly: false,
       title: "Checking Existence of Edge Length Limited Paths",
@@ -11917,6 +13614,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.6217224294383,
       frontendQuestionId: "1698",
       paidOnly: true,
       title: "Number of Distinct Substrings in a String",
@@ -11924,6 +13622,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 81.04158655166731,
       frontendQuestionId: "1699",
       paidOnly: true,
       title: "Number of Calls Between Two Persons",
@@ -11931,6 +13630,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 78.38309129030631,
       frontendQuestionId: "1700",
       paidOnly: false,
       title: "Number of Students Unable to Eat Lunch",
@@ -11938,6 +13638,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.05962581384753,
       frontendQuestionId: "1701",
       paidOnly: false,
       title: "Average Waiting Time",
@@ -11945,6 +13646,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.04236745424517,
       frontendQuestionId: "1702",
       paidOnly: false,
       title: "Maximum Binary String After Change",
@@ -11952,6 +13654,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.427344178395174,
       frontendQuestionId: "1703",
       paidOnly: false,
       title: "Minimum Adjacent Swaps for K Consecutive Ones",
@@ -11959,6 +13662,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.66031036494905,
       frontendQuestionId: "1704",
       paidOnly: false,
       title: "Determine if String Halves Are Alike",
@@ -11966,6 +13670,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.65006027825747,
       frontendQuestionId: "1705",
       paidOnly: false,
       title: "Maximum Number of Eaten Apples",
@@ -11973,6 +13678,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.92001535446593,
       frontendQuestionId: "1706",
       paidOnly: false,
       title: "Where Will the Ball Fall",
@@ -11980,6 +13686,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.040292692198044,
       frontendQuestionId: "1707",
       paidOnly: false,
       title: "Maximum XOR With an Element From Array",
@@ -11987,6 +13694,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.23292265072538,
       frontendQuestionId: "1708",
       paidOnly: true,
       title: "Largest Subarray Length K",
@@ -11994,6 +13702,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 70.33325827516325,
       frontendQuestionId: "1709",
       paidOnly: true,
       title: "Biggest Window Between Visits",
@@ -12001,6 +13710,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.8372741467767,
       frontendQuestionId: "1710",
       paidOnly: false,
       title: "Maximum Units on a Truck",
@@ -12008,6 +13718,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 30.677521671631148,
       frontendQuestionId: "1711",
       paidOnly: false,
       title: "Count Good Meals",
@@ -12015,6 +13726,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.11108951307221,
       frontendQuestionId: "1712",
       paidOnly: false,
       title: "Ways to Split Array Into Three Subarrays",
@@ -12022,6 +13734,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.714699439349495,
       frontendQuestionId: "1713",
       paidOnly: false,
       title: "Minimum Operations to Make a Subsequence",
@@ -12029,6 +13742,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.774070212026416,
       frontendQuestionId: "1714",
       paidOnly: true,
       title: "Sum Of Special Evenly-Spaced Elements In Array",
@@ -12036,6 +13750,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.68279039157618,
       frontendQuestionId: "1715",
       paidOnly: true,
       title: "Count Apples and Oranges",
@@ -12043,6 +13758,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 78.42729828909117,
       frontendQuestionId: "1716",
       paidOnly: false,
       title: "Calculate Money in Leetcode Bank",
@@ -12050,6 +13766,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.9868780224196,
       frontendQuestionId: "1717",
       paidOnly: false,
       title: "Maximum Score From Removing Substrings",
@@ -12057,6 +13774,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.309270795163066,
       frontendQuestionId: "1718",
       paidOnly: false,
       title: "Construct the Lexicographically Largest Valid Sequence",
@@ -12064,6 +13782,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.56963428149243,
       frontendQuestionId: "1719",
       paidOnly: false,
       title: "Number Of Ways To Reconstruct A Tree",
@@ -12071,6 +13790,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.61323374406771,
       frontendQuestionId: "1720",
       paidOnly: false,
       title: "Decode XORed Array",
@@ -12078,6 +13798,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.06437829369035,
       frontendQuestionId: "1721",
       paidOnly: false,
       title: "Swapping Nodes in a Linked List",
@@ -12085,6 +13806,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.91702852388258,
       frontendQuestionId: "1722",
       paidOnly: false,
       title: "Minimize Hamming Distance After Swap Operations",
@@ -12092,6 +13814,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.7611236118168,
       frontendQuestionId: "1723",
       paidOnly: false,
       title: "Find Minimum Time to Finish All Jobs",
@@ -12099,6 +13822,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.9990173599738,
       frontendQuestionId: "1724",
       paidOnly: true,
       title: "Checking Existence of Edge Length Limited Paths II",
@@ -12106,6 +13830,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.88436955258571,
       frontendQuestionId: "1725",
       paidOnly: false,
       title: "Number Of Rectangles That Can Form The Largest Square",
@@ -12113,6 +13838,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.30497582215152,
       frontendQuestionId: "1726",
       paidOnly: false,
       title: "Tuple with Same Product",
@@ -12120,6 +13846,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.35031195663291,
       frontendQuestionId: "1727",
       paidOnly: false,
       title: "Largest Submatrix With Rearrangements",
@@ -12127,6 +13854,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.833474756045824,
       frontendQuestionId: "1728",
       paidOnly: false,
       title: "Cat and Mouse II",
@@ -12134,6 +13862,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.19270900833182,
       frontendQuestionId: "1729",
       paidOnly: false,
       title: "Find Followers Count",
@@ -12141,6 +13870,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.167571539372176,
       frontendQuestionId: "1730",
       paidOnly: true,
       title: "Shortest Path to Get Food",
@@ -12148,6 +13878,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.7426345698773,
       frontendQuestionId: "1731",
       paidOnly: false,
       title: "The Number of Employees Which Report to Each Employee",
@@ -12155,6 +13886,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 83.53843816469158,
       frontendQuestionId: "1732",
       paidOnly: false,
       title: "Find the Highest Altitude",
@@ -12162,6 +13894,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.1110351604221,
       frontendQuestionId: "1733",
       paidOnly: false,
       title: "Minimum Number of People to Teach",
@@ -12169,6 +13902,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.44927075467949,
       frontendQuestionId: "1734",
       paidOnly: false,
       title: "Decode XORed Permutation",
@@ -12176,6 +13910,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.94225934636283,
       frontendQuestionId: "1735",
       paidOnly: false,
       title: "Count Ways to Make Array With Product",
@@ -12183,6 +13918,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 42.96561859802262,
       frontendQuestionId: "1736",
       paidOnly: false,
       title: "Latest Time by Replacing Hidden Digits",
@@ -12190,6 +13926,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 36.897323752993856,
       frontendQuestionId: "1737",
       paidOnly: false,
       title: "Change Minimum Characters to Satisfy One of Three Conditions",
@@ -12197,6 +13934,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.17617944397641,
       frontendQuestionId: "1738",
       paidOnly: false,
       title: "Find Kth Largest XOR Coordinate Value",
@@ -12204,6 +13942,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.77808453296523,
       frontendQuestionId: "1739",
       paidOnly: false,
       title: "Building Boxes",
@@ -12211,6 +13950,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.63277623026927,
       frontendQuestionId: "1740",
       paidOnly: true,
       title: "Find Distance in a Binary Tree",
@@ -12218,6 +13958,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.83779770604123,
       frontendQuestionId: "1741",
       paidOnly: false,
       title: "Find Total Time Spent by Each Employee",
@@ -12225,6 +13966,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.65786930985442,
       frontendQuestionId: "1742",
       paidOnly: false,
       title: "Maximum Number of Balls in a Box",
@@ -12232,6 +13974,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 74.76928718397946,
       frontendQuestionId: "1743",
       paidOnly: false,
       title: "Restore the Array From Adjacent Pairs",
@@ -12239,6 +13982,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.602012245777054,
       frontendQuestionId: "1744",
       paidOnly: false,
       title: "Can You Eat Your Favorite Candy on Your Favorite Day?",
@@ -12246,6 +13990,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.46231155778895,
       frontendQuestionId: "1745",
       paidOnly: false,
       title: "Palindrome Partitioning IV",
@@ -12253,6 +13998,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.30380420324554,
       frontendQuestionId: "1746",
       paidOnly: true,
       title: "Maximum Subarray Sum After One Operation",
@@ -12260,6 +14006,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.26717969488321,
       frontendQuestionId: "1747",
       paidOnly: true,
       title: "Leetflex Banned Accounts",
@@ -12267,6 +14014,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 78.27115666670869,
       frontendQuestionId: "1748",
       paidOnly: false,
       title: "Sum of Unique Elements",
@@ -12274,6 +14022,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.445163785324496,
       frontendQuestionId: "1749",
       paidOnly: false,
       title: "Maximum Absolute Sum of Any Subarray",
@@ -12281,6 +14030,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.94852090921512,
       frontendQuestionId: "1750",
       paidOnly: false,
       title: "Minimum Length of String After Deleting Similar Ends",
@@ -12288,6 +14038,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.32935097708814,
       frontendQuestionId: "1751",
       paidOnly: false,
       title: "Maximum Number of Events That Can Be Attended II",
@@ -12295,6 +14046,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.65038820350816,
       frontendQuestionId: "1752",
       paidOnly: false,
       title: "Check if Array Is Sorted and Rotated",
@@ -12302,6 +14054,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.54203461402129,
       frontendQuestionId: "1753",
       paidOnly: false,
       title: "Maximum Score From Removing Stones",
@@ -12309,6 +14062,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.991758021925264,
       frontendQuestionId: "1754",
       paidOnly: false,
       title: "Largest Merge Of Two Strings",
@@ -12316,6 +14070,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.16713091922006,
       frontendQuestionId: "1755",
       paidOnly: false,
       title: "Closest Subsequence Sum",
@@ -12323,6 +14078,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.76965019713111,
       frontendQuestionId: "1756",
       paidOnly: true,
       title: "Design Most Recently Used Queue",
@@ -12330,6 +14086,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 89.33469118515004,
       frontendQuestionId: "1757",
       paidOnly: false,
       title: "Recyclable and Low Fat Products",
@@ -12337,6 +14094,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.78948083314586,
       frontendQuestionId: "1758",
       paidOnly: false,
       title: "Minimum Changes To Make Alternating Binary String",
@@ -12344,6 +14102,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.636031784446594,
       frontendQuestionId: "1759",
       paidOnly: false,
       title: "Count Number of Homogenous Substrings",
@@ -12351,6 +14110,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.35113705672214,
       frontendQuestionId: "1760",
       paidOnly: false,
       title: "Minimum Limit of Balls in a Bag",
@@ -12358,6 +14118,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.79980283078657,
       frontendQuestionId: "1761",
       paidOnly: false,
       title: "Minimum Degree of a Connected Trio in a Graph",
@@ -12365,6 +14126,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 79.9788366269258,
       frontendQuestionId: "1762",
       paidOnly: true,
       title: "Buildings With an Ocean View",
@@ -12372,6 +14134,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.053392357033154,
       frontendQuestionId: "1763",
       paidOnly: false,
       title: "Longest Nice Substring",
@@ -12379,6 +14142,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.877564353848165,
       frontendQuestionId: "1764",
       paidOnly: false,
       title: "Form Array by Concatenating Subarrays of Another Array",
@@ -12386,6 +14150,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.93001058155354,
       frontendQuestionId: "1765",
       paidOnly: false,
       title: "Map of Highest Peak",
@@ -12393,6 +14158,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.392043198602394,
       frontendQuestionId: "1766",
       paidOnly: false,
       title: "Tree of Coprimes",
@@ -12400,6 +14166,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 77.74258086028676,
       frontendQuestionId: "1767",
       paidOnly: true,
       title: "Find the Subtasks That Did Not Execute",
@@ -12407,6 +14174,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 80.82031565870047,
       frontendQuestionId: "1768",
       paidOnly: false,
       title: "Merge Strings Alternately",
@@ -12414,6 +14182,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.99134311002003,
       frontendQuestionId: "1769",
       paidOnly: false,
       title: "Minimum Number of Operations to Move All Balls to Each Box",
@@ -12421,6 +14190,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.96806668262394,
       frontendQuestionId: "1770",
       paidOnly: false,
       title: "Maximum Score from Performing Multiplication Operations",
@@ -12428,6 +14198,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 36.767488754459436,
       frontendQuestionId: "1771",
       paidOnly: false,
       title: "Maximize Palindrome Length From Subsequences",
@@ -12435,6 +14206,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.88112617309697,
       frontendQuestionId: "1772",
       paidOnly: true,
       title: "Sort Features by Popularity",
@@ -12442,6 +14214,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 84.7164587080601,
       frontendQuestionId: "1773",
       paidOnly: false,
       title: "Count Items Matching a Rule",
@@ -12449,6 +14222,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.73436450230669,
       frontendQuestionId: "1774",
       paidOnly: false,
       title: "Closest Dessert Cost",
@@ -12456,6 +14230,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.737801993728,
       frontendQuestionId: "1775",
       paidOnly: false,
       title: "Equal Sum Arrays With Minimum Number of Operations",
@@ -12463,6 +14238,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.59415404222081,
       frontendQuestionId: "1776",
       paidOnly: false,
       title: "Car Fleet II",
@@ -12470,6 +14246,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 82.26912115843795,
       frontendQuestionId: "1777",
       paidOnly: true,
       title: "Product's Price for Each Store",
@@ -12477,6 +14254,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.805294062820394,
       frontendQuestionId: "1778",
       paidOnly: true,
       title: "Shortest Path in a Hidden Grid",
@@ -12484,6 +14262,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.83286507070379,
       frontendQuestionId: "1779",
       paidOnly: false,
       title: "Find Nearest Point That Has the Same X or Y Coordinate",
@@ -12491,6 +14270,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.17850637522768,
       frontendQuestionId: "1780",
       paidOnly: false,
       title: "Check if Number is a Sum of Powers of Three",
@@ -12498,6 +14278,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.9776400580827,
       frontendQuestionId: "1781",
       paidOnly: false,
       title: "Sum of Beauty of All Substrings",
@@ -12505,6 +14286,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.388154592604984,
       frontendQuestionId: "1782",
       paidOnly: false,
       title: "Count Pairs Of Nodes",
@@ -12512,6 +14294,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.16663053912613,
       frontendQuestionId: "1783",
       paidOnly: true,
       title: "Grand Slam Titles",
@@ -12519,6 +14302,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.2592156895697,
       frontendQuestionId: "1784",
       paidOnly: false,
       title: "Check if Binary String Has at Most One Segment of Ones",
@@ -12526,6 +14310,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.83469226469284,
       frontendQuestionId: "1785",
       paidOnly: false,
       title: "Minimum Elements to Add to Form a Given Sum",
@@ -12533,6 +14318,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.35857407014459,
       frontendQuestionId: "1786",
       paidOnly: false,
       title: "Number of Restricted Paths From First to Last Node",
@@ -12540,6 +14326,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.780501710376285,
       frontendQuestionId: "1787",
       paidOnly: false,
       title: "Make the XOR of All Segments Equal to Zero",
@@ -12547,6 +14334,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.14084507042254,
       frontendQuestionId: "1788",
       paidOnly: true,
       title: "Maximize the Beauty of the Garden",
@@ -12554,6 +14342,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.24609571145287,
       frontendQuestionId: "1789",
       paidOnly: false,
       title: "Primary Department for Each Employee",
@@ -12561,6 +14350,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.89718858286,
       frontendQuestionId: "1790",
       paidOnly: false,
       title: "Check if One String Swap Can Make Strings Equal",
@@ -12568,6 +14358,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 86.6544694843806,
       frontendQuestionId: "1791",
       paidOnly: false,
       title: "Find Center of Star Graph",
@@ -12575,6 +14366,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.2138335176861,
       frontendQuestionId: "1792",
       paidOnly: false,
       title: "Maximum Average Pass Ratio",
@@ -12582,6 +14374,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.31568214488685,
       frontendQuestionId: "1793",
       paidOnly: false,
       title: "Maximum Score of a Good Subarray",
@@ -12589,6 +14382,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.19267214150346,
       frontendQuestionId: "1794",
       paidOnly: true,
       title: "Count Pairs of Equal Substrings With Minimum Difference",
@@ -12596,6 +14390,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 85.36019061048844,
       frontendQuestionId: "1795",
       paidOnly: false,
       title: "Rearrange Products Table",
@@ -12603,6 +14398,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.86908298993693,
       frontendQuestionId: "1796",
       paidOnly: false,
       title: "Second Largest Digit in a String",
@@ -12610,6 +14406,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.70029934847685,
       frontendQuestionId: "1797",
       paidOnly: false,
       title: "Design Authentication Manager",
@@ -12617,6 +14414,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.21181504813978,
       frontendQuestionId: "1798",
       paidOnly: false,
       title: "Maximum Number of Consecutive Values You Can Make",
@@ -12624,6 +14422,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.78003696857671,
       frontendQuestionId: "1799",
       paidOnly: false,
       title: "Maximize Score After N Operations",
@@ -12631,6 +14430,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.98835172891296,
       frontendQuestionId: "1800",
       paidOnly: false,
       title: "Maximum Ascending Subarray Sum",
@@ -12638,6 +14438,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.36829569513056,
       frontendQuestionId: "1801",
       paidOnly: false,
       title: "Number of Orders in the Backlog",
@@ -12645,6 +14446,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.14449462155189,
       frontendQuestionId: "1802",
       paidOnly: false,
       title: "Maximum Value at a Given Index in a Bounded Array",
@@ -12652,6 +14454,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.11616954474097,
       frontendQuestionId: "1803",
       paidOnly: false,
       title: "Count Pairs With XOR in a Range",
@@ -12659,6 +14462,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.89568821091615,
       frontendQuestionId: "1804",
       paidOnly: true,
       title: "Implement Trie II (Prefix Tree)",
@@ -12666,6 +14470,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.42200905624404,
       frontendQuestionId: "1805",
       paidOnly: false,
       title: "Number of Different Integers in a String",
@@ -12673,6 +14478,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.00314174829052,
       frontendQuestionId: "1806",
       paidOnly: false,
       title: "Minimum Number of Operations to Reinitialize a Permutation",
@@ -12680,6 +14486,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.188381569324,
       frontendQuestionId: "1807",
       paidOnly: false,
       title: "Evaluate the Bracket Pairs of a String",
@@ -12687,6 +14494,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.7199332099824,
       frontendQuestionId: "1808",
       paidOnly: false,
       title: "Maximize Number of Nice Divisors",
@@ -12694,6 +14502,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.57710877591593,
       frontendQuestionId: "1809",
       paidOnly: true,
       title: "Ad-Free Sessions",
@@ -12701,6 +14510,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.30194082087178,
       frontendQuestionId: "1810",
       paidOnly: true,
       title: "Minimum Path Cost in a Hidden Grid",
@@ -12708,6 +14518,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.82855418050106,
       frontendQuestionId: "1811",
       paidOnly: true,
       title: "Find Interview Candidates",
@@ -12715,6 +14526,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 78.81442392260334,
       frontendQuestionId: "1812",
       paidOnly: false,
       title: "Determine Color of a Chessboard Square",
@@ -12722,6 +14534,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.82352941176471,
       frontendQuestionId: "1813",
       paidOnly: false,
       title: "Sentence Similarity III",
@@ -12729,6 +14542,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.66288791886551,
       frontendQuestionId: "1814",
       paidOnly: false,
       title: "Count Nice Pairs in an Array",
@@ -12736,6 +14550,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.99883538112153,
       frontendQuestionId: "1815",
       paidOnly: false,
       title: "Maximum Number of Groups Getting Fresh Donuts",
@@ -12743,6 +14558,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 85.62185743862763,
       frontendQuestionId: "1816",
       paidOnly: false,
       title: "Truncate Sentence",
@@ -12750,6 +14566,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 80.48457039797367,
       frontendQuestionId: "1817",
       paidOnly: false,
       title: "Finding the Users Active Minutes",
@@ -12757,6 +14574,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.92679493195683,
       frontendQuestionId: "1818",
       paidOnly: false,
       title: "Minimum Absolute Sum Difference",
@@ -12764,6 +14582,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.154499151103565,
       frontendQuestionId: "1819",
       paidOnly: false,
       title: "Number of Different Subsequences GCDs",
@@ -12771,6 +14590,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.761915673693856,
       frontendQuestionId: "1820",
       paidOnly: true,
       title: "Maximum Number of Accepted Invitations",
@@ -12778,6 +14598,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 87.68406521167499,
       frontendQuestionId: "1821",
       paidOnly: true,
       title: "Find Customers With Positive Revenue this Year",
@@ -12785,6 +14606,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.33009300576032,
       frontendQuestionId: "1822",
       paidOnly: false,
       title: "Sign of the Product of an Array",
@@ -12792,6 +14614,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.78363805804561,
       frontendQuestionId: "1823",
       paidOnly: false,
       title: "Find the Winner of the Circular Game",
@@ -12799,6 +14622,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.31870313189237,
       frontendQuestionId: "1824",
       paidOnly: false,
       title: "Minimum Sideway Jumps",
@@ -12806,6 +14630,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.4719031521566,
       frontendQuestionId: "1825",
       paidOnly: false,
       title: "Finding MK Average",
@@ -12813,6 +14638,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.501375454787464,
       frontendQuestionId: "1826",
       paidOnly: true,
       title: "Faulty Sensor",
@@ -12820,6 +14646,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 80.23074958794716,
       frontendQuestionId: "1827",
       paidOnly: false,
       title: "Minimum Operations to Make the Array Increasing",
@@ -12827,6 +14654,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 86.4041366637465,
       frontendQuestionId: "1828",
       paidOnly: false,
       title: "Queries on Number of Points Inside a Circle",
@@ -12834,6 +14662,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 77.00594078931151,
       frontendQuestionId: "1829",
       paidOnly: false,
       title: "Maximum XOR for Each Query",
@@ -12841,6 +14670,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.0058858151854,
       frontendQuestionId: "1830",
       paidOnly: false,
       title: "Minimum Number of Operations to Make String Sorted",
@@ -12848,6 +14678,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 81.94241478731388,
       frontendQuestionId: "1831",
       paidOnly: true,
       title: "Maximum Transaction Each Day",
@@ -12855,6 +14686,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.46075387629843,
       frontendQuestionId: "1832",
       paidOnly: false,
       title: "Check if the Sentence Is Pangram",
@@ -12862,6 +14694,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.83847705907368,
       frontendQuestionId: "1833",
       paidOnly: false,
       title: "Maximum Ice Cream Bars",
@@ -12869,6 +14702,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.812003797903074,
       frontendQuestionId: "1834",
       paidOnly: false,
       title: "Single-Threaded CPU",
@@ -12876,6 +14710,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.25425801380033,
       frontendQuestionId: "1835",
       paidOnly: false,
       title: "Find XOR Sum of All Pairs Bitwise AND",
@@ -12883,6 +14718,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.67336683417085,
       frontendQuestionId: "1836",
       paidOnly: true,
       title: "Remove Duplicates From an Unsorted Linked List",
@@ -12890,6 +14726,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 77.57777807060312,
       frontendQuestionId: "1837",
       paidOnly: false,
       title: "Sum of Digits in Base K",
@@ -12897,6 +14734,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.086169600829614,
       frontendQuestionId: "1838",
       paidOnly: false,
       title: "Frequency of the Most Frequent Element",
@@ -12904,6 +14742,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.62596112375258,
       frontendQuestionId: "1839",
       paidOnly: false,
       title: "Longest Substring Of All Vowels in Order",
@@ -12911,6 +14750,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.46784627092846,
       frontendQuestionId: "1840",
       paidOnly: false,
       title: "Maximum Building Height",
@@ -12918,6 +14758,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.47158918261926,
       frontendQuestionId: "1841",
       paidOnly: true,
       title: "League Statistics",
@@ -12925,6 +14766,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.425031881945706,
       frontendQuestionId: "1842",
       paidOnly: true,
       title: "Next Palindrome Using Same Digits",
@@ -12932,6 +14774,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.92312319085749,
       frontendQuestionId: "1843",
       paidOnly: true,
       title: "Suspicious Bank Accounts",
@@ -12939,6 +14782,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 81.67749949699508,
       frontendQuestionId: "1844",
       paidOnly: false,
       title: "Replace All Digits with Characters",
@@ -12946,6 +14790,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 69.44874396320219,
       frontendQuestionId: "1845",
       paidOnly: false,
       title: "Seat Reservation Manager",
@@ -12953,6 +14798,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.83628792238248,
       frontendQuestionId: "1846",
       paidOnly: false,
       title: "Maximum Element After Decreasing and Rearranging",
@@ -12960,6 +14806,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.83048359582656,
       frontendQuestionId: "1847",
       paidOnly: false,
       title: "Closest Room",
@@ -12967,6 +14814,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.550196158468836,
       frontendQuestionId: "1848",
       paidOnly: false,
       title: "Minimum Distance to the Target Element",
@@ -12974,6 +14822,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 36.26296680497925,
       frontendQuestionId: "1849",
       paidOnly: false,
       title: "Splitting a String Into Descending Consecutive Values",
@@ -12981,6 +14830,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.5118635612509,
       frontendQuestionId: "1850",
       paidOnly: false,
       title: "Minimum Adjacent Swaps to Reach the Kth Smallest Number",
@@ -12988,6 +14838,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.68561044110359,
       frontendQuestionId: "1851",
       paidOnly: false,
       title: "Minimum Interval to Include Each Query",
@@ -12995,6 +14846,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.54698705411195,
       frontendQuestionId: "1852",
       paidOnly: true,
       title: "Distinct Numbers in Each Subarray",
@@ -13002,6 +14854,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 85.77387347532074,
       frontendQuestionId: "1853",
       paidOnly: true,
       title: "Convert Date Format",
@@ -13009,6 +14862,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.291125219722446,
       frontendQuestionId: "1854",
       paidOnly: false,
       title: "Maximum Population Year",
@@ -13016,6 +14870,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.41085510420201,
       frontendQuestionId: "1855",
       paidOnly: false,
       title: "Maximum Distance Between a Pair of Values",
@@ -13023,6 +14878,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.32782093685101,
       frontendQuestionId: "1856",
       paidOnly: false,
       title: "Maximum Subarray Min-Product",
@@ -13030,6 +14886,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.79904124404431,
       frontendQuestionId: "1857",
       paidOnly: false,
       title: "Largest Color Value in a Directed Graph",
@@ -13037,6 +14894,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.39844996580807,
       frontendQuestionId: "1858",
       paidOnly: true,
       title: "Longest Word With All Prefixes",
@@ -13044,6 +14902,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.38186096947604,
       frontendQuestionId: "1859",
       paidOnly: false,
       title: "Sorting the Sentence",
@@ -13051,6 +14910,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.49569823543305,
       frontendQuestionId: "1860",
       paidOnly: false,
       title: "Incremental Memory Leak",
@@ -13058,6 +14918,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.86948269988807,
       frontendQuestionId: "1861",
       paidOnly: false,
       title: "Rotating the Box",
@@ -13065,6 +14926,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.068245373951328,
       frontendQuestionId: "1862",
       paidOnly: false,
       title: "Sum of Floored Pairs",
@@ -13072,6 +14934,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 87.78725059641262,
       frontendQuestionId: "1863",
       paidOnly: false,
       title: "Sum of All Subset XOR Totals",
@@ -13079,6 +14942,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.5555963752143,
       frontendQuestionId: "1864",
       paidOnly: false,
       title: "Minimum Number of Swaps to Make the Binary String Alternating",
@@ -13087,6 +14951,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.011274148773445,
       frontendQuestionId: "1865",
       paidOnly: false,
       title: "Finding Pairs With a Certain Sum",
@@ -13094,6 +14959,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.984195616520054,
       frontendQuestionId: "1866",
       paidOnly: false,
       title: "Number of Ways to Rearrange Sticks With K Sticks Visible",
@@ -13101,6 +14967,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.0966267405934,
       frontendQuestionId: "1867",
       paidOnly: true,
       title: "Orders With Maximum Quantity Above Average",
@@ -13108,6 +14975,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.657476191636015,
       frontendQuestionId: "1868",
       paidOnly: true,
       title: "Product of Two Run-Length Encoded Arrays",
@@ -13115,6 +14983,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.41266190533834,
       frontendQuestionId: "1869",
       paidOnly: false,
       title: "Longer Contiguous Segments of Ones than Zeros",
@@ -13122,6 +14991,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.86292655753023,
       frontendQuestionId: "1870",
       paidOnly: false,
       title: "Minimum Speed to Arrive on Time",
@@ -13129,6 +14999,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.019803387902666,
       frontendQuestionId: "1871",
       paidOnly: false,
       title: "Jump Game VII",
@@ -13136,6 +15007,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.33921436355145,
       frontendQuestionId: "1872",
       paidOnly: false,
       title: "Stone Game VIII",
@@ -13143,6 +15015,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.53126896289387,
       frontendQuestionId: "1873",
       paidOnly: false,
       title: "Calculate Special Bonus",
@@ -13150,6 +15023,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 89.44996686547383,
       frontendQuestionId: "1874",
       paidOnly: true,
       title: "Minimize Product Sum of Two Arrays",
@@ -13157,6 +15031,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.19644672767164,
       frontendQuestionId: "1875",
       paidOnly: true,
       title: "Group Employees of the Same Salary",
@@ -13164,6 +15039,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.18335205017941,
       frontendQuestionId: "1876",
       paidOnly: false,
       title: "Substrings of Size Three with Distinct Characters",
@@ -13171,6 +15047,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.44522289873018,
       frontendQuestionId: "1877",
       paidOnly: false,
       title: "Minimize Maximum Pair Sum in Array",
@@ -13178,6 +15055,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.15485556512187,
       frontendQuestionId: "1878",
       paidOnly: false,
       title: "Get Biggest Three Rhombus Sums in a Grid",
@@ -13185,6 +15063,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.12729960061637,
       frontendQuestionId: "1879",
       paidOnly: false,
       title: "Minimum XOR Sum of Two Arrays",
@@ -13192,6 +15071,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.4038459497607,
       frontendQuestionId: "1880",
       paidOnly: false,
       title: "Check if Word Equals Summation of Two Words",
@@ -13199,6 +15079,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 38.25752118505324,
       frontendQuestionId: "1881",
       paidOnly: false,
       title: "Maximum Value after Insertion",
@@ -13206,6 +15087,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.4914010470257,
       frontendQuestionId: "1882",
       paidOnly: false,
       title: "Process Tasks Using Servers",
@@ -13213,6 +15095,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.99031098609157,
       frontendQuestionId: "1883",
       paidOnly: false,
       title: "Minimum Skips to Arrive at Meeting On Time",
@@ -13220,6 +15103,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.23559495397204,
       frontendQuestionId: "1884",
       paidOnly: false,
       title: "Egg Drop With 2 Eggs and N Floors",
@@ -13227,6 +15111,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.532580412998946,
       frontendQuestionId: "1885",
       paidOnly: true,
       title: "Count Pairs in Two Arrays",
@@ -13234,6 +15119,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.42111444200637,
       frontendQuestionId: "1886",
       paidOnly: false,
       title: "Determine Whether Matrix Can Be Obtained By Rotation",
@@ -13241,6 +15127,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.79484113168132,
       frontendQuestionId: "1887",
       paidOnly: false,
       title: "Reduction Operations to Make the Array Elements Equal",
@@ -13248,6 +15135,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.17923311283727,
       frontendQuestionId: "1888",
       paidOnly: false,
       title: "Minimum Number of Flips to Make the Binary String Alternating",
@@ -13256,6 +15144,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.9424529203709,
       frontendQuestionId: "1889",
       paidOnly: false,
       title: "Minimum Space Wasted From Packaging",
@@ -13263,6 +15152,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 77.34717397656073,
       frontendQuestionId: "1890",
       paidOnly: false,
       title: "The Latest Login in 2020",
@@ -13270,6 +15160,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.72294704528012,
       frontendQuestionId: "1891",
       paidOnly: true,
       title: "Cutting Ribbons",
@@ -13277,6 +15168,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.187375035704086,
       frontendQuestionId: "1892",
       paidOnly: true,
       title: "Page Recommendations II",
@@ -13284,6 +15176,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.09447651658297,
       frontendQuestionId: "1893",
       paidOnly: false,
       title: "Check if All the Integers in a Range Are Covered",
@@ -13291,6 +15184,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.204075926730766,
       frontendQuestionId: "1894",
       paidOnly: false,
       title: "Find the Student that Will Replace the Chalk",
@@ -13298,6 +15192,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.20919855843486,
       frontendQuestionId: "1895",
       paidOnly: false,
       title: "Largest Magic Square",
@@ -13305,6 +15200,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.53761833582461,
       frontendQuestionId: "1896",
       paidOnly: false,
       title: "Minimum Cost to Change the Final Value of Expression",
@@ -13312,6 +15208,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.13384164222875,
       frontendQuestionId: "1897",
       paidOnly: false,
       title: "Redistribute Characters to Make All Strings Equal",
@@ -13319,6 +15216,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.376423107863054,
       frontendQuestionId: "1898",
       paidOnly: false,
       title: "Maximum Number of Removable Characters",
@@ -13326,6 +15224,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.59097789887981,
       frontendQuestionId: "1899",
       paidOnly: false,
       title: "Merge Triplets to Form Target Triplet",
@@ -13333,6 +15232,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.522771575403155,
       frontendQuestionId: "1900",
       paidOnly: false,
       title: "The Earliest and Latest Rounds Where Players Compete",
@@ -13340,6 +15240,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.184893971884684,
       frontendQuestionId: "1901",
       paidOnly: false,
       title: "Find a Peak Element II",
@@ -13347,6 +15248,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.83140376266281,
       frontendQuestionId: "1902",
       paidOnly: true,
       title: "Depth of BST Given Insertion Order",
@@ -13354,6 +15256,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.83310872458503,
       frontendQuestionId: "1903",
       paidOnly: false,
       title: "Largest Odd Number in String",
@@ -13361,6 +15264,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.97650683612556,
       frontendQuestionId: "1904",
       paidOnly: false,
       title: "The Number of Full Rounds You Have Played",
@@ -13368,6 +15272,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.87246939022913,
       frontendQuestionId: "1905",
       paidOnly: false,
       title: "Count Sub Islands",
@@ -13375,6 +15280,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.625569203688826,
       frontendQuestionId: "1906",
       paidOnly: false,
       title: "Minimum Absolute Difference Queries",
@@ -13382,6 +15288,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.38103106875196,
       frontendQuestionId: "1907",
       paidOnly: false,
       title: "Count Salary Categories",
@@ -13389,6 +15296,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.18476611011453,
       frontendQuestionId: "1908",
       paidOnly: true,
       title: "Game of Nim",
@@ -13396,6 +15304,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.94240956290559,
       frontendQuestionId: "1909",
       paidOnly: false,
       title: "Remove One Element to Make the Array Strictly Increasing",
@@ -13403,6 +15312,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 77.99990755292595,
       frontendQuestionId: "1910",
       paidOnly: false,
       title: "Remove All Occurrences of a Substring",
@@ -13410,6 +15320,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.76017603306947,
       frontendQuestionId: "1911",
       paidOnly: false,
       title: "Maximum Alternating Subsequence Sum",
@@ -13417,6 +15328,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.551901336073996,
       frontendQuestionId: "1912",
       paidOnly: false,
       title: "Design Movie Rental System",
@@ -13424,6 +15336,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 82.87039573992115,
       frontendQuestionId: "1913",
       paidOnly: false,
       title: "Maximum Product Difference Between Two Pairs",
@@ -13431,6 +15344,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.8103186646434,
       frontendQuestionId: "1914",
       paidOnly: false,
       title: "Cyclically Rotating a Grid",
@@ -13438,6 +15352,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.87249322278413,
       frontendQuestionId: "1915",
       paidOnly: false,
       title: "Number of Wonderful Substrings",
@@ -13445,6 +15360,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.817649926864945,
       frontendQuestionId: "1916",
       paidOnly: false,
       title: "Count Ways to Build Rooms in an Ant Colony",
@@ -13452,6 +15368,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 27.22408560932758,
       frontendQuestionId: "1917",
       paidOnly: true,
       title: "Leetcodify Friends Recommendations",
@@ -13459,6 +15376,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.2023712658375,
       frontendQuestionId: "1918",
       paidOnly: true,
       title: "Kth Smallest Subarray Sum",
@@ -13466,6 +15384,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.22143364088006,
       frontendQuestionId: "1919",
       paidOnly: true,
       title: "Leetcodify Similar Friends",
@@ -13473,6 +15392,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 90.03750372683477,
       frontendQuestionId: "1920",
       paidOnly: false,
       title: "Build Array from Permutation",
@@ -13480,6 +15400,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.91961101511085,
       frontendQuestionId: "1921",
       paidOnly: false,
       title: "Eliminate Maximum Number of Monsters",
@@ -13487,6 +15408,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.80425556653683,
       frontendQuestionId: "1922",
       paidOnly: false,
       title: "Count Good Numbers",
@@ -13494,6 +15416,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.471243176806567,
       frontendQuestionId: "1923",
       paidOnly: false,
       title: "Longest Common Subpath",
@@ -13501,6 +15424,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.685871056241425,
       frontendQuestionId: "1924",
       paidOnly: true,
       title: "Erect the Fence II",
@@ -13508,6 +15432,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.1956021946713,
       frontendQuestionId: "1925",
       paidOnly: false,
       title: "Count Square Sum Triples",
@@ -13515,6 +15440,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.901459565213834,
       frontendQuestionId: "1926",
       paidOnly: false,
       title: "Nearest Exit from Entrance in Maze",
@@ -13522,6 +15448,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.79050736497545,
       frontendQuestionId: "1927",
       paidOnly: false,
       title: "Sum Game",
@@ -13529,6 +15456,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.740750309091915,
       frontendQuestionId: "1928",
       paidOnly: false,
       title: "Minimum Cost to Reach Destination in Time",
@@ -13536,6 +15464,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 90.1358751856552,
       frontendQuestionId: "1929",
       paidOnly: false,
       title: "Concatenation of Array",
@@ -13543,6 +15472,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.06253517376597,
       frontendQuestionId: "1930",
       paidOnly: false,
       title: "Unique Length-3 Palindromic Subsequences",
@@ -13550,6 +15480,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.08733979005973,
       frontendQuestionId: "1931",
       paidOnly: false,
       title: "Painting a Grid With Three Different Colors",
@@ -13557,6 +15488,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 36.438377117509845,
       frontendQuestionId: "1932",
       paidOnly: false,
       title: "Merge BSTs to Create Single BST",
@@ -13564,6 +15496,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.949157042347004,
       frontendQuestionId: "1933",
       paidOnly: true,
       title: "Check if String Is Decomposable Into Value-Equal Substrings",
@@ -13571,6 +15504,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 59.65603211683419,
       frontendQuestionId: "1934",
       paidOnly: false,
       title: "Confirmation Rate",
@@ -13578,6 +15512,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.77976973120062,
       frontendQuestionId: "1935",
       paidOnly: false,
       title: "Maximum Number of Words You Can Type",
@@ -13585,6 +15520,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.07690083421284,
       frontendQuestionId: "1936",
       paidOnly: false,
       title: "Add Minimum Number of Rungs",
@@ -13592,6 +15528,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.91092491079972,
       frontendQuestionId: "1937",
       paidOnly: false,
       title: "Maximum Number of Points with Cost",
@@ -13599,6 +15536,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.8163235401861,
       frontendQuestionId: "1938",
       paidOnly: false,
       title: "Maximum Genetic Difference Query",
@@ -13606,6 +15544,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.40065302986651,
       frontendQuestionId: "1939",
       paidOnly: true,
       title: "Users That Actively Request Confirmation Messages",
@@ -13613,6 +15552,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.33727810650888,
       frontendQuestionId: "1940",
       paidOnly: true,
       title: "Longest Common Subsequence Between Sorted Arrays",
@@ -13620,6 +15560,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 77.99365173101056,
       frontendQuestionId: "1941",
       paidOnly: false,
       title: "Check if All Characters Have Equal Number of Occurrences",
@@ -13627,6 +15568,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 42.734583196970405,
       frontendQuestionId: "1942",
       paidOnly: false,
       title: "The Number of the Smallest Unoccupied Chair",
@@ -13634,6 +15576,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.29624995399845,
       frontendQuestionId: "1943",
       paidOnly: false,
       title: "Describe the Painting",
@@ -13641,6 +15584,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.00304297354867,
       frontendQuestionId: "1944",
       paidOnly: false,
       title: "Number of Visible People in a Queue",
@@ -13648,6 +15592,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.9521256223669,
       frontendQuestionId: "1945",
       paidOnly: false,
       title: "Sum of Digits of String After Convert",
@@ -13655,6 +15600,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 36.31327505590567,
       frontendQuestionId: "1946",
       paidOnly: false,
       title: "Largest Number After Mutating Substring",
@@ -13662,6 +15608,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.69677816442961,
       frontendQuestionId: "1947",
       paidOnly: false,
       title: "Maximum Compatibility Score Sum",
@@ -13669,6 +15616,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.80229363277983,
       frontendQuestionId: "1948",
       paidOnly: false,
       title: "Delete Duplicate Folders in System",
@@ -13676,6 +15624,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.49672424061942,
       frontendQuestionId: "1949",
       paidOnly: true,
       title: "Strong Friendship",
@@ -13683,6 +15632,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.8389175257732,
       frontendQuestionId: "1950",
       paidOnly: true,
       title: "Maximum of Minimum Values in All Subarrays",
@@ -13690,6 +15640,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.9267791970803,
       frontendQuestionId: "1951",
       paidOnly: true,
       title: "All the Pairs With the Maximum Number of Common Followers",
@@ -13697,6 +15648,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.3668911060298,
       frontendQuestionId: "1952",
       paidOnly: false,
       title: "Three Divisors",
@@ -13704,6 +15656,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.96776852691452,
       frontendQuestionId: "1953",
       paidOnly: false,
       title: "Maximum Number of Weeks for Which You Can Work",
@@ -13711,6 +15664,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.72950243126701,
       frontendQuestionId: "1954",
       paidOnly: false,
       title: "Minimum Garden Perimeter to Collect Enough Apples",
@@ -13718,6 +15672,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.47316584592271,
       frontendQuestionId: "1955",
       paidOnly: false,
       title: "Count Number of Special Subsequences",
@@ -13725,6 +15680,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 47.628174413033065,
       frontendQuestionId: "1956",
       paidOnly: true,
       title: "Minimum Time For K Virus Variants to Spread",
@@ -13732,6 +15688,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.84035133794392,
       frontendQuestionId: "1957",
       paidOnly: false,
       title: "Delete Characters to Make Fancy String",
@@ -13739,6 +15696,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.058962662611926,
       frontendQuestionId: "1958",
       paidOnly: false,
       title: "Check if Move is Legal",
@@ -13746,6 +15704,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.141679748822604,
       frontendQuestionId: "1959",
       paidOnly: false,
       title: "Minimum Total Space Wasted With K Resizing Operations",
@@ -13753,6 +15712,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.83501411859621,
       frontendQuestionId: "1960",
       paidOnly: false,
       title: "Maximum Product of the Length of Two Palindromic Substrings",
@@ -13760,6 +15720,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.876046699246096,
       frontendQuestionId: "1961",
       paidOnly: false,
       title: "Check If String Is a Prefix of Array",
@@ -13767,6 +15728,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.83584993543898,
       frontendQuestionId: "1962",
       paidOnly: false,
       title: "Remove Stones to Minimize the Total",
@@ -13774,6 +15736,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.17836437646478,
       frontendQuestionId: "1963",
       paidOnly: false,
       title: "Minimum Number of Swaps to Make the String Balanced",
@@ -13781,6 +15744,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.83459774818733,
       frontendQuestionId: "1964",
       paidOnly: false,
       title: "Find the Longest Valid Obstacle Course at Each Position",
@@ -13788,6 +15752,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.46433348194383,
       frontendQuestionId: "1965",
       paidOnly: false,
       title: "Employees With Missing Information",
@@ -13795,6 +15760,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.07918149466192,
       frontendQuestionId: "1966",
       paidOnly: true,
       title: "Binary Searchable Numbers in an Unsorted Array",
@@ -13802,6 +15768,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 81.2855928601785,
       frontendQuestionId: "1967",
       paidOnly: false,
       title: "Number of Strings That Appear as Substrings in Word",
@@ -13809,6 +15776,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.43729911771862,
       frontendQuestionId: "1968",
       paidOnly: false,
       title: "Array With Elements Not Equal to Average of Neighbors",
@@ -13816,6 +15784,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.8077577606948,
       frontendQuestionId: "1969",
       paidOnly: false,
       title: "Minimum Non-Zero Product of the Array Elements",
@@ -13823,6 +15792,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.92484703520593,
       frontendQuestionId: "1970",
       paidOnly: false,
       title: "Last Day Where You Can Still Cross",
@@ -13830,6 +15800,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.91601870486294,
       frontendQuestionId: "1971",
       paidOnly: false,
       title: "Find if Path Exists in Graph",
@@ -13837,6 +15808,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.61463912267279,
       frontendQuestionId: "1972",
       paidOnly: true,
       title: "First and Last Call On the Same Day",
@@ -13844,6 +15816,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 77.14364947310038,
       frontendQuestionId: "1973",
       paidOnly: true,
       title: "Count Nodes Equal to Sum of Descendants",
@@ -13851,6 +15824,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.80263712054945,
       frontendQuestionId: "1974",
       paidOnly: false,
       title: "Minimum Time to Type Word Using Special Typewriter",
@@ -13858,6 +15832,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.026689713022044,
       frontendQuestionId: "1975",
       paidOnly: false,
       title: "Maximum Matrix Sum",
@@ -13865,6 +15840,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.722077050990034,
       frontendQuestionId: "1976",
       paidOnly: false,
       title: "Number of Ways to Arrive at Destination",
@@ -13872,6 +15848,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 20.929797191887676,
       frontendQuestionId: "1977",
       paidOnly: false,
       title: "Number of Ways to Separate Numbers",
@@ -13879,6 +15856,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.60051534169051,
       frontendQuestionId: "1978",
       paidOnly: false,
       title: "Employees Whose Manager Left the Company",
@@ -13886,6 +15864,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 78.20947163555107,
       frontendQuestionId: "1979",
       paidOnly: false,
       title: "Find Greatest Common Divisor of Array",
@@ -13893,6 +15872,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 74.72443466493115,
       frontendQuestionId: "1980",
       paidOnly: false,
       title: "Find Unique Binary String",
@@ -13900,6 +15880,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.334312833788104,
       frontendQuestionId: "1981",
       paidOnly: false,
       title: "Minimize the Difference Between Target and Chosen Elements",
@@ -13907,6 +15888,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.92632969937232,
       frontendQuestionId: "1982",
       paidOnly: false,
       title: "Find Array Given Subset Sums",
@@ -13914,6 +15896,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.92211663871809,
       frontendQuestionId: "1983",
       paidOnly: true,
       title: "Widest Pair of Indices With Equal Range Sum",
@@ -13921,6 +15904,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.45276559396376,
       frontendQuestionId: "1984",
       paidOnly: false,
       title: "Minimum Difference Between Highest and Lowest of K Scores",
@@ -13928,6 +15912,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.91730290482987,
       frontendQuestionId: "1985",
       paidOnly: false,
       title: "Find the Kth Largest Integer in the Array",
@@ -13935,6 +15920,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.34991506915797,
       frontendQuestionId: "1986",
       paidOnly: false,
       title: "Minimum Number of Work Sessions to Finish the Tasks",
@@ -13942,6 +15928,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.223560026410844,
       frontendQuestionId: "1987",
       paidOnly: false,
       title: "Number of Unique Good Subsequences",
@@ -13949,6 +15936,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.86451318342655,
       frontendQuestionId: "1988",
       paidOnly: true,
       title: "Find Cutoff Score for Each School",
@@ -13956,6 +15944,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.47563486616335,
       frontendQuestionId: "1989",
       paidOnly: true,
       title: "Maximum Number of People That Can Be Caught in Tag",
@@ -13963,6 +15952,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.32970662521857,
       frontendQuestionId: "1990",
       paidOnly: true,
       title: "Count the Number of Experiments",
@@ -13970,6 +15960,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.67441860465117,
       frontendQuestionId: "1991",
       paidOnly: false,
       title: "Find the Middle Index in Array",
@@ -13977,6 +15968,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 75.74852188075262,
       frontendQuestionId: "1992",
       paidOnly: false,
       title: "Find All Groups of Farmland",
@@ -13984,6 +15976,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.26822311430382,
       frontendQuestionId: "1993",
       paidOnly: false,
       title: "Operations on Tree",
@@ -13991,6 +15984,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.59470996902988,
       frontendQuestionId: "1994",
       paidOnly: false,
       title: "The Number of Good Subsets",
@@ -13998,6 +15992,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.90908963800842,
       frontendQuestionId: "1995",
       paidOnly: false,
       title: "Count Special Quadruplets",
@@ -14005,6 +16000,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.07372377230754,
       frontendQuestionId: "1996",
       paidOnly: false,
       title: "The Number of Weak Characters in the Game",
@@ -14012,6 +16008,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.6400045253988,
       frontendQuestionId: "1997",
       paidOnly: false,
       title: "First Day Where You Have Been in All the Rooms",
@@ -14019,6 +16016,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.12676056338028,
       frontendQuestionId: "1998",
       paidOnly: false,
       title: "GCD Sort of an Array",
@@ -14026,6 +16024,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.83542359866905,
       frontendQuestionId: "1999",
       paidOnly: true,
       title: "Smallest Greater Multiple Made of Two Digits",
@@ -14033,6 +16032,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.33016753814961,
       frontendQuestionId: "2000",
       paidOnly: false,
       title: "Reverse Prefix of Word",
@@ -14040,6 +16040,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.40196959266303,
       frontendQuestionId: "2001",
       paidOnly: false,
       title: "Number of Pairs of Interchangeable Rectangles",
@@ -14047,6 +16048,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.6070610168175,
       frontendQuestionId: "2002",
       paidOnly: false,
       title: "Maximum Product of the Length of Two Palindromic Subsequences",
@@ -14055,6 +16057,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.510402949697124,
       frontendQuestionId: "2003",
       paidOnly: false,
       title: "Smallest Missing Genetic Value in Each Subtree",
@@ -14062,6 +16065,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.77211954384585,
       frontendQuestionId: "2004",
       paidOnly: true,
       title: "The Number of Seniors and Juniors to Join the Company",
@@ -14069,6 +16073,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.536585365853654,
       frontendQuestionId: "2005",
       paidOnly: true,
       title: "Subtree Removal Game with Fibonacci Tree",
@@ -14076,6 +16081,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 84.26068540623797,
       frontendQuestionId: "2006",
       paidOnly: false,
       title: "Count Number of Pairs With Absolute Difference K",
@@ -14083,6 +16089,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.49949316135098,
       frontendQuestionId: "2007",
       paidOnly: false,
       title: "Find Original Array From Doubled Array",
@@ -14090,6 +16097,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.34269978343983,
       frontendQuestionId: "2008",
       paidOnly: false,
       title: "Maximum Earnings From Taxi",
@@ -14097,6 +16105,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.60819866253242,
       frontendQuestionId: "2009",
       paidOnly: false,
       title: "Minimum Number of Operations to Make Array Continuous",
@@ -14104,6 +16113,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.63174704567231,
       frontendQuestionId: "2010",
       paidOnly: true,
       title: "The Number of Seniors and Juniors to Join the Company II",
@@ -14111,6 +16121,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 89.43698211491404,
       frontendQuestionId: "2011",
       paidOnly: false,
       title: "Final Value of Variable After Performing Operations",
@@ -14118,6 +16129,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.50356946732565,
       frontendQuestionId: "2012",
       paidOnly: false,
       title: "Sum of Beauty in the Array",
@@ -14125,6 +16137,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.33447525198414,
       frontendQuestionId: "2013",
       paidOnly: false,
       title: "Detect Squares",
@@ -14132,6 +16145,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.78412698412698,
       frontendQuestionId: "2014",
       paidOnly: false,
       title: "Longest Subsequence Repeated k Times",
@@ -14139,6 +16153,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.42611960311075,
       frontendQuestionId: "2015",
       paidOnly: true,
       title: "Average Height of Buildings in Each Segment",
@@ -14146,6 +16161,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.238361789760575,
       frontendQuestionId: "2016",
       paidOnly: false,
       title: "Maximum Difference Between Increasing Elements",
@@ -14153,6 +16169,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.12384716732543,
       frontendQuestionId: "2017",
       paidOnly: false,
       title: "Grid Game",
@@ -14160,6 +16177,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.8451744223815,
       frontendQuestionId: "2018",
       paidOnly: false,
       title: "Check if Word Can Be Placed In Crossword",
@@ -14167,6 +16185,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.64648263579697,
       frontendQuestionId: "2019",
       paidOnly: false,
       title: "The Score of Students Solving Math Expression",
@@ -14174,6 +16193,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.15496368038741,
       frontendQuestionId: "2020",
       paidOnly: true,
       title: "Number of Accounts That Did Not Stream",
@@ -14181,6 +16201,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.540653495440736,
       frontendQuestionId: "2021",
       paidOnly: true,
       title: "Brightest Position on Street",
@@ -14188,6 +16209,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.57170533588535,
       frontendQuestionId: "2022",
       paidOnly: false,
       title: "Convert 1D Array Into 2D Array",
@@ -14195,6 +16217,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 75.13713906805715,
       frontendQuestionId: "2023",
       paidOnly: false,
       title: "Number of Pairs of Strings With Concatenation Equal to Target",
@@ -14203,6 +16226,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.57240265998458,
       frontendQuestionId: "2024",
       paidOnly: false,
       title: "Maximize the Confusion of an Exam",
@@ -14210,6 +16234,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.49203786367809,
       frontendQuestionId: "2025",
       paidOnly: false,
       title: "Maximum Number of Ways to Partition an Array",
@@ -14217,6 +16242,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 84.3112582781457,
       frontendQuestionId: "2026",
       paidOnly: true,
       title: "Low-Quality Problems",
@@ -14224,6 +16250,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.55228237436564,
       frontendQuestionId: "2027",
       paidOnly: false,
       title: "Minimum Moves to Convert String",
@@ -14231,6 +16258,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.48948627746504,
       frontendQuestionId: "2028",
       paidOnly: false,
       title: "Find Missing Observations",
@@ -14238,6 +16266,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.78272587268994,
       frontendQuestionId: "2029",
       paidOnly: false,
       title: "Stone Game IX",
@@ -14245,6 +16274,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.419483792474146,
       frontendQuestionId: "2030",
       paidOnly: false,
       title: "Smallest K-Length Subsequence With Occurrences of a Letter",
@@ -14252,6 +16282,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.80911167207597,
       frontendQuestionId: "2031",
       paidOnly: true,
       title: "Count Subarrays With More Ones Than Zeros",
@@ -14259,6 +16290,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.79379110388233,
       frontendQuestionId: "2032",
       paidOnly: false,
       title: "Two Out of Three",
@@ -14266,6 +16298,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.452810842138106,
       frontendQuestionId: "2033",
       paidOnly: false,
       title: "Minimum Operations to Make a Uni-Value Grid",
@@ -14273,6 +16306,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.60136485834425,
       frontendQuestionId: "2034",
       paidOnly: false,
       title: "Stock Price Fluctuation ",
@@ -14280,6 +16314,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 20.725861827587817,
       frontendQuestionId: "2035",
       paidOnly: false,
       title: "Partition Array Into Two Arrays to Minimize Sum Difference",
@@ -14287,6 +16322,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.13490725126476,
       frontendQuestionId: "2036",
       paidOnly: true,
       title: "Maximum Alternating Subarray Sum",
@@ -14294,6 +16330,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 87.56004523619914,
       frontendQuestionId: "2037",
       paidOnly: false,
       title: "Minimum Number of Moves to Seat Everyone",
@@ -14301,6 +16338,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.81102776624833,
       frontendQuestionId: "2038",
       paidOnly: false,
       title: "Remove Colored Pieces if Both Neighbors are the Same Color",
@@ -14308,6 +16346,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.648543057138205,
       frontendQuestionId: "2039",
       paidOnly: false,
       title: "The Time When the Network Becomes Idle",
@@ -14315,6 +16354,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.146156758803482,
       frontendQuestionId: "2040",
       paidOnly: false,
       title: "Kth Smallest Product of Two Sorted Arrays",
@@ -14322,6 +16362,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.39195979899498,
       frontendQuestionId: "2041",
       paidOnly: true,
       title: "Accepted Candidates From the Interviews",
@@ -14329,6 +16370,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.28698801894679,
       frontendQuestionId: "2042",
       paidOnly: false,
       title: "Check if Numbers Are Ascending in a Sentence",
@@ -14336,6 +16378,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.73281937468364,
       frontendQuestionId: "2043",
       paidOnly: false,
       title: "Simple Bank System",
@@ -14343,6 +16386,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 78.21056594302924,
       frontendQuestionId: "2044",
       paidOnly: false,
       title: "Count Number of Maximum Bitwise-OR Subsets",
@@ -14350,6 +16394,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.01429844030741,
       frontendQuestionId: "2045",
       paidOnly: false,
       title: "Second Minimum Time to Reach Destination",
@@ -14357,6 +16402,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.0710829921846,
       frontendQuestionId: "2046",
       paidOnly: true,
       title: "Sort Linked List Already Sorted Using Absolute Values",
@@ -14364,6 +16410,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.39206286403077,
       frontendQuestionId: "2047",
       paidOnly: false,
       title: "Number of Valid Words in a Sentence",
@@ -14371,6 +16418,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.8036976617727,
       frontendQuestionId: "2048",
       paidOnly: false,
       title: "Next Greater Numerically Balanced Number",
@@ -14378,6 +16426,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.171696778312715,
       frontendQuestionId: "2049",
       paidOnly: false,
       title: "Count Nodes With the Highest Score",
@@ -14385,6 +16434,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.0931620897738,
       frontendQuestionId: "2050",
       paidOnly: false,
       title: "Parallel Courses III",
@@ -14392,6 +16442,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.06395880056483,
       frontendQuestionId: "2051",
       paidOnly: true,
       title: "The Category of Each Member in the Store",
@@ -14399,6 +16450,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.74528782475802,
       frontendQuestionId: "2052",
       paidOnly: true,
       title: "Minimum Cost to Separate Sentence Into Rows",
@@ -14406,6 +16458,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.09313963897289,
       frontendQuestionId: "2053",
       paidOnly: false,
       title: "Kth Distinct String in an Array",
@@ -14413,6 +16466,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.72922991995584,
       frontendQuestionId: "2054",
       paidOnly: false,
       title: "Two Best Non-Overlapping Events",
@@ -14420,6 +16474,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.36176502964256,
       frontendQuestionId: "2055",
       paidOnly: false,
       title: "Plates Between Candles",
@@ -14427,6 +16482,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.13887901410119,
       frontendQuestionId: "2056",
       paidOnly: false,
       title: "Number of Valid Move Combinations On Chessboard",
@@ -14434,6 +16490,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.34769727982763,
       frontendQuestionId: "2057",
       paidOnly: false,
       title: "Smallest Index With Equal Value",
@@ -14441,6 +16498,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 69.60364872396713,
       frontendQuestionId: "2058",
       paidOnly: false,
       title:
@@ -14450,6 +16508,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.745307179241834,
       frontendQuestionId: "2059",
       paidOnly: false,
       title: "Minimum Operations to Convert Number",
@@ -14457,6 +16516,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.79807447404615,
       frontendQuestionId: "2060",
       paidOnly: false,
       title: "Check if an Original String Exists Given Two Encoded Strings",
@@ -14464,6 +16524,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.50087320991966,
       frontendQuestionId: "2061",
       paidOnly: true,
       title: "Number of Spaces Cleaning Robot Cleaned",
@@ -14471,6 +16532,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.52617292328573,
       frontendQuestionId: "2062",
       paidOnly: false,
       title: "Count Vowel Substrings of a String",
@@ -14478,6 +16540,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.20286329835291,
       frontendQuestionId: "2063",
       paidOnly: false,
       title: "Vowels of All Substrings",
@@ -14485,6 +16548,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.7086290741411,
       frontendQuestionId: "2064",
       paidOnly: false,
       title: "Minimized Maximum of Products Distributed to Any Store",
@@ -14492,6 +16556,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.024898903837844,
       frontendQuestionId: "2065",
       paidOnly: false,
       title: "Maximum Path Quality of a Graph",
@@ -14499,6 +16564,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 81.95721142113398,
       frontendQuestionId: "2066",
       paidOnly: true,
       title: "Account Balance",
@@ -14506,6 +16572,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.2915188648823,
       frontendQuestionId: "2067",
       paidOnly: true,
       title: "Number of Equal Count Substrings",
@@ -14513,6 +16580,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.01049834465935,
       frontendQuestionId: "2068",
       paidOnly: false,
       title: "Check Whether Two Strings are Almost Equivalent",
@@ -14520,6 +16588,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 26.54838112096824,
       frontendQuestionId: "2069",
       paidOnly: false,
       title: "Walking Robot Simulation II",
@@ -14527,6 +16596,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.87231238158003,
       frontendQuestionId: "2070",
       paidOnly: false,
       title: "Most Beautiful Item for Each Query",
@@ -14534,6 +16604,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.55926430517711,
       frontendQuestionId: "2071",
       paidOnly: false,
       title: "Maximum Number of Tasks You Can Assign",
@@ -14541,6 +16612,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.23173803526448,
       frontendQuestionId: "2072",
       paidOnly: true,
       title: "The Winner University",
@@ -14548,6 +16620,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 69.94896678658078,
       frontendQuestionId: "2073",
       paidOnly: false,
       title: "Time Needed to Buy Tickets",
@@ -14555,6 +16628,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.906183756283696,
       frontendQuestionId: "2074",
       paidOnly: false,
       title: "Reverse Nodes in Even Length Groups",
@@ -14562,6 +16636,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.10023122549512,
       frontendQuestionId: "2075",
       paidOnly: false,
       title: "Decode the Slanted Ciphertext",
@@ -14569,6 +16644,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.80255986282074,
       frontendQuestionId: "2076",
       paidOnly: false,
       title: "Process Restricted Friend Requests",
@@ -14576,6 +16652,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.89761328260118,
       frontendQuestionId: "2077",
       paidOnly: true,
       title: "Paths in Maze That Lead to Same Room",
@@ -14583,6 +16660,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.96508456082924,
       frontendQuestionId: "2078",
       paidOnly: false,
       title: "Two Furthest Houses With Different Colors",
@@ -14590,6 +16668,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 79.83840387363999,
       frontendQuestionId: "2079",
       paidOnly: false,
       title: "Watering Plants",
@@ -14597,6 +16676,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.55560518088433,
       frontendQuestionId: "2080",
       paidOnly: false,
       title: "Range Frequency Queries",
@@ -14604,6 +16684,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.37116305266122,
       frontendQuestionId: "2081",
       paidOnly: false,
       title: "Sum of k-Mirror Numbers",
@@ -14611,6 +16692,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 77.26365275631119,
       frontendQuestionId: "2082",
       paidOnly: true,
       title: "The Number of Rich Customers",
@@ -14618,6 +16700,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 74.12655613562045,
       frontendQuestionId: "2083",
       paidOnly: true,
       title: "Substrings That Begin and End With the Same Letter",
@@ -14625,6 +16708,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.75441265976872,
       frontendQuestionId: "2084",
       paidOnly: true,
       title: "Drop Type 1 Orders for Customers With Type 0 Orders",
@@ -14632,6 +16716,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.39452700253716,
       frontendQuestionId: "2085",
       paidOnly: false,
       title: "Count Common Words With One Occurrence",
@@ -14639,6 +16724,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.89304257528556,
       frontendQuestionId: "2086",
       paidOnly: false,
       title: "Minimum Number of Food Buckets to Feed the Hamsters",
@@ -14646,6 +16732,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.00002628189966,
       frontendQuestionId: "2087",
       paidOnly: false,
       title: "Minimum Cost Homecoming of a Robot in a Grid",
@@ -14653,6 +16740,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.05487613671997,
       frontendQuestionId: "2088",
       paidOnly: false,
       title: "Count Fertile Pyramids in a Land",
@@ -14660,6 +16748,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.71718296432604,
       frontendQuestionId: "2089",
       paidOnly: false,
       title: "Find Target Indices After Sorting Array",
@@ -14667,6 +16756,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.8742669690866,
       frontendQuestionId: "2090",
       paidOnly: false,
       title: "K Radius Subarray Averages",
@@ -14674,6 +16764,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.01119420759301,
       frontendQuestionId: "2091",
       paidOnly: false,
       title: "Removing Minimum and Maximum From Array",
@@ -14681,6 +16772,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.47389530776418,
       frontendQuestionId: "2092",
       paidOnly: false,
       title: "Find All People With Secret",
@@ -14688,6 +16780,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.767891682785304,
       frontendQuestionId: "2093",
       paidOnly: true,
       title: "Minimum Cost to Reach City With Discounts",
@@ -14695,6 +16788,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.554841800791436,
       frontendQuestionId: "2094",
       paidOnly: false,
       title: "Finding 3-Digit Even Numbers",
@@ -14702,6 +16796,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 59.672745247789635,
       frontendQuestionId: "2095",
       paidOnly: false,
       title: "Delete the Middle Node of a Linked List",
@@ -14709,6 +16804,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.37864032405363,
       frontendQuestionId: "2096",
       paidOnly: false,
       title: "Step-By-Step Directions From a Binary Tree Node to Another",
@@ -14716,6 +16812,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.637702342237,
       frontendQuestionId: "2097",
       paidOnly: false,
       title: "Valid Arrangement of Pairs",
@@ -14723,6 +16820,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 36.38539173863282,
       frontendQuestionId: "2098",
       paidOnly: true,
       title: "Subsequence of Size K With the Largest Even Sum",
@@ -14730,6 +16828,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.12685165866889,
       frontendQuestionId: "2099",
       paidOnly: false,
       title: "Find Subsequence of Length K With the Largest Sum",
@@ -14737,6 +16836,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.67282116581777,
       frontendQuestionId: "2100",
       paidOnly: false,
       title: "Find Good Days to Rob the Bank",
@@ -14744,6 +16844,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.792309945966394,
       frontendQuestionId: "2101",
       paidOnly: false,
       title: "Detonate the Maximum Bombs",
@@ -14751,6 +16852,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.68244385414151,
       frontendQuestionId: "2102",
       paidOnly: false,
       title: "Sequentially Ordinal Rank Tracker",
@@ -14758,6 +16860,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 80.90647482014388,
       frontendQuestionId: "2103",
       paidOnly: false,
       title: "Rings and Rods",
@@ -14765,6 +16868,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.71971456318879,
       frontendQuestionId: "2104",
       paidOnly: false,
       title: "Sum of Subarray Ranges",
@@ -14772,6 +16876,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.423990118486664,
       frontendQuestionId: "2105",
       paidOnly: false,
       title: "Watering Plants II",
@@ -14779,6 +16884,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.393773876803586,
       frontendQuestionId: "2106",
       paidOnly: false,
       title: "Maximum Fruits Harvested After at Most K Steps",
@@ -14786,6 +16892,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.71696344892221,
       frontendQuestionId: "2107",
       paidOnly: true,
       title: "Number of Unique Flavors After Sharing K Candies",
@@ -14793,6 +16900,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.90867180125584,
       frontendQuestionId: "2108",
       paidOnly: false,
       title: "Find First Palindromic String in the Array",
@@ -14800,6 +16908,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 59.50914161760149,
       frontendQuestionId: "2109",
       paidOnly: false,
       title: "Adding Spaces to a String",
@@ -14807,6 +16916,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.181373817971405,
       frontendQuestionId: "2110",
       paidOnly: false,
       title: "Number of Smooth Descent Periods of a Stock",
@@ -14814,6 +16924,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.03613754451515,
       frontendQuestionId: "2111",
       paidOnly: false,
       title: "Minimum Operations to Make the Array K-Increasing",
@@ -14821,6 +16932,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.55404881828748,
       frontendQuestionId: "2112",
       paidOnly: true,
       title: "The Airport With the Most Traffic",
@@ -14828,6 +16940,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.45100864553315,
       frontendQuestionId: "2113",
       paidOnly: true,
       title: "Elements in Array After Removing and Replacing Elements",
@@ -14835,6 +16948,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.60694796349459,
       frontendQuestionId: "2114",
       paidOnly: false,
       title: "Maximum Number of Words Found in Sentences",
@@ -14842,6 +16956,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.24781481613003,
       frontendQuestionId: "2115",
       paidOnly: false,
       title: "Find All Possible Recipes from Given Supplies",
@@ -14849,6 +16964,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.21982634364586,
       frontendQuestionId: "2116",
       paidOnly: false,
       title: "Check if a Parentheses String Can Be Valid",
@@ -14856,6 +16972,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.0239937531057,
       frontendQuestionId: "2117",
       paidOnly: false,
       title: "Abbreviating the Product of a Range",
@@ -14863,6 +16980,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.69917743830788,
       frontendQuestionId: "2118",
       paidOnly: true,
       title: "Build the Equation",
@@ -14870,6 +16988,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 80.42447148731155,
       frontendQuestionId: "2119",
       paidOnly: false,
       title: "A Number After a Double Reversal",
@@ -14877,6 +16996,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 82.72929742862928,
       frontendQuestionId: "2120",
       paidOnly: false,
       title: "Execution of All Suffix Instructions Staying in a Grid",
@@ -14884,6 +17004,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.624648566992576,
       frontendQuestionId: "2121",
       paidOnly: false,
       title: "Intervals Between Identical Elements",
@@ -14891,6 +17012,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.76293482466322,
       frontendQuestionId: "2122",
       paidOnly: false,
       title: "Recover the Original Array",
@@ -14898,6 +17020,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.37719674239177,
       frontendQuestionId: "2123",
       paidOnly: true,
       title: "Minimum Operations to Remove Adjacent Ones in Matrix",
@@ -14905,6 +17028,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.14816859332382,
       frontendQuestionId: "2124",
       paidOnly: false,
       title: "Check if All A's Appears Before All B's",
@@ -14912,6 +17036,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.56458622913522,
       frontendQuestionId: "2125",
       paidOnly: false,
       title: "Number of Laser Beams in a Bank",
@@ -14919,6 +17044,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.84451544195953,
       frontendQuestionId: "2126",
       paidOnly: false,
       title: "Destroying Asteroids",
@@ -14926,6 +17052,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.40337550485463,
       frontendQuestionId: "2127",
       paidOnly: false,
       title: "Maximum Employees to Be Invited to a Meeting",
@@ -14933,6 +17060,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.20506535947712,
       frontendQuestionId: "2128",
       paidOnly: true,
       title: "Remove All Ones With Row and Column Flips",
@@ -14940,6 +17068,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.06813342118582,
       frontendQuestionId: "2129",
       paidOnly: false,
       title: "Capitalize the Title",
@@ -14947,6 +17076,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.03079052195592,
       frontendQuestionId: "2130",
       paidOnly: false,
       title: "Maximum Twin Sum of a Linked List",
@@ -14954,6 +17084,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.96921543309929,
       frontendQuestionId: "2131",
       paidOnly: false,
       title: "Longest Palindrome by Concatenating Two Letter Words",
@@ -14961,6 +17092,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.49581239530988,
       frontendQuestionId: "2132",
       paidOnly: false,
       title: "Stamping the Grid",
@@ -14968,6 +17100,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.05386509172445,
       frontendQuestionId: "2133",
       paidOnly: false,
       title: "Check if Every Row and Column Contains All Numbers",
@@ -14975,6 +17108,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.5421074763826,
       frontendQuestionId: "2134",
       paidOnly: false,
       title: "Minimum Swaps to Group All 1's Together II",
@@ -14982,6 +17116,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.20174376362315,
       frontendQuestionId: "2135",
       paidOnly: false,
       title: "Count Words Obtained After Adding a Letter",
@@ -14989,6 +17124,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.69290782872028,
       frontendQuestionId: "2136",
       paidOnly: false,
       title: "Earliest Possible Day of Full Bloom",
@@ -14996,6 +17132,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.71096513390602,
       frontendQuestionId: "2137",
       paidOnly: true,
       title: "Pour Water Between Buckets to Make Water Levels Equal",
@@ -15003,6 +17140,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.15188764438693,
       frontendQuestionId: "2138",
       paidOnly: false,
       title: "Divide a String Into Groups of Size k",
@@ -15010,6 +17148,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.131496445445315,
       frontendQuestionId: "2139",
       paidOnly: false,
       title: "Minimum Moves to Reach Target Score",
@@ -15017,6 +17156,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.10781249198015,
       frontendQuestionId: "2140",
       paidOnly: false,
       title: "Solving Questions With Brainpower",
@@ -15024,6 +17164,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.99310383994418,
       frontendQuestionId: "2141",
       paidOnly: false,
       title: "Maximum Running Time of N Computers",
@@ -15031,6 +17172,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.58334605015514,
       frontendQuestionId: "2142",
       paidOnly: true,
       title: "The Number of Passengers in Each Bus I",
@@ -15038,6 +17180,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.25686365751512,
       frontendQuestionId: "2143",
       paidOnly: true,
       title: "Choose Numbers From Two Arrays in Range",
@@ -15045,6 +17188,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.62798689546152,
       frontendQuestionId: "2144",
       paidOnly: false,
       title: "Minimum Cost of Buying Candies With Discount",
@@ -15052,6 +17196,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.078467698559734,
       frontendQuestionId: "2145",
       paidOnly: false,
       title: "Count the Hidden Sequences",
@@ -15059,6 +17204,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.364525176273226,
       frontendQuestionId: "2146",
       paidOnly: false,
       title: "K Highest Ranked Items Within a Price Range",
@@ -15066,6 +17212,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.329591741772916,
       frontendQuestionId: "2147",
       paidOnly: false,
       title: "Number of Ways to Divide a Long Corridor",
@@ -15073,6 +17220,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.45794536954758,
       frontendQuestionId: "2148",
       paidOnly: false,
       title: "Count Elements With Strictly Smaller and Greater Elements ",
@@ -15080,6 +17228,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 84.09222883777109,
       frontendQuestionId: "2149",
       paidOnly: false,
       title: "Rearrange Array Elements by Sign",
@@ -15087,6 +17236,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.884261283727085,
       frontendQuestionId: "2150",
       paidOnly: false,
       title: "Find All Lonely Numbers in the Array",
@@ -15094,6 +17244,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.71912772138732,
       frontendQuestionId: "2151",
       paidOnly: false,
       title: "Maximum Good People Based on Statements",
@@ -15101,6 +17252,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 42.81025641025641,
       frontendQuestionId: "2152",
       paidOnly: true,
       title: "Minimum Number of Lines to Cover Points",
@@ -15108,6 +17260,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.91449669646327,
       frontendQuestionId: "2153",
       paidOnly: true,
       title: "The Number of Passengers in Each Bus II",
@@ -15115,6 +17268,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.37857158008613,
       frontendQuestionId: "2154",
       paidOnly: false,
       title: "Keep Multiplying Found Values by Two",
@@ -15122,6 +17276,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.4852039012623,
       frontendQuestionId: "2155",
       paidOnly: false,
       title: "All Divisions With the Highest Score of a Binary Array",
@@ -15129,6 +17284,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 23.837865037913623,
       frontendQuestionId: "2156",
       paidOnly: false,
       title: "Find Substring With Given Hash Value",
@@ -15136,6 +17292,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 26.117459473824077,
       frontendQuestionId: "2157",
       paidOnly: false,
       title: "Groups of Strings",
@@ -15143,6 +17300,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.2979411017103,
       frontendQuestionId: "2158",
       paidOnly: true,
       title: "Amount of New Area Painted Each Day",
@@ -15150,6 +17308,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.44737807114045,
       frontendQuestionId: "2159",
       paidOnly: true,
       title: "Order Two Columns Independently",
@@ -15157,6 +17316,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.27951698904859,
       frontendQuestionId: "2160",
       paidOnly: false,
       title: "Minimum Sum of Four Digit Number After Splitting Digits",
@@ -15164,6 +17324,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.1974188798102,
       frontendQuestionId: "2161",
       paidOnly: false,
       title: "Partition Array According to Given Pivot",
@@ -15171,6 +17332,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.39926485197695,
       frontendQuestionId: "2162",
       paidOnly: false,
       title: "Minimum Cost to Set Cooking Time",
@@ -15178,6 +17340,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.92509896366143,
       frontendQuestionId: "2163",
       paidOnly: false,
       title: "Minimum Difference in Sums After Removal of Elements",
@@ -15185,6 +17348,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.59207197076188,
       frontendQuestionId: "2164",
       paidOnly: false,
       title: "Sort Even and Odd Indices Independently",
@@ -15192,6 +17356,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.691172307816736,
       frontendQuestionId: "2165",
       paidOnly: false,
       title: "Smallest Value of the Rearranged Number",
@@ -15199,6 +17364,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.65544968882524,
       frontendQuestionId: "2166",
       paidOnly: false,
       title: "Design Bitset",
@@ -15206,6 +17372,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.62389620325799,
       frontendQuestionId: "2167",
       paidOnly: false,
       title: "Minimum Time to Remove All Cars Containing Illegal Goods",
@@ -15213,6 +17380,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.16949152542372,
       frontendQuestionId: "2168",
       paidOnly: true,
       title: "Unique Substrings With Equal Digit Frequency",
@@ -15220,6 +17388,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.59903901522661,
       frontendQuestionId: "2169",
       paidOnly: false,
       title: "Count Operations to Obtain Zero",
@@ -15227,6 +17396,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.4301947347877,
       frontendQuestionId: "2170",
       paidOnly: false,
       title: "Minimum Operations to Make the Array Alternating",
@@ -15234,6 +17404,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.08313131003161,
       frontendQuestionId: "2171",
       paidOnly: false,
       title: "Removing Minimum Number of Magic Beans",
@@ -15241,6 +17412,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.28593444980993,
       frontendQuestionId: "2172",
       paidOnly: false,
       title: "Maximum AND Sum of Array",
@@ -15248,6 +17420,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.56516342573438,
       frontendQuestionId: "2173",
       paidOnly: true,
       title: "Longest Winning Streak",
@@ -15255,6 +17428,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.24844638371017,
       frontendQuestionId: "2174",
       paidOnly: true,
       title: "Remove All Ones With Row and Column Flips II",
@@ -15262,6 +17436,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.26360317036246,
       frontendQuestionId: "2175",
       paidOnly: true,
       title: "The Change in Global Rankings",
@@ -15269,6 +17444,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.69564210445054,
       frontendQuestionId: "2176",
       paidOnly: false,
       title: "Count Equal and Divisible Pairs in an Array",
@@ -15276,6 +17452,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.7612006122396,
       frontendQuestionId: "2177",
       paidOnly: false,
       title: "Find Three Consecutive Integers That Sum to a Given Number",
@@ -15283,6 +17460,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.339030345308686,
       frontendQuestionId: "2178",
       paidOnly: false,
       title: "Maximum Split of Positive Even Integers",
@@ -15290,6 +17468,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.48331981100558,
       frontendQuestionId: "2179",
       paidOnly: false,
       title: "Count Good Triplets in an Array",
@@ -15297,6 +17476,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.65682563714358,
       frontendQuestionId: "2180",
       paidOnly: false,
       title: "Count Integers With Even Digit Sum",
@@ -15304,6 +17484,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 89.78561853665123,
       frontendQuestionId: "2181",
       paidOnly: false,
       title: "Merge Nodes in Between Zeros",
@@ -15311,6 +17492,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.75566481898091,
       frontendQuestionId: "2182",
       paidOnly: false,
       title: "Construct String With Repeat Limit",
@@ -15318,6 +17500,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.49108818011257,
       frontendQuestionId: "2183",
       paidOnly: false,
       title: "Count Array Pairs Divisible by K",
@@ -15325,6 +17508,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.19745958429561,
       frontendQuestionId: "2184",
       paidOnly: true,
       title: "Number of Ways to Build Sturdy Brick Wall",
@@ -15332,6 +17516,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 78.3658536585366,
       frontendQuestionId: "2185",
       paidOnly: false,
       title: "Counting Words With a Given Prefix",
@@ -15339,6 +17524,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.77045539289594,
       frontendQuestionId: "2186",
       paidOnly: false,
       title: "Minimum Number of Steps to Make Two Strings Anagram II",
@@ -15346,6 +17532,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.82894072895237,
       frontendQuestionId: "2187",
       paidOnly: false,
       title: "Minimum Time to Complete Trips",
@@ -15353,6 +17540,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.77111994293284,
       frontendQuestionId: "2188",
       paidOnly: false,
       title: "Minimum Time to Finish the Race",
@@ -15360,6 +17548,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.2133676092545,
       frontendQuestionId: "2189",
       paidOnly: true,
       title: "Number of Ways to Build House of Cards",
@@ -15367,6 +17556,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.165555690219364,
       frontendQuestionId: "2190",
       paidOnly: false,
       title: "Most Frequent Number Following Key In an Array",
@@ -15374,6 +17564,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.22311212814645,
       frontendQuestionId: "2191",
       paidOnly: false,
       title: "Sort the Jumbled Numbers",
@@ -15381,6 +17572,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.18836692749375,
       frontendQuestionId: "2192",
       paidOnly: false,
       title: "All Ancestors of a Node in a Directed Acyclic Graph",
@@ -15388,6 +17580,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.32861585989521,
       frontendQuestionId: "2193",
       paidOnly: false,
       title: "Minimum Number of Moves to Make Palindrome",
@@ -15395,6 +17588,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 84.21653904014296,
       frontendQuestionId: "2194",
       paidOnly: false,
       title: "Cells in a Range on an Excel Sheet",
@@ -15402,6 +17596,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 25.605070341091523,
       frontendQuestionId: "2195",
       paidOnly: false,
       title: "Append K Integers With Minimal Sum",
@@ -15409,6 +17604,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 81.7793924155822,
       frontendQuestionId: "2196",
       paidOnly: false,
       title: "Create Binary Tree From Descriptions",
@@ -15416,6 +17612,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.84788101377927,
       frontendQuestionId: "2197",
       paidOnly: false,
       title: "Replace Non-Coprime Numbers in Array",
@@ -15423,6 +17620,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.90288962576978,
       frontendQuestionId: "2198",
       paidOnly: true,
       title: "Number of Single Divisor Triplets",
@@ -15430,6 +17628,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.55044955044955,
       frontendQuestionId: "2199",
       paidOnly: true,
       title: "Finding the Topic of Each Post",
@@ -15437,6 +17636,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.32420452746557,
       frontendQuestionId: "2200",
       paidOnly: false,
       title: "Find All K-Distant Indices in an Array",
@@ -15444,6 +17644,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.26814098134071,
       frontendQuestionId: "2201",
       paidOnly: false,
       title: "Count Artifacts That Can Be Extracted",
@@ -15451,6 +17652,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 23.068340733155534,
       frontendQuestionId: "2202",
       paidOnly: false,
       title: "Maximize the Topmost Element After K Moves",
@@ -15458,6 +17660,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.14218607791903,
       frontendQuestionId: "2203",
       paidOnly: false,
       title: "Minimum Weighted Subgraph With the Required Paths",
@@ -15465,6 +17668,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.16350028785261,
       frontendQuestionId: "2204",
       paidOnly: true,
       title: "Distance to a Cycle in Undirected Graph",
@@ -15472,6 +17676,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.130328120208524,
       frontendQuestionId: "2205",
       paidOnly: true,
       title: "The Number of Users That Are Eligible for Discount",
@@ -15479,6 +17684,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.85216046513592,
       frontendQuestionId: "2206",
       paidOnly: false,
       title: "Divide Array Into Equal Pairs",
@@ -15486,6 +17692,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 35.063929376538006,
       frontendQuestionId: "2207",
       paidOnly: false,
       title: "Maximize Number of Subsequences in a String",
@@ -15493,6 +17700,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.1034070871964,
       frontendQuestionId: "2208",
       paidOnly: false,
       title: "Minimum Operations to Halve Array Sum",
@@ -15500,6 +17708,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.15107086387811,
       frontendQuestionId: "2209",
       paidOnly: false,
       title: "Minimum White Tiles After Covering With Carpets",
@@ -15507,6 +17716,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.3177458583819,
       frontendQuestionId: "2210",
       paidOnly: false,
       title: "Count Hills and Valleys in an Array",
@@ -15514,6 +17724,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.95815604917985,
       frontendQuestionId: "2211",
       paidOnly: false,
       title: "Count Collisions on a Road",
@@ -15521,6 +17732,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.34549604477378,
       frontendQuestionId: "2212",
       paidOnly: false,
       title: "Maximum Points in an Archery Competition",
@@ -15528,6 +17740,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.32218923454241,
       frontendQuestionId: "2213",
       paidOnly: false,
       title: "Longest Substring of One Repeating Character",
@@ -15535,6 +17748,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.62967266389499,
       frontendQuestionId: "2214",
       paidOnly: true,
       title: "Minimum Health to Beat Game",
@@ -15542,6 +17756,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.57858117056394,
       frontendQuestionId: "2215",
       paidOnly: false,
       title: "Find the Difference of Two Arrays",
@@ -15549,6 +17764,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.583862452735964,
       frontendQuestionId: "2216",
       paidOnly: false,
       title: "Minimum Deletions to Make Array Beautiful",
@@ -15556,6 +17772,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.37161124914935,
       frontendQuestionId: "2217",
       paidOnly: false,
       title: "Find Palindrome With Fixed Length",
@@ -15563,6 +17780,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.49076323470297,
       frontendQuestionId: "2218",
       paidOnly: false,
       title: "Maximum Value of K Coins From Piles",
@@ -15570,6 +17788,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.691196889752845,
       frontendQuestionId: "2219",
       paidOnly: true,
       title: "Maximum Sum Score of Array",
@@ -15577,6 +17796,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 87.47080758390085,
       frontendQuestionId: "2220",
       paidOnly: false,
       title: "Minimum Bit Flips to Convert Number",
@@ -15584,6 +17804,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 78.9055612866923,
       frontendQuestionId: "2221",
       paidOnly: false,
       title: "Find Triangular Sum of an Array",
@@ -15591,6 +17812,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.78054105238239,
       frontendQuestionId: "2222",
       paidOnly: false,
       title: "Number of Ways to Select Buildings",
@@ -15598,6 +17820,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.96800882515168,
       frontendQuestionId: "2223",
       paidOnly: false,
       title: "Sum of Scores of Built Strings",
@@ -15605,6 +17828,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.45575417343773,
       frontendQuestionId: "2224",
       paidOnly: false,
       title: "Minimum Number of Operations to Convert Time",
@@ -15612,6 +17836,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.11255164835787,
       frontendQuestionId: "2225",
       paidOnly: false,
       title: "Find Players With Zero or One Losses",
@@ -15619,6 +17844,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.44400162118347,
       frontendQuestionId: "2226",
       paidOnly: false,
       title: "Maximum Candies Allocated to K Children",
@@ -15626,6 +17852,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.71815110473286,
       frontendQuestionId: "2227",
       paidOnly: false,
       title: "Encrypt and Decrypt Strings",
@@ -15633,6 +17860,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.910302409021014,
       frontendQuestionId: "2228",
       paidOnly: true,
       title: "Users With Two Purchases Within Seven Days",
@@ -15640,6 +17868,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.518686968558434,
       frontendQuestionId: "2229",
       paidOnly: true,
       title: "Check if an Array Is Consecutive",
@@ -15647,6 +17876,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.18580782162449,
       frontendQuestionId: "2230",
       paidOnly: true,
       title: "The Users That Are Eligible for Discount",
@@ -15654,6 +17884,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.28572187329872,
       frontendQuestionId: "2231",
       paidOnly: false,
       title: "Largest Number After Digit Swaps by Parity",
@@ -15661,6 +17892,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.95519236066477,
       frontendQuestionId: "2232",
       paidOnly: false,
       title: "Minimize Result by Adding Parentheses to Expression",
@@ -15668,6 +17900,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.75053481135745,
       frontendQuestionId: "2233",
       paidOnly: false,
       title: "Maximum Product After K Increments",
@@ -15675,6 +17908,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.713043140604977,
       frontendQuestionId: "2234",
       paidOnly: false,
       title: "Maximum Total Beauty of the Gardens",
@@ -15682,6 +17916,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 88.00557707203718,
       frontendQuestionId: "2235",
       paidOnly: false,
       title: "Add Two Integers",
@@ -15689,6 +17924,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 84.7125207847793,
       frontendQuestionId: "2236",
       paidOnly: false,
       title: "Root Equals Sum of Children",
@@ -15696,6 +17932,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.4611380362592,
       frontendQuestionId: "2237",
       paidOnly: true,
       title: "Count Positions on Street With Required Brightness",
@@ -15703,6 +17940,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.5002551454329,
       frontendQuestionId: "2238",
       paidOnly: true,
       title: "Number of Times a Driver Was a Passenger",
@@ -15710,6 +17948,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.487867177522354,
       frontendQuestionId: "2239",
       paidOnly: false,
       title: "Find Closest Number to Zero",
@@ -15717,6 +17956,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.42007808573969,
       frontendQuestionId: "2240",
       paidOnly: false,
       title: "Number of Ways to Buy Pens and Pencils",
@@ -15724,6 +17964,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.51380613282953,
       frontendQuestionId: "2241",
       paidOnly: false,
       title: "Design an ATM Machine",
@@ -15731,6 +17972,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.84925272156959,
       frontendQuestionId: "2242",
       paidOnly: false,
       title: "Maximum Score of a Node Sequence",
@@ -15738,6 +17980,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.37954197025493,
       frontendQuestionId: "2243",
       paidOnly: false,
       title: "Calculate Digit Sum of a String",
@@ -15745,6 +17988,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.90588748222427,
       frontendQuestionId: "2244",
       paidOnly: false,
       title: "Minimum Rounds to Complete All Tasks",
@@ -15752,6 +17996,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.38421029725378,
       frontendQuestionId: "2245",
       paidOnly: false,
       title: "Maximum Trailing Zeros in a Cornered Path",
@@ -15759,6 +18004,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.29458043811718,
       frontendQuestionId: "2246",
       paidOnly: false,
       title: "Longest Path With Different Adjacent Characters",
@@ -15766,6 +18012,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.21287919105908,
       frontendQuestionId: "2247",
       paidOnly: true,
       title: "Maximum Cost of Trip With K Highways",
@@ -15773,6 +18020,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.35861001047502,
       frontendQuestionId: "2248",
       paidOnly: false,
       title: "Intersection of Multiple Arrays",
@@ -15780,6 +18028,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.7143801789515,
       frontendQuestionId: "2249",
       paidOnly: false,
       title: "Count Lattice Points Inside a Circle",
@@ -15787,6 +18036,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.32437896591068,
       frontendQuestionId: "2250",
       paidOnly: false,
       title: "Count Number of Rectangles Containing Each Point",
@@ -15794,6 +18044,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.83297907293294,
       frontendQuestionId: "2251",
       paidOnly: false,
       title: "Number of Flowers in Full Bloom",
@@ -15801,6 +18052,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.82738702004757,
       frontendQuestionId: "2252",
       paidOnly: true,
       title: "Dynamic Pivoting of a Table",
@@ -15808,6 +18060,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.0416942422237,
       frontendQuestionId: "2253",
       paidOnly: true,
       title: "Dynamic Unpivoting of a Table",
@@ -15815,6 +18068,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.99863177697965,
       frontendQuestionId: "2254",
       paidOnly: true,
       title: "Design Video Sharing Platform",
@@ -15822,6 +18076,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.81159420289856,
       frontendQuestionId: "2255",
       paidOnly: false,
       title: "Count Prefixes of a Given String",
@@ -15829,6 +18084,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.27579543990725,
       frontendQuestionId: "2256",
       paidOnly: false,
       title: "Minimum Average Difference",
@@ -15836,6 +18092,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.62140613674801,
       frontendQuestionId: "2257",
       paidOnly: false,
       title: "Count Unguarded Cells in the Grid",
@@ -15843,6 +18100,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.20345612703602,
       frontendQuestionId: "2258",
       paidOnly: false,
       title: "Escape the Spreading Fire",
@@ -15850,6 +18108,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.09587648799933,
       frontendQuestionId: "2259",
       paidOnly: false,
       title: "Remove Digit From Number to Maximize Result",
@@ -15857,6 +18116,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.69352999315745,
       frontendQuestionId: "2260",
       paidOnly: false,
       title: "Minimum Consecutive Cards to Pick Up",
@@ -15864,6 +18124,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.463668415168975,
       frontendQuestionId: "2261",
       paidOnly: false,
       title: "K Divisible Elements Subarrays",
@@ -15871,6 +18132,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.7959087702798,
       frontendQuestionId: "2262",
       paidOnly: false,
       title: "Total Appeal of A String",
@@ -15878,6 +18140,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.83131697200139,
       frontendQuestionId: "2263",
       paidOnly: true,
       title: "Make Array Non-decreasing or Non-increasing",
@@ -15885,6 +18148,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.06470582905193,
       frontendQuestionId: "2264",
       paidOnly: false,
       title: "Largest 3-Same-Digit Number in String",
@@ -15892,6 +18156,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 86.38226776564937,
       frontendQuestionId: "2265",
       paidOnly: false,
       title: "Count Nodes Equal to Average of Subtree",
@@ -15899,6 +18164,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.10566868464502,
       frontendQuestionId: "2266",
       paidOnly: false,
       title: "Count Number of Texts",
@@ -15906,6 +18172,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.10334455346272,
       frontendQuestionId: "2267",
       paidOnly: false,
       title: " Check if There Is a Valid Parentheses String Path",
@@ -15913,6 +18180,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.2964662689307,
       frontendQuestionId: "2268",
       paidOnly: true,
       title: "Minimum Number of Keypresses",
@@ -15920,6 +18188,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.598543277346195,
       frontendQuestionId: "2269",
       paidOnly: false,
       title: "Find the K-Beauty of a Number",
@@ -15927,6 +18196,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.26283987915408,
       frontendQuestionId: "2270",
       paidOnly: false,
       title: "Number of Ways to Split Array",
@@ -15934,6 +18204,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.883449147188884,
       frontendQuestionId: "2271",
       paidOnly: false,
       title: "Maximum White Tiles Covered by a Carpet",
@@ -15941,6 +18212,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.226233405720585,
       frontendQuestionId: "2272",
       paidOnly: false,
       title: "Substring With Largest Variance",
@@ -15948,6 +18220,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.57137753005699,
       frontendQuestionId: "2273",
       paidOnly: false,
       title: "Find Resultant Array After Removing Anagrams",
@@ -15955,6 +18228,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.90553946638733,
       frontendQuestionId: "2274",
       paidOnly: false,
       title: "Maximum Consecutive Floors Without Special Floors",
@@ -15962,6 +18236,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.97598540885602,
       frontendQuestionId: "2275",
       paidOnly: false,
       title: "Largest Combination With Bitwise AND Greater Than Zero",
@@ -15969,6 +18244,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.39727602688037,
       frontendQuestionId: "2276",
       paidOnly: false,
       title: "Count Integers in Intervals",
@@ -15976,6 +18252,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.66214086555946,
       frontendQuestionId: "2277",
       paidOnly: true,
       title: "Closest Node to Path in Tree",
@@ -15983,6 +18260,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.17371612516844,
       frontendQuestionId: "2278",
       paidOnly: false,
       title: "Percentage of Letter in String",
@@ -15990,6 +18268,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.53504519395015,
       frontendQuestionId: "2279",
       paidOnly: false,
       title: "Maximum Bags With Full Capacity of Rocks",
@@ -15997,6 +18276,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.541870999138993,
       frontendQuestionId: "2280",
       paidOnly: false,
       title: "Minimum Lines to Represent a Line Chart",
@@ -16004,6 +18284,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.133051284137444,
       frontendQuestionId: "2281",
       paidOnly: false,
       title: "Sum of Total Strength of Wizards",
@@ -16011,6 +18292,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.344861660079054,
       frontendQuestionId: "2282",
       paidOnly: true,
       title: "Number of People That Can Be Seen in a Grid",
@@ -16018,6 +18300,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.52014480906224,
       frontendQuestionId: "2283",
       paidOnly: false,
       title: "Check if Number Has Equal Digit Count and Digit Value",
@@ -16025,6 +18308,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.19477442284909,
       frontendQuestionId: "2284",
       paidOnly: false,
       title: "Sender With Largest Word Count",
@@ -16032,6 +18316,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.30213873053526,
       frontendQuestionId: "2285",
       paidOnly: false,
       title: "Maximum Total Importance of Roads",
@@ -16039,6 +18324,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 18.070625369895442,
       frontendQuestionId: "2286",
       paidOnly: false,
       title: "Booking Concert Tickets in Groups",
@@ -16046,6 +18332,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.53256483356058,
       frontendQuestionId: "2287",
       paidOnly: false,
       title: "Rearrange Characters to Make Target String",
@@ -16053,6 +18340,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 31.55698631833096,
       frontendQuestionId: "2288",
       paidOnly: false,
       title: "Apply Discount to Prices",
@@ -16060,6 +18348,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 22.350110672697525,
       frontendQuestionId: "2289",
       paidOnly: false,
       title: "Steps to Make Array Non-decreasing",
@@ -16067,6 +18356,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.17168332466732,
       frontendQuestionId: "2290",
       paidOnly: false,
       title: "Minimum Obstacle Removal to Reach Corner",
@@ -16074,6 +18364,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 45.370031141234655,
       frontendQuestionId: "2291",
       paidOnly: true,
       title: "Maximum Profit From Trading Stocks",
@@ -16081,6 +18372,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.46286368604591,
       frontendQuestionId: "2292",
       paidOnly: true,
       title: "Products With Three or More Orders in Two Consecutive Years",
@@ -16088,6 +18380,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.42014317452481,
       frontendQuestionId: "2293",
       paidOnly: false,
       title: "Min Max Game",
@@ -16095,6 +18388,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 74.02923784494087,
       frontendQuestionId: "2294",
       paidOnly: false,
       title: "Partition Array Such That Maximum Difference Is K",
@@ -16102,6 +18396,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.0304423014006,
       frontendQuestionId: "2295",
       paidOnly: false,
       title: "Replace Elements in an Array",
@@ -16109,6 +18404,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.962552200999525,
       frontendQuestionId: "2296",
       paidOnly: false,
       title: "Design a Text Editor",
@@ -16116,6 +18412,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 45.6645463675929,
       frontendQuestionId: "2297",
       paidOnly: true,
       title: "Jump Game VIII",
@@ -16123,6 +18420,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 81.5988301242993,
       frontendQuestionId: "2298",
       paidOnly: true,
       title: "Tasks Count in the Weekend",
@@ -16130,6 +18428,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.02048550020301,
       frontendQuestionId: "2299",
       paidOnly: false,
       title: "Strong Password Checker II",
@@ -16137,6 +18436,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.815813311692345,
       frontendQuestionId: "2300",
       paidOnly: false,
       title: "Successful Pairs of Spells and Potions",
@@ -16144,6 +18444,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.379880417711405,
       frontendQuestionId: "2301",
       paidOnly: false,
       title: "Match Substring After Replacement",
@@ -16151,6 +18452,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.418461180304966,
       frontendQuestionId: "2302",
       paidOnly: false,
       title: "Count Subarrays With Score Less Than K",
@@ -16158,6 +18460,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.1626847210468,
       frontendQuestionId: "2303",
       paidOnly: false,
       title: "Calculate Amount Paid in Taxes",
@@ -16165,6 +18468,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.88725338610922,
       frontendQuestionId: "2304",
       paidOnly: false,
       title: "Minimum Path Cost in a Grid",
@@ -16172,6 +18476,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.28790257328788,
       frontendQuestionId: "2305",
       paidOnly: false,
       title: "Fair Distribution of Cookies",
@@ -16179,6 +18484,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.446507495501194,
       frontendQuestionId: "2306",
       paidOnly: false,
       title: "Naming a Company",
@@ -16186,6 +18492,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.48741954359274,
       frontendQuestionId: "2307",
       paidOnly: true,
       title: "Check for Contradictions in Equations",
@@ -16193,6 +18500,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.42703178268998,
       frontendQuestionId: "2308",
       paidOnly: true,
       title: "Arrange Table by Gender",
@@ -16200,6 +18508,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.39847501741266,
       frontendQuestionId: "2309",
       paidOnly: false,
       title: "Greatest English Letter in Upper and Lower Case",
@@ -16207,6 +18516,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 27.011314254394552,
       frontendQuestionId: "2310",
       paidOnly: false,
       title: "Sum of Numbers With Units Digit K",
@@ -16214,6 +18524,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.12312337220683,
       frontendQuestionId: "2311",
       paidOnly: false,
       title: "Longest Binary Subsequence Less Than or Equal to K",
@@ -16221,6 +18532,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.649797745072725,
       frontendQuestionId: "2312",
       paidOnly: false,
       title: "Selling Pieces of Wood",
@@ -16228,6 +18540,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.56822549647662,
       frontendQuestionId: "2313",
       paidOnly: true,
       title: "Minimum Flips in Binary Tree to Get Result",
@@ -16235,6 +18548,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.19454329774615,
       frontendQuestionId: "2314",
       paidOnly: true,
       title: "The First Day of the Maximum Recorded Degree in Each City",
@@ -16242,6 +18556,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.4251965130973,
       frontendQuestionId: "2315",
       paidOnly: false,
       title: "Count Asterisks",
@@ -16249,6 +18564,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.23265965049382,
       frontendQuestionId: "2316",
       paidOnly: false,
       title: "Count Unreachable Pairs of Nodes in an Undirected Graph",
@@ -16256,6 +18572,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.45234239097834,
       frontendQuestionId: "2317",
       paidOnly: false,
       title: "Maximum XOR After Operations ",
@@ -16263,6 +18580,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.26431607901975,
       frontendQuestionId: "2318",
       paidOnly: false,
       title: "Number of Distinct Roll Sequences",
@@ -16270,6 +18588,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.37166324435319,
       frontendQuestionId: "2319",
       paidOnly: false,
       title: "Check if Matrix Is X-Matrix",
@@ -16277,6 +18596,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 42.18078745737189,
       frontendQuestionId: "2320",
       paidOnly: false,
       title: "Count Number of Ways to Place Houses",
@@ -16284,6 +18604,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.965643400217225,
       frontendQuestionId: "2321",
       paidOnly: false,
       title: "Maximum Score Of Spliced Array",
@@ -16291,6 +18612,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.1865889212828,
       frontendQuestionId: "2322",
       paidOnly: false,
       title: "Minimum Score After Removals on a Tree",
@@ -16298,6 +18620,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.88628762541806,
       frontendQuestionId: "2323",
       paidOnly: true,
       title: "Find Minimum Time to Finish All Jobs II",
@@ -16305,6 +18628,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.75455820476859,
       frontendQuestionId: "2324",
       paidOnly: true,
       title: "Product Sales Analysis IV",
@@ -16312,6 +18636,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 84.7956261390263,
       frontendQuestionId: "2325",
       paidOnly: false,
       title: "Decode the Message",
@@ -16319,6 +18644,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 82.33724873852263,
       frontendQuestionId: "2326",
       paidOnly: false,
       title: "Spiral Matrix IV",
@@ -16326,6 +18652,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.030766998040775,
       frontendQuestionId: "2327",
       paidOnly: false,
       title: "Number of People Aware of a Secret",
@@ -16333,6 +18660,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.076165192226824,
       frontendQuestionId: "2328",
       paidOnly: false,
       title: "Number of Increasing Paths in a Grid",
@@ -16340,6 +18668,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.88814317673379,
       frontendQuestionId: "2329",
       paidOnly: true,
       title: "Product Sales Analysis V",
@@ -16347,6 +18676,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 76.24415727247732,
       frontendQuestionId: "2330",
       paidOnly: true,
       title: "Valid Palindrome IV",
@@ -16354,6 +18684,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.74311530018053,
       frontendQuestionId: "2331",
       paidOnly: false,
       title: "Evaluate Boolean Binary Tree",
@@ -16361,6 +18692,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 27.63858223203524,
       frontendQuestionId: "2332",
       paidOnly: false,
       title: "The Latest Time to Catch a Bus",
@@ -16368,6 +18700,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.55271238485159,
       frontendQuestionId: "2333",
       paidOnly: false,
       title: "Minimum Sum of Squared Difference",
@@ -16375,6 +18708,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.82283549009795,
       frontendQuestionId: "2334",
       paidOnly: false,
       title: "Subarray With Elements Greater Than Varying Threshold",
@@ -16382,6 +18716,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.16124502152543,
       frontendQuestionId: "2335",
       paidOnly: false,
       title: "Minimum Amount of Time to Fill Cups",
@@ -16389,6 +18724,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.54539993446681,
       frontendQuestionId: "2336",
       paidOnly: false,
       title: "Smallest Number in Infinite Set",
@@ -16396,6 +18732,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.704551551462046,
       frontendQuestionId: "2337",
       paidOnly: false,
       title: "Move Pieces to Obtain a String",
@@ -16403,6 +18740,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.93696310744076,
       frontendQuestionId: "2338",
       paidOnly: false,
       title: "Count the Number of Ideal Arrays",
@@ -16410,6 +18748,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 87.86186931348222,
       frontendQuestionId: "2339",
       paidOnly: true,
       title: "All the Matches of the League",
@@ -16417,6 +18756,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.67108544148675,
       frontendQuestionId: "2340",
       paidOnly: true,
       title: "Minimum Adjacent Swaps to Make a Valid Array",
@@ -16424,6 +18764,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.43939222134028,
       frontendQuestionId: "2341",
       paidOnly: false,
       title: "Maximum Number of Pairs in Array",
@@ -16431,6 +18772,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.388050157691104,
       frontendQuestionId: "2342",
       paidOnly: false,
       title: "Max Sum of a Pair With Equal Sum of Digits",
@@ -16438,6 +18780,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.509058695776424,
       frontendQuestionId: "2343",
       paidOnly: false,
       title: "Query Kth Smallest Trimmed Number",
@@ -16445,6 +18788,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.392808815000976,
       frontendQuestionId: "2344",
       paidOnly: false,
       title: "Minimum Deletions to Make Array Divisible",
@@ -16452,6 +18796,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 37.70651512076314,
       frontendQuestionId: "2345",
       paidOnly: true,
       title: "Finding the Number of Visible Mountains",
@@ -16459,6 +18804,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.729953440248316,
       frontendQuestionId: "2346",
       paidOnly: true,
       title: "Compute the Rank as a Percentage",
@@ -16466,6 +18812,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.87964263639939,
       frontendQuestionId: "2347",
       paidOnly: false,
       title: "Best Poker Hand",
@@ -16473,6 +18820,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.74036103384628,
       frontendQuestionId: "2348",
       paidOnly: false,
       title: "Number of Zero-Filled Subarrays",
@@ -16480,6 +18828,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.80173089118514,
       frontendQuestionId: "2349",
       paidOnly: false,
       title: "Design a Number Container System",
@@ -16487,6 +18836,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.62753598057915,
       frontendQuestionId: "2350",
       paidOnly: false,
       title: "Shortest Impossible Sequence of Rolls",
@@ -16494,6 +18844,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.8148297657032,
       frontendQuestionId: "2351",
       paidOnly: false,
       title: "First Letter to Appear Twice",
@@ -16501,6 +18852,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 70.39509536784742,
       frontendQuestionId: "2352",
       paidOnly: false,
       title: "Equal Row and Column Pairs",
@@ -16508,6 +18860,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.20521915378769,
       frontendQuestionId: "2353",
       paidOnly: false,
       title: "Design a Food Rating System",
@@ -16515,6 +18868,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.66272549975621,
       frontendQuestionId: "2354",
       paidOnly: false,
       title: "Number of Excellent Pairs",
@@ -16522,6 +18876,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 39.919200362205274,
       frontendQuestionId: "2355",
       paidOnly: true,
       title: "Maximum Number of Books You Can Take",
@@ -16529,6 +18884,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 88.82834515781676,
       frontendQuestionId: "2356",
       paidOnly: false,
       title: "Number of Unique Subjects Taught by Each Teacher",
@@ -16536,6 +18892,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.5361406767441,
       frontendQuestionId: "2357",
       paidOnly: false,
       title: "Make Array Zero by Subtracting Equal Amounts",
@@ -16543,6 +18900,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.0297268670452,
       frontendQuestionId: "2358",
       paidOnly: false,
       title: "Maximum Number of Groups Entering a Competition",
@@ -16550,6 +18908,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.5657684044972,
       frontendQuestionId: "2359",
       paidOnly: false,
       title: "Find Closest Node to Given Two Nodes",
@@ -16557,6 +18916,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.742352881596275,
       frontendQuestionId: "2360",
       paidOnly: false,
       title: "Longest Cycle in a Graph",
@@ -16564,6 +18924,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.17483564407993,
       frontendQuestionId: "2361",
       paidOnly: true,
       title: "Minimum Costs Using the Train Line",
@@ -16571,6 +18932,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.34965570007651,
       frontendQuestionId: "2362",
       paidOnly: true,
       title: "Generate the Invoice",
@@ -16578,6 +18940,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.87989659972162,
       frontendQuestionId: "2363",
       paidOnly: false,
       title: "Merge Similar Items",
@@ -16585,6 +18948,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.922791388270234,
       frontendQuestionId: "2364",
       paidOnly: false,
       title: "Count Number of Bad Pairs",
@@ -16592,6 +18956,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.880927011188064,
       frontendQuestionId: "2365",
       paidOnly: false,
       title: "Task Scheduler II",
@@ -16599,6 +18964,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.46038114343029,
       frontendQuestionId: "2366",
       paidOnly: false,
       title: "Minimum Replacements to Sort the Array",
@@ -16606,6 +18972,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 84.52184229481801,
       frontendQuestionId: "2367",
       paidOnly: false,
       title: "Number of Arithmetic Triplets",
@@ -16613,6 +18980,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.994979820848506,
       frontendQuestionId: "2368",
       paidOnly: false,
       title: "Reachable Nodes With Restrictions",
@@ -16620,6 +18988,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.91513860502606,
       frontendQuestionId: "2369",
       paidOnly: false,
       title: "Check if There is a Valid Partition For The Array",
@@ -16627,6 +18996,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.212996272626135,
       frontendQuestionId: "2370",
       paidOnly: false,
       title: "Longest Ideal Subsequence",
@@ -16634,6 +19004,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.52719665271967,
       frontendQuestionId: "2371",
       paidOnly: true,
       title: "Minimize Maximum Value in a Grid",
@@ -16641,6 +19012,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.15895083846925,
       frontendQuestionId: "2372",
       paidOnly: true,
       title: "Calculate the Influence of Each Salesperson",
@@ -16648,6 +19020,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 87.92397950407364,
       frontendQuestionId: "2373",
       paidOnly: false,
       title: "Largest Local Values in a Matrix",
@@ -16655,6 +19028,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.97842946193788,
       frontendQuestionId: "2374",
       paidOnly: false,
       title: "Node With Highest Edge Score",
@@ -16662,6 +19036,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.35153926791178,
       frontendQuestionId: "2375",
       paidOnly: false,
       title: "Construct Smallest Number From DI String",
@@ -16669,6 +19044,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.19801342775683,
       frontendQuestionId: "2376",
       paidOnly: false,
       title: "Count Special Integers",
@@ -16676,6 +19052,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 79.06976744186046,
       frontendQuestionId: "2377",
       paidOnly: true,
       title: "Sort the Olympic Table",
@@ -16683,6 +19060,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.34586466165413,
       frontendQuestionId: "2378",
       paidOnly: true,
       title: "Choose Edges to Maximize Score in a Tree",
@@ -16690,6 +19068,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.38474034214934,
       frontendQuestionId: "2379",
       paidOnly: false,
       title: "Minimum Recolors to Get K Consecutive Black Blocks",
@@ -16697,6 +19076,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.95389388583106,
       frontendQuestionId: "2380",
       paidOnly: false,
       title: "Time Needed to Rearrange a Binary String",
@@ -16704,6 +19084,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.951963227915705,
       frontendQuestionId: "2381",
       paidOnly: false,
       title: "Shifting Letters II",
@@ -16711,6 +19092,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.706566661564366,
       frontendQuestionId: "2382",
       paidOnly: false,
       title: "Maximum Segment Sum After Removals",
@@ -16718,6 +19100,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 41.44037635004495,
       frontendQuestionId: "2383",
       paidOnly: false,
       title: "Minimum Hours of Training to Win a Competition",
@@ -16725,6 +19108,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 35.574150843611925,
       frontendQuestionId: "2384",
       paidOnly: false,
       title: "Largest Palindromic Number",
@@ -16732,6 +19116,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.74751778577398,
       frontendQuestionId: "2385",
       paidOnly: false,
       title: "Amount of Time for Binary Tree to Be Infected",
@@ -16739,6 +19124,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.11439114391143,
       frontendQuestionId: "2386",
       paidOnly: false,
       title: "Find the K-Sum of an Array",
@@ -16746,6 +19132,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.95169082125604,
       frontendQuestionId: "2387",
       paidOnly: true,
       title: "Median of a Row Wise Sorted Matrix",
@@ -16753,6 +19140,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.68906115417743,
       frontendQuestionId: "2388",
       paidOnly: true,
       title: "Change Null Values in a Table to the Previous Value",
@@ -16760,6 +19148,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.0692685510666,
       frontendQuestionId: "2389",
       paidOnly: false,
       title: "Longest Subsequence With Limited Sum",
@@ -16767,6 +19156,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 76.30361075544174,
       frontendQuestionId: "2390",
       paidOnly: false,
       title: "Removing Stars From a String",
@@ -16774,6 +19164,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 85.23395543054147,
       frontendQuestionId: "2391",
       paidOnly: false,
       title: "Minimum Amount of Time to Collect Garbage",
@@ -16781,6 +19172,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.52633433302684,
       frontendQuestionId: "2392",
       paidOnly: false,
       title: "Build a Matrix With Conditions",
@@ -16788,6 +19180,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.74339375409478,
       frontendQuestionId: "2393",
       paidOnly: true,
       title: "Count Strictly Increasing Subarrays",
@@ -16795,6 +19188,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.05030215337476,
       frontendQuestionId: "2394",
       paidOnly: true,
       title: "Employees With Deductions",
@@ -16802,6 +19196,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.45450149304254,
       frontendQuestionId: "2395",
       paidOnly: false,
       title: "Find Subarrays With Equal Sum",
@@ -16809,6 +19204,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 87.91259425978927,
       frontendQuestionId: "2396",
       paidOnly: false,
       title: "Strictly Palindromic Number",
@@ -16816,6 +19212,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.08939716188417,
       frontendQuestionId: "2397",
       paidOnly: false,
       title: "Maximum Rows Covered by Columns",
@@ -16823,6 +19220,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.11819068406632,
       frontendQuestionId: "2398",
       paidOnly: false,
       title: "Maximum Number of Robots Within Budget",
@@ -16830,6 +19228,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.9142034154036,
       frontendQuestionId: "2399",
       paidOnly: false,
       title: "Check Distances Between Same Letters",
@@ -16837,6 +19236,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 35.40339295309741,
       frontendQuestionId: "2400",
       paidOnly: false,
       title: "Number of Ways to Reach a Position After Exactly k Steps",
@@ -16844,6 +19244,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.73483489664501,
       frontendQuestionId: "2401",
       paidOnly: false,
       title: "Longest Nice Subarray",
@@ -16851,6 +19252,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.16013650604742,
       frontendQuestionId: "2402",
       paidOnly: false,
       title: "Meeting Rooms III",
@@ -16858,6 +19260,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.511717249327695,
       frontendQuestionId: "2403",
       paidOnly: true,
       title: "Minimum Time to Kill All Monsters",
@@ -16865,6 +19268,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.911442752049965,
       frontendQuestionId: "2404",
       paidOnly: false,
       title: "Most Frequent Even Element",
@@ -16872,6 +19276,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 77.99773919596534,
       frontendQuestionId: "2405",
       paidOnly: false,
       title: "Optimal Partition of String",
@@ -16879,6 +19284,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.72053681441273,
       frontendQuestionId: "2406",
       paidOnly: false,
       title: "Divide Intervals Into Minimum Number of Groups",
@@ -16886,6 +19292,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 24.460452721895223,
       frontendQuestionId: "2407",
       paidOnly: false,
       title: "Longest Increasing Subsequence II",
@@ -16893,6 +19300,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.32751261156383,
       frontendQuestionId: "2408",
       paidOnly: true,
       title: "Design SQL",
@@ -16900,6 +19308,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.54280670785525,
       frontendQuestionId: "2409",
       paidOnly: false,
       title: "Count Days Spent Together",
@@ -16907,6 +19316,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.00844357788557,
       frontendQuestionId: "2410",
       paidOnly: false,
       title: "Maximum Matching of Players With Trainers",
@@ -16914,6 +19324,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.57877813504823,
       frontendQuestionId: "2411",
       paidOnly: false,
       title: "Smallest Subarrays With Maximum Bitwise OR",
@@ -16921,6 +19332,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.62089595797461,
       frontendQuestionId: "2412",
       paidOnly: false,
       title: "Minimum Money Required Before Transactions",
@@ -16928,6 +19340,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 87.90046998250163,
       frontendQuestionId: "2413",
       paidOnly: false,
       title: "Smallest Even Multiple",
@@ -16935,6 +19348,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.97537442396313,
       frontendQuestionId: "2414",
       paidOnly: false,
       title: "Length of the Longest Alphabetical Continuous Substring",
@@ -16942,6 +19356,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 78.4084372003835,
       frontendQuestionId: "2415",
       paidOnly: false,
       title: "Reverse Odd Levels of Binary Tree",
@@ -16949,6 +19364,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.5697645669075,
       frontendQuestionId: "2416",
       paidOnly: false,
       title: "Sum of Prefix Scores of Strings",
@@ -16956,6 +19372,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 45.31496062992126,
       frontendQuestionId: "2417",
       paidOnly: true,
       title: "Closest Fair Integer",
@@ -16963,6 +19380,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 84.94235660332417,
       frontendQuestionId: "2418",
       paidOnly: false,
       title: "Sort the People",
@@ -16970,6 +19388,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.83131492188665,
       frontendQuestionId: "2419",
       paidOnly: false,
       title: "Longest Subarray With Maximum Bitwise AND",
@@ -16977,6 +19396,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.108184853496425,
       frontendQuestionId: "2420",
       paidOnly: false,
       title: "Find All Good Indices",
@@ -16984,6 +19404,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.27403587400065,
       frontendQuestionId: "2421",
       paidOnly: false,
       title: "Number of Good Paths",
@@ -16991,6 +19412,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.05488593450933,
       frontendQuestionId: "2422",
       paidOnly: true,
       title: "Merge Operations to Turn Array Into a Palindrome",
@@ -16998,6 +19420,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 17.45385561936013,
       frontendQuestionId: "2423",
       paidOnly: false,
       title: "Remove Letter To Equalize Frequency",
@@ -17005,6 +19428,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.771634254861766,
       frontendQuestionId: "2424",
       paidOnly: false,
       title: "Longest Uploaded Prefix",
@@ -17012,6 +19436,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.29756990952082,
       frontendQuestionId: "2425",
       paidOnly: false,
       title: "Bitwise XOR of All Pairings",
@@ -17019,6 +19444,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.24529792950845,
       frontendQuestionId: "2426",
       paidOnly: false,
       title: "Number of Pairs Satisfying Inequality",
@@ -17026,6 +19452,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 79.20977354975392,
       frontendQuestionId: "2427",
       paidOnly: false,
       title: "Number of Common Factors",
@@ -17033,6 +19460,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 75.18174072261199,
       frontendQuestionId: "2428",
       paidOnly: false,
       title: "Maximum Sum of an Hourglass",
@@ -17040,6 +19468,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.57176150708875,
       frontendQuestionId: "2429",
       paidOnly: false,
       title: "Minimize XOR",
@@ -17047,6 +19476,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.875807109766924,
       frontendQuestionId: "2430",
       paidOnly: false,
       title: "Maximum Deletions on a String",
@@ -17054,6 +19484,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.698113207547166,
       frontendQuestionId: "2431",
       paidOnly: true,
       title: "Maximize Total Tastiness of Purchased Fruits",
@@ -17061,6 +19492,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.573662722302956,
       frontendQuestionId: "2432",
       paidOnly: false,
       title: "The Employee That Worked on the Longest Task",
@@ -17068,6 +19500,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 88.03966076046572,
       frontendQuestionId: "2433",
       paidOnly: false,
       title: "Find The Original Array of Prefix Xor",
@@ -17075,6 +19508,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.48044148677163,
       frontendQuestionId: "2434",
       paidOnly: false,
       title: "Using a Robot to Print the Lexicographically Smallest String",
@@ -17082,6 +19516,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.25519445924348,
       frontendQuestionId: "2435",
       paidOnly: false,
       title: "Paths in Matrix Whose Sum Is Divisible by K",
@@ -17089,6 +19524,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.42023913677457,
       frontendQuestionId: "2436",
       paidOnly: true,
       title: "Minimum Split Into Subarrays With GCD Greater Than One",
@@ -17096,6 +19532,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.06496403597832,
       frontendQuestionId: "2437",
       paidOnly: false,
       title: "Number of Valid Clock Times",
@@ -17103,6 +19540,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.95542769833123,
       frontendQuestionId: "2438",
       paidOnly: false,
       title: "Range Product Queries of Powers",
@@ -17110,6 +19548,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.442609847696836,
       frontendQuestionId: "2439",
       paidOnly: false,
       title: "Minimize Maximum of Array",
@@ -17117,6 +19556,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.91731208969536,
       frontendQuestionId: "2440",
       paidOnly: false,
       title: "Create Components With Same Value",
@@ -17124,6 +19564,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.05828034874182,
       frontendQuestionId: "2441",
       paidOnly: false,
       title: "Largest Positive Integer That Exists With Its Negative",
@@ -17131,6 +19572,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 79.88300292492687,
       frontendQuestionId: "2442",
       paidOnly: false,
       title: "Count Number of Distinct Integers After Reverse Operations",
@@ -17138,6 +19580,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.8152057132023,
       frontendQuestionId: "2443",
       paidOnly: false,
       title: "Sum of Number and Its Reverse",
@@ -17145,6 +19588,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.85917797139811,
       frontendQuestionId: "2444",
       paidOnly: false,
       title: "Count Subarrays With Fixed Bounds",
@@ -17152,6 +19596,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.68236791852324,
       frontendQuestionId: "2445",
       paidOnly: true,
       title: "Number of Nodes With Value One",
@@ -17159,6 +19604,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.57161698760222,
       frontendQuestionId: "2446",
       paidOnly: false,
       title: "Determine if Two Events Have Conflict",
@@ -17166,6 +19612,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.47723186982227,
       frontendQuestionId: "2447",
       paidOnly: false,
       title: "Number of Subarrays With GCD Equal to K",
@@ -17173,6 +19620,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.06177606177606,
       frontendQuestionId: "2448",
       paidOnly: false,
       title: "Minimum Cost to Make Array Equal",
@@ -17180,6 +19628,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.87905955539292,
       frontendQuestionId: "2449",
       paidOnly: false,
       title: "Minimum Number of Operations to Make Arrays Similar",
@@ -17187,6 +19636,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.14435389988358,
       frontendQuestionId: "2450",
       paidOnly: true,
       title: "Number of Distinct Binary Strings After Applying Operations",
@@ -17194,6 +19644,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.733927964019806,
       frontendQuestionId: "2451",
       paidOnly: false,
       title: "Odd String Difference",
@@ -17201,6 +19652,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.028932195872784,
       frontendQuestionId: "2452",
       paidOnly: false,
       title: "Words Within Two Edits of Dictionary",
@@ -17208,6 +19660,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.766568514488114,
       frontendQuestionId: "2453",
       paidOnly: false,
       title: "Destroy Sequential Targets",
@@ -17215,6 +19668,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.93949364458144,
       frontendQuestionId: "2454",
       paidOnly: false,
       title: "Next Greater Element IV",
@@ -17222,6 +19676,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.75815767099593,
       frontendQuestionId: "2455",
       paidOnly: false,
       title: "Average Value of Even Numbers That Are Divisible by Three",
@@ -17229,6 +19684,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.13661110801419,
       frontendQuestionId: "2456",
       paidOnly: false,
       title: "Most Popular Video Creator",
@@ -17236,6 +19692,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.800138036252676,
       frontendQuestionId: "2457",
       paidOnly: false,
       title: "Minimum Addition to Make Integer Beautiful",
@@ -17243,6 +19700,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.23746820290289,
       frontendQuestionId: "2458",
       paidOnly: false,
       title: "Height of Binary Tree After Subtree Removal Queries",
@@ -17250,6 +19708,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 45.653693777674206,
       frontendQuestionId: "2459",
       paidOnly: true,
       title: "Sort Array by Moving Items to Empty Space",
@@ -17257,6 +19716,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.11121951219512,
       frontendQuestionId: "2460",
       paidOnly: false,
       title: "Apply Operations to an Array",
@@ -17264,6 +19724,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 34.24633371969964,
       frontendQuestionId: "2461",
       paidOnly: false,
       title: "Maximum Sum of Distinct Subarrays With Length K",
@@ -17271,6 +19732,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.849650075934306,
       frontendQuestionId: "2462",
       paidOnly: false,
       title: "Total Cost to Hire K Workers",
@@ -17278,6 +19740,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.97978951289932,
       frontendQuestionId: "2463",
       paidOnly: false,
       title: "Minimum Total Distance Traveled",
@@ -17285,6 +19748,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.22535211267606,
       frontendQuestionId: "2464",
       paidOnly: true,
       title: "Minimum Subarrays in a Valid Split",
@@ -17292,6 +19756,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.32522148428355,
       frontendQuestionId: "2465",
       paidOnly: false,
       title: "Number of Distinct Averages",
@@ -17299,6 +19764,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.37235109846236,
       frontendQuestionId: "2466",
       paidOnly: false,
       title: "Count Ways To Build Good Strings",
@@ -17306,6 +19772,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.37789092473735,
       frontendQuestionId: "2467",
       paidOnly: false,
       title: "Most Profitable Path in a Tree",
@@ -17313,6 +19780,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.93204684149761,
       frontendQuestionId: "2468",
       paidOnly: false,
       title: "Split Message Based on Limit",
@@ -17320,6 +19788,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 89.82073170197576,
       frontendQuestionId: "2469",
       paidOnly: false,
       title: "Convert the Temperature",
@@ -17327,6 +19796,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.248145650708025,
       frontendQuestionId: "2470",
       paidOnly: false,
       title: "Number of Subarrays With LCM Equal to K",
@@ -17334,6 +19804,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.134895451956716,
       frontendQuestionId: "2471",
       paidOnly: false,
       title: "Minimum Number of Operations to Sort a Binary Tree by Level",
@@ -17341,6 +19812,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.656664068589244,
       frontendQuestionId: "2472",
       paidOnly: false,
       title: "Maximum Number of Non-overlapping Palindrome Substrings",
@@ -17348,6 +19820,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 67.59308369576748,
       frontendQuestionId: "2473",
       paidOnly: true,
       title: "Minimum Cost to Buy Apples",
@@ -17355,6 +19828,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.21761458467069,
       frontendQuestionId: "2474",
       paidOnly: true,
       title: "Customers With Strictly Increasing Purchases",
@@ -17362,6 +19836,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.81927037598787,
       frontendQuestionId: "2475",
       paidOnly: false,
       title: "Number of Unequal Triplets in Array",
@@ -17369,6 +19844,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.46127198289437,
       frontendQuestionId: "2476",
       paidOnly: false,
       title: "Closest Nodes Queries in a Binary Search Tree",
@@ -17376,6 +19852,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.31296693936221,
       frontendQuestionId: "2477",
       paidOnly: false,
       title: "Minimum Fuel Cost to Report to the Capital",
@@ -17383,6 +19860,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.165406925645982,
       frontendQuestionId: "2478",
       paidOnly: false,
       title: "Number of Beautiful Partitions",
@@ -17390,6 +19868,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.74729241877257,
       frontendQuestionId: "2479",
       paidOnly: true,
       title: "Maximum XOR of Two Non-Overlapping Subtrees",
@@ -17397,6 +19876,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.46419139350628,
       frontendQuestionId: "2480",
       paidOnly: true,
       title: "Form a Chemical Bond",
@@ -17404,6 +19884,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.7216404886562,
       frontendQuestionId: "2481",
       paidOnly: false,
       title: "Minimum Cuts to Divide a Circle",
@@ -17411,6 +19892,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 84.42871521378247,
       frontendQuestionId: "2482",
       paidOnly: false,
       title: "Difference Between Ones and Zeros in Row and Column",
@@ -17418,6 +19900,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.35845059766984,
       frontendQuestionId: "2483",
       paidOnly: false,
       title: "Minimum Penalty for a Shop",
@@ -17425,6 +19908,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.17744539254769,
       frontendQuestionId: "2484",
       paidOnly: false,
       title: "Count Palindromic Subsequences",
@@ -17432,6 +19916,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.93595426930064,
       frontendQuestionId: "2485",
       paidOnly: false,
       title: "Find the Pivot Integer",
@@ -17439,6 +19924,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.00353653785928,
       frontendQuestionId: "2486",
       paidOnly: false,
       title: "Append Characters to String to Make Subsequence",
@@ -17446,6 +19932,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.35495124985694,
       frontendQuestionId: "2487",
       paidOnly: false,
       title: "Remove Nodes From Linked List",
@@ -17453,6 +19940,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.41478439425051,
       frontendQuestionId: "2488",
       paidOnly: false,
       title: "Count Subarrays With Median K",
@@ -17460,6 +19948,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.98657384385878,
       frontendQuestionId: "2489",
       paidOnly: true,
       title: "Number of Substrings With Fixed Ratio",
@@ -17467,6 +19956,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.010897148828185,
       frontendQuestionId: "2490",
       paidOnly: false,
       title: "Circular Sentence",
@@ -17474,6 +19964,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.34036717264595,
       frontendQuestionId: "2491",
       paidOnly: false,
       title: "Divide Players Into Teams of Equal Skill",
@@ -17481,6 +19972,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.452746498481545,
       frontendQuestionId: "2492",
       paidOnly: false,
       title: "Minimum Score of a Path Between Two Cities",
@@ -17488,6 +19980,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.803946316630906,
       frontendQuestionId: "2493",
       paidOnly: false,
       title: "Divide Nodes Into the Maximum Number of Groups",
@@ -17495,6 +19988,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 32.039947609692206,
       frontendQuestionId: "2494",
       paidOnly: true,
       title: "Merge Overlapping Events in the Same Hall",
@@ -17502,6 +19996,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.19547872340425,
       frontendQuestionId: "2495",
       paidOnly: true,
       title: "Number of Subarrays Having Even Product",
@@ -17509,6 +20004,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 72.69892212668039,
       frontendQuestionId: "2496",
       paidOnly: false,
       title: "Maximum Value of a String in an Array",
@@ -17516,6 +20012,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.87645348837209,
       frontendQuestionId: "2497",
       paidOnly: false,
       title: "Maximum Star Sum of a Graph",
@@ -17523,6 +20020,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.882761383362265,
       frontendQuestionId: "2498",
       paidOnly: false,
       title: "Frog Jump II",
@@ -17530,6 +20028,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.987777274784975,
       frontendQuestionId: "2499",
       paidOnly: false,
       title: "Minimum Total Cost to Make Arrays Unequal",
@@ -17537,6 +20036,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.51872194096858,
       frontendQuestionId: "2500",
       paidOnly: false,
       title: "Delete Greatest Value in Each Row",
@@ -17544,6 +20044,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.1872312952121,
       frontendQuestionId: "2501",
       paidOnly: false,
       title: "Longest Square Streak in an Array",
@@ -17551,6 +20052,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.576028161758394,
       frontendQuestionId: "2502",
       paidOnly: false,
       title: "Design Memory Allocator",
@@ -17558,6 +20060,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.033527971369374,
       frontendQuestionId: "2503",
       paidOnly: false,
       title: "Maximum Number of Points From Grid Queries",
@@ -17565,6 +20068,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.58743080429828,
       frontendQuestionId: "2504",
       paidOnly: true,
       title: "Concatenate the Name and the Profession",
@@ -17572,6 +20076,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.76330150068213,
       frontendQuestionId: "2505",
       paidOnly: true,
       title: "Bitwise OR of All Subsequence Sums",
@@ -17579,6 +20084,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 71.33203415256494,
       frontendQuestionId: "2506",
       paidOnly: false,
       title: "Count Pairs Of Similar Strings",
@@ -17586,6 +20092,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.18458417849899,
       frontendQuestionId: "2507",
       paidOnly: false,
       title: "Smallest Value After Replacing With Sum of Prime Factors",
@@ -17593,6 +20100,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.76410932739097,
       frontendQuestionId: "2508",
       paidOnly: false,
       title: "Add Edges to Make Degrees of All Nodes Even",
@@ -17600,6 +20108,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.781524926686224,
       frontendQuestionId: "2509",
       paidOnly: false,
       title: "Cycle Length Queries in a Tree",
@@ -17607,6 +20116,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.400332744098996,
       frontendQuestionId: "2510",
       paidOnly: true,
       title: "Check if There is a Path With Equal Number of 0's And 1's",
@@ -17614,6 +20124,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.82405606495632,
       frontendQuestionId: "2511",
       paidOnly: false,
       title: "Maximum Enemy Forts That Can Be Captured",
@@ -17621,6 +20132,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.292880494762926,
       frontendQuestionId: "2512",
       paidOnly: false,
       title: "Reward Top K Students",
@@ -17628,6 +20140,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.698533552587122,
       frontendQuestionId: "2513",
       paidOnly: false,
       title: "Minimize the Maximum of Two Arrays",
@@ -17635,6 +20148,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.002496083273584,
       frontendQuestionId: "2514",
       paidOnly: false,
       title: "Count Anagrams",
@@ -17642,6 +20156,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.76576519350177,
       frontendQuestionId: "2515",
       paidOnly: false,
       title: "Shortest Distance to Target String in a Circular Array",
@@ -17649,6 +20164,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 34.62918660287082,
       frontendQuestionId: "2516",
       paidOnly: false,
       title: "Take K of Each Character From Left and Right",
@@ -17656,6 +20172,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.23119165293795,
       frontendQuestionId: "2517",
       paidOnly: false,
       title: "Maximum Tastiness of Candy Basket",
@@ -17663,6 +20180,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.67348568007185,
       frontendQuestionId: "2518",
       paidOnly: false,
       title: "Number of Great Partitions",
@@ -17670,6 +20188,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 53.35987370444094,
       frontendQuestionId: "2519",
       paidOnly: true,
       title: "Count the Number of K-Big Indices",
@@ -17677,6 +20196,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 85.00544109443729,
       frontendQuestionId: "2520",
       paidOnly: false,
       title: "Count the Digits That Divide a Number",
@@ -17684,6 +20204,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.92379239784213,
       frontendQuestionId: "2521",
       paidOnly: false,
       title: "Distinct Prime Factors of Product of Array",
@@ -17691,6 +20212,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.494888378885875,
       frontendQuestionId: "2522",
       paidOnly: false,
       title: "Partition String Into Substrings With Values at Most K",
@@ -17698,6 +20220,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.290773200462674,
       frontendQuestionId: "2523",
       paidOnly: false,
       title: "Closest Prime Numbers in Range",
@@ -17705,6 +20228,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.845474613686534,
       frontendQuestionId: "2524",
       paidOnly: true,
       title: "Maximum Frequency Score of a Subarray",
@@ -17712,6 +20236,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 36.22118396056887,
       frontendQuestionId: "2525",
       paidOnly: false,
       title: "Categorize Box According to Criteria",
@@ -17719,6 +20244,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.54214774331319,
       frontendQuestionId: "2526",
       paidOnly: false,
       title: "Find Consecutive Integers from a Data Stream",
@@ -17726,6 +20252,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.68211920529801,
       frontendQuestionId: "2527",
       paidOnly: false,
       title: "Find Xor-Beauty of Array",
@@ -17733,6 +20260,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.71730480148554,
       frontendQuestionId: "2528",
       paidOnly: false,
       title: "Maximize the Minimum Powered City",
@@ -17740,6 +20268,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.1055733410943,
       frontendQuestionId: "2529",
       paidOnly: false,
       title: "Maximum Count of Positive Integer and Negative Integer",
@@ -17747,6 +20276,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 46.38730598495104,
       frontendQuestionId: "2530",
       paidOnly: false,
       title: "Maximal Score After Applying K Operations",
@@ -17754,6 +20284,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.56527455844279,
       frontendQuestionId: "2531",
       paidOnly: false,
       title: "Make Number of Distinct Characters Equal",
@@ -17761,6 +20292,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.90096008084891,
       frontendQuestionId: "2532",
       paidOnly: false,
       title: "Time to Cross a Bridge",
@@ -17768,6 +20300,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.04918032786885,
       frontendQuestionId: "2533",
       paidOnly: true,
       title: "Number of Good Binary Strings",
@@ -17775,6 +20308,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.18308505526189,
       frontendQuestionId: "2534",
       paidOnly: true,
       title: "Time Taken to Cross the Door",
@@ -17782,6 +20316,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 84.64628734594989,
       frontendQuestionId: "2535",
       paidOnly: false,
       title: "Difference Between Element Sum and Digit Sum of an Array",
@@ -17789,6 +20324,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.13042775687343,
       frontendQuestionId: "2536",
       paidOnly: false,
       title: "Increment Submatrices by One",
@@ -17796,6 +20332,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.686763622974965,
       frontendQuestionId: "2537",
       paidOnly: false,
       title: "Count the Number of Good Subarrays",
@@ -17803,6 +20340,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.18222766604765,
       frontendQuestionId: "2538",
       paidOnly: false,
       title: "Difference Between Maximum and Minimum Price Sum",
@@ -17810,6 +20348,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.715584127687876,
       frontendQuestionId: "2539",
       paidOnly: true,
       title: "Count the Number of Good Subsequences",
@@ -17817,6 +20356,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.64154327592629,
       frontendQuestionId: "2540",
       paidOnly: false,
       title: "Minimum Common Value",
@@ -17824,6 +20364,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 31.872133616263948,
       frontendQuestionId: "2541",
       paidOnly: false,
       title: "Minimum Operations to Make Array Equal II",
@@ -17831,6 +20372,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.88876400886291,
       frontendQuestionId: "2542",
       paidOnly: false,
       title: "Maximum Subsequence Score",
@@ -17838,6 +20380,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.87189549233232,
       frontendQuestionId: "2543",
       paidOnly: false,
       title: "Check if Point Is Reachable",
@@ -17845,6 +20388,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.371366827624,
       frontendQuestionId: "2544",
       paidOnly: false,
       title: "Alternating Digit Sum",
@@ -17852,6 +20396,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.55424380196428,
       frontendQuestionId: "2545",
       paidOnly: false,
       title: "Sort the Students by Their Kth Score",
@@ -17859,6 +20404,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.4996067093263,
       frontendQuestionId: "2546",
       paidOnly: false,
       title: "Apply Bitwise Operations to Make Strings Equal",
@@ -17866,6 +20412,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.12212708427219,
       frontendQuestionId: "2547",
       paidOnly: false,
       title: "Minimum Cost to Split an Array",
@@ -17873,6 +20420,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.60617059891108,
       frontendQuestionId: "2548",
       paidOnly: true,
       title: "Maximum Price to Fill a Bag",
@@ -17880,6 +20428,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.69071923516689,
       frontendQuestionId: "2549",
       paidOnly: false,
       title: "Count Distinct Numbers on Board",
@@ -17887,6 +20436,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 28.172795956511436,
       frontendQuestionId: "2550",
       paidOnly: false,
       title: "Count Collisions of Monkeys on a Polygon",
@@ -17894,6 +20444,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.45016546076616,
       frontendQuestionId: "2551",
       paidOnly: false,
       title: "Put Marbles in Bags",
@@ -17901,6 +20452,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 33.628411476557034,
       frontendQuestionId: "2552",
       paidOnly: false,
       title: "Count Increasing Quadruplets",
@@ -17908,6 +20460,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 79.74251209211481,
       frontendQuestionId: "2553",
       paidOnly: false,
       title: "Separate the Digits in an Array",
@@ -17915,6 +20468,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.49433515209158,
       frontendQuestionId: "2554",
       paidOnly: false,
       title: "Maximum Number of Integers to Choose From a Range I",
@@ -17922,6 +20476,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.80749024547605,
       frontendQuestionId: "2555",
       paidOnly: false,
       title: "Maximize Win From Two Segments",
@@ -17929,6 +20484,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.339685617856013,
       frontendQuestionId: "2556",
       paidOnly: false,
       title: "Disconnect Path in a Binary Matrix by at Most One Flip",
@@ -17936,6 +20492,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.34858480527772,
       frontendQuestionId: "2557",
       paidOnly: true,
       title: "Maximum Number of Integers to Choose From a Range II",
@@ -17943,6 +20500,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.28660560201779,
       frontendQuestionId: "2558",
       paidOnly: false,
       title: "Take Gifts From the Richest Pile",
@@ -17950,6 +20508,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.86558997440649,
       frontendQuestionId: "2559",
       paidOnly: false,
       title: "Count Vowel Strings in Ranges",
@@ -17957,6 +20516,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.42283590474956,
       frontendQuestionId: "2560",
       paidOnly: false,
       title: "House Robber IV",
@@ -17964,6 +20524,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.250591331578775,
       frontendQuestionId: "2561",
       paidOnly: false,
       title: "Rearranging Fruits",
@@ -17971,6 +20532,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.27005076142132,
       frontendQuestionId: "2562",
       paidOnly: false,
       title: "Find the Array Concatenation Value",
@@ -17978,6 +20540,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.32014539699809,
       frontendQuestionId: "2563",
       paidOnly: false,
       title: "Count the Number of Fair Pairs",
@@ -17985,6 +20548,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.60178159877774,
       frontendQuestionId: "2564",
       paidOnly: false,
       title: "Substring XOR Queries",
@@ -17992,6 +20556,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.99751861042184,
       frontendQuestionId: "2565",
       paidOnly: false,
       title: "Subsequence With the Minimum Score",
@@ -17999,6 +20564,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.19303957081939,
       frontendQuestionId: "2566",
       paidOnly: false,
       title: "Maximum Difference by Remapping a Digit",
@@ -18006,6 +20572,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.242716343550306,
       frontendQuestionId: "2567",
       paidOnly: false,
       title: "Minimum Score by Changing Two Elements",
@@ -18013,6 +20580,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.802189963262826,
       frontendQuestionId: "2568",
       paidOnly: false,
       title: "Minimum Impossible OR",
@@ -18020,6 +20588,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.6217546568864,
       frontendQuestionId: "2569",
       paidOnly: false,
       title: "Handling Sum Queries After Update",
@@ -18027,6 +20596,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.98483185637767,
       frontendQuestionId: "2570",
       paidOnly: false,
       title: "Merge Two 2D Arrays by Summing Values",
@@ -18034,6 +20604,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.78734490863045,
       frontendQuestionId: "2571",
       paidOnly: false,
       title: "Minimum Operations to Reduce an Integer to 0",
@@ -18041,6 +20612,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 23.61436195112817,
       frontendQuestionId: "2572",
       paidOnly: false,
       title: "Count the Number of Square-Free Subsets",
@@ -18048,6 +20620,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.51188434207302,
       frontendQuestionId: "2573",
       paidOnly: false,
       title: "Find the String with LCP",
@@ -18055,6 +20628,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 87.04499725626486,
       frontendQuestionId: "2574",
       paidOnly: false,
       title: "Left and Right Sum Differences",
@@ -18062,6 +20636,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.26946485731031,
       frontendQuestionId: "2575",
       paidOnly: false,
       title: "Find the Divisibility Array of a String",
@@ -18069,6 +20644,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.00925925925926,
       frontendQuestionId: "2576",
       paidOnly: false,
       title: "Find the Maximum Number of Marked Indices",
@@ -18076,6 +20652,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.60807146730599,
       frontendQuestionId: "2577",
       paidOnly: false,
       title: "Minimum Time to Visit a Cell In a Grid",
@@ -18083,6 +20660,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 71.19428721370468,
       frontendQuestionId: "2578",
       paidOnly: false,
       title: "Split With Minimum Sum",
@@ -18090,6 +20668,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.03007422847055,
       frontendQuestionId: "2579",
       paidOnly: false,
       title: "Count Total Number of Colored Cells",
@@ -18097,6 +20676,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.64424386920981,
       frontendQuestionId: "2580",
       paidOnly: false,
       title: "Count Ways to Group Overlapping Ranges",
@@ -18104,6 +20684,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.42857142857143,
       frontendQuestionId: "2581",
       paidOnly: false,
       title: "Count Number of Possible Root Nodes",
@@ -18111,6 +20692,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.91565525202456,
       frontendQuestionId: "2582",
       paidOnly: false,
       title: "Pass the Pillow",
@@ -18118,6 +20700,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.88560477293209,
       frontendQuestionId: "2583",
       paidOnly: false,
       title: "Kth Largest Sum in a Binary Tree",
@@ -18125,6 +20708,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 23.257286490012856,
       frontendQuestionId: "2584",
       paidOnly: false,
       title: "Split the Array to Make Coprime Products",
@@ -18132,6 +20716,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.80103333662422,
       frontendQuestionId: "2585",
       paidOnly: false,
       title: "Number of Ways to Earn Points",
@@ -18139,6 +20724,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.38589676210498,
       frontendQuestionId: "2586",
       paidOnly: false,
       title: "Count the Number of Vowel Strings in Range",
@@ -18146,6 +20732,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.39741463214026,
       frontendQuestionId: "2587",
       paidOnly: false,
       title: "Rearrange Array to Maximize Prefix Score",
@@ -18153,6 +20740,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.76794792479221,
       frontendQuestionId: "2588",
       paidOnly: false,
       title: "Count the Number of Beautiful Subarrays",
@@ -18160,6 +20748,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.903770310774576,
       frontendQuestionId: "2589",
       paidOnly: false,
       title: "Minimum Time to Complete All Tasks",
@@ -18167,6 +20756,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.96637309847878,
       frontendQuestionId: "2590",
       paidOnly: true,
       title: "Design a Todo List",
@@ -18174,6 +20764,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 19.269932530148928,
       frontendQuestionId: "2591",
       paidOnly: false,
       title: "Distribute Money to Maximum Children",
@@ -18181,6 +20772,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.494692241104374,
       frontendQuestionId: "2592",
       paidOnly: false,
       title: "Maximize Greatness of an Array",
@@ -18188,6 +20780,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.63795750181789,
       frontendQuestionId: "2593",
       paidOnly: false,
       title: "Find Score of an Array After Marking All Elements",
@@ -18195,6 +20788,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.314933275833155,
       frontendQuestionId: "2594",
       paidOnly: false,
       title: "Minimum Time to Repair Cars",
@@ -18202,6 +20796,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.61568370402371,
       frontendQuestionId: "2595",
       paidOnly: false,
       title: "Number of Even and Odd Bits",
@@ -18209,6 +20804,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.28345355924621,
       frontendQuestionId: "2596",
       paidOnly: false,
       title: "Check Knight Tour Configuration",
@@ -18216,6 +20812,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.131698027499695,
       frontendQuestionId: "2597",
       paidOnly: false,
       title: "The Number of Beautiful Subsets",
@@ -18223,6 +20820,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.66015293118097,
       frontendQuestionId: "2598",
       paidOnly: false,
       title: "Smallest Missing Non-negative Integer After Operations",
@@ -18230,6 +20828,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.83081570996979,
       frontendQuestionId: "2599",
       paidOnly: true,
       title: "Make the Prefix Sum Non-negative",
@@ -18237,6 +20836,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.03803164465089,
       frontendQuestionId: "2600",
       paidOnly: false,
       title: "K Items With the Maximum Sum",
@@ -18244,6 +20844,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 38.05340752261824,
       frontendQuestionId: "2601",
       paidOnly: false,
       title: "Prime Subtraction Operation",
@@ -18251,6 +20852,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.0147640576434,
       frontendQuestionId: "2602",
       paidOnly: false,
       title: "Minimum Operations to Make All Array Elements Equal",
@@ -18258,6 +20860,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.2090836428605,
       frontendQuestionId: "2603",
       paidOnly: false,
       title: "Collect Coins in a Tree",
@@ -18265,6 +20868,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.84694898299433,
       frontendQuestionId: "2604",
       paidOnly: true,
       title: "Minimum Time to Eat All Grains",
@@ -18272,6 +20876,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.453983326892285,
       frontendQuestionId: "2605",
       paidOnly: false,
       title: "Form Smallest Number From Two Digit Arrays",
@@ -18279,6 +20884,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.18619643534319,
       frontendQuestionId: "2606",
       paidOnly: false,
       title: "Find the Substring With Maximum Cost",
@@ -18286,6 +20892,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.229217438396965,
       frontendQuestionId: "2607",
       paidOnly: false,
       title: "Make K-Subarray Sums Equal",
@@ -18293,6 +20900,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.5318232944188,
       frontendQuestionId: "2608",
       paidOnly: false,
       title: "Shortest Cycle in a Graph",
@@ -18300,6 +20908,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.684843763524626,
       frontendQuestionId: "2609",
       paidOnly: false,
       title: "Find the Longest Balanced Substring of a Binary String",
@@ -18307,6 +20916,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 87.19089076639361,
       frontendQuestionId: "2610",
       paidOnly: false,
       title: "Convert an Array Into a 2D Array With Conditions",
@@ -18314,6 +20924,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.35240001985539,
       frontendQuestionId: "2611",
       paidOnly: false,
       title: "Mice and Cheese",
@@ -18321,6 +20932,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 16.577301161751564,
       frontendQuestionId: "2612",
       paidOnly: false,
       title: "Minimum Reverse Operations",
@@ -18328,6 +20940,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 42.857142857142854,
       frontendQuestionId: "2613",
       paidOnly: true,
       title: "Beautiful Pairs",
@@ -18335,6 +20948,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 34.498999090081895,
       frontendQuestionId: "2614",
       paidOnly: false,
       title: "Prime In Diagonal",
@@ -18342,6 +20956,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 31.27327211499948,
       frontendQuestionId: "2615",
       paidOnly: false,
       title: "Sum of Distances",
@@ -18349,6 +20964,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.009014351796935,
       frontendQuestionId: "2616",
       paidOnly: false,
       title: "Minimize the Maximum Difference of Pairs",
@@ -18356,6 +20972,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 24.803117196718162,
       frontendQuestionId: "2617",
       paidOnly: false,
       title: "Minimum Number of Visited Cells in a Grid",
@@ -18363,6 +20980,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 27.640965059748286,
       frontendQuestionId: "2618",
       paidOnly: false,
       title: "Check if Object Instance of Class",
@@ -18370,6 +20988,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.73625766532236,
       frontendQuestionId: "2619",
       paidOnly: false,
       title: "Array Prototype Last",
@@ -18377,6 +20996,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.47003042768429,
       frontendQuestionId: "2620",
       paidOnly: false,
       title: "Counter",
@@ -18384,6 +21004,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 87.1464775041659,
       frontendQuestionId: "2621",
       paidOnly: false,
       title: "Sleep",
@@ -18391,6 +21012,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 74.70383595653706,
       frontendQuestionId: "2622",
       paidOnly: false,
       title: "Cache With Time Limit",
@@ -18398,6 +21020,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.747833582868296,
       frontendQuestionId: "2623",
       paidOnly: false,
       title: "Memoize",
@@ -18405,6 +21028,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.44018718923662,
       frontendQuestionId: "2624",
       paidOnly: false,
       title: "Snail Traversal",
@@ -18412,6 +21036,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.63623942834502,
       frontendQuestionId: "2625",
       paidOnly: false,
       title: "Flatten Deeply Nested Array",
@@ -18419,6 +21044,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 84.92785225995378,
       frontendQuestionId: "2626",
       paidOnly: false,
       title: "Array Reduce Transformation",
@@ -18426,6 +21052,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 91.07754001451931,
       frontendQuestionId: "2627",
       paidOnly: false,
       title: "Debounce",
@@ -18433,6 +21060,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.75580763893079,
       frontendQuestionId: "2628",
       paidOnly: true,
       title: "JSON Deep Equal",
@@ -18440,6 +21068,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.50083209249365,
       frontendQuestionId: "2629",
       paidOnly: false,
       title: "Function Composition",
@@ -18447,6 +21076,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 31.098675826915617,
       frontendQuestionId: "2630",
       paidOnly: false,
       title: "Memoize II",
@@ -18454,6 +21084,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 80.86714057040568,
       frontendQuestionId: "2631",
       paidOnly: false,
       title: "Group By",
@@ -18461,6 +21092,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 89.22749067661161,
       frontendQuestionId: "2632",
       paidOnly: true,
       title: "Curry",
@@ -18468,6 +21100,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 77.27007960649797,
       frontendQuestionId: "2633",
       paidOnly: true,
       title: "Convert Object to JSON String",
@@ -18475,6 +21108,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 84.94351908479332,
       frontendQuestionId: "2634",
       paidOnly: false,
       title: "Filter Elements from Array",
@@ -18482,6 +21116,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.89414733924978,
       frontendQuestionId: "2635",
       paidOnly: false,
       title: "Apply Transform Over Each Element in Array",
@@ -18489,6 +21124,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 79.82555220883533,
       frontendQuestionId: "2636",
       paidOnly: true,
       title: "Promise Pool",
@@ -18496,6 +21132,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 81.72675547963134,
       frontendQuestionId: "2637",
       paidOnly: false,
       title: "Promise Time Limit",
@@ -18503,6 +21140,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.752602875557756,
       frontendQuestionId: "2638",
       paidOnly: true,
       title: "Count the Number of K-Free Subsets",
@@ -18510,6 +21148,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.09039968378711,
       frontendQuestionId: "2639",
       paidOnly: false,
       title: "Find the Width of Columns of a Grid",
@@ -18517,6 +21156,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.10642369416779,
       frontendQuestionId: "2640",
       paidOnly: false,
       title: "Find the Score of All Prefixes of an Array",
@@ -18524,6 +21164,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.39170058934322,
       frontendQuestionId: "2641",
       paidOnly: false,
       title: "Cousins in Binary Tree II",
@@ -18531,6 +21172,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.59929905341377,
       frontendQuestionId: "2642",
       paidOnly: false,
       title: "Design Graph With Shortest Path Calculator",
@@ -18538,6 +21180,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.52173865512228,
       frontendQuestionId: "2643",
       paidOnly: false,
       title: "Row With Maximum Ones",
@@ -18545,6 +21188,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.68418831119888,
       frontendQuestionId: "2644",
       paidOnly: false,
       title: "Find the Maximum Divisibility Score",
@@ -18552,6 +21196,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.77866997468694,
       frontendQuestionId: "2645",
       paidOnly: false,
       title: "Minimum Additions to Make Valid String",
@@ -18559,6 +21204,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.12169475119891,
       frontendQuestionId: "2646",
       paidOnly: false,
       title: "Minimize the Total Price of the Trips",
@@ -18566,6 +21212,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.53306613226452,
       frontendQuestionId: "2647",
       paidOnly: true,
       title: "Color the Triangle Red",
@@ -18573,6 +21220,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.36165314623986,
       frontendQuestionId: "2648",
       paidOnly: false,
       title: "Generate Fibonacci Sequence",
@@ -18580,6 +21228,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 79.00505388784023,
       frontendQuestionId: "2649",
       paidOnly: false,
       title: "Nested Array Generator",
@@ -18587,6 +21236,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.87949260042283,
       frontendQuestionId: "2650",
       paidOnly: false,
       title: "Design Cancellable Function",
@@ -18594,6 +21244,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.5137211273575,
       frontendQuestionId: "2651",
       paidOnly: false,
       title: "Calculate Delayed Arrival Time",
@@ -18601,6 +21252,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.77231325705368,
       frontendQuestionId: "2652",
       paidOnly: false,
       title: "Sum Multiples",
@@ -18608,6 +21260,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.60967821174159,
       frontendQuestionId: "2653",
       paidOnly: false,
       title: "Sliding Subarray Beauty",
@@ -18615,6 +21268,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.4591011962496,
       frontendQuestionId: "2654",
       paidOnly: false,
       title:
@@ -18624,6 +21278,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.14655810510733,
       frontendQuestionId: "2655",
       paidOnly: true,
       title: "Find Maximal Uncovered Ranges",
@@ -18631,6 +21286,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.42823894491855,
       frontendQuestionId: "2656",
       paidOnly: false,
       title: "Maximum Sum With Exactly K Elements ",
@@ -18638,6 +21294,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.61277545729511,
       frontendQuestionId: "2657",
       paidOnly: false,
       title: "Find the Prefix Common Array of Two Arrays",
@@ -18645,6 +21302,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 60.94900463594218,
       frontendQuestionId: "2658",
       paidOnly: false,
       title: "Maximum Number of Fish in a Grid",
@@ -18652,6 +21310,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.723305896944414,
       frontendQuestionId: "2659",
       paidOnly: false,
       title: "Make Array Empty",
@@ -18659,6 +21318,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 34.72104737003999,
       frontendQuestionId: "2660",
       paidOnly: false,
       title: "Determine the Winner of a Bowling Game",
@@ -18666,6 +21326,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 50.93497237126612,
       frontendQuestionId: "2661",
       paidOnly: false,
       title: "First Completely Painted Row or Column",
@@ -18673,6 +21334,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.736745473547444,
       frontendQuestionId: "2662",
       paidOnly: false,
       title: "Minimum Cost of a Path With Special Roads",
@@ -18680,6 +21342,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.03507318420326,
       frontendQuestionId: "2663",
       paidOnly: false,
       title: "Lexicographically Smallest Beautiful String",
@@ -18687,6 +21350,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.59793814432989,
       frontendQuestionId: "2664",
       paidOnly: true,
       title: "The Knight’s Tour",
@@ -18694,6 +21358,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 80.38626549464064,
       frontendQuestionId: "2665",
       paidOnly: false,
       title: "Counter II",
@@ -18701,6 +21366,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 86.43366105109897,
       frontendQuestionId: "2666",
       paidOnly: false,
       title: "Allow One Function Call",
@@ -18708,6 +21374,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.52906462760767,
       frontendQuestionId: "2667",
       paidOnly: false,
       title: "Create Hello World Function",
@@ -18715,6 +21382,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 72.86278735632183,
       frontendQuestionId: "2668",
       paidOnly: true,
       title: "Find Latest Salaries",
@@ -18722,6 +21390,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.08832246591582,
       frontendQuestionId: "2669",
       paidOnly: true,
       title: "Count Artist Occurrences On Spotify Ranking List",
@@ -18729,6 +21398,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 78.07631649805747,
       frontendQuestionId: "2670",
       paidOnly: false,
       title: "Find the Distinct Difference Array",
@@ -18736,6 +21406,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 30.182157501839974,
       frontendQuestionId: "2671",
       paidOnly: false,
       title: "Frequency Tracker",
@@ -18743,6 +21414,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.88334237655995,
       frontendQuestionId: "2672",
       paidOnly: false,
       title: "Number of Adjacent Elements With the Same Color",
@@ -18750,6 +21422,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.29005105560922,
       frontendQuestionId: "2673",
       paidOnly: false,
       title: "Make Costs of Paths Equal in a Binary Tree",
@@ -18757,6 +21430,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.44500228206299,
       frontendQuestionId: "2674",
       paidOnly: true,
       title: "Split a Circular Linked List",
@@ -18764,6 +21438,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.42044669583237,
       frontendQuestionId: "2675",
       paidOnly: true,
       title: "Array of Objects to Matrix",
@@ -18771,6 +21446,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 82.73468679507201,
       frontendQuestionId: "2676",
       paidOnly: true,
       title: "Throttle",
@@ -18778,6 +21454,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.4900642005503,
       frontendQuestionId: "2677",
       paidOnly: false,
       title: "Chunk Array",
@@ -18785,6 +21462,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.70290767990325,
       frontendQuestionId: "2678",
       paidOnly: false,
       title: "Number of Senior Citizens",
@@ -18792,6 +21470,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.371204344514716,
       frontendQuestionId: "2679",
       paidOnly: false,
       title: "Sum in a Matrix",
@@ -18799,6 +21478,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.179475536383244,
       frontendQuestionId: "2680",
       paidOnly: false,
       title: "Maximum OR",
@@ -18806,6 +21486,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.42987368146894,
       frontendQuestionId: "2681",
       paidOnly: false,
       title: "Power of Heroes",
@@ -18813,6 +21494,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.39214463840399,
       frontendQuestionId: "2682",
       paidOnly: false,
       title: "Find the Losers of the Circular Game",
@@ -18820,6 +21502,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.198252321135996,
       frontendQuestionId: "2683",
       paidOnly: false,
       title: "Neighboring Bitwise XOR",
@@ -18827,6 +21510,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.101826088558845,
       frontendQuestionId: "2684",
       paidOnly: false,
       title: "Maximum Number of Moves in a Grid",
@@ -18834,6 +21518,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.33631576694208,
       frontendQuestionId: "2685",
       paidOnly: false,
       title: "Count the Number of Complete Components",
@@ -18841,6 +21526,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.64423998466552,
       frontendQuestionId: "2686",
       paidOnly: true,
       title: "Immediate Food Delivery III",
@@ -18848,6 +21534,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 80.75409156826187,
       frontendQuestionId: "2687",
       paidOnly: true,
       title: "Bikes Last Time Used ",
@@ -18855,6 +21542,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 42.905651224836284,
       frontendQuestionId: "2688",
       paidOnly: true,
       title: "Find Active Users",
@@ -18862,6 +21550,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.09429280397022,
       frontendQuestionId: "2689",
       paidOnly: true,
       title: "Extract Kth Character From The Rope Tree",
@@ -18869,6 +21558,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 92.46861924686193,
       frontendQuestionId: "2690",
       paidOnly: true,
       title: "Infinite Method Object",
@@ -18876,6 +21566,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.32384341637011,
       frontendQuestionId: "2691",
       paidOnly: true,
       title: "Immutability Helper",
@@ -18883,6 +21574,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.622754491017965,
       frontendQuestionId: "2692",
       paidOnly: true,
       title: "Make Object Immutable",
@@ -18890,6 +21582,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.49101796407186,
       frontendQuestionId: "2693",
       paidOnly: false,
       title: "Call Function with Custom Context",
@@ -18897,6 +21590,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.17109112579911,
       frontendQuestionId: "2694",
       paidOnly: false,
       title: "Event Emitter",
@@ -18904,6 +21598,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 88.32761560426468,
       frontendQuestionId: "2695",
       paidOnly: false,
       title: "Array Wrapper",
@@ -18911,6 +21606,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 70.24973399261438,
       frontendQuestionId: "2696",
       paidOnly: false,
       title: "Minimum String Length After Removing Substrings",
@@ -18918,6 +21614,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 82.27443987460093,
       frontendQuestionId: "2697",
       paidOnly: false,
       title: "Lexicographically Smallest Palindrome",
@@ -18925,6 +21622,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.12653880057144,
       frontendQuestionId: "2698",
       paidOnly: false,
       title: "Find the Punishment Number of an Integer",
@@ -18932,6 +21630,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.20260431126356,
       frontendQuestionId: "2699",
       paidOnly: false,
       title: "Modify Graph Edge Weights",
@@ -18939,6 +21638,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.42839657282741,
       frontendQuestionId: "2700",
       paidOnly: true,
       title: "Differences Between Two Objects",
@@ -18946,6 +21646,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.213139570087804,
       frontendQuestionId: "2701",
       paidOnly: true,
       title: "Consecutive Transactions with Increasing Amounts",
@@ -18953,6 +21654,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.09982174688057,
       frontendQuestionId: "2702",
       paidOnly: true,
       title: "Minimum Operations to Make Numbers Non-positive",
@@ -18960,6 +21662,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 94.42883615278858,
       frontendQuestionId: "2703",
       paidOnly: false,
       title: "Return Length of Arguments Passed",
@@ -18967,6 +21670,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.4632541144663,
       frontendQuestionId: "2704",
       paidOnly: false,
       title: "To Be Or Not To Be",
@@ -18974,6 +21678,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.42921074043939,
       frontendQuestionId: "2705",
       paidOnly: false,
       title: "Compact Object",
@@ -18981,6 +21686,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 69.07405027266218,
       frontendQuestionId: "2706",
       paidOnly: false,
       title: "Buy Two Chocolates",
@@ -18988,6 +21694,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.519881856049224,
       frontendQuestionId: "2707",
       paidOnly: false,
       title: "Extra Characters in a String",
@@ -18995,6 +21702,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 24.560337608170908,
       frontendQuestionId: "2708",
       paidOnly: false,
       title: "Maximum Strength of a Group",
@@ -19002,6 +21710,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.42380909822147,
       frontendQuestionId: "2709",
       paidOnly: false,
       title: "Greatest Common Divisor Traversal",
@@ -19009,6 +21718,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.91777933942376,
       frontendQuestionId: "2710",
       paidOnly: false,
       title: "Remove Trailing Zeros From a String",
@@ -19016,6 +21726,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.38460449978774,
       frontendQuestionId: "2711",
       paidOnly: false,
       title: "Difference of Number of Distinct Values on Diagonals",
@@ -19023,6 +21734,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.81850167338883,
       frontendQuestionId: "2712",
       paidOnly: false,
       title: "Minimum Cost to Make All Characters Equal",
@@ -19030,6 +21742,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.870633626530097,
       frontendQuestionId: "2713",
       paidOnly: false,
       title: "Maximum Strictly Increasing Cells in a Matrix",
@@ -19037,6 +21750,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.79775280898876,
       frontendQuestionId: "2714",
       paidOnly: true,
       title: "Find Shortest Path with K Hops",
@@ -19044,6 +21758,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 88.75754727501554,
       frontendQuestionId: "2715",
       paidOnly: false,
       title: "Timeout Cancellation",
@@ -19051,6 +21766,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 76.86837829054274,
       frontendQuestionId: "2716",
       paidOnly: false,
       title: "Minimize String Length",
@@ -19058,6 +21774,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.26820763176248,
       frontendQuestionId: "2717",
       paidOnly: false,
       title: "Semi-Ordered Permutation",
@@ -19065,6 +21782,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 31.114414791507294,
       frontendQuestionId: "2718",
       paidOnly: false,
       title: "Sum of Matrix After Queries",
@@ -19072,6 +21790,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.73439294131867,
       frontendQuestionId: "2719",
       paidOnly: false,
       title: "Count of Integers",
@@ -19079,6 +21798,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.88338493292054,
       frontendQuestionId: "2720",
       paidOnly: true,
       title: "Popularity Percentage",
@@ -19086,6 +21806,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.58713498908864,
       frontendQuestionId: "2721",
       paidOnly: false,
       title: "Execute Asynchronous Functions in Parallel",
@@ -19093,6 +21814,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.126660588694975,
       frontendQuestionId: "2722",
       paidOnly: false,
       title: "Join Two Arrays by ID",
@@ -19100,6 +21822,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 91.43378150820588,
       frontendQuestionId: "2723",
       paidOnly: false,
       title: "Add Two Promises",
@@ -19107,6 +21830,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 82.79336047138422,
       frontendQuestionId: "2724",
       paidOnly: false,
       title: "Sort By",
@@ -19114,6 +21838,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.43568791886177,
       frontendQuestionId: "2725",
       paidOnly: false,
       title: "Interval Cancellation",
@@ -19121,6 +21846,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 75.97026022304833,
       frontendQuestionId: "2726",
       paidOnly: false,
       title: "Calculator with Method Chaining",
@@ -19128,6 +21854,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 80.50827752976191,
       frontendQuestionId: "2727",
       paidOnly: false,
       title: "Is Object Empty",
@@ -19135,6 +21862,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.0936329588015,
       frontendQuestionId: "2728",
       paidOnly: true,
       title: "Count Houses in a Circular Street",
@@ -19142,6 +21870,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.42013822980985,
       frontendQuestionId: "2729",
       paidOnly: false,
       title: "Check if The Number is Fascinating",
@@ -19149,6 +21878,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 37.38797780893739,
       frontendQuestionId: "2730",
       paidOnly: false,
       title: "Find the Longest Semi-Repetitive Substring",
@@ -19156,6 +21886,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.123242548405237,
       frontendQuestionId: "2731",
       paidOnly: false,
       title: "Movement of Robots",
@@ -19163,6 +21894,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.557423693740304,
       frontendQuestionId: "2732",
       paidOnly: false,
       title: "Find a Good Subset of the Matrix",
@@ -19170,6 +21902,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.66226092365106,
       frontendQuestionId: "2733",
       paidOnly: false,
       title: "Neither Minimum nor Maximum",
@@ -19177,6 +21910,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 31.818692428667717,
       frontendQuestionId: "2734",
       paidOnly: false,
       title: "Lexicographically Smallest String After Substring Operation",
@@ -19184,6 +21918,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.61480910991308,
       frontendQuestionId: "2735",
       paidOnly: false,
       title: "Collecting Chocolates",
@@ -19191,6 +21926,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.087196852746377,
       frontendQuestionId: "2736",
       paidOnly: false,
       title: "Maximum Sum Queries",
@@ -19198,6 +21934,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.661038148843026,
       frontendQuestionId: "2737",
       paidOnly: true,
       title: "Find the Closest Marked Node",
@@ -19205,6 +21942,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.62288893304193,
       frontendQuestionId: "2738",
       paidOnly: true,
       title: "Count Occurrences in Text",
@@ -19212,6 +21950,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.451918546825105,
       frontendQuestionId: "2739",
       paidOnly: false,
       title: "Total Distance Traveled",
@@ -19219,6 +21958,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.33713742272943,
       frontendQuestionId: "2740",
       paidOnly: false,
       title: "Find the Value of the Partition",
@@ -19226,6 +21966,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.867242183854408,
       frontendQuestionId: "2741",
       paidOnly: false,
       title: "Special Permutations",
@@ -19233,6 +21974,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.722554520022875,
       frontendQuestionId: "2742",
       paidOnly: false,
       title: "Painting the Walls",
@@ -19240,6 +21982,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.56441717791411,
       frontendQuestionId: "2743",
       paidOnly: true,
       title: "Count Substrings Without Repeating Character",
@@ -19247,6 +21990,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 81.90934616927396,
       frontendQuestionId: "2744",
       paidOnly: false,
       title: "Find Maximum Number of String Pairs",
@@ -19254,6 +21998,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.318777405879445,
       frontendQuestionId: "2745",
       paidOnly: false,
       title: "Construct the Longest New String",
@@ -19261,6 +22006,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.22593124103076,
       frontendQuestionId: "2746",
       paidOnly: false,
       title: "Decremental String Concatenation",
@@ -19268,6 +22014,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.23026469899274,
       frontendQuestionId: "2747",
       paidOnly: false,
       title: "Count Zero Request Servers",
@@ -19275,6 +22022,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 50.67531816536245,
       frontendQuestionId: "2748",
       paidOnly: false,
       title: "Number of Beautiful Pairs",
@@ -19282,6 +22030,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 30.32913696344608,
       frontendQuestionId: "2749",
       paidOnly: false,
       title: "Minimum Operations to Make the Integer Zero",
@@ -19289,6 +22038,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.42398510929593,
       frontendQuestionId: "2750",
       paidOnly: false,
       title: "Ways to Split Array Into Good Subarrays",
@@ -19296,6 +22046,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.0339180078014,
       frontendQuestionId: "2751",
       paidOnly: false,
       title: "Robot Collisions",
@@ -19303,6 +22054,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 38.8663967611336,
       frontendQuestionId: "2752",
       paidOnly: true,
       title:
@@ -19312,6 +22064,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.951473136915084,
       frontendQuestionId: "2753",
       paidOnly: true,
       title: "Count Houses in a Circular Street II",
@@ -19319,6 +22072,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.84895833333334,
       frontendQuestionId: "2754",
       paidOnly: true,
       title: "Bind Function to Context",
@@ -19326,6 +22080,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.98194945848375,
       frontendQuestionId: "2755",
       paidOnly: true,
       title: "Deep Merge of Two Objects",
@@ -19333,6 +22088,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.40329218106996,
       frontendQuestionId: "2756",
       paidOnly: true,
       title: "Query Batching",
@@ -19340,6 +22096,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.84991568296796,
       frontendQuestionId: "2757",
       paidOnly: true,
       title: "Generate Circular Array Values",
@@ -19347,6 +22104,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.51464435146444,
       frontendQuestionId: "2758",
       paidOnly: true,
       title: "Next Day",
@@ -19354,6 +22112,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.398137369033755,
       frontendQuestionId: "2759",
       paidOnly: true,
       title: "Convert JSON String to Object",
@@ -19361,6 +22120,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 30.007171886206073,
       frontendQuestionId: "2760",
       paidOnly: false,
       title: "Longest Even Odd Subarray With Threshold",
@@ -19368,6 +22128,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 34.59127241788505,
       frontendQuestionId: "2761",
       paidOnly: false,
       title: "Prime Pairs With Target Sum",
@@ -19375,6 +22136,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.69258503536124,
       frontendQuestionId: "2762",
       paidOnly: false,
       title: "Continuous Subarrays",
@@ -19382,6 +22144,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.01882845188285,
       frontendQuestionId: "2763",
       paidOnly: false,
       title: "Sum of Imbalance Numbers of All Subarrays",
@@ -19389,6 +22152,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.97880646960401,
       frontendQuestionId: "2764",
       paidOnly: true,
       title: "Is Array a Preorder of Some ‌Binary Tree",
@@ -19396,6 +22160,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.399639558459114,
       frontendQuestionId: "2765",
       paidOnly: false,
       title: "Longest Alternating Subarray",
@@ -19403,6 +22168,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.15542959427207,
       frontendQuestionId: "2766",
       paidOnly: false,
       title: "Relocate Marbles",
@@ -19410,6 +22176,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.86427898209236,
       frontendQuestionId: "2767",
       paidOnly: false,
       title: "Partition String Into Minimum Beautiful Substrings",
@@ -19417,6 +22184,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.68391979470228,
       frontendQuestionId: "2768",
       paidOnly: false,
       title: "Number of Black Blocks",
@@ -19424,6 +22192,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 90.93186915165107,
       frontendQuestionId: "2769",
       paidOnly: false,
       title: "Find the Maximum Achievable Number",
@@ -19431,6 +22200,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 31.63512966874916,
       frontendQuestionId: "2770",
       paidOnly: false,
       title: "Maximum Number of Jumps to Reach the Last Index",
@@ -19438,6 +22208,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.784130023478994,
       frontendQuestionId: "2771",
       paidOnly: false,
       title: "Longest Non-decreasing Subarray From Two Arrays",
@@ -19445,6 +22216,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.37371739399184,
       frontendQuestionId: "2772",
       paidOnly: false,
       title: "Apply Operations to Make All Array Elements Equal to Zero",
@@ -19452,6 +22224,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.82222222222222,
       frontendQuestionId: "2773",
       paidOnly: true,
       title: "Height of Special Binary Tree",
@@ -19459,6 +22232,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.06820682068206,
       frontendQuestionId: "2774",
       paidOnly: true,
       title: "Array Upper Bound",
@@ -19466,6 +22240,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.90173410404624,
       frontendQuestionId: "2775",
       paidOnly: true,
       title: "Undefined to Null",
@@ -19473,6 +22248,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 92.02312138728324,
       frontendQuestionId: "2776",
       paidOnly: true,
       title: "Convert Callback Based Function to Promise Based Function",
@@ -19480,6 +22256,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 81.1623246492986,
       frontendQuestionId: "2777",
       paidOnly: true,
       title: "Date Range Generator",
@@ -19487,6 +22264,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 81.84174248690378,
       frontendQuestionId: "2778",
       paidOnly: false,
       title: "Sum of Squares of Special Elements ",
@@ -19494,6 +22272,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 38.841353671849646,
       frontendQuestionId: "2779",
       paidOnly: false,
       title: "Maximum Beauty of an Array After Applying Operation",
@@ -19501,6 +22280,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.48263799578167,
       frontendQuestionId: "2780",
       paidOnly: false,
       title: "Minimum Index of a Valid Split",
@@ -19508,6 +22288,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.03174677498654,
       frontendQuestionId: "2781",
       paidOnly: false,
       title: "Length of the Longest Valid Substring",
@@ -19515,6 +22296,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.7308650765397,
       frontendQuestionId: "2782",
       paidOnly: true,
       title: "Number of Unique Categories",
@@ -19522,6 +22304,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.604678984447695,
       frontendQuestionId: "2783",
       paidOnly: true,
       title: "Flight Occupancy and Waitlist Analysis",
@@ -19529,6 +22312,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.395941030059355,
       frontendQuestionId: "2784",
       paidOnly: false,
       title: "Check if Array is Good",
@@ -19536,6 +22320,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.25924398220441,
       frontendQuestionId: "2785",
       paidOnly: false,
       title: "Sort Vowels in a String",
@@ -19543,6 +22328,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.312408025555435,
       frontendQuestionId: "2786",
       paidOnly: false,
       title: "Visit Array Positions to Maximize Score",
@@ -19550,6 +22336,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.07488451252127,
       frontendQuestionId: "2787",
       paidOnly: false,
       title: "Ways to Express an Integer as Sum of Powers",
@@ -19557,6 +22344,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.77347796470755,
       frontendQuestionId: "2788",
       paidOnly: false,
       title: "Split Strings by Separator",
@@ -19564,6 +22352,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.43188176620849,
       frontendQuestionId: "2789",
       paidOnly: false,
       title: "Largest Element in an Array after Merge Operations",
@@ -19571,6 +22360,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 20.41169310926523,
       frontendQuestionId: "2790",
       paidOnly: false,
       title: "Maximum Number of Groups With Increasing Length",
@@ -19578,6 +22368,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 47.99747492459844,
       frontendQuestionId: "2791",
       paidOnly: false,
       title: "Count Paths That Can Form a Palindrome in a Tree",
@@ -19585,6 +22376,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.57988165680473,
       frontendQuestionId: "2792",
       paidOnly: true,
       title: "Count Nodes That Are Great Enough",
@@ -19592,6 +22384,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.59085625726463,
       frontendQuestionId: "2793",
       paidOnly: true,
       title: "Status of Flight Tickets",
@@ -19599,6 +22392,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.8675340035482,
       frontendQuestionId: "2794",
       paidOnly: true,
       title: "Create Object from Two Arrays",
@@ -19606,6 +22400,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 88.51063829787233,
       frontendQuestionId: "2795",
       paidOnly: true,
       title: "Parallel Execution of Promises for Individual Results Retrieval",
@@ -19614,6 +22409,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 92.9054054054054,
       frontendQuestionId: "2796",
       paidOnly: true,
       title: "Repeat String",
@@ -19621,6 +22417,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 90.70567986230637,
       frontendQuestionId: "2797",
       paidOnly: true,
       title: "Partial Function with Placeholders",
@@ -19628,6 +22425,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 87.84054365633153,
       frontendQuestionId: "2798",
       paidOnly: false,
       title: "Number of Employees Who Met the Target",
@@ -19635,6 +22433,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 65.59761842650421,
       frontendQuestionId: "2799",
       paidOnly: false,
       title: "Count Complete Subarrays in an Array",
@@ -19642,6 +22441,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.8187795947319,
       frontendQuestionId: "2800",
       paidOnly: false,
       title: "Shortest String That Contains Three Strings",
@@ -19649,6 +22449,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.147712327818926,
       frontendQuestionId: "2801",
       paidOnly: false,
       title: "Count Stepping Numbers in Range",
@@ -19656,6 +22457,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 77.00179781496335,
       frontendQuestionId: "2802",
       paidOnly: true,
       title: "Find The K-th Lucky Number",
@@ -19663,6 +22465,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.3302752293578,
       frontendQuestionId: "2803",
       paidOnly: true,
       title: "Factorial Generator",
@@ -19670,6 +22473,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 89.56521739130436,
       frontendQuestionId: "2804",
       paidOnly: true,
       title: "Array Prototype ForEach",
@@ -19677,6 +22481,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 82.44274809160305,
       frontendQuestionId: "2805",
       paidOnly: true,
       title: "Custom Interval",
@@ -19684,6 +22489,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.1709520582956,
       frontendQuestionId: "2806",
       paidOnly: false,
       title: "Account Balance After Rounded Purchase",
@@ -19691,6 +22497,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 92.37973124159345,
       frontendQuestionId: "2807",
       paidOnly: false,
       title: "Insert Greatest Common Divisors in Linked List",
@@ -19698,6 +22505,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.11175616835994,
       frontendQuestionId: "2808",
       paidOnly: false,
       title: "Minimum Seconds to Equalize a Circular Array",
@@ -19705,6 +22513,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.919455081926046,
       frontendQuestionId: "2809",
       paidOnly: false,
       title: "Minimum Time to Make Array Sum At Most x",
@@ -19712,6 +22521,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 84.23501523210595,
       frontendQuestionId: "2810",
       paidOnly: false,
       title: "Faulty Keyboard",
@@ -19719,6 +22529,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.921671136973224,
       frontendQuestionId: "2811",
       paidOnly: false,
       title: "Check if it is Possible to Split Array",
@@ -19726,6 +22537,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.94971226386319,
       frontendQuestionId: "2812",
       paidOnly: false,
       title: "Find the Safest Path in a Grid",
@@ -19733,6 +22545,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.349640428550465,
       frontendQuestionId: "2813",
       paidOnly: false,
       title: "Maximum Elegance of a K-Length Subsequence",
@@ -19740,6 +22553,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.37740693196406,
       frontendQuestionId: "2814",
       paidOnly: true,
       title: "Minimum Time Takes to Reach Destination Without Drowning",
@@ -19747,6 +22561,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.64588467225234,
       frontendQuestionId: "2815",
       paidOnly: false,
       title: "Max Pair Sum in an Array",
@@ -19754,6 +22569,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.55344612338026,
       frontendQuestionId: "2816",
       paidOnly: false,
       title: "Double a Number Represented as a Linked List",
@@ -19761,6 +22577,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.343727155856925,
       frontendQuestionId: "2817",
       paidOnly: false,
       title: "Minimum Absolute Difference Between Elements With Constraint",
@@ -19768,6 +22585,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.72818730565209,
       frontendQuestionId: "2818",
       paidOnly: false,
       title: "Apply Operations to Maximize Score",
@@ -19775,6 +22593,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.925877763329,
       frontendQuestionId: "2819",
       paidOnly: true,
       title: "Minimum Relative Loss After Buying Chocolates",
@@ -19782,6 +22601,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.68529904974847,
       frontendQuestionId: "2820",
       paidOnly: true,
       title: "Election Results",
@@ -19789,6 +22609,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.08727655099895,
       frontendQuestionId: "2821",
       paidOnly: true,
       title: "Delay the Resolution of Each Promise",
@@ -19796,6 +22617,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.78284923928078,
       frontendQuestionId: "2822",
       paidOnly: true,
       title: "Inversion of Object",
@@ -19803,6 +22625,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.1838134430727,
       frontendQuestionId: "2823",
       paidOnly: true,
       title: "Deep Object Filter",
@@ -19810,6 +22633,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 87.45465998801093,
       frontendQuestionId: "2824",
       paidOnly: false,
       title: "Count Pairs Whose Sum is Less than Target",
@@ -19817,6 +22641,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.668680569089844,
       frontendQuestionId: "2825",
       paidOnly: false,
       title: "Make String a Subsequence Using Cyclic Increments",
@@ -19824,6 +22649,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.27785397007349,
       frontendQuestionId: "2826",
       paidOnly: false,
       title: "Sorting Three Groups",
@@ -19831,6 +22657,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 18.390914114755034,
       frontendQuestionId: "2827",
       paidOnly: false,
       title: "Number of Beautiful Integers in the Range",
@@ -19838,6 +22665,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.20147657200387,
       frontendQuestionId: "2828",
       paidOnly: false,
       title: "Check if a String Is an Acronym of Words",
@@ -19845,6 +22673,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 61.66652245392403,
       frontendQuestionId: "2829",
       paidOnly: false,
       title: "Determine the Minimum Sum of a k-avoiding Array",
@@ -19852,6 +22681,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.647898816809466,
       frontendQuestionId: "2830",
       paidOnly: false,
       title: "Maximize the Profit as the Salesman",
@@ -19859,6 +22689,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.00591012533542,
       frontendQuestionId: "2831",
       paidOnly: false,
       title: "Find the Longest Equal Subarray",
@@ -19866,6 +22697,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.0,
       frontendQuestionId: "2832",
       paidOnly: true,
       title: "Maximal Range That Each Element Is Maximum in It",
@@ -19873,6 +22705,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.1049593282603,
       frontendQuestionId: "2833",
       paidOnly: false,
       title: "Furthest Point From Origin",
@@ -19880,6 +22713,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 37.66374204330409,
       frontendQuestionId: "2834",
       paidOnly: false,
       title: "Find the Minimum Possible Sum of a Beautiful Array",
@@ -19887,6 +22721,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.60493465704932,
       frontendQuestionId: "2835",
       paidOnly: false,
       title: "Minimum Operations to Form Subsequence With Target Sum",
@@ -19894,6 +22729,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 31.34167248714204,
       frontendQuestionId: "2836",
       paidOnly: false,
       title: "Maximize Value of Function in a Ball Passing Game",
@@ -19901,6 +22737,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 75.93873517786561,
       frontendQuestionId: "2837",
       paidOnly: true,
       title: "Total Traveled Distance",
@@ -19908,6 +22745,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 69.62524654832347,
       frontendQuestionId: "2838",
       paidOnly: true,
       title: "Maximum Coins Heroes Can Collect",
@@ -19915,6 +22753,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.40759722273066,
       frontendQuestionId: "2839",
       paidOnly: false,
       title: "Check if Strings Can be Made Equal With Operations I",
@@ -19922,6 +22761,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.18751024422226,
       frontendQuestionId: "2840",
       paidOnly: false,
       title: "Check if Strings Can be Made Equal With Operations II",
@@ -19929,6 +22769,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.38670389733841,
       frontendQuestionId: "2841",
       paidOnly: false,
       title: "Maximum Sum of Almost Unique Subarray",
@@ -19936,6 +22777,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.621117147234994,
       frontendQuestionId: "2842",
       paidOnly: false,
       title: "Count K-Subsequences of a String With Maximum Beauty",
@@ -19943,6 +22785,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.5892290144579,
       frontendQuestionId: "2843",
       paidOnly: false,
       title: "  Count Symmetric Integers",
@@ -19950,6 +22793,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 38.32190281628483,
       frontendQuestionId: "2844",
       paidOnly: false,
       title: "Minimum Operations to Make a Special Number",
@@ -19957,6 +22801,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.843425076452604,
       frontendQuestionId: "2845",
       paidOnly: false,
       title: "Count of Interesting Subarrays",
@@ -19964,6 +22809,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.561848408002255,
       frontendQuestionId: "2846",
       paidOnly: false,
       title: "Minimum Edge Weight Equilibrium Queries in a Tree",
@@ -19971,6 +22817,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.942133815551536,
       frontendQuestionId: "2847",
       paidOnly: true,
       title: "Smallest Number With Given Digit Product",
@@ -19978,6 +22825,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.56148575549946,
       frontendQuestionId: "2848",
       paidOnly: false,
       title: "Points That Intersect With Cars",
@@ -19985,6 +22833,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 35.689375317164114,
       frontendQuestionId: "2849",
       paidOnly: false,
       title: "Determine if a Cell Is Reachable at a Given Time",
@@ -19992,6 +22841,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.959658191389934,
       frontendQuestionId: "2850",
       paidOnly: false,
       title: "Minimum Moves to Spread Stones Over Grid",
@@ -19999,6 +22849,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.82431482782853,
       frontendQuestionId: "2851",
       paidOnly: false,
       title: "String Transformation",
@@ -20006,6 +22857,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.96042216358839,
       frontendQuestionId: "2852",
       paidOnly: true,
       title: "Sum of Remoteness of All Cells",
@@ -20013,6 +22865,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.51885098743267,
       frontendQuestionId: "2853",
       paidOnly: true,
       title: "Highest Salaries Difference",
@@ -20020,6 +22873,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.81241673328005,
       frontendQuestionId: "2854",
       paidOnly: true,
       title: "Rolling Average Steps",
@@ -20027,6 +22881,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.22970852943605,
       frontendQuestionId: "2855",
       paidOnly: false,
       title: "Minimum Right Shifts to Sort the Array",
@@ -20034,6 +22889,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 23.135227919266338,
       frontendQuestionId: "2856",
       paidOnly: false,
       title: "Minimum Array Length After Pair Removals",
@@ -20041,6 +22897,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.28426395939086,
       frontendQuestionId: "2857",
       paidOnly: false,
       title: "Count Pairs of Points With Distance k",
@@ -20048,6 +22905,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.45863438130573,
       frontendQuestionId: "2858",
       paidOnly: false,
       title: "Minimum Edge Reversals So Every Node Is Reachable",
@@ -20055,6 +22913,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.76387135627178,
       frontendQuestionId: "2859",
       paidOnly: false,
       title: "Sum of Values at Indices With K Set Bits",
@@ -20062,6 +22921,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.52587017873942,
       frontendQuestionId: "2860",
       paidOnly: false,
       title: "Happy Students",
@@ -20069,6 +22929,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.78429405085686,
       frontendQuestionId: "2861",
       paidOnly: false,
       title: "Maximum Number of Alloys",
@@ -20076,6 +22937,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.17806291856604,
       frontendQuestionId: "2862",
       paidOnly: false,
       title: "Maximum Element-Sum of a Complete Subset of Indices",
@@ -20083,6 +22945,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.7968082715217,
       frontendQuestionId: "2863",
       paidOnly: true,
       title: "Maximum Length of Semi-Decreasing Subarrays",
@@ -20090,6 +22953,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 83.2062941704108,
       frontendQuestionId: "2864",
       paidOnly: false,
       title: "Maximum Odd Binary Number",
@@ -20097,6 +22961,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 43.64736089331564,
       frontendQuestionId: "2865",
       paidOnly: false,
       title: "Beautiful Towers I",
@@ -20104,6 +22969,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.97495183044316,
       frontendQuestionId: "2866",
       paidOnly: false,
       title: "Beautiful Towers II",
@@ -20111,6 +22977,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.73018149448593,
       frontendQuestionId: "2867",
       paidOnly: false,
       title: "Count Valid Paths in a Tree",
@@ -20118,6 +22985,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.7515299877601,
       frontendQuestionId: "2868",
       paidOnly: true,
       title: "The Wording Game",
@@ -20125,6 +22993,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.76365284387039,
       frontendQuestionId: "2869",
       paidOnly: false,
       title: "Minimum Operations to Collect Elements",
@@ -20132,6 +23001,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.03411886704215,
       frontendQuestionId: "2870",
       paidOnly: false,
       title: "Minimum Number of Operations to Make Array Empty",
@@ -20139,6 +23009,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.0434944832365,
       frontendQuestionId: "2871",
       paidOnly: false,
       title: "Split Array Into Maximum Number of Subarrays",
@@ -20146,6 +23017,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.36172422747339,
       frontendQuestionId: "2872",
       paidOnly: false,
       title: "Maximum Number of K-Divisible Components",
@@ -20153,6 +23025,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.046994677398416,
       frontendQuestionId: "2873",
       paidOnly: false,
       title: "Maximum Value of an Ordered Triplet I",
@@ -20160,6 +23033,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.405132778743095,
       frontendQuestionId: "2874",
       paidOnly: false,
       title: "Maximum Value of an Ordered Triplet II",
@@ -20167,6 +23041,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.97945311293063,
       frontendQuestionId: "2875",
       paidOnly: false,
       title: "Minimum Size Subarray in Infinite Array",
@@ -20174,6 +23049,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.07042947809477,
       frontendQuestionId: "2876",
       paidOnly: false,
       title: "Count Visited Nodes in a Directed Graph",
@@ -20181,6 +23057,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 81.25964283260355,
       frontendQuestionId: "2877",
       paidOnly: false,
       title: "Create a DataFrame from List",
@@ -20188,6 +23065,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 84.96718896477836,
       frontendQuestionId: "2878",
       paidOnly: false,
       title: "Get the Size of a DataFrame",
@@ -20195,6 +23073,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 92.9595839316359,
       frontendQuestionId: "2879",
       paidOnly: false,
       title: "Display the First Three Rows",
@@ -20202,6 +23081,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 79.34400845953397,
       frontendQuestionId: "2880",
       paidOnly: false,
       title: "Select Data",
@@ -20209,6 +23089,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 90.17900945817978,
       frontendQuestionId: "2881",
       paidOnly: false,
       title: "Create a New Column",
@@ -20216,6 +23097,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.59453435410408,
       frontendQuestionId: "2882",
       paidOnly: false,
       title: "Drop Duplicate Rows",
@@ -20223,6 +23105,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 64.0755443983887,
       frontendQuestionId: "2883",
       paidOnly: false,
       title: "Drop Missing Data",
@@ -20230,6 +23113,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 92.0997947501944,
       frontendQuestionId: "2884",
       paidOnly: false,
       title: "Modify Columns",
@@ -20237,6 +23121,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.44671158252946,
       frontendQuestionId: "2885",
       paidOnly: false,
       title: "Rename Columns",
@@ -20244,6 +23129,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 87.27484271309145,
       frontendQuestionId: "2886",
       paidOnly: false,
       title: "Change Data Type",
@@ -20251,6 +23137,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.85554171855541,
       frontendQuestionId: "2887",
       paidOnly: false,
       title: "Fill Missing Data",
@@ -20258,6 +23145,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 90.65098387335405,
       frontendQuestionId: "2888",
       paidOnly: false,
       title: "Reshape Data: Concatenate",
@@ -20265,6 +23153,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 82.51788636144887,
       frontendQuestionId: "2889",
       paidOnly: false,
       title: "Reshape Data: Pivot",
@@ -20272,6 +23161,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 86.10372576128185,
       frontendQuestionId: "2890",
       paidOnly: false,
       title: "Reshape Data: Melt",
@@ -20279,6 +23169,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 76.5752409191994,
       frontendQuestionId: "2891",
       paidOnly: false,
       title: "Method Chaining",
@@ -20286,6 +23177,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.28329297820823,
       frontendQuestionId: "2892",
       paidOnly: true,
       title: "Minimizing Array After Replacing Pairs With Their Product",
@@ -20293,6 +23185,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.54617414248021,
       frontendQuestionId: "2893",
       paidOnly: true,
       title: "Calculate Orders Within Each Interval",
@@ -20300,6 +23193,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 89.32645505628535,
       frontendQuestionId: "2894",
       paidOnly: false,
       title: "Divisible and Non-divisible Sums Difference",
@@ -20307,6 +23201,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 69.4709505978983,
       frontendQuestionId: "2895",
       paidOnly: false,
       title: "Minimum Processing Time",
@@ -20314,6 +23209,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.133034254328958,
       frontendQuestionId: "2896",
       paidOnly: false,
       title: "Apply Operations to Make Two Strings Equal",
@@ -20321,6 +23217,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.89953426480373,
       frontendQuestionId: "2897",
       paidOnly: false,
       title: "Apply Operations on Array to Maximize Sum of Squares",
@@ -20328,6 +23225,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.10414971521563,
       frontendQuestionId: "2898",
       paidOnly: true,
       title: "Maximum Linear Stock Score",
@@ -20335,6 +23233,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.37662995010726,
       frontendQuestionId: "2899",
       paidOnly: false,
       title: "Last Visited Integers",
@@ -20342,6 +23241,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.08437323886966,
       frontendQuestionId: "2900",
       paidOnly: false,
       title: "Longest Unequal Adjacent Groups Subsequence I",
@@ -20349,6 +23249,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 27.437596532310298,
       frontendQuestionId: "2901",
       paidOnly: false,
       title: "Longest Unequal Adjacent Groups Subsequence II",
@@ -20356,6 +23257,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 21.366477827700724,
       frontendQuestionId: "2902",
       paidOnly: false,
       title: "Count of Sub-Multisets With Bounded Sum",
@@ -20363,6 +23265,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 61.83769382745614,
       frontendQuestionId: "2903",
       paidOnly: false,
       title: "Find Indices With Index and Value Difference I",
@@ -20370,6 +23273,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.523189511965164,
       frontendQuestionId: "2904",
       paidOnly: false,
       title: "Shortest and Lexicographically Smallest Beautiful String",
@@ -20377,6 +23281,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.29405232840586,
       frontendQuestionId: "2905",
       paidOnly: false,
       title: "Find Indices With Index and Value Difference II",
@@ -20384,6 +23289,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.982114379646212,
       frontendQuestionId: "2906",
       paidOnly: false,
       title: "Construct Product Matrix",
@@ -20391,6 +23297,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.00267618198037,
       frontendQuestionId: "2907",
       paidOnly: true,
       title: "Maximum Profitable Triplets With Increasing Prices I",
@@ -20398,6 +23305,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.38419459538311,
       frontendQuestionId: "2908",
       paidOnly: false,
       title: "Minimum Sum of Mountain Triplets I",
@@ -20405,6 +23313,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.17795744302786,
       frontendQuestionId: "2909",
       paidOnly: false,
       title: "Minimum Sum of Mountain Triplets II",
@@ -20412,6 +23321,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.035278653032034,
       frontendQuestionId: "2910",
       paidOnly: false,
       title: "Minimum Number of Groups to Create a Valid Assignment",
@@ -20419,6 +23329,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.49404547094912,
       frontendQuestionId: "2911",
       paidOnly: false,
       title: "Minimum Changes to Make K Semi-palindromes",
@@ -20426,6 +23337,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.484927916120576,
       frontendQuestionId: "2912",
       paidOnly: true,
       title: "Number of Ways to Reach Destination in the Grid",
@@ -20433,6 +23345,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 82.88163457022077,
       frontendQuestionId: "2913",
       paidOnly: false,
       title: "Subarrays Distinct Element Sum of Squares I",
@@ -20440,6 +23353,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 60.44482411447051,
       frontendQuestionId: "2914",
       paidOnly: false,
       title: "Minimum Number of Changes to Make Binary String Beautiful",
@@ -20447,6 +23361,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.465800893325486,
       frontendQuestionId: "2915",
       paidOnly: false,
       title: "Length of the Longest Subsequence That Sums to Target",
@@ -20454,6 +23369,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 21.443569553805773,
       frontendQuestionId: "2916",
       paidOnly: false,
       title: "Subarrays Distinct Element Sum of Squares II",
@@ -20461,6 +23377,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.82840041733019,
       frontendQuestionId: "2917",
       paidOnly: false,
       title: "Find the K-or of an Array",
@@ -20468,6 +23385,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 35.77704523520048,
       frontendQuestionId: "2918",
       paidOnly: false,
       title: "Minimum Equal Sum of Two Arrays After Replacing Zeros",
@@ -20475,6 +23393,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.47374788289378,
       frontendQuestionId: "2919",
       paidOnly: false,
       title: "Minimum Increment Operations to Make Array Beautiful",
@@ -20482,6 +23401,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 37.178419396631504,
       frontendQuestionId: "2920",
       paidOnly: false,
       title: "Maximum Points After Collecting Coins From All Nodes",
@@ -20489,6 +23409,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.63119072708114,
       frontendQuestionId: "2921",
       paidOnly: true,
       title: "Maximum Profitable Triplets With Increasing Prices II",
@@ -20496,6 +23417,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 41.24647035094796,
       frontendQuestionId: "2922",
       paidOnly: true,
       title: "Market Analysis III",
@@ -20503,6 +23425,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 73.75846394688696,
       frontendQuestionId: "2923",
       paidOnly: false,
       title: "Find Champion I",
@@ -20510,6 +23433,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.940867619211566,
       frontendQuestionId: "2924",
       paidOnly: false,
       title: "Find Champion II",
@@ -20517,6 +23441,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.39652308714428,
       frontendQuestionId: "2925",
       paidOnly: false,
       title: "Maximum Score After Applying Operations on a Tree",
@@ -20524,6 +23449,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 24.188116430117873,
       frontendQuestionId: "2926",
       paidOnly: false,
       title: "Maximum Balanced Subsequence Sum",
@@ -20531,6 +23457,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.93468118195957,
       frontendQuestionId: "2927",
       paidOnly: true,
       title: "Distribute Candies Among Children III",
@@ -20538,6 +23465,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.2815262518711,
       frontendQuestionId: "2928",
       paidOnly: false,
       title: "Distribute Candies Among Children I",
@@ -20545,6 +23473,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 35.459907628957765,
       frontendQuestionId: "2929",
       paidOnly: false,
       title: "Distribute Candies Among Children II",
@@ -20552,6 +23481,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.05903676851373,
       frontendQuestionId: "2930",
       paidOnly: false,
       title: "Number of Strings Which Can Be Rearranged to Contain Substring",
@@ -20560,6 +23490,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.93286631640397,
       frontendQuestionId: "2931",
       paidOnly: false,
       title: "Maximum Spending After Buying Items",
@@ -20567,6 +23498,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.51490952819375,
       frontendQuestionId: "2932",
       paidOnly: false,
       title: "Maximum Strong Pair XOR I",
@@ -20574,6 +23506,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.88815343514494,
       frontendQuestionId: "2933",
       paidOnly: false,
       title: "High-Access Employees",
@@ -20581,6 +23514,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.04523835067768,
       frontendQuestionId: "2934",
       paidOnly: false,
       title: "Minimum Operations to Maximize Last Elements in Arrays",
@@ -20588,6 +23522,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.562381852551983,
       frontendQuestionId: "2935",
       paidOnly: false,
       title: "Maximum Strong Pair XOR II",
@@ -20595,6 +23530,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.20419779437923,
       frontendQuestionId: "2936",
       paidOnly: true,
       title: "Number of Equal Numbers Blocks",
@@ -20602,6 +23538,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.63971441838867,
       frontendQuestionId: "2937",
       paidOnly: false,
       title: "Make Three Strings Equal",
@@ -20609,6 +23546,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 53.561144173545784,
       frontendQuestionId: "2938",
       paidOnly: false,
       title: "Separate Black and White Balls",
@@ -20616,6 +23554,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.617442184452493,
       frontendQuestionId: "2939",
       paidOnly: false,
       title: "Maximum Xor Product",
@@ -20623,6 +23562,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.318155283129016,
       frontendQuestionId: "2940",
       paidOnly: false,
       title: "Find Building Where Alice and Bob Can Meet",
@@ -20630,6 +23570,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.18834080717489,
       frontendQuestionId: "2941",
       paidOnly: true,
       title: "Maximum GCD-Sum of a Subarray",
@@ -20637,6 +23578,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 88.6944176399472,
       frontendQuestionId: "2942",
       paidOnly: false,
       title: "Find Words Containing Character",
@@ -20644,6 +23586,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 37.15994298816385,
       frontendQuestionId: "2943",
       paidOnly: false,
       title: "Maximize Area of Square Hole in Grid",
@@ -20651,6 +23594,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.613075496093096,
       frontendQuestionId: "2944",
       paidOnly: false,
       title: "Minimum Number of Coins for Fruits",
@@ -20658,6 +23602,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 16.68699961875715,
       frontendQuestionId: "2945",
       paidOnly: false,
       title: "Find Maximum Non-decreasing Array Length",
@@ -20665,6 +23610,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.73388615738363,
       frontendQuestionId: "2946",
       paidOnly: false,
       title: "Matrix Similarity After Cyclic Shifts",
@@ -20672,6 +23618,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.226991907648575,
       frontendQuestionId: "2947",
       paidOnly: false,
       title: "Count Beautiful Substrings I",
@@ -20679,6 +23626,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.75492673067206,
       frontendQuestionId: "2948",
       paidOnly: false,
       title: "Make Lexicographically Smallest Array by Swapping Elements",
@@ -20686,6 +23634,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.350898203592813,
       frontendQuestionId: "2949",
       paidOnly: false,
       title: "Count Beautiful Substrings II",
@@ -20693,6 +23642,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.24931756141947,
       frontendQuestionId: "2950",
       paidOnly: true,
       title: "Number of Divisible Substrings",
@@ -20700,6 +23650,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.83911995264837,
       frontendQuestionId: "2951",
       paidOnly: false,
       title: "Find the Peaks",
@@ -20707,6 +23658,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 57.615288741171575,
       frontendQuestionId: "2952",
       paidOnly: false,
       title: "Minimum Number of Coins to be Added",
@@ -20714,6 +23666,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.190001915341888,
       frontendQuestionId: "2953",
       paidOnly: false,
       title: "Count Complete Substrings",
@@ -20721,6 +23674,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 36.71465968586388,
       frontendQuestionId: "2954",
       paidOnly: false,
       title: "Count the Number of Infection Sequences",
@@ -20728,6 +23682,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.73823339780787,
       frontendQuestionId: "2955",
       paidOnly: true,
       title: "Number of Same-End Substrings",
@@ -20735,6 +23690,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 84.03182888138369,
       frontendQuestionId: "2956",
       paidOnly: false,
       title: "Find Common Elements Between Two Arrays",
@@ -20742,6 +23698,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 52.97543859649123,
       frontendQuestionId: "2957",
       paidOnly: false,
       title: "Remove Adjacent Almost-Equal Characters",
@@ -20749,6 +23706,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.859211885453064,
       frontendQuestionId: "2958",
       paidOnly: false,
       title: "Length of Longest Subarray With at Most K Frequency",
@@ -20756,6 +23714,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.569506726457405,
       frontendQuestionId: "2959",
       paidOnly: false,
       title: "Number of Possible Sets of Closing Branches",
@@ -20763,6 +23722,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 80.82887951242381,
       frontendQuestionId: "2960",
       paidOnly: false,
       title: "Count Tested Devices After Test Operations",
@@ -20770,6 +23730,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.28085979307885,
       frontendQuestionId: "2961",
       paidOnly: false,
       title: "Double Modular Exponentiation",
@@ -20777,6 +23738,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.91968167157482,
       frontendQuestionId: "2962",
       paidOnly: false,
       title: "Count Subarrays Where Max Element Appears at Least K Times",
@@ -20784,6 +23746,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 49.755168661588684,
       frontendQuestionId: "2963",
       paidOnly: false,
       title: "Count the Number of Good Partitions",
@@ -20791,6 +23754,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.20111731843575,
       frontendQuestionId: "2964",
       paidOnly: true,
       title: "Number of Divisible Triplet Sums",
@@ -20798,6 +23762,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 76.13519410481248,
       frontendQuestionId: "2965",
       paidOnly: false,
       title: "Find Missing and Repeated Values",
@@ -20805,6 +23770,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.81459593761844,
       frontendQuestionId: "2966",
       paidOnly: false,
       title: "Divide Array Into Arrays With Max Difference",
@@ -20812,6 +23778,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 22.356064042470976,
       frontendQuestionId: "2967",
       paidOnly: false,
       title: "Minimum Cost to Make Array Equalindromic",
@@ -20819,6 +23786,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.25356649792913,
       frontendQuestionId: "2968",
       paidOnly: false,
       title: "Apply Operations to Maximize Frequency Score",
@@ -20826,6 +23794,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 48.8871834228703,
       frontendQuestionId: "2969",
       paidOnly: true,
       title: "Minimum Number of Coins for Fruits II",
@@ -20833,6 +23802,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.82764925467889,
       frontendQuestionId: "2970",
       paidOnly: false,
       title: "Count the Number of Incremovable Subarrays I",
@@ -20840,6 +23810,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 66.05343845816908,
       frontendQuestionId: "2971",
       paidOnly: false,
       title: "Find Polygon With the Largest Perimeter",
@@ -20847,6 +23818,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.528046024244915,
       frontendQuestionId: "2972",
       paidOnly: false,
       title: "Count the Number of Incremovable Subarrays II",
@@ -20854,6 +23826,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 37.10907043229663,
       frontendQuestionId: "2973",
       paidOnly: false,
       title: "Find Number of Coins to Place in Tree Nodes",
@@ -20861,6 +23834,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 85.94156701497604,
       frontendQuestionId: "2974",
       paidOnly: false,
       title: "Minimum Number Game",
@@ -20868,6 +23842,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 23.24384141647421,
       frontendQuestionId: "2975",
       paidOnly: false,
       title: "Maximum Square Area by Removing Fences From a Field",
@@ -20875,6 +23850,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.39394670619463,
       frontendQuestionId: "2976",
       paidOnly: false,
       title: "Minimum Cost to Convert String I",
@@ -20882,6 +23858,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.706966698478073,
       frontendQuestionId: "2977",
       paidOnly: false,
       title: "Minimum Cost to Convert String II",
@@ -20889,6 +23866,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 41.088180112570356,
       frontendQuestionId: "2978",
       paidOnly: true,
       title: "Symmetric Coordinates",
@@ -20896,6 +23874,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.70132743362832,
       frontendQuestionId: "2979",
       paidOnly: true,
       title: "Most Expensive Item That Can Not Be Bought",
@@ -20903,6 +23882,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.96683019401208,
       frontendQuestionId: "2980",
       paidOnly: false,
       title: "Check if Bitwise OR Has Trailing Zeros",
@@ -20910,6 +23890,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.72909305064782,
       frontendQuestionId: "2981",
       paidOnly: false,
       title: "Find Longest Special Substring That Occurs Thrice I",
@@ -20917,6 +23898,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.11753518448079,
       frontendQuestionId: "2982",
       paidOnly: false,
       title: "Find Longest Special Substring That Occurs Thrice II",
@@ -20924,6 +23906,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.787919891486478,
       frontendQuestionId: "2983",
       paidOnly: false,
       title: "Palindrome Rearrangement Queries",
@@ -20931,6 +23914,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.16155088852989,
       frontendQuestionId: "2984",
       paidOnly: true,
       title: "Find Peak Calling Hours for Each City",
@@ -20938,6 +23922,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 88.17239144523656,
       frontendQuestionId: "2985",
       paidOnly: true,
       title: "Calculate Compressed Mean",
@@ -20945,6 +23930,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.822381930184804,
       frontendQuestionId: "2986",
       paidOnly: true,
       title: "Find Third Transaction",
@@ -20952,6 +23938,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.95885982956214,
       frontendQuestionId: "2987",
       paidOnly: true,
       title: "Find Expensive Cities",
@@ -20959,6 +23946,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 79.44483485593817,
       frontendQuestionId: "2988",
       paidOnly: true,
       title: "Manager of the Largest Department",
@@ -20966,6 +23954,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 89.1076923076923,
       frontendQuestionId: "2989",
       paidOnly: true,
       title: "Class Performance",
@@ -20973,6 +23962,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 62.108947713848174,
       frontendQuestionId: "2990",
       paidOnly: true,
       title: "Loan Types",
@@ -20980,6 +23970,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.96493170911776,
       frontendQuestionId: "2991",
       paidOnly: true,
       title: "Top Three Wineries ",
@@ -20987,6 +23978,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 72.52396166134186,
       frontendQuestionId: "2992",
       paidOnly: true,
       title: "Number of Self-Divisible Permutations",
@@ -20994,6 +23986,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.66373098478783,
       frontendQuestionId: "2993",
       paidOnly: true,
       title: "Friday Purchases I",
@@ -21001,6 +23994,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.98528546203649,
       frontendQuestionId: "2994",
       paidOnly: true,
       title: "Friday Purchases II ",
@@ -21008,6 +24002,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.054662379421224,
       frontendQuestionId: "2995",
       paidOnly: true,
       title: "Viewers Turned Streamers",
@@ -21015,6 +24010,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 33.01206770875516,
       frontendQuestionId: "2996",
       paidOnly: false,
       title: "Smallest Missing Integer Greater Than Sequential Prefix Sum",
@@ -21022,6 +24018,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 86.32284064078999,
       frontendQuestionId: "2997",
       paidOnly: false,
       title: "Minimum Number of Operations to Make Array XOR Equal to K",
@@ -21029,6 +24026,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.484995073009046,
       frontendQuestionId: "2998",
       paidOnly: false,
       title: "Minimum Number of Operations to Make X and Y Equal",
@@ -21036,6 +24034,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.28035973935053,
       frontendQuestionId: "2999",
       paidOnly: false,
       title: "Count the Number of Powerful Integers",
@@ -21043,6 +24042,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 36.547127580203934,
       frontendQuestionId: "3000",
       paidOnly: false,
       title: "Maximum Area of Longest Diagonal Rectangle",
@@ -21050,6 +24050,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 21.14205416453756,
       frontendQuestionId: "3001",
       paidOnly: false,
       title: "Minimum Moves to Capture The Queen",
@@ -21057,6 +24058,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 45.97497539716013,
       frontendQuestionId: "3002",
       paidOnly: false,
       title: "Maximum Size of a Set After Removals",
@@ -21064,6 +24066,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.35989966825795,
       frontendQuestionId: "3003",
       paidOnly: false,
       title: "Maximize the Number of Partitions After Operations",
@@ -21071,6 +24074,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.946034725481,
       frontendQuestionId: "3004",
       paidOnly: true,
       title: "Maximum Subtree of the Same Color",
@@ -21078,6 +24082,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 78.6292115178591,
       frontendQuestionId: "3005",
       paidOnly: false,
       title: "Count Elements With Maximum Frequency",
@@ -21085,6 +24090,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 36.76177566926466,
       frontendQuestionId: "3006",
       paidOnly: false,
       title: "Find Beautiful Indices in the Given Array I",
@@ -21092,6 +24098,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.79806548190228,
       frontendQuestionId: "3007",
       paidOnly: false,
       title: "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
@@ -21100,6 +24107,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 24.81222063499378,
       frontendQuestionId: "3008",
       paidOnly: false,
       title: "Find Beautiful Indices in the Given Array II",
@@ -21107,6 +24115,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 45.61210789698523,
       frontendQuestionId: "3009",
       paidOnly: true,
       title: "Maximum Number of Intersections on the Chart",
@@ -21114,6 +24123,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.7074188352642,
       frontendQuestionId: "3010",
       paidOnly: false,
       title: "Divide an Array Into Subarrays With Minimum Cost I",
@@ -21121,6 +24131,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 51.707873549349536,
       frontendQuestionId: "3011",
       paidOnly: false,
       title: "Find if Array Can Be Sorted",
@@ -21128,6 +24139,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.29702847811564,
       frontendQuestionId: "3012",
       paidOnly: false,
       title: "Minimize Length of Array Using Operations",
@@ -21135,6 +24147,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.986388770735857,
       frontendQuestionId: "3013",
       paidOnly: false,
       title: "Divide an Array Into Subarrays With Minimum Cost II",
@@ -21142,6 +24155,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.59443267101133,
       frontendQuestionId: "3014",
       paidOnly: false,
       title: "Minimum Number of Pushes to Type Word I",
@@ -21149,6 +24163,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.670145843324214,
       frontendQuestionId: "3015",
       paidOnly: false,
       title: "Count the Number of Houses at a Certain Distance I",
@@ -21156,6 +24171,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 80.68887817362437,
       frontendQuestionId: "3016",
       paidOnly: false,
       title: "Minimum Number of Pushes to Type Word II",
@@ -21163,6 +24179,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 22.173274596182086,
       frontendQuestionId: "3017",
       paidOnly: false,
       title: "Count the Number of Houses at a Certain Distance II",
@@ -21170,6 +24187,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 44.43359375,
       frontendQuestionId: "3018",
       paidOnly: true,
       title: "Maximum Number of Removal Queries That Can Be Processed I",
@@ -21177,6 +24195,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 81.0879760468065,
       frontendQuestionId: "3019",
       paidOnly: false,
       title: "Number of Changing Keys",
@@ -21184,6 +24203,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 24.836418135958766,
       frontendQuestionId: "3020",
       paidOnly: false,
       title: "Find the Maximum Number of Elements in Subset",
@@ -21191,6 +24211,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.90189828250631,
       frontendQuestionId: "3021",
       paidOnly: false,
       title: "Alice and Bob Playing Flower Game",
@@ -21198,6 +24219,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.72117622170509,
       frontendQuestionId: "3022",
       paidOnly: false,
       title: "Minimize OR of Remaining Elements Using Operations",
@@ -21205,6 +24227,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.0988882387361,
       frontendQuestionId: "3023",
       paidOnly: true,
       title: "Find Pattern in Infinite Stream I",
@@ -21212,6 +24235,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.34514146295688,
       frontendQuestionId: "3024",
       paidOnly: false,
       title: "Type of Triangle",
@@ -21219,6 +24243,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.58234473133287,
       frontendQuestionId: "3025",
       paidOnly: false,
       title: "Find the Number of Ways to Place People I",
@@ -21226,6 +24251,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 19.286886495502685,
       frontendQuestionId: "3026",
       paidOnly: false,
       title: "Maximum Good Subarray Sum",
@@ -21233,6 +24259,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.10187875266318,
       frontendQuestionId: "3027",
       paidOnly: false,
       title: "Find the Number of Ways to Place People II",
@@ -21240,6 +24267,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 74.76918465227817,
       frontendQuestionId: "3028",
       paidOnly: false,
       title: "Ant on the Boundary",
@@ -21247,6 +24275,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.266615178244784,
       frontendQuestionId: "3029",
       paidOnly: false,
       title: "Minimum Time to Revert Word to Initial State I",
@@ -21254,6 +24283,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.97848521952073,
       frontendQuestionId: "3030",
       paidOnly: false,
       title: "Find the Grid of Region Average",
@@ -21261,6 +24291,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.67800670819358,
       frontendQuestionId: "3031",
       paidOnly: false,
       title: "Minimum Time to Revert Word to Initial State II",
@@ -21268,6 +24299,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 87.62650372350582,
       frontendQuestionId: "3032",
       paidOnly: true,
       title: "Count Numbers With Unique Digits II",
@@ -21275,6 +24307,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 68.81305492421146,
       frontendQuestionId: "3033",
       paidOnly: false,
       title: "Modify the Matrix",
@@ -21282,6 +24315,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 67.10426850778613,
       frontendQuestionId: "3034",
       paidOnly: false,
       title: "Number of Subarrays That Match a Pattern I",
@@ -21289,6 +24323,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.950387907589246,
       frontendQuestionId: "3035",
       paidOnly: false,
       title: "Maximum Palindromes After Operations",
@@ -21296,6 +24331,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.882344365067794,
       frontendQuestionId: "3036",
       paidOnly: false,
       title: "Number of Subarrays That Match a Pattern II",
@@ -21303,6 +24339,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.03205128205127,
       frontendQuestionId: "3037",
       paidOnly: true,
       title: "Find Pattern in Infinite Stream II",
@@ -21310,6 +24347,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 52.35967943977422,
       frontendQuestionId: "3038",
       paidOnly: false,
       title: "Maximum Number of Operations With the Same Score I",
@@ -21317,6 +24355,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 56.9236358973263,
       frontendQuestionId: "3039",
       paidOnly: false,
       title: "Apply Operations to Make String Empty",
@@ -21324,6 +24363,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.63310822963847,
       frontendQuestionId: "3040",
       paidOnly: false,
       title: "Maximum Number of Operations With the Same Score II",
@@ -21331,6 +24371,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.414358974358976,
       frontendQuestionId: "3041",
       paidOnly: false,
       title: "Maximize Consecutive Elements in an Array After Modification",
@@ -21338,6 +24379,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.74346177209371,
       frontendQuestionId: "3042",
       paidOnly: false,
       title: "Count Prefix and Suffix Pairs I",
@@ -21345,6 +24387,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.88518118631487,
       frontendQuestionId: "3043",
       paidOnly: false,
       title: "Find the Length of the Longest Common Prefix",
@@ -21352,6 +24395,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.56732649071358,
       frontendQuestionId: "3044",
       paidOnly: false,
       title: "Most Frequent Prime",
@@ -21359,6 +24403,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.353046285088475,
       frontendQuestionId: "3045",
       paidOnly: false,
       title: "Count Prefix and Suffix Pairs II",
@@ -21366,6 +24411,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 58.93579781719267,
       frontendQuestionId: "3046",
       paidOnly: false,
       title: "Split the Array",
@@ -21373,6 +24419,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 45.5457938820102,
       frontendQuestionId: "3047",
       paidOnly: false,
       title: "Find the Largest Area of Square Inside Two Rectangles",
@@ -21380,6 +24427,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.30319712047427,
       frontendQuestionId: "3048",
       paidOnly: false,
       title: "Earliest Second to Mark Indices I",
@@ -21387,6 +24435,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 22.72482014388489,
       frontendQuestionId: "3049",
       paidOnly: false,
       title: "Earliest Second to Mark Indices II",
@@ -21394,6 +24443,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 65.27896995708154,
       frontendQuestionId: "3050",
       paidOnly: true,
       title: "Pizza Toppings Cost Analysis",
@@ -21401,6 +24451,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.57775189283635,
       frontendQuestionId: "3051",
       paidOnly: true,
       title: "Find Candidates for Data Scientist Position",
@@ -21408,6 +24459,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.75713121434393,
       frontendQuestionId: "3052",
       paidOnly: true,
       title: "Maximize Items",
@@ -21415,6 +24467,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 49.23512747875354,
       frontendQuestionId: "3053",
       paidOnly: true,
       title: "Classifying Triangles by Lengths",
@@ -21422,6 +24475,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 80.29166666666666,
       frontendQuestionId: "3054",
       paidOnly: true,
       title: "Binary Tree Nodes",
@@ -21429,6 +24483,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.19301164725458,
       frontendQuestionId: "3055",
       paidOnly: true,
       title: "Top Percentile Fraud",
@@ -21436,6 +24491,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.88667687595712,
       frontendQuestionId: "3056",
       paidOnly: true,
       title: "Snaps Analysis",
@@ -21443,6 +24499,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.91317547055252,
       frontendQuestionId: "3057",
       paidOnly: true,
       title: "Employees Project Allocation",
@@ -21450,6 +24507,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 50.23006134969326,
       frontendQuestionId: "3058",
       paidOnly: true,
       title: "Friends With No Mutual Friends",
@@ -21457,6 +24515,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.67676767676768,
       frontendQuestionId: "3059",
       paidOnly: true,
       title: "Find All Unique Email Domains",
@@ -21464,6 +24523,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.31155015197568,
       frontendQuestionId: "3060",
       paidOnly: true,
       title: "User Activities within Time Bounds",
@@ -21471,6 +24531,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.05714285714286,
       frontendQuestionId: "3061",
       paidOnly: true,
       title: "Calculate Trapping Rain Water",
@@ -21478,6 +24539,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 80.16956715751896,
       frontendQuestionId: "3062",
       paidOnly: true,
       title: "Winner of the Linked List Game",
@@ -21485,6 +24547,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 85.8223219479764,
       frontendQuestionId: "3063",
       paidOnly: true,
       title: "Linked List Frequency",
@@ -21492,6 +24555,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 90.45189504373178,
       frontendQuestionId: "3064",
       paidOnly: true,
       title: "Guess the Number Using Bitwise Questions I",
@@ -21499,6 +24563,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.29618891993042,
       frontendQuestionId: "3065",
       paidOnly: false,
       title: "Minimum Operations to Exceed Threshold Value I",
@@ -21506,6 +24571,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 28.036974397853854,
       frontendQuestionId: "3066",
       paidOnly: false,
       title: "Minimum Operations to Exceed Threshold Value II",
@@ -21513,6 +24579,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.15770012941394,
       frontendQuestionId: "3067",
       paidOnly: false,
       title: "Count Pairs of Connectable Servers in a Weighted Tree Network",
@@ -21521,6 +24588,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 66.69184360459153,
       frontendQuestionId: "3068",
       paidOnly: false,
       title: "Find the Maximum Sum of Node Values",
@@ -21528,6 +24596,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.04846376243445,
       frontendQuestionId: "3069",
       paidOnly: false,
       title: "Distribute Elements Into Two Arrays I",
@@ -21535,6 +24604,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 59.425546294210406,
       frontendQuestionId: "3070",
       paidOnly: false,
       title: "Count Submatrices with Top-Left Element and Sum Less Than k",
@@ -21542,6 +24612,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 63.32979992049821,
       frontendQuestionId: "3071",
       paidOnly: false,
       title: "Minimum Operations to Write the Letter Y on a Grid",
@@ -21549,6 +24620,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.050547327752735,
       frontendQuestionId: "3072",
       paidOnly: false,
       title: "Distribute Elements Into Two Arrays II",
@@ -21556,6 +24628,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 40.2834008097166,
       frontendQuestionId: "3073",
       paidOnly: true,
       title: "Maximum Increasing Triplet Value",
@@ -21563,6 +24636,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.4340273911591,
       frontendQuestionId: "3074",
       paidOnly: false,
       title: "Apple Redistribution into Boxes",
@@ -21570,6 +24644,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.010519044179986,
       frontendQuestionId: "3075",
       paidOnly: false,
       title: "Maximize Happiness of Selected Children",
@@ -21577,6 +24652,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.26629709475413,
       frontendQuestionId: "3076",
       paidOnly: false,
       title: "Shortest Uncommon Substring in an Array",
@@ -21584,6 +24660,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.003288904275575,
       frontendQuestionId: "3077",
       paidOnly: false,
       title: "Maximum Strength of K Disjoint Subarrays",
@@ -21591,6 +24668,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.18181818181817,
       frontendQuestionId: "3078",
       paidOnly: true,
       title: "Match Alphanumerical Pattern in Matrix I",
@@ -21598,6 +24676,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 74.64185473011341,
       frontendQuestionId: "3079",
       paidOnly: false,
       title: "Find the Sum of Encrypted Integers",
@@ -21605,6 +24684,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 49.48771591031005,
       frontendQuestionId: "3080",
       paidOnly: false,
       title: "Mark Elements on Array by Performing Queries",
@@ -21612,6 +24692,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.673272306608993,
       frontendQuestionId: "3081",
       paidOnly: false,
       title: "Replace Question Marks in String to Minimize Its Value",
@@ -21619,6 +24700,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.15172988745311,
       frontendQuestionId: "3082",
       paidOnly: false,
       title: "Find the Sum of the Power of All Subsequences",
@@ -21626,6 +24708,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.34798395361776,
       frontendQuestionId: "3083",
       paidOnly: false,
       title: "Existence of a Substring in a String and Its Reverse",
@@ -21633,6 +24716,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.960459267647174,
       frontendQuestionId: "3084",
       paidOnly: false,
       title: "Count Substrings Starting and Ending with Given Character",
@@ -21640,6 +24724,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 44.191424229744314,
       frontendQuestionId: "3085",
       paidOnly: false,
       title: "Minimum Deletions to Make String K-Special",
@@ -21647,6 +24732,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 23.520318021201415,
       frontendQuestionId: "3086",
       paidOnly: false,
       title: "Minimum Moves to Pick K Ones",
@@ -21654,6 +24740,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.163588390501324,
       frontendQuestionId: "3087",
       paidOnly: true,
       title: "Find Trending Hashtags",
@@ -21661,6 +24748,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.863436123348016,
       frontendQuestionId: "3088",
       paidOnly: true,
       title: "Make String Anti-palindrome",
@@ -21668,6 +24756,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 39.550742077817894,
       frontendQuestionId: "3089",
       paidOnly: true,
       title: "Find Bursty Behavior",
@@ -21675,6 +24764,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 64.08303004132996,
       frontendQuestionId: "3090",
       paidOnly: false,
       title: "Maximum Length Substring With Two Occurrences",
@@ -21682,6 +24772,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 44.603204944407274,
       frontendQuestionId: "3091",
       paidOnly: false,
       title: "Apply Operations to Make Sum of Array Greater Than or Equal to k",
@@ -21690,6 +24781,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 42.814307587614834,
       frontendQuestionId: "3092",
       paidOnly: false,
       title: "Most Frequent IDs",
@@ -21697,6 +24789,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.183904432568376,
       frontendQuestionId: "3093",
       paidOnly: false,
       title: "Longest Common Suffix Queries",
@@ -21704,6 +24797,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 81.86968838526913,
       frontendQuestionId: "3094",
       paidOnly: true,
       title: "Guess the Number Using Bitwise Questions II",
@@ -21711,6 +24805,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.35360157813815,
       frontendQuestionId: "3095",
       paidOnly: false,
       title: "Shortest Subarray With OR at Least K I",
@@ -21718,6 +24813,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.74417252593521,
       frontendQuestionId: "3096",
       paidOnly: false,
       title: "Minimum Levels to Gain More Points",
@@ -21725,6 +24821,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.596407922794523,
       frontendQuestionId: "3097",
       paidOnly: false,
       title: "Shortest Subarray With OR at Least K II",
@@ -21732,6 +24829,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 24.700049578582053,
       frontendQuestionId: "3098",
       paidOnly: false,
       title: "Find the Sum of Subsequence Powers",
@@ -21739,6 +24837,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 82.99190527336076,
       frontendQuestionId: "3099",
       paidOnly: false,
       title: "Harshad Number",
@@ -21746,6 +24845,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.84486092787045,
       frontendQuestionId: "3100",
       paidOnly: false,
       title: "Water Bottles II",
@@ -21753,6 +24853,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.390998930344686,
       frontendQuestionId: "3101",
       paidOnly: false,
       title: "Count Alternating Subarrays",
@@ -21760,6 +24861,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 32.8421531118603,
       frontendQuestionId: "3102",
       paidOnly: false,
       title: "Minimize Manhattan Distances",
@@ -21767,6 +24869,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.0655105973025,
       frontendQuestionId: "3103",
       paidOnly: true,
       title: "Find Trending Hashtags II ",
@@ -21774,6 +24877,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 55.82371458551941,
       frontendQuestionId: "3104",
       paidOnly: true,
       title: "Find Longest Self-Contained Substring",
@@ -21781,6 +24885,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 57.18473458939458,
       frontendQuestionId: "3105",
       paidOnly: false,
       title: "Longest Strictly Increasing or Strictly Decreasing Subarray",
@@ -21788,6 +24893,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.67670522536897,
       frontendQuestionId: "3106",
       paidOnly: false,
       title:
@@ -21797,6 +24903,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 48.623087081488386,
       frontendQuestionId: "3107",
       paidOnly: false,
       title: "Minimum Operations to Make Median of Array Equal to K",
@@ -21804,6 +24911,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.11709810021109,
       frontendQuestionId: "3108",
       paidOnly: false,
       title: "Minimum Cost Walk in Weighted Graph",
@@ -21811,6 +24919,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 42.28007181328546,
       frontendQuestionId: "3109",
       paidOnly: true,
       title: "Find the Index of Permutation",
@@ -21818,6 +24927,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 92.93518826016762,
       frontendQuestionId: "3110",
       paidOnly: false,
       title: "Score of a String",
@@ -21825,6 +24935,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 63.79035519710704,
       frontendQuestionId: "3111",
       paidOnly: false,
       title: "Minimum Rectangles to Cover Points",
@@ -21832,6 +24943,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.90996612586914,
       frontendQuestionId: "3112",
       paidOnly: false,
       title: "Minimum Time to Visit Disappearing Nodes",
@@ -21839,6 +24951,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.42500899172761,
       frontendQuestionId: "3113",
       paidOnly: false,
       title: "Find the Number of Subarrays Where Boundary Elements Are Maximum",
@@ -21847,6 +24960,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 35.72769028191065,
       frontendQuestionId: "3114",
       paidOnly: false,
       title: "Latest Time You Can Obtain After Replacing Characters",
@@ -21854,6 +24968,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 58.289695571136946,
       frontendQuestionId: "3115",
       paidOnly: false,
       title: "Maximum Prime Difference",
@@ -21861,6 +24976,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 17.02861701066906,
       frontendQuestionId: "3116",
       paidOnly: false,
       title: "Kth Smallest Amount With Single Denomination Combination",
@@ -21868,6 +24984,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 28.307262569832403,
       frontendQuestionId: "3117",
       paidOnly: false,
       title: "Minimum Sum of Values by Dividing Array",
@@ -21875,6 +24992,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 59.263959390862944,
       frontendQuestionId: "3118",
       paidOnly: true,
       title: "Friday Purchase III ",
@@ -21882,6 +25000,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.51821386603995,
       frontendQuestionId: "3119",
       paidOnly: true,
       title: "Maximum Number of Potholes That Can Be Fixed",
@@ -21889,6 +25008,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.85171517235595,
       frontendQuestionId: "3120",
       paidOnly: false,
       title: "Count the Number of Special Characters I",
@@ -21896,6 +25016,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.66174288677932,
       frontendQuestionId: "3121",
       paidOnly: false,
       title: "Count the Number of Special Characters II",
@@ -21903,6 +25024,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.349645271213895,
       frontendQuestionId: "3122",
       paidOnly: false,
       title: "Minimum Number of Operations to Satisfy Conditions",
@@ -21910,6 +25032,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.801898537192656,
       frontendQuestionId: "3123",
       paidOnly: false,
       title: "Find Edges in Shortest Paths",
@@ -21917,6 +25040,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 63.84704519119351,
       frontendQuestionId: "3124",
       paidOnly: true,
       title: "Find Longest Calls",
@@ -21924,6 +25048,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.0888450148075,
       frontendQuestionId: "3125",
       paidOnly: true,
       title: "Maximum Number That Makes Result of Bitwise AND Zero",
@@ -21931,6 +25056,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.905138339920946,
       frontendQuestionId: "3126",
       paidOnly: true,
       title: "Server Utilization Time",
@@ -21938,6 +25064,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.61514817607144,
       frontendQuestionId: "3127",
       paidOnly: false,
       title: "Make a Square with the Same Color",
@@ -21945,6 +25072,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.74430455635492,
       frontendQuestionId: "3128",
       paidOnly: false,
       title: "Right Triangles",
@@ -21952,6 +25080,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.01480956718281,
       frontendQuestionId: "3129",
       paidOnly: false,
       title: "Find All Possible Stable Binary Arrays I",
@@ -21959,6 +25088,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.568858504992356,
       frontendQuestionId: "3130",
       paidOnly: false,
       title: "Find All Possible Stable Binary Arrays II",
@@ -21966,6 +25096,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 82.31747779801488,
       frontendQuestionId: "3131",
       paidOnly: false,
       title: "Find the Integer Added to Array I",
@@ -21973,6 +25104,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 31.337225146660163,
       frontendQuestionId: "3132",
       paidOnly: false,
       title: "Find the Integer Added to Array II",
@@ -21980,6 +25112,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.170676228959834,
       frontendQuestionId: "3133",
       paidOnly: false,
       title: "Minimum Array End",
@@ -21987,6 +25120,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.812605514912775,
       frontendQuestionId: "3134",
       paidOnly: false,
       title: "Find the Median of the Uniqueness Array",
@@ -21994,6 +25128,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.039441248972885,
       frontendQuestionId: "3135",
       paidOnly: true,
       title: "Equalize Strings by Adding or Removing Characters at Ends",
@@ -22001,6 +25136,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.00868006747259,
       frontendQuestionId: "3136",
       paidOnly: false,
       title: "Valid Word",
@@ -22008,6 +25144,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.826849693958565,
       frontendQuestionId: "3137",
       paidOnly: false,
       title: "Minimum Number of Operations to Make Word K-Periodic",
@@ -22015,6 +25152,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.842229849686355,
       frontendQuestionId: "3138",
       paidOnly: false,
       title: "Minimum Length of Anagram Concatenation",
@@ -22022,6 +25160,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 16.89546744382238,
       frontendQuestionId: "3139",
       paidOnly: false,
       title: "Minimum Cost to Equalize Array",
@@ -22029,6 +25168,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.974178403755865,
       frontendQuestionId: "3140",
       paidOnly: true,
       title: "Consecutive Available Seats II",
@@ -22036,6 +25176,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 70.99841521394612,
       frontendQuestionId: "3141",
       paidOnly: true,
       title: "Maximum Hamming Distances",
@@ -22043,6 +25184,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 43.59266237504579,
       frontendQuestionId: "3142",
       paidOnly: false,
       title: "Check if Grid Satisfies Conditions",
@@ -22050,6 +25192,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.037766977304145,
       frontendQuestionId: "3143",
       paidOnly: false,
       title: "Maximum Points Inside the Square",
@@ -22057,6 +25200,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.1866902237927,
       frontendQuestionId: "3144",
       paidOnly: false,
       title: "Minimum Substring Partition of Equal Character Frequency",
@@ -22064,6 +25208,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.722721121909213,
       frontendQuestionId: "3145",
       paidOnly: false,
       title: "Find Products of Elements of Big Array",
@@ -22071,6 +25216,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 89.15907397168064,
       frontendQuestionId: "3146",
       paidOnly: false,
       title: "Permutation Difference between Two Strings",
@@ -22078,6 +25224,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 40.66752457355639,
       frontendQuestionId: "3147",
       paidOnly: false,
       title: "Taking Maximum Energy From the Mystic Dungeon",
@@ -22085,6 +25232,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.83442838370565,
       frontendQuestionId: "3148",
       paidOnly: false,
       title: "Maximum Difference Score in a Grid",
@@ -22092,6 +25240,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 23.226448705857695,
       frontendQuestionId: "3149",
       paidOnly: false,
       title: "Find the Minimum Cost Array Permutation",
@@ -22099,6 +25248,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.86926605504587,
       frontendQuestionId: "3150",
       paidOnly: true,
       title: "Invalid Tweets II",
@@ -22106,6 +25256,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 75.75461151481274,
       frontendQuestionId: "3151",
       paidOnly: false,
       title: "Special Array I",
@@ -22113,6 +25264,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 30.207986609732668,
       frontendQuestionId: "3152",
       paidOnly: false,
       title: "Special Array II",
@@ -22120,6 +25272,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 43.55405801347788,
       frontendQuestionId: "3153",
       paidOnly: false,
       title: "Sum of Digit Differences of All Pairs",
@@ -22127,6 +25280,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 36.650726916781664,
       frontendQuestionId: "3154",
       paidOnly: false,
       title: "Find Number of Ways to Reach the K-th Stair",
@@ -22134,6 +25288,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 47.289293849658314,
       frontendQuestionId: "3155",
       paidOnly: true,
       title: "Maximum Number of Upgradable Servers",
@@ -22141,6 +25296,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.9143897996357,
       frontendQuestionId: "3156",
       paidOnly: true,
       title: "Employee Task Duration and Concurrent Tasks",
@@ -22148,6 +25304,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.47261663286004,
       frontendQuestionId: "3157",
       paidOnly: true,
       title: "Find the Level of Tree with Minimum Sum",
@@ -22155,6 +25312,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.0334238063536,
       frontendQuestionId: "3158",
       paidOnly: false,
       title: "Find the XOR of Numbers Which Appear Twice",
@@ -22162,6 +25320,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.42657342657343,
       frontendQuestionId: "3159",
       paidOnly: false,
       title: "Find Occurrences of an Element in an Array",
@@ -22169,6 +25328,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 41.23935989104528,
       frontendQuestionId: "3160",
       paidOnly: false,
       title: "Find the Number of Distinct Colors Among the Balls",
@@ -22176,6 +25336,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 14.275602366997934,
       frontendQuestionId: "3161",
       paidOnly: false,
       title: "Block Placement Queries",
@@ -22183,6 +25344,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 86.74323535137239,
       frontendQuestionId: "3162",
       paidOnly: false,
       title: "Find the Number of Good Pairs I",
@@ -22190,6 +25352,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.92334973744261,
       frontendQuestionId: "3163",
       paidOnly: false,
       title: "String Compression III",
@@ -22197,6 +25360,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 25.70696179354681,
       frontendQuestionId: "3164",
       paidOnly: false,
       title: "Find the Number of Good Pairs II",
@@ -22204,6 +25368,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 16.990250105977108,
       frontendQuestionId: "3165",
       paidOnly: false,
       title: "Maximum Sum of Subsequence With Non-adjacent Elements",
@@ -22211,6 +25376,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.93428722840488,
       frontendQuestionId: "3166",
       paidOnly: true,
       title: "Calculate Parking Fees and Duration",
@@ -22218,6 +25384,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 75.930890676199,
       frontendQuestionId: "3167",
       paidOnly: true,
       title: "Better Compression of String",
@@ -22225,6 +25392,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 80.62627253407048,
       frontendQuestionId: "3168",
       paidOnly: false,
       title: "Minimum Number of Chairs in a Waiting Room",
@@ -22232,6 +25400,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.95416096800328,
       frontendQuestionId: "3169",
       paidOnly: false,
       title: "Count Days Without Meetings",
@@ -22239,6 +25408,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.87723952169122,
       frontendQuestionId: "3170",
       paidOnly: false,
       title: "Lexicographically Minimum String After Removing Stars",
@@ -22246,6 +25416,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.09492374231732,
       frontendQuestionId: "3171",
       paidOnly: false,
       title: "Find Subarray With Bitwise OR Closest to K",
@@ -22253,6 +25424,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 70.52401746724891,
       frontendQuestionId: "3172",
       paidOnly: true,
       title: "Second Day Verification",
@@ -22260,6 +25432,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 95.59519475791772,
       frontendQuestionId: "3173",
       paidOnly: true,
       title: "Bitwise OR of Adjacent Elements",
@@ -22267,6 +25440,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.1341629021977,
       frontendQuestionId: "3174",
       paidOnly: false,
       title: "Clear Digits",
@@ -22274,6 +25448,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.624322329405175,
       frontendQuestionId: "3175",
       paidOnly: false,
       title: "Find The First Player to win K Games in a Row",
@@ -22281,6 +25456,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 30.73202192841019,
       frontendQuestionId: "3176",
       paidOnly: false,
       title: "Find the Maximum Length of a Good Subsequence I",
@@ -22288,6 +25464,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 24.64915437207629,
       frontendQuestionId: "3177",
       paidOnly: false,
       title: "Find the Maximum Length of a Good Subsequence II",
@@ -22295,6 +25472,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 62.044662654418744,
       frontendQuestionId: "3178",
       paidOnly: false,
       title: "Find the Child Who Has the Ball After K Seconds",
@@ -22302,6 +25480,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 54.592049157968795,
       frontendQuestionId: "3179",
       paidOnly: false,
       title: "Find the N-th Value After K Seconds",
@@ -22309,6 +25488,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.551959743317486,
       frontendQuestionId: "3180",
       paidOnly: false,
       title: "Maximum Total Reward Using Operations I",
@@ -22316,6 +25496,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 21.102465547951628,
       frontendQuestionId: "3181",
       paidOnly: false,
       title: "Maximum Total Reward Using Operations II",
@@ -22323,6 +25504,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.12107623318386,
       frontendQuestionId: "3182",
       paidOnly: true,
       title: "Find Top Scoring Students",
@@ -22330,6 +25512,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.51586765698852,
       frontendQuestionId: "3183",
       paidOnly: true,
       title: "The Number of Ways to Make the Sum",
@@ -22337,6 +25520,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 79.29598893499309,
       frontendQuestionId: "3184",
       paidOnly: false,
       title: "Count Pairs That Form a Complete Day I",
@@ -22344,6 +25528,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 42.969251165376555,
       frontendQuestionId: "3185",
       paidOnly: false,
       title: "Count Pairs That Form a Complete Day II",
@@ -22351,6 +25536,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.456915791192642,
       frontendQuestionId: "3186",
       paidOnly: false,
       title: "Maximum Total Damage With Spell Casting",
@@ -22358,6 +25544,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.15882864250817,
       frontendQuestionId: "3187",
       paidOnly: false,
       title: "Peaks in Array",
@@ -22365,6 +25552,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 39.1642371234208,
       frontendQuestionId: "3188",
       paidOnly: true,
       title: "Find Top Scoring Students II",
@@ -22372,6 +25560,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 77.06780923994039,
       frontendQuestionId: "3189",
       paidOnly: true,
       title: "Minimum Moves to Get a Peaceful Board",
@@ -22379,6 +25568,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 89.86999551035547,
       frontendQuestionId: "3190",
       paidOnly: false,
       title: "Find Minimum Operations to Make All Elements Divisible by Three",
@@ -22387,6 +25577,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 71.07633722139555,
       frontendQuestionId: "3191",
       paidOnly: false,
       title: "Minimum Operations to Make Binary Array Elements Equal to One I",
@@ -22395,6 +25586,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 65.36232419063089,
       frontendQuestionId: "3192",
       paidOnly: false,
       title: "Minimum Operations to Make Binary Array Elements Equal to One II",
@@ -22403,6 +25595,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 33.72489193999492,
       frontendQuestionId: "3193",
       paidOnly: false,
       title: "Count the Number of Inversions",
@@ -22410,6 +25603,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 85.36347022691507,
       frontendQuestionId: "3194",
       paidOnly: false,
       title: "Minimum Average of Smallest and Largest Elements",
@@ -22417,6 +25611,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 73.77352612384774,
       frontendQuestionId: "3195",
       paidOnly: false,
       title: "Find the Minimum Area to Cover All Ones I",
@@ -22424,6 +25619,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 28.687424417600234,
       frontendQuestionId: "3196",
       paidOnly: false,
       title: "Maximize Total Cost of Alternating Subarrays",
@@ -22431,6 +25627,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.00132034989272,
       frontendQuestionId: "3197",
       paidOnly: false,
       title: "Find the Minimum Area to Cover All Ones II",
@@ -22438,6 +25635,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 82.70308123249299,
       frontendQuestionId: "3198",
       paidOnly: true,
       title: "Find Cities in Each State",
@@ -22445,6 +25643,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 84.38864628820961,
       frontendQuestionId: "3199",
       paidOnly: true,
       title: "Count Triplets with Even XOR Set Bits I",
@@ -22452,6 +25651,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 42.8381682260567,
       frontendQuestionId: "3200",
       paidOnly: false,
       title: "Maximum Height of a Triangle",
@@ -22459,6 +25659,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 37.97725842565086,
       frontendQuestionId: "3201",
       paidOnly: false,
       title: "Find the Maximum Length of Valid Subsequence I",
@@ -22466,6 +25667,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 39.62246713338416,
       frontendQuestionId: "3202",
       paidOnly: false,
       title: "Find the Maximum Length of Valid Subsequence II",
@@ -22473,6 +25675,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 35.896510228640196,
       frontendQuestionId: "3203",
       paidOnly: false,
       title: "Find Minimum Diameter After Merging Two Trees",
@@ -22480,6 +25683,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 93.993993993994,
       frontendQuestionId: "3204",
       paidOnly: true,
       title: "Bitwise User Permissions Analysis",
@@ -22487,6 +25691,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 80.34528552456838,
       frontendQuestionId: "3205",
       paidOnly: true,
       title: "Maximum Array Hopping Score I",
@@ -22494,6 +25699,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 67.09258895223118,
       frontendQuestionId: "3206",
       paidOnly: false,
       title: "Alternating Groups I",
@@ -22501,6 +25707,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 31.930239800685143,
       frontendQuestionId: "3207",
       paidOnly: false,
       title: "Maximum Points After Enemy Battles",
@@ -22508,6 +25715,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.759326050215186,
       frontendQuestionId: "3208",
       paidOnly: false,
       title: "Alternating Groups II",
@@ -22515,6 +25723,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.39824945295405,
       frontendQuestionId: "3209",
       paidOnly: false,
       title: "Number of Subarrays With AND Value of K",
@@ -22522,6 +25731,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.1549005992336,
       frontendQuestionId: "3210",
       paidOnly: false,
       title: "Find the Encrypted String",
@@ -22529,6 +25739,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 86.54400094056787,
       frontendQuestionId: "3211",
       paidOnly: false,
       title: "Generate Binary Strings Without Adjacent Zeros",
@@ -22536,6 +25747,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 52.146989694449466,
       frontendQuestionId: "3212",
       paidOnly: false,
       title: "Count Submatrices With Equal Frequency of X and Y",
@@ -22543,6 +25755,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 20.083221147962306,
       frontendQuestionId: "3213",
       paidOnly: false,
       title: "Construct String with Minimum Cost",
@@ -22550,6 +25763,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.4018691588785,
       frontendQuestionId: "3214",
       paidOnly: true,
       title: "Year on Year Growth Rate",
@@ -22557,6 +25771,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.94957983193278,
       frontendQuestionId: "3215",
       paidOnly: true,
       title: "Count Triplets with Even XOR Set Bits II",
@@ -22564,6 +25779,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.829954311821815,
       frontendQuestionId: "3216",
       paidOnly: false,
       title: "Lexicographically Smallest String After a Swap",
@@ -22571,6 +25787,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 69.1416356408153,
       frontendQuestionId: "3217",
       paidOnly: false,
       title: "Delete Nodes From Linked List Present in Array",
@@ -22578,6 +25795,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 58.1118117605116,
       frontendQuestionId: "3218",
       paidOnly: false,
       title: "Minimum Cost for Cutting Cake I",
@@ -22585,6 +25803,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 56.09004933089858,
       frontendQuestionId: "3219",
       paidOnly: false,
       title: "Minimum Cost for Cutting Cake II",
@@ -22592,6 +25811,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.94993596460588,
       frontendQuestionId: "3220",
       paidOnly: false,
       title: "Odd and Even Transactions",
@@ -22599,6 +25819,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 68.23855755894591,
       frontendQuestionId: "3221",
       paidOnly: true,
       title: "Maximum Array Hopping Score II",
@@ -22606,6 +25827,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 51.74068987586501,
       frontendQuestionId: "3222",
       paidOnly: false,
       title: "Find the Winning Player in Coin Game",
@@ -22613,6 +25835,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.28540222243328,
       frontendQuestionId: "3223",
       paidOnly: false,
       title: "Minimum Length of String After Operations",
@@ -22620,6 +25843,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 23.128150410243205,
       frontendQuestionId: "3224",
       paidOnly: false,
       title: "Minimum Array Changes to Make Differences Equal",
@@ -22627,6 +25851,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.87256267409471,
       frontendQuestionId: "3225",
       paidOnly: false,
       title: "Maximum Score From Grid Operations",
@@ -22634,6 +25859,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 64.70442010409384,
       frontendQuestionId: "3226",
       paidOnly: false,
       title: "Number of Bit Changes to Make Two Integers Equal",
@@ -22641,6 +25867,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 62.82501519551563,
       frontendQuestionId: "3227",
       paidOnly: false,
       title: "Vowels Game in a String",
@@ -22648,6 +25875,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 54.077050342708574,
       frontendQuestionId: "3228",
       paidOnly: false,
       title: "Maximum Number of Operations to Move Ones to the End",
@@ -22655,6 +25883,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 38.62298170779578,
       frontendQuestionId: "3229",
       paidOnly: false,
       title: "Minimum Operations to Make Array Equal to Target",
@@ -22662,6 +25891,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 39.00911161731207,
       frontendQuestionId: "3230",
       paidOnly: true,
       title: "Customer Purchasing Behavior Analysis",
@@ -22669,6 +25899,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.35714285714286,
       frontendQuestionId: "3231",
       paidOnly: true,
       title: "Minimum Number of Increasing Subsequence to Be Removed",
@@ -22676,6 +25907,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.30897552369291,
       frontendQuestionId: "3232",
       paidOnly: false,
       title: "Find if Digit Game Can Be Won",
@@ -22683,6 +25915,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 26.707706975482665,
       frontendQuestionId: "3233",
       paidOnly: false,
       title: "Find the Count of Numbers Which Are Not Special",
@@ -22690,6 +25923,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 15.826261723983922,
       frontendQuestionId: "3234",
       paidOnly: false,
       title: "Count the Number of Substrings With Dominant Ones",
@@ -22697,6 +25931,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 27.8782412626832,
       frontendQuestionId: "3235",
       paidOnly: false,
       title: "Check if the Rectangle Corner Is Reachable",
@@ -22704,6 +25939,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 73.43485617597293,
       frontendQuestionId: "3236",
       paidOnly: true,
       title: "CEO Subordinate Hierarchy",
@@ -22711,6 +25947,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 78.63463969658659,
       frontendQuestionId: "3237",
       paidOnly: true,
       title: "Alt and Tab Simulation",
@@ -22718,6 +25955,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 61.3145883363285,
       frontendQuestionId: "3238",
       paidOnly: false,
       title: "Find the Number of Winning Players",
@@ -22725,6 +25963,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 78.23559334350702,
       frontendQuestionId: "3239",
       paidOnly: false,
       title: "Minimum Number of Flips to Make Binary Grid Palindromic I",
@@ -22732,6 +25971,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 23.11421369012992,
       frontendQuestionId: "3240",
       paidOnly: false,
       title: "Minimum Number of Flips to Make Binary Grid Palindromic II",
@@ -22739,6 +25979,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 24.293075279628003,
       frontendQuestionId: "3241",
       paidOnly: false,
       title: "Time Taken to Mark All Nodes",
@@ -22746,6 +25987,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.11907421048879,
       frontendQuestionId: "3242",
       paidOnly: false,
       title: "Design Neighbor Sum Service",
@@ -22753,6 +25995,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.29779344274333,
       frontendQuestionId: "3243",
       paidOnly: false,
       title: "Shortest Distance After Road Addition Queries I",
@@ -22760,6 +26003,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 23.59313480237541,
       frontendQuestionId: "3244",
       paidOnly: false,
       title: "Shortest Distance After Road Addition Queries II",
@@ -22767,6 +26011,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 14.438780817642776,
       frontendQuestionId: "3245",
       paidOnly: false,
       title: "Alternating Groups III",
@@ -22774,6 +26019,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 83.16742081447964,
       frontendQuestionId: "3246",
       paidOnly: true,
       title: "Premier League Table Ranking",
@@ -22781,6 +26027,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.35714285714286,
       frontendQuestionId: "3247",
       paidOnly: true,
       title: "Number of Subsequences with Odd Sum",
@@ -22788,6 +26035,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 82.27282297115649,
       frontendQuestionId: "3248",
       paidOnly: false,
       title: "Snake in Matrix",
@@ -22795,6 +26043,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 55.71076949650229,
       frontendQuestionId: "3249",
       paidOnly: false,
       title: "Count the Number of Good Nodes",
@@ -22802,6 +26051,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 46.01851576221237,
       frontendQuestionId: "3250",
       paidOnly: false,
       title: "Find the Count of Monotonic Pairs I",
@@ -22809,6 +26059,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 22.630100647577436,
       frontendQuestionId: "3251",
       paidOnly: false,
       title: "Find the Count of Monotonic Pairs II",
@@ -22816,6 +26067,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 56.20608899297424,
       frontendQuestionId: "3252",
       paidOnly: true,
       title: "Premier League Table Ranking II",
@@ -22823,6 +26075,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 55.31295487627366,
       frontendQuestionId: "3253",
       paidOnly: true,
       title: "Construct String with Minimum Cost (Easy)",
@@ -22830,6 +26083,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 53.705428511850975,
       frontendQuestionId: "3254",
       paidOnly: false,
       title: "Find the Power of K-Size Subarrays I",
@@ -22837,6 +26091,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 26.60118138979226,
       frontendQuestionId: "3255",
       paidOnly: false,
       title: "Find the Power of K-Size Subarrays II",
@@ -22844,6 +26099,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 14.334530969304069,
       frontendQuestionId: "3256",
       paidOnly: false,
       title: "Maximum Value Sum by Placing Three Rooks I",
@@ -22851,6 +26107,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 27.8679902701992,
       frontendQuestionId: "3257",
       paidOnly: false,
       title: "Maximum Value Sum by Placing Three Rooks II",
@@ -22858,6 +26115,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 80.05232992773486,
       frontendQuestionId: "3258",
       paidOnly: false,
       title: "Count Substrings That Satisfy K-Constraint I",
@@ -22865,6 +26123,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 48.89327997608887,
       frontendQuestionId: "3259",
       paidOnly: false,
       title: "Maximum Energy Boost From Two Drinks",
@@ -22872,6 +26131,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 14.469809357217192,
       frontendQuestionId: "3260",
       paidOnly: false,
       title: "Find the Largest Palindrome Divisible by K",
@@ -22879,6 +26139,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 21.05849286737021,
       frontendQuestionId: "3261",
       paidOnly: false,
       title: "Count Substrings That Satisfy K-Constraint II",
@@ -22886,6 +26147,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 60.61827956989247,
       frontendQuestionId: "3262",
       paidOnly: true,
       title: "Find Overlapping Shifts",
@@ -22893,6 +26155,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 95.36019536019536,
       frontendQuestionId: "3263",
       paidOnly: true,
       title: "Convert Doubly Linked List to Array I",
@@ -22900,6 +26163,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 81.75777762516311,
       frontendQuestionId: "3264",
       paidOnly: false,
       title: "Final Array State After K Multiplication Operations I",
@@ -22907,6 +26171,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 36.95064540622627,
       frontendQuestionId: "3265",
       paidOnly: false,
       title: "Count Almost Equal Pairs I",
@@ -22914,6 +26179,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 10.029990003332223,
       frontendQuestionId: "3266",
       paidOnly: false,
       title: "Final Array State After K Multiplication Operations II",
@@ -22921,6 +26187,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 20.62259955528603,
       frontendQuestionId: "3267",
       paidOnly: false,
       title: "Count Almost Equal Pairs II",
@@ -22928,6 +26195,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 77.62803234501348,
       frontendQuestionId: "3268",
       paidOnly: true,
       title: "Find Overlapping Shifts II",
@@ -22935,6 +26203,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 66.75675675675676,
       frontendQuestionId: "3269",
       paidOnly: true,
       title: "Constructing Two Increasing Arrays",
@@ -22942,6 +26211,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 76.62122110254892,
       frontendQuestionId: "3270",
       paidOnly: false,
       title: "Find the Key of the Numbers",
@@ -22949,6 +26219,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 84.51273353121648,
       frontendQuestionId: "3271",
       paidOnly: false,
       title: "Hash Divided String",
@@ -22956,6 +26227,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 29.331643965790306,
       frontendQuestionId: "3272",
       paidOnly: false,
       title: "Find the Count of Good Integers",
@@ -22963,6 +26235,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 37.57934526781257,
       frontendQuestionId: "3273",
       paidOnly: false,
       title: "Minimum Amount of Damage Dealt to Bob",
@@ -22970,6 +26243,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.93321584268621,
       frontendQuestionId: "3274",
       paidOnly: false,
       title: "Check if Two Chessboard Squares Have the Same Color",
@@ -22977,6 +26251,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 47.61103951214912,
       frontendQuestionId: "3275",
       paidOnly: false,
       title: "K-th Nearest Obstacle Queries",
@@ -22984,6 +26259,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 13.231786722853839,
       frontendQuestionId: "3276",
       paidOnly: false,
       title: "Select Cells in Grid With Maximum Score",
@@ -22991,6 +26267,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 46.248939522482125,
       frontendQuestionId: "3277",
       paidOnly: false,
       title: "Maximum XOR Score Subarray Queries",
@@ -22998,6 +26275,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.28865979381443,
       frontendQuestionId: "3278",
       paidOnly: true,
       title: "Find Candidates for Data Scientist Position II",
@@ -23005,6 +26283,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 57.14285714285714,
       frontendQuestionId: "3279",
       paidOnly: true,
       title: "Maximum Total Area Occupied by Pistons",
@@ -23012,6 +26291,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 88.1527209013304,
       frontendQuestionId: "3280",
       paidOnly: false,
       title: "Convert Date to Binary",
@@ -23019,6 +26299,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.781524689471695,
       frontendQuestionId: "3281",
       paidOnly: false,
       title: "Maximize Score of Numbers in Ranges",
@@ -23026,6 +26307,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.015526133162787,
       frontendQuestionId: "3282",
       paidOnly: false,
       title: "Reach End of Array With Max Score",
@@ -23033,6 +26315,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 31.82714949404951,
       frontendQuestionId: "3283",
       paidOnly: false,
       title: "Maximum Number of Moves to Kill All Pawns",
@@ -23040,6 +26323,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 51.994091580502214,
       frontendQuestionId: "3284",
       paidOnly: true,
       title: "Sum of Consecutive Subarrays",
@@ -23047,6 +26331,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 86.488343333486,
       frontendQuestionId: "3285",
       paidOnly: false,
       title: "Find Indices of Stable Mountains",
@@ -23054,6 +26339,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 27.33439335265304,
       frontendQuestionId: "3286",
       paidOnly: false,
       title: "Find a Safe Walk Through a Grid",
@@ -23061,6 +26347,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 14.673224895295608,
       frontendQuestionId: "3287",
       paidOnly: false,
       title: "Find the Maximum Sequence Value of Array",
@@ -23068,6 +26355,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 15.433836703352958,
       frontendQuestionId: "3288",
       paidOnly: false,
       title: "Length of the Longest Increasing Path",
@@ -23075,6 +26363,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 88.85069579198314,
       frontendQuestionId: "3289",
       paidOnly: false,
       title: "The Two Sneaky Numbers of Digitville",
@@ -23082,6 +26371,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 41.5872928858251,
       frontendQuestionId: "3290",
       paidOnly: false,
       title: "Maximum Multiplication Score",
@@ -23089,6 +26379,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 17.967418978158083,
       frontendQuestionId: "3291",
       paidOnly: false,
       title: "Minimum Number of Valid Strings to Form Target I",
@@ -23096,6 +26387,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 15.90693757237604,
       frontendQuestionId: "3292",
       paidOnly: false,
       title: "Minimum Number of Valid Strings to Form Target II",
@@ -23103,6 +26395,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 84.75750577367207,
       frontendQuestionId: "3293",
       paidOnly: true,
       title: "Calculate Product Final Price",
@@ -23110,6 +26403,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 84.35374149659864,
       frontendQuestionId: "3294",
       paidOnly: true,
       title: "Convert Doubly Linked List to Array II",
@@ -23117,6 +26411,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 47.08365143418039,
       frontendQuestionId: "3295",
       paidOnly: false,
       title: "Report Spam Message",
@@ -23124,6 +26419,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 34.842467566852,
       frontendQuestionId: "3296",
       paidOnly: false,
       title: "Minimum Number of Seconds to Make Mountain Height Zero",
@@ -23131,6 +26427,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 40.59055693612045,
       frontendQuestionId: "3297",
       paidOnly: false,
       title: "Count Substrings That Can Be Rearranged to Contain a String I",
@@ -23139,6 +26436,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 59.80451127819549,
       frontendQuestionId: "3298",
       paidOnly: false,
       title: "Count Substrings That Can Be Rearranged to Contain a String II",
@@ -23147,6 +26445,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 54.340836012861736,
       frontendQuestionId: "3299",
       paidOnly: true,
       title: "Sum of Consecutive Subsequences",
@@ -23154,6 +26453,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 82.32320653561399,
       frontendQuestionId: "3300",
       paidOnly: false,
       title: "Minimum Element After Replacement With Digit Sum",
@@ -23161,6 +26461,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 33.78614069168924,
       frontendQuestionId: "3301",
       paidOnly: false,
       title: "Maximize the Total Height of Unique Towers",
@@ -23168,6 +26469,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 13.958152892373615,
       frontendQuestionId: "3302",
       paidOnly: false,
       title: "Find the Lexicographically Smallest Valid Sequence",
@@ -23175,6 +26477,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 8.138708607702876,
       frontendQuestionId: "3303",
       paidOnly: false,
       title: "Find the Occurrence of First Almost Equal Substring",
@@ -23182,6 +26485,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 68.84825899615699,
       frontendQuestionId: "3304",
       paidOnly: false,
       title: "Find the K-th Character in String Game I",
@@ -23189,6 +26493,7 @@ export const Questions = {
       difficulty: "Easy",
     },
     {
+      acRate: 39.604478814241986,
       frontendQuestionId: "3305",
       paidOnly: false,
       title: "Count of Substrings Containing Every Vowel and K Consonants I",
@@ -23197,6 +26502,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 16.25455803678369,
       frontendQuestionId: "3306",
       paidOnly: false,
       title: "Count of Substrings Containing Every Vowel and K Consonants II",
@@ -23205,6 +26511,7 @@ export const Questions = {
       difficulty: "Medium",
     },
     {
+      acRate: 24.40390462473996,
       frontendQuestionId: "3307",
       paidOnly: false,
       title: "Find the K-th Character in String Game II",
@@ -23212,6 +26519,7 @@ export const Questions = {
       difficulty: "Hard",
     },
     {
+      acRate: 69.41176470588235,
       frontendQuestionId: "3308",
       paidOnly: true,
       title: "Find Top Performing Driver",

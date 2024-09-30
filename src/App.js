@@ -91,6 +91,14 @@ function App() {
                 bg="warning"
                 style={{ fontSize: "1em", color: "#000" }}
               >
+                Acceptance rate:{" "}
+                {qd.acRate ? `${parseFloat(qd.acRate).toFixed(2)}%` : "No data"}
+              </Badge>
+              <Badge
+                className="text-center mt-1 mb-2 ms-4"
+                bg="warning"
+                style={{ fontSize: "1em", color: "#000" }}
+              >
                 {qd.paidOnly ? "Premium" : ""}
               </Badge>
             </center>
@@ -116,7 +124,8 @@ function App() {
       </Container>
       <div className="fixed-bottom text-center mb-4">
         <i className="">
-          Currently has {Questions.questions.length} questions. Updated as of
+          Database currently has {Questions.questions.length} questions. Updated
+          as of
           {` ${Questions.updatedDate}`}.
           <br />
           Question data taken from LeetCode's GraphQL API following{" "}
