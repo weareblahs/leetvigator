@@ -78,15 +78,20 @@ function App() {
             }}
           ></FormControl>
           <div className="ms-auto me-auto">
-            <h2 className="text-center mt-2 mb-2">
-              {`${qd.title} ${qd.paidOnly ? "(Premium)" : ""}`}{" "}
-            </h2>
+            <h2 className="text-center mt-2 mb-2">{qd.title} </h2>
             <center>
               <Badge
                 className="text-center mt-1 mb-2"
                 style={{ fontSize: "1em" }}
               >
                 {qd.difficulty ? qd.difficulty : "None"}
+              </Badge>
+              <Badge
+                className="text-center mt-1 mb-2 ms-4"
+                bg="warning"
+                style={{ fontSize: "1em", color: "#000" }}
+              >
+                {qd.paidOnly ? "Premium" : ""}
               </Badge>
             </center>
           </div>
