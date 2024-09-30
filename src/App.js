@@ -1,24 +1,24 @@
 import "bootstrap/dist/css/bootstrap.css";
-import { Container, Form, FormControl } from "react-bootstrap";
+import { Button, Container, Form, FormControl } from "react-bootstrap";
 import { useState } from "react";
 import { Questions } from "./questions";
 
 function App() {
   const [question, setQuestion] = useState(0);
   const [rurl, setRedirectionURL] = useState("#");
-  const [qd, setQuestionDisplay] = useState("No question.");
+  const [qd, setQuestionDisplay] = useState({ title: "No question." });
   const setQuestionNumber = (q) => {
     if (q == 0) {
-      setQuestionDisplay("No question.");
+      setQuestionDisplay({ title: "No question." });
       setRedirectionURL("#");
     } else if (q > Questions.questions.length) {
-      setQuestionDisplay("Question number invalid.");
+      setQuestionDisplay({ title: "Question number invalid." });
       setRedirectionURL("#");
     } else {
       setQuestionDisplay(
         Questions.questions.filter(
           (question) => question.frontendQuestionId == q
-        )[0].title
+        )[0]
       );
       setRedirectionURL(
         `https://leetcode.com/problems/${
@@ -28,6 +28,16 @@ function App() {
         }`
       );
     }
+  };
+  const randomQuestion = () => {
+    const randomQuestionNumber = parseInt(
+      Math.random() * (Questions.questions.length - 1) + 1
+    );
+    window.location.href = `https://leetcode.com/problems/${
+      Questions.questions.filter(
+        (question) => question.frontendQuestionId == randomQuestionNumber
+      )[0].titleSlug
+    }`;
   };
   return (
     <>
@@ -67,10 +77,22 @@ function App() {
               }
             }}
           ></FormControl>
-          <h2 className="text-center mt-2 mb-2">{qd}</h2>
+          <div className="w-75 ms-auto me-auto">
+            <h2 className="text-center mt-2 mb-2">{`${qd.title} ${
+              qd.paidOnly ? "(Premium)" : ""
+            }`}</h2>
+          </div>
           <p className="text-center">
             Press ENTER to navigate to the selected question
           </p>
+          <div className="text-center">
+            <Button
+              className="btn btn-lg btn-primary"
+              onClick={() => randomQuestion()}
+            >
+              🎉 Suprise me!
+            </Button>
+          </div>
         </div>
       </Container>
       <div className="fixed-bottom text-center mb-4">
