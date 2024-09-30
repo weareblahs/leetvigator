@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.css";
-import { Button, Container, Form, FormControl } from "react-bootstrap";
+import { Badge, Button, Container, Form, FormControl } from "react-bootstrap";
 import { useState } from "react";
 import { Questions } from "./questions";
 
@@ -78,12 +78,26 @@ function App() {
             }}
           ></FormControl>
           <div className="ms-auto me-auto">
-            <h2 className="text-center mt-2 mb-2">{`${qd.title} ${
-              qd.paidOnly ? "(Premium)" : ""
-            }`}</h2>
+            <h2 className="text-center mt-2 mb-2">
+              {`${qd.title} ${qd.paidOnly ? "(Premium)" : ""}`}{" "}
+            </h2>
+            <center>
+              <Badge
+                className="text-center mt-1 mb-2"
+                style={{ fontSize: "1em" }}
+              >
+                {qd.difficulty ? qd.difficulty : "None"}
+              </Badge>
+            </center>
           </div>
           <p className="text-center">
-            Press ENTER to navigate to the selected question
+            Press ENTER to navigate to the selected question, or{" "}
+            <a
+              style={{ textDecoration: "underline", cursor: "pointer" }}
+              onClick={() => (window.location.href = rurl)}
+            >
+              click here
+            </a>
           </p>
           <div className="text-center">
             <Button
