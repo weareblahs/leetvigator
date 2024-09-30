@@ -7,6 +7,7 @@ function App() {
   const [question, setQuestion] = useState(0);
   const [rurl, setRedirectionURL] = useState("#");
   const [qd, setQuestionDisplay] = useState({ title: "No question." });
+
   const setQuestionNumber = (q) => {
     if (q == 0) {
       setQuestionDisplay({ title: "No question." });
@@ -61,7 +62,7 @@ function App() {
           </h5>
 
           <FormControl
-            className=" text-center"
+            className="text-center"
             type="number"
             style={{ fontSize: "6em" }}
             placeholder="Which question?"
@@ -70,7 +71,6 @@ function App() {
             }}
             min="0"
             max={Questions.questions.length}
-            defaultValue={question}
             onKeyDown={(e) => {
               if (e.key === "Enter") {
                 window.location.href = rurl;
