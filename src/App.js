@@ -77,7 +77,7 @@ function App() {
               }
             }}
           ></FormControl>
-          <div className="w-75 ms-auto me-auto">
+          <div className="ms-auto me-auto">
             <h2 className="text-center mt-2 mb-2">{`${qd.title} ${
               qd.paidOnly ? "(Premium)" : ""
             }`}</h2>
